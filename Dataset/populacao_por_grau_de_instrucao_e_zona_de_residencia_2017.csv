@@ -1,0 +1,2586 @@
+COD_ZONA,GRAU_INSTRUCAO,QTD
+1,Não Alfabetizado/ Fundamental I Incompleto,729.8478164395904
+1,Fundamental I Completo/ Fundamental II Incompleto,414.1815928012922
+1,Fundamental II Completo/ Médio Incompleto,500.0382275440733
+1,Médio Completo/ Superior Incompleto,972.4923680208977
+1,Superior Completo,645.4409446816117
+2,Não Alfabetizado/ Fundamental I Incompleto,974.3703872711603
+2,Fundamental I Completo/ Fundamental II Incompleto,537.838370111659
+2,Fundamental II Completo/ Médio Incompleto,940.4339340069417
+2,Médio Completo/ Superior Incompleto,2681.1474884335726
+2,Superior Completo,561.2105825606063
+3,Não Alfabetizado/ Fundamental I Incompleto,3982.2917457061344
+3,Fundamental I Completo/ Fundamental II Incompleto,1601.4428333640326
+3,Fundamental II Completo/ Médio Incompleto,2729.1771708333304
+3,Médio Completo/ Superior Incompleto,6773.588911789468
+3,Superior Completo,2043.5003186973668
+4,Não Alfabetizado/ Fundamental I Incompleto,4316.43153443545
+4,Fundamental I Completo/ Fundamental II Incompleto,1912.4586506561868
+4,Fundamental II Completo/ Médio Incompleto,1665.162465317725
+4,Médio Completo/ Superior Incompleto,7945.870248589964
+4,Superior Completo,8249.075981054402
+5,Não Alfabetizado/ Fundamental I Incompleto,1909.0767051153841
+5,Fundamental I Completo/ Fundamental II Incompleto,1797.2705857692313
+5,Fundamental II Completo/ Médio Incompleto,1313.127641000001
+5,Médio Completo/ Superior Incompleto,3783.488078368133
+5,Superior Completo,6153.036869961538
+6,Não Alfabetizado/ Fundamental I Incompleto,3272.5896981247533
+6,Fundamental I Completo/ Fundamental II Incompleto,4023.7848122452106
+6,Fundamental II Completo/ Médio Incompleto,1931.8236979547034
+6,Médio Completo/ Superior Incompleto,8687.471339181397
+6,Superior Completo,4073.331043970316
+7,Não Alfabetizado/ Fundamental I Incompleto,4429.186094300856
+7,Fundamental I Completo/ Fundamental II Incompleto,923.4891175794876
+7,Fundamental II Completo/ Médio Incompleto,1827.553209422223
+7,Médio Completo/ Superior Incompleto,7055.858672601705
+7,Superior Completo,3973.9086565401713
+8,Não Alfabetizado/ Fundamental I Incompleto,2081.82153799314
+8,Fundamental I Completo/ Fundamental II Incompleto,2132.824772306174
+8,Fundamental II Completo/ Médio Incompleto,2092.8227916970313
+8,Médio Completo/ Superior Incompleto,4336.787630464066
+8,Superior Completo,1607.7410050659012
+9,Não Alfabetizado/ Fundamental I Incompleto,1192.5865807753385
+9,Fundamental I Completo/ Fundamental II Incompleto,1312.7953903750006
+9,Fundamental II Completo/ Médio Incompleto,1227.6689505869936
+9,Médio Completo/ Superior Incompleto,2899.4278137153747
+9,Superior Completo,823.5214065717911
+10,Não Alfabetizado/ Fundamental I Incompleto,686.8469246070027
+10,Fundamental I Completo/ Fundamental II Incompleto,234.59200928366533
+10,Fundamental II Completo/ Médio Incompleto,242.96047468953293
+10,Médio Completo/ Superior Incompleto,345.29591620327324
+10,Superior Completo,109.30489226171322
+11,Não Alfabetizado/ Fundamental I Incompleto,613.4965301417399
+11,Fundamental I Completo/ Fundamental II Incompleto,288.10712225219936
+11,Fundamental II Completo/ Médio Incompleto,362.9040927370478
+11,Médio Completo/ Superior Incompleto,1050.1462125786902
+11,Superior Completo,398.34603722776154
+12,Não Alfabetizado/ Fundamental I Incompleto,2995.9898963097694
+12,Fundamental I Completo/ Fundamental II Incompleto,3031.846587308882
+12,Fundamental II Completo/ Médio Incompleto,2291.2540645955632
+12,Médio Completo/ Superior Incompleto,4231.35678942937
+12,Superior Completo,1830.5517570163831
+13,Não Alfabetizado/ Fundamental I Incompleto,302.0291149298704
+13,Fundamental I Completo/ Fundamental II Incompleto,281.73127524415605
+13,Fundamental II Completo/ Médio Incompleto,235.66442687792227
+13,Médio Completo/ Superior Incompleto,518.8010114992211
+13,Superior Completo,96.77421587740267
+14,Não Alfabetizado/ Fundamental I Incompleto,627.3457050328469
+14,Fundamental I Completo/ Fundamental II Incompleto,417.8700948662565
+14,Fundamental II Completo/ Médio Incompleto,558.0154714737289
+14,Médio Completo/ Superior Incompleto,1407.9704040060851
+14,Superior Completo,325.7993111067199
+15,Não Alfabetizado/ Fundamental I Incompleto,2390.2157058790945
+15,Fundamental I Completo/ Fundamental II Incompleto,940.5840726400825
+15,Fundamental II Completo/ Médio Incompleto,1046.3329360252308
+15,Médio Completo/ Superior Incompleto,2893.021816223371
+15,Superior Completo,1156.8475753224734
+16,Não Alfabetizado/ Fundamental I Incompleto,1793.1593044009135
+16,Fundamental I Completo/ Fundamental II Incompleto,1341.8851241405755
+16,Fundamental II Completo/ Médio Incompleto,1362.9342849991158
+16,Médio Completo/ Superior Incompleto,6008.345100213217
+16,Superior Completo,1610.6742338244278
+17,Não Alfabetizado/ Fundamental I Incompleto,1610.6068505947485
+17,Fundamental I Completo/ Fundamental II Incompleto,1002.925810882761
+17,Fundamental II Completo/ Médio Incompleto,1146.158762821677
+17,Médio Completo/ Superior Incompleto,2436.9474711707794
+17,Superior Completo,783.3614250988514
+18,Não Alfabetizado/ Fundamental I Incompleto,3252.078686704196
+18,Fundamental I Completo/ Fundamental II Incompleto,2417.777079065289
+18,Fundamental II Completo/ Médio Incompleto,1874.7204043797467
+18,Médio Completo/ Superior Incompleto,7546.749837898062
+18,Superior Completo,4148.678007658004
+19,Não Alfabetizado/ Fundamental I Incompleto,3076.1806407804283
+19,Fundamental I Completo/ Fundamental II Incompleto,1196.795430151159
+19,Fundamental II Completo/ Médio Incompleto,1635.8721616871715
+19,Médio Completo/ Superior Incompleto,8261.430960706626
+19,Superior Completo,6561.720943584422
+20,Não Alfabetizado/ Fundamental I Incompleto,3695.317141714994
+20,Fundamental I Completo/ Fundamental II Incompleto,2688.826773130089
+20,Fundamental II Completo/ Médio Incompleto,1068.2551367575718
+20,Médio Completo/ Superior Incompleto,7692.449643849618
+20,Superior Completo,7918.156107173596
+21,Não Alfabetizado/ Fundamental I Incompleto,1623.0722906286715
+21,Fundamental I Completo/ Fundamental II Incompleto,1523.726413598337
+21,Fundamental II Completo/ Médio Incompleto,1587.9414876319322
+21,Médio Completo/ Superior Incompleto,4991.0851077986
+21,Superior Completo,8965.173220344093
+22,Não Alfabetizado/ Fundamental I Incompleto,1117.5280104153846
+22,Fundamental I Completo/ Fundamental II Incompleto,1496.3818379538461
+22,Fundamental II Completo/ Médio Incompleto,1250.8467238277474
+22,Médio Completo/ Superior Incompleto,3462.5284147456073
+22,Superior Completo,6295.716443602759
+23,Não Alfabetizado/ Fundamental I Incompleto,740.3238854514763
+23,Fundamental I Completo/ Fundamental II Incompleto,73.33103999999996
+23,Fundamental II Completo/ Médio Incompleto,506.8149090801683
+23,Médio Completo/ Superior Incompleto,1570.9891196962012
+23,Superior Completo,2440.5407811814334
+24,Não Alfabetizado/ Fundamental I Incompleto,1620.6985580978726
+24,Fundamental I Completo/ Fundamental II Incompleto,894.3383053819151
+24,Fundamental II Completo/ Médio Incompleto,920.5993750021274
+24,Médio Completo/ Superior Incompleto,4306.227268595746
+24,Superior Completo,3681.14039836064
+25,Não Alfabetizado/ Fundamental I Incompleto,2576.890094569074
+25,Fundamental I Completo/ Fundamental II Incompleto,2427.203342873305
+25,Fundamental II Completo/ Médio Incompleto,2512.0537729661055
+25,Médio Completo/ Superior Incompleto,5891.270183406497
+25,Superior Completo,4993.584598928705
+26,Não Alfabetizado/ Fundamental I Incompleto,2885.1227229249735
+26,Fundamental I Completo/ Fundamental II Incompleto,1186.559242560615
+26,Fundamental II Completo/ Médio Incompleto,2119.2242548719387
+26,Médio Completo/ Superior Incompleto,3615.127080394087
+26,Superior Completo,4474.965309433868
+27,Não Alfabetizado/ Fundamental I Incompleto,2390.127352053676
+27,Fundamental I Completo/ Fundamental II Incompleto,633.316842983982
+27,Fundamental II Completo/ Médio Incompleto,733.1489295662328
+27,Médio Completo/ Superior Incompleto,3812.3336244627667
+27,Superior Completo,9967.075546897362
+28,Não Alfabetizado/ Fundamental I Incompleto,1286.456280004412
+28,Fundamental I Completo/ Fundamental II Incompleto,440.70642556176506
+28,Fundamental II Completo/ Médio Incompleto,380.8108527617649
+28,Médio Completo/ Superior Incompleto,1216.3278867235301
+28,Superior Completo,5743.700663657347
+29,Não Alfabetizado/ Fundamental I Incompleto,1237.120565967381
+29,Fundamental I Completo/ Fundamental II Incompleto,928.6034105610436
+29,Fundamental II Completo/ Médio Incompleto,644.6404083648645
+29,Médio Completo/ Superior Incompleto,2855.4258264683126
+29,Superior Completo,7585.2083899040135
+30,Não Alfabetizado/ Fundamental I Incompleto,1590.4417294539417
+30,Fundamental I Completo/ Fundamental II Incompleto,601.0907137697347
+30,Fundamental II Completo/ Médio Incompleto,477.3819471513141
+30,Médio Completo/ Superior Incompleto,3307.3106427138055
+30,Superior Completo,13478.777754828934
+31,Não Alfabetizado/ Fundamental I Incompleto,1794.3166403988857
+31,Fundamental I Completo/ Fundamental II Incompleto,658.7890431521333
+31,Fundamental II Completo/ Médio Incompleto,585.1781185327762
+31,Médio Completo/ Superior Incompleto,4568.481282555965
+31,Superior Completo,12427.22977733115
+32,Não Alfabetizado/ Fundamental I Incompleto,682.4245775693337
+32,Fundamental I Completo/ Fundamental II Incompleto,441.5047435227449
+32,Fundamental II Completo/ Médio Incompleto,215.15906975348545
+32,Médio Completo/ Superior Incompleto,2098.4604847318465
+32,Superior Completo,5118.4505458507165
+33,Não Alfabetizado/ Fundamental I Incompleto,114.0224839814811
+33,Fundamental I Completo/ Fundamental II Incompleto,166.0643449814809
+33,Fundamental II Completo/ Médio Incompleto,78.38546788888861
+33,Médio Completo/ Superior Incompleto,358.28045055555435
+33,Superior Completo,1122.2468098703664
+34,Não Alfabetizado/ Fundamental I Incompleto,635.6302421167338
+34,Fundamental I Completo/ Fundamental II Incompleto,253.98673718288023
+34,Fundamental II Completo/ Médio Incompleto,317.73953165758866
+34,Médio Completo/ Superior Incompleto,1546.9657526848305
+34,Superior Completo,4801.675648902732
+35,Não Alfabetizado/ Fundamental I Incompleto,7657.917889529008
+35,Fundamental I Completo/ Fundamental II Incompleto,1933.1248279364659
+35,Fundamental II Completo/ Médio Incompleto,2743.9224526821417
+35,Médio Completo/ Superior Incompleto,14391.364111917674
+35,Superior Completo,13305.667053228259
+36,Não Alfabetizado/ Fundamental I Incompleto,4755.531238866148
+36,Fundamental I Completo/ Fundamental II Incompleto,3327.662316290948
+36,Fundamental II Completo/ Médio Incompleto,3520.0252665515723
+36,Médio Completo/ Superior Incompleto,8962.383368467974
+36,Superior Completo,22528.411769603146
+37,Não Alfabetizado/ Fundamental I Incompleto,862.6603911474562
+37,Fundamental I Completo/ Fundamental II Incompleto,268.8291069439934
+37,Fundamental II Completo/ Médio Incompleto,335.63618950189385
+37,Médio Completo/ Superior Incompleto,1159.981749274621
+37,Superior Completo,1979.8924780584407
+38,Não Alfabetizado/ Fundamental I Incompleto,725.078359071428
+38,Fundamental I Completo/ Fundamental II Incompleto,305.123610642857
+38,Fundamental II Completo/ Médio Incompleto,591.9987824142853
+38,Médio Completo/ Superior Incompleto,1243.2784012714278
+38,Superior Completo,920.5207925142852
+39,Não Alfabetizado/ Fundamental I Incompleto,1826.8095426977832
+39,Fundamental I Completo/ Fundamental II Incompleto,901.1152538096251
+39,Fundamental II Completo/ Médio Incompleto,1163.0612658337657
+39,Médio Completo/ Superior Incompleto,2648.3103201769272
+39,Superior Completo,2817.7009430420144
+40,Não Alfabetizado/ Fundamental I Incompleto,1729.3795559923137
+40,Fundamental I Completo/ Fundamental II Incompleto,1145.7207460244572
+40,Fundamental II Completo/ Médio Incompleto,483.3441217694801
+40,Médio Completo/ Superior Incompleto,2639.5021580312746
+40,Superior Completo,1880.0526199393871
+41,Não Alfabetizado/ Fundamental I Incompleto,5244.48417082047
+41,Fundamental I Completo/ Fundamental II Incompleto,1989.1874944542878
+41,Fundamental II Completo/ Médio Incompleto,2417.650824016866
+41,Médio Completo/ Superior Incompleto,6452.913243753188
+41,Superior Completo,5946.75984165441
+42,Não Alfabetizado/ Fundamental I Incompleto,747.5087616692811
+42,Fundamental I Completo/ Fundamental II Incompleto,1093.1744784888883
+42,Fundamental II Completo/ Médio Incompleto,1248.8821174013065
+42,Médio Completo/ Superior Incompleto,1761.7164499163384
+42,Superior Completo,476.7191388705879
+43,Não Alfabetizado/ Fundamental I Incompleto,3623.436817915482
+43,Fundamental I Completo/ Fundamental II Incompleto,2595.194559102128
+43,Fundamental II Completo/ Médio Incompleto,2722.656593805415
+43,Médio Completo/ Superior Incompleto,9549.5696979712
+43,Superior Completo,9467.14630709201
+44,Não Alfabetizado/ Fundamental I Incompleto,2228.6342015999967
+44,Fundamental I Completo/ Fundamental II Incompleto,2086.6244842571396
+44,Fundamental II Completo/ Médio Incompleto,1612.1680827428552
+44,Médio Completo/ Superior Incompleto,7844.227098042848
+44,Superior Completo,4578.344685414278
+45,Não Alfabetizado/ Fundamental I Incompleto,4144.065791896979
+45,Fundamental I Completo/ Fundamental II Incompleto,2481.2285832221
+45,Fundamental II Completo/ Médio Incompleto,2986.801064789616
+45,Médio Completo/ Superior Incompleto,15908.224682988306
+45,Superior Completo,7750.678959133
+46,Não Alfabetizado/ Fundamental I Incompleto,5076.093716785554
+46,Fundamental I Completo/ Fundamental II Incompleto,6320.565737885332
+46,Fundamental II Completo/ Médio Incompleto,4536.271939103126
+46,Médio Completo/ Superior Incompleto,14199.405544967232
+46,Superior Completo,6137.6589781719995
+47,Não Alfabetizado/ Fundamental I Incompleto,3613.040189433619
+47,Fundamental I Completo/ Fundamental II Incompleto,4514.804431114836
+47,Fundamental II Completo/ Médio Incompleto,3097.7665739472627
+47,Médio Completo/ Superior Incompleto,6892.987903492212
+47,Superior Completo,4884.406353663355
+48,Não Alfabetizado/ Fundamental I Incompleto,4724.388655606347
+48,Fundamental I Completo/ Fundamental II Incompleto,2834.8230225648513
+48,Fundamental II Completo/ Médio Incompleto,2385.1856024149324
+48,Médio Completo/ Superior Incompleto,8261.145673258141
+48,Superior Completo,5718.459665952024
+49,Não Alfabetizado/ Fundamental I Incompleto,1290.8099356508706
+49,Fundamental I Completo/ Fundamental II Incompleto,331.33205058064505
+49,Fundamental II Completo/ Médio Incompleto,847.4265193715978
+49,Médio Completo/ Superior Incompleto,5349.578842766036
+49,Superior Completo,5566.850467625506
+50,Não Alfabetizado/ Fundamental I Incompleto,690.5069222702848
+50,Fundamental I Completo/ Fundamental II Incompleto,633.7192103976063
+50,Fundamental II Completo/ Médio Incompleto,337.96426797654016
+50,Médio Completo/ Superior Incompleto,2013.5144105493687
+50,Superior Completo,5220.296121745619
+51,Não Alfabetizado/ Fundamental I Incompleto,1592.5045830448898
+51,Fundamental I Completo/ Fundamental II Incompleto,969.3361463613084
+51,Fundamental II Completo/ Médio Incompleto,1177.2544300806749
+51,Médio Completo/ Superior Incompleto,3544.834628118622
+51,Superior Completo,8801.066198580558
+52,Não Alfabetizado/ Fundamental I Incompleto,1432.5517136478632
+52,Fundamental I Completo/ Fundamental II Incompleto,0
+52,Fundamental II Completo/ Médio Incompleto,662.2428359367522
+52,Médio Completo/ Superior Incompleto,912.9646433649572
+52,Superior Completo,7137.243374397429
+53,Não Alfabetizado/ Fundamental I Incompleto,1245.3996807146737
+53,Fundamental I Completo/ Fundamental II Incompleto,805.001787367016
+53,Fundamental II Completo/ Médio Incompleto,1122.227856659312
+53,Médio Completo/ Superior Incompleto,3037.0033328672107
+53,Superior Completo,7083.36707219821
+54,Não Alfabetizado/ Fundamental I Incompleto,958.0343434126972
+54,Fundamental I Completo/ Fundamental II Incompleto,444.43996327109346
+54,Fundamental II Completo/ Médio Incompleto,517.7748676019204
+54,Médio Completo/ Superior Incompleto,1679.009772209688
+54,Superior Completo,5115.7410312748425
+55,Não Alfabetizado/ Fundamental I Incompleto,1852.2889479039509
+55,Fundamental I Completo/ Fundamental II Incompleto,338.1398344034724
+55,Fundamental II Completo/ Médio Incompleto,795.5565004936585
+55,Médio Completo/ Superior Incompleto,3037.8557888775176
+55,Superior Completo,9494.157753110956
+56,Não Alfabetizado/ Fundamental I Incompleto,1858.3523957264915
+56,Fundamental I Completo/ Fundamental II Incompleto,1089.3487147905964
+56,Fundamental II Completo/ Médio Incompleto,1151.2656829967937
+56,Médio Completo/ Superior Incompleto,4627.343463194439
+56,Superior Completo,12890.686970690134
+57,Não Alfabetizado/ Fundamental I Incompleto,2087.163755135832
+57,Fundamental I Completo/ Fundamental II Incompleto,1034.224500542633
+57,Fundamental II Completo/ Médio Incompleto,1028.9993922521357
+57,Médio Completo/ Superior Incompleto,5277.192309783781
+57,Superior Completo,14906.423062412898
+58,Não Alfabetizado/ Fundamental I Incompleto,4039.5853503568565
+58,Fundamental I Completo/ Fundamental II Incompleto,2048.43027163407
+58,Fundamental II Completo/ Médio Incompleto,1846.2030765384432
+58,Médio Completo/ Superior Incompleto,9047.733532946222
+58,Superior Completo,13797.050971932842
+59,Não Alfabetizado/ Fundamental I Incompleto,8493.575539940059
+59,Fundamental I Completo/ Fundamental II Incompleto,4756.692137668635
+59,Fundamental II Completo/ Médio Incompleto,5553.570981695299
+59,Médio Completo/ Superior Incompleto,9401.198984858116
+59,Superior Completo,24539.96932610488
+60,Não Alfabetizado/ Fundamental I Incompleto,2489.796417033569
+60,Fundamental I Completo/ Fundamental II Incompleto,1230.959689717785
+60,Fundamental II Completo/ Médio Incompleto,960.4229237829529
+60,Médio Completo/ Superior Incompleto,5109.995282982091
+60,Superior Completo,12267.829089329987
+61,Não Alfabetizado/ Fundamental I Incompleto,3172.533064610703
+61,Fundamental I Completo/ Fundamental II Incompleto,2149.905693540281
+61,Fundamental II Completo/ Médio Incompleto,2390.7712416507034
+61,Médio Completo/ Superior Incompleto,5874.383951936901
+61,Superior Completo,14512.399335417478
+62,Não Alfabetizado/ Fundamental I Incompleto,560.3974902500016
+62,Fundamental I Completo/ Fundamental II Incompleto,277.3210533085371
+62,Fundamental II Completo/ Médio Incompleto,107.79396280487839
+62,Médio Completo/ Superior Incompleto,1412.6156806073204
+62,Superior Completo,2206.8702495939074
+63,Não Alfabetizado/ Fundamental I Incompleto,295.72972189029457
+63,Fundamental I Completo/ Fundamental II Incompleto,80.8548173375525
+63,Fundamental II Completo/ Médio Incompleto,91.89896710548497
+63,Médio Completo/ Superior Incompleto,390.644810291138
+63,Superior Completo,1239.8710634177182
+64,Não Alfabetizado/ Fundamental I Incompleto,3837.1452263212946
+64,Fundamental I Completo/ Fundamental II Incompleto,1429.1394453921378
+64,Fundamental II Completo/ Médio Incompleto,1569.0660003658843
+64,Médio Completo/ Superior Incompleto,8468.435643500901
+64,Superior Completo,18082.20101222684
+65,Não Alfabetizado/ Fundamental I Incompleto,3034.915930602417
+65,Fundamental I Completo/ Fundamental II Incompleto,589.4525163052224
+65,Fundamental II Completo/ Médio Incompleto,874.3164081124518
+65,Médio Completo/ Superior Incompleto,3783.6220341365556
+65,Superior Completo,18577.697425702896
+66,Não Alfabetizado/ Fundamental I Incompleto,1239.725307803568
+66,Fundamental I Completo/ Fundamental II Incompleto,342.6718592795016
+66,Fundamental II Completo/ Médio Incompleto,282.9699449347819
+66,Médio Completo/ Superior Incompleto,2996.4800834021644
+66,Superior Completo,6061.153395952619
+67,Não Alfabetizado/ Fundamental I Incompleto,908.5317843506493
+67,Fundamental I Completo/ Fundamental II Incompleto,599.9900309415583
+67,Fundamental II Completo/ Médio Incompleto,479.00828045454534
+67,Médio Completo/ Superior Incompleto,2002.3640358261187
+67,Superior Completo,6584.103818468969
+68,Não Alfabetizado/ Fundamental I Incompleto,3018.9583700414787
+68,Fundamental I Completo/ Fundamental II Incompleto,926.7602332406592
+68,Fundamental II Completo/ Médio Incompleto,906.0684246224024
+68,Médio Completo/ Superior Incompleto,4903.537961567058
+68,Superior Completo,17704.681326193604
+69,Não Alfabetizado/ Fundamental I Incompleto,859.2432998449613
+69,Fundamental I Completo/ Fundamental II Incompleto,296.6181242790698
+69,Fundamental II Completo/ Médio Incompleto,606.8902541430585
+69,Médio Completo/ Superior Incompleto,1743.9835833798443
+69,Superior Completo,6514.266799408036
+70,Não Alfabetizado/ Fundamental I Incompleto,1273.3352014679479
+70,Fundamental I Completo/ Fundamental II Incompleto,489.15159880998146
+70,Fundamental II Completo/ Médio Incompleto,668.0900695879118
+70,Médio Completo/ Superior Incompleto,4407.146885719774
+70,Superior Completo,4865.277102562721
+71,Não Alfabetizado/ Fundamental I Incompleto,3194.046953210525
+71,Fundamental I Completo/ Fundamental II Incompleto,1063.9839619736833
+71,Fundamental II Completo/ Médio Incompleto,1197.7782960394727
+71,Médio Completo/ Superior Incompleto,8694.150852868415
+71,Superior Completo,14293.035883657863
+72,Não Alfabetizado/ Fundamental I Incompleto,903.3187863676195
+72,Fundamental I Completo/ Fundamental II Incompleto,578.9114345917462
+72,Fundamental II Completo/ Médio Incompleto,606.0401503104765
+72,Médio Completo/ Superior Incompleto,2871.590706659368
+72,Superior Completo,5132.136517356507
+73,Não Alfabetizado/ Fundamental I Incompleto,1016.3782589947757
+73,Fundamental I Completo/ Fundamental II Incompleto,331.36294079398783
+73,Fundamental II Completo/ Médio Incompleto,402.06683821831047
+73,Médio Completo/ Superior Incompleto,2285.5117614011756
+73,Superior Completo,4722.679086386628
+74,Não Alfabetizado/ Fundamental I Incompleto,1198.45434626752
+74,Fundamental I Completo/ Fundamental II Incompleto,358.8526264012751
+74,Fundamental II Completo/ Médio Incompleto,226.74837491082874
+74,Médio Completo/ Superior Incompleto,2184.612045917202
+74,Superior Completo,8796.332669735983
+75,Não Alfabetizado/ Fundamental I Incompleto,1689.4301104558301
+75,Fundamental I Completo/ Fundamental II Incompleto,553.7270788085088
+75,Fundamental II Completo/ Médio Incompleto,443.65431171631064
+75,Médio Completo/ Superior Incompleto,3586.969583382975
+75,Superior Completo,8003.220545566691
+76,Não Alfabetizado/ Fundamental I Incompleto,1124.6795773537774
+76,Fundamental I Completo/ Fundamental II Incompleto,536.134409365282
+76,Fundamental II Completo/ Médio Incompleto,818.4277770794666
+76,Médio Completo/ Superior Incompleto,1803.577534086087
+76,Superior Completo,6625.177991030648
+77,Não Alfabetizado/ Fundamental I Incompleto,2651.8244855777866
+77,Fundamental I Completo/ Fundamental II Incompleto,812.5899104210524
+77,Fundamental II Completo/ Médio Incompleto,1087.6493506376514
+77,Médio Completo/ Superior Incompleto,3769.9962570586968
+77,Superior Completo,12683.937846883737
+78,Não Alfabetizado/ Fundamental I Incompleto,1981.2872048870306
+78,Fundamental I Completo/ Fundamental II Incompleto,566.3608651380757
+78,Fundamental II Completo/ Médio Incompleto,465.4583560167367
+78,Médio Completo/ Superior Incompleto,3632.6886144830755
+78,Superior Completo,14130.20198193457
+79,Não Alfabetizado/ Fundamental I Incompleto,769.9034098884758
+79,Fundamental I Completo/ Fundamental II Incompleto,581.4807606710038
+79,Fundamental II Completo/ Médio Incompleto,645.2510085650559
+79,Médio Completo/ Superior Incompleto,1834.2986425412657
+79,Superior Completo,6859.065524048679
+80,Não Alfabetizado/ Fundamental I Incompleto,1515.1666445968335
+80,Fundamental I Completo/ Fundamental II Incompleto,1134.1306356341768
+80,Fundamental II Completo/ Médio Incompleto,2120.6142675480596
+80,Médio Completo/ Superior Incompleto,3838.6551573843362
+80,Superior Completo,11082.437163827488
+81,Não Alfabetizado/ Fundamental I Incompleto,1128.1407356343286
+81,Fundamental I Completo/ Fundamental II Incompleto,509.2459050373136
+81,Fundamental II Completo/ Médio Incompleto,356.42805205223897
+81,Médio Completo/ Superior Incompleto,1870.4313600746273
+81,Superior Completo,8785.75805373132
+82,Não Alfabetizado/ Fundamental I Incompleto,1205.867451277777
+82,Fundamental I Completo/ Fundamental II Incompleto,997.1843194431814
+82,Fundamental II Completo/ Médio Incompleto,1920.2867398181806
+82,Médio Completo/ Superior Incompleto,2394.0736223421727
+82,Superior Completo,4744.586357419199
+83,Não Alfabetizado/ Fundamental I Incompleto,2452.657207429593
+83,Fundamental I Completo/ Fundamental II Incompleto,1191.7140328055002
+83,Fundamental II Completo/ Médio Incompleto,872.2127208008225
+83,Médio Completo/ Superior Incompleto,4090.1648912143355
+83,Superior Completo,13668.253796315266
+84,Não Alfabetizado/ Fundamental I Incompleto,1832.6396961447044
+84,Fundamental I Completo/ Fundamental II Incompleto,761.3365343086858
+84,Fundamental II Completo/ Médio Incompleto,531.8239043697779
+84,Médio Completo/ Superior Incompleto,3087.7648754580655
+84,Superior Completo,10343.433739408989
+85,Não Alfabetizado/ Fundamental I Incompleto,507.99126279513933
+85,Fundamental I Completo/ Fundamental II Incompleto,214.63801702777795
+85,Fundamental II Completo/ Médio Incompleto,225.91399915972238
+85,Médio Completo/ Superior Incompleto,886.5983557569458
+85,Superior Completo,3197.858837104163
+86,Não Alfabetizado/ Fundamental I Incompleto,445.97856360736273
+86,Fundamental I Completo/ Fundamental II Incompleto,168.20226850306767
+86,Fundamental II Completo/ Médio Incompleto,203.5682451165646
+86,Médio Completo/ Superior Incompleto,884.3965098036823
+86,Superior Completo,2026.8548270429542
+87,Não Alfabetizado/ Fundamental I Incompleto,1892.1024593401912
+87,Fundamental I Completo/ Fundamental II Incompleto,618.1710025306248
+87,Fundamental II Completo/ Médio Incompleto,997.1573646060222
+87,Médio Completo/ Superior Incompleto,2888.2990891792297
+87,Superior Completo,9958.267545117462
+88,Não Alfabetizado/ Fundamental I Incompleto,4651.255129567622
+88,Fundamental I Completo/ Fundamental II Incompleto,1487.415501977868
+88,Fundamental II Completo/ Médio Incompleto,2963.6927287050944
+88,Médio Completo/ Superior Incompleto,7745.86759142287
+88,Superior Completo,28507.7744921156
+89,Não Alfabetizado/ Fundamental I Incompleto,1958.935041583334
+89,Fundamental I Completo/ Fundamental II Incompleto,1085.9288661428573
+89,Fundamental II Completo/ Médio Incompleto,548.7813622142855
+89,Médio Completo/ Superior Incompleto,3594.0869477738097
+89,Superior Completo,6805.266393023812
+90,Não Alfabetizado/ Fundamental I Incompleto,1450.9892248586218
+90,Fundamental I Completo/ Fundamental II Incompleto,564.7513986317596
+90,Fundamental II Completo/ Médio Incompleto,806.6519840662459
+90,Médio Completo/ Superior Incompleto,3079.3278055383494
+90,Superior Completo,7330.28160811724
+91,Não Alfabetizado/ Fundamental I Incompleto,556.3978054289336
+91,Fundamental I Completo/ Fundamental II Incompleto,534.9959018590658
+91,Fundamental II Completo/ Médio Incompleto,356.4395179778657
+91,Médio Completo/ Superior Incompleto,603.854732188491
+91,Superior Completo,298.3120487072067
+92,Não Alfabetizado/ Fundamental I Incompleto,41.122372846153965
+92,Fundamental I Completo/ Fundamental II Incompleto,32.239626230769325
+92,Fundamental II Completo/ Médio Incompleto,15.486056653846198
+92,Médio Completo/ Superior Incompleto,106.96389265384647
+92,Superior Completo,128.1881170384619
+93,Não Alfabetizado/ Fundamental I Incompleto,986.1864903637265
+93,Fundamental I Completo/ Fundamental II Incompleto,846.9041917858915
+93,Fundamental II Completo/ Médio Incompleto,788.4516169951513
+93,Médio Completo/ Superior Incompleto,2647.3460538577
+93,Superior Completo,3763.1096496078794
+94,Não Alfabetizado/ Fundamental I Incompleto,442.0382112120226
+94,Fundamental I Completo/ Fundamental II Incompleto,358.48952706197565
+94,Fundamental II Completo/ Médio Incompleto,148.1992642162161
+94,Médio Completo/ Superior Incompleto,864.5462526276795
+94,Superior Completo,2179.727795895155
+95,Não Alfabetizado/ Fundamental I Incompleto,1860.5142699500043
+95,Fundamental I Completo/ Fundamental II Incompleto,925.5138060000022
+95,Fundamental II Completo/ Médio Incompleto,1622.690719722224
+95,Médio Completo/ Superior Incompleto,4301.062254405567
+95,Superior Completo,8947.2163339333365
+96,Não Alfabetizado/ Fundamental I Incompleto,608.6200828444453
+96,Fundamental I Completo/ Fundamental II Incompleto,480.78148871111193
+96,Fundamental II Completo/ Médio Incompleto,443.5421011555563
+96,Médio Completo/ Superior Incompleto,926.9675266666679
+96,Superior Completo,4751.08623572778
+97,Não Alfabetizado/ Fundamental I Incompleto,1341.9362153463628
+97,Fundamental I Completo/ Fundamental II Incompleto,1493.3962762391043
+97,Fundamental II Completo/ Médio Incompleto,1300.6910445882643
+97,Médio Completo/ Superior Incompleto,3148.616690181369
+97,Superior Completo,9325.360921869285
+98,Não Alfabetizado/ Fundamental I Incompleto,427.5235068740734
+98,Fundamental I Completo/ Fundamental II Incompleto,342.60722431851804
+98,Fundamental II Completo/ Médio Incompleto,354.05515057036996
+98,Médio Completo/ Superior Incompleto,623.6260905185179
+98,Superior Completo,704.1876902370371
+99,Não Alfabetizado/ Fundamental I Incompleto,1327.1414873347542
+99,Fundamental I Completo/ Fundamental II Incompleto,768.2691742004257
+99,Fundamental II Completo/ Médio Incompleto,564.3181963063253
+99,Médio Completo/ Superior Incompleto,2435.264982201846
+99,Superior Completo,3025.0051554896913
+100,Não Alfabetizado/ Fundamental I Incompleto,2819.535746506182
+100,Fundamental I Completo/ Fundamental II Incompleto,503.3014101255694
+100,Fundamental II Completo/ Médio Incompleto,1685.1350268965514
+100,Médio Completo/ Superior Incompleto,5682.231802690955
+100,Superior Completo,8663.799492658423
+101,Não Alfabetizado/ Fundamental I Incompleto,2668.5650411249985
+101,Fundamental I Completo/ Fundamental II Incompleto,1991.6851019374997
+101,Fundamental II Completo/ Médio Incompleto,758.8103617499997
+101,Médio Completo/ Superior Incompleto,5594.95345784821
+101,Superior Completo,10843.985063901775
+102,Não Alfabetizado/ Fundamental I Incompleto,1278.5241311648392
+102,Fundamental I Completo/ Fundamental II Incompleto,970.97326989315
+102,Fundamental II Completo/ Médio Incompleto,1333.392276422373
+102,Médio Completo/ Superior Incompleto,2878.4739348149524
+102,Superior Completo,6181.639303983104
+103,Não Alfabetizado/ Fundamental I Incompleto,305.2878094203613
+103,Fundamental I Completo/ Fundamental II Incompleto,113.00933972413796
+103,Fundamental II Completo/ Médio Incompleto,191.40503162725784
+103,Médio Completo/ Superior Incompleto,818.1888884466343
+103,Superior Completo,1194.10867700821
+104,Não Alfabetizado/ Fundamental I Incompleto,1098.9852686943993
+104,Fundamental I Completo/ Fundamental II Incompleto,94.78754972164893
+104,Fundamental II Completo/ Médio Incompleto,418.5115009922665
+104,Médio Completo/ Superior Incompleto,1522.2310363648705
+104,Superior Completo,3929.485642071778
+105,Não Alfabetizado/ Fundamental I Incompleto,1832.2635880704643
+105,Fundamental I Completo/ Fundamental II Incompleto,655.9580166006995
+105,Fundamental II Completo/ Médio Incompleto,721.8695067831084
+105,Médio Completo/ Superior Incompleto,3135.7435628450753
+105,Superior Completo,8093.167894536736
+106,Não Alfabetizado/ Fundamental I Incompleto,1159.1192452525943
+106,Fundamental I Completo/ Fundamental II Incompleto,581.4791336040976
+106,Fundamental II Completo/ Médio Incompleto,1004.3066286980263
+106,Médio Completo/ Superior Incompleto,1100.5260445955405
+106,Superior Completo,75.56957427201156
+107,Não Alfabetizado/ Fundamental I Incompleto,1855.7900839524527
+107,Fundamental I Completo/ Fundamental II Incompleto,630.4554568671864
+107,Fundamental II Completo/ Médio Incompleto,521.9341222878897
+107,Médio Completo/ Superior Incompleto,4340.175887693296
+107,Superior Completo,7864.640231563662
+108,Não Alfabetizado/ Fundamental I Incompleto,927.450594492307
+108,Fundamental I Completo/ Fundamental II Incompleto,408.0567954951047
+108,Fundamental II Completo/ Médio Incompleto,540.8661954146851
+108,Médio Completo/ Superior Incompleto,1015.6082048601393
+108,Superior Completo,559.0177486377622
+109,Não Alfabetizado/ Fundamental I Incompleto,22665.0890876841
+109,Fundamental I Completo/ Fundamental II Incompleto,19662.582862748823
+109,Fundamental II Completo/ Médio Incompleto,22463.087413109344
+109,Médio Completo/ Superior Incompleto,35587.26049795181
+109,Superior Completo,19740.00702338631
+110,Não Alfabetizado/ Fundamental I Incompleto,6753.144423725351
+110,Fundamental I Completo/ Fundamental II Incompleto,6848.730187643022
+110,Fundamental II Completo/ Médio Incompleto,6110.824625144051
+110,Médio Completo/ Superior Incompleto,18684.83398278253
+110,Superior Completo,12053.46875576617
+111,Não Alfabetizado/ Fundamental I Incompleto,9812.550497360848
+111,Fundamental I Completo/ Fundamental II Incompleto,5884.9258850291835
+111,Fundamental II Completo/ Médio Incompleto,4512.054064669167
+111,Médio Completo/ Superior Incompleto,20685.62573636001
+111,Superior Completo,10027.842663809457
+112,Não Alfabetizado/ Fundamental I Incompleto,8971.286357525982
+112,Fundamental I Completo/ Fundamental II Incompleto,8430.350735934499
+112,Fundamental II Completo/ Médio Incompleto,5672.509909980192
+112,Médio Completo/ Superior Incompleto,10543.282050480386
+112,Superior Completo,1534.5687594224664
+113,Não Alfabetizado/ Fundamental I Incompleto,4903.211241980211
+113,Fundamental I Completo/ Fundamental II Incompleto,2006.784507359448
+113,Fundamental II Completo/ Médio Incompleto,2416.9525928811854
+113,Médio Completo/ Superior Incompleto,9240.863237660142
+113,Superior Completo,5586.191547247756
+114,Não Alfabetizado/ Fundamental I Incompleto,0
+114,Fundamental I Completo/ Fundamental II Incompleto,0
+114,Fundamental II Completo/ Médio Incompleto,0
+114,Médio Completo/ Superior Incompleto,0
+114,Superior Completo,0
+115,Não Alfabetizado/ Fundamental I Incompleto,9544.778720764316
+115,Fundamental I Completo/ Fundamental II Incompleto,12461.544083392993
+115,Fundamental II Completo/ Médio Incompleto,7879.63359668784
+115,Médio Completo/ Superior Incompleto,16794.802053519506
+115,Superior Completo,2413.253577971623
+116,Não Alfabetizado/ Fundamental I Incompleto,32170.342001561232
+116,Fundamental I Completo/ Fundamental II Incompleto,25986.458667216557
+116,Fundamental II Completo/ Médio Incompleto,39919.84156710926
+116,Médio Completo/ Superior Incompleto,46368.47696466128
+116,Superior Completo,13461.89623603802
+117,Não Alfabetizado/ Fundamental I Incompleto,13428.674296972553
+117,Fundamental I Completo/ Fundamental II Incompleto,7503.664444156867
+117,Fundamental II Completo/ Médio Incompleto,13923.581112607848
+117,Médio Completo/ Superior Incompleto,22322.18154332549
+117,Superior Completo,6916.883172952944
+118,Não Alfabetizado/ Fundamental I Incompleto,4877.749476092495
+118,Fundamental I Completo/ Fundamental II Incompleto,2214.1199387420893
+118,Fundamental II Completo/ Médio Incompleto,2693.713539018051
+118,Médio Completo/ Superior Incompleto,5668.569014555673
+118,Superior Completo,1297.8505211764748
+119,Não Alfabetizado/ Fundamental I Incompleto,18960.450647210222
+119,Fundamental I Completo/ Fundamental II Incompleto,21462.77914523863
+119,Fundamental II Completo/ Médio Incompleto,18621.681979488636
+119,Médio Completo/ Superior Incompleto,24998.223025494317
+119,Superior Completo,3202.857262505681
+120,Não Alfabetizado/ Fundamental I Incompleto,0
+120,Fundamental I Completo/ Fundamental II Incompleto,0
+120,Fundamental II Completo/ Médio Incompleto,0
+120,Médio Completo/ Superior Incompleto,0
+120,Superior Completo,0
+121,Não Alfabetizado/ Fundamental I Incompleto,24794.213726681242
+121,Fundamental I Completo/ Fundamental II Incompleto,17471.54212744868
+121,Fundamental II Completo/ Médio Incompleto,15672.883439332656
+121,Médio Completo/ Superior Incompleto,27086.46704066607
+121,Superior Completo,5247.877769613245
+122,Não Alfabetizado/ Fundamental I Incompleto,12957.478568507398
+122,Fundamental I Completo/ Fundamental II Incompleto,10647.931304074
+122,Fundamental II Completo/ Médio Incompleto,7935.474311835094
+122,Médio Completo/ Superior Incompleto,16989.357013458775
+122,Superior Completo,1422.7501240718818
+123,Não Alfabetizado/ Fundamental I Incompleto,15296.933229399985
+123,Fundamental I Completo/ Fundamental II Incompleto,12178.830673266652
+123,Fundamental II Completo/ Médio Incompleto,18376.326127366643
+123,Médio Completo/ Superior Incompleto,21822.94734593332
+123,Superior Completo,5390.970319533327
+124,Não Alfabetizado/ Fundamental I Incompleto,16669.555215966495
+124,Fundamental I Completo/ Fundamental II Incompleto,8938.500576033508
+124,Fundamental II Completo/ Médio Incompleto,9545.747681264822
+124,Médio Completo/ Superior Incompleto,23097.514963097306
+124,Superior Completo,6614.685026414951
+125,Não Alfabetizado/ Fundamental I Incompleto,9820.798661220064
+125,Fundamental I Completo/ Fundamental II Incompleto,9715.224722771474
+125,Fundamental II Completo/ Médio Incompleto,8402.775360780091
+125,Médio Completo/ Superior Incompleto,19805.412567219093
+125,Superior Completo,4855.799566656506
+126,Não Alfabetizado/ Fundamental I Incompleto,8375.698900782845
+126,Fundamental I Completo/ Fundamental II Incompleto,4065.032207827333
+126,Fundamental II Completo/ Médio Incompleto,4199.144320178483
+126,Médio Completo/ Superior Incompleto,12866.651944755115
+126,Superior Completo,4572.477067736535
+127,Não Alfabetizado/ Fundamental I Incompleto,8258.03724126915
+127,Fundamental I Completo/ Fundamental II Incompleto,4383.166221627329
+127,Fundamental II Completo/ Médio Incompleto,7482.190699590062
+127,Médio Completo/ Superior Incompleto,19196.407755625256
+127,Superior Completo,14621.211825697723
+128,Não Alfabetizado/ Fundamental I Incompleto,206.82791488289286
+128,Fundamental I Completo/ Fundamental II Incompleto,212.24502316891562
+128,Fundamental II Completo/ Médio Incompleto,85.41434172477084
+128,Médio Completo/ Superior Incompleto,662.3322558726393
+128,Superior Completo,627.1801589552086
+129,Não Alfabetizado/ Fundamental I Incompleto,384.55723256127715
+129,Fundamental I Completo/ Fundamental II Incompleto,571.3317572364342
+129,Fundamental II Completo/ Médio Incompleto,199.28936424880024
+129,Médio Completo/ Superior Incompleto,1505.5122570334445
+129,Superior Completo,1935.3099577396829
+130,Não Alfabetizado/ Fundamental I Incompleto,1184.8342921969115
+130,Fundamental I Completo/ Fundamental II Incompleto,407.8037285830117
+130,Fundamental II Completo/ Médio Incompleto,557.7425940501932
+130,Médio Completo/ Superior Incompleto,820.6950092123557
+130,Superior Completo,302.924240598456
+131,Não Alfabetizado/ Fundamental I Incompleto,154.14376249999998
+131,Fundamental I Completo/ Fundamental II Incompleto,147.96968049999992
+131,Fundamental II Completo/ Médio Incompleto,129.406338
+131,Médio Completo/ Superior Incompleto,507.86215999999985
+131,Superior Completo,287.6183045
+132,Não Alfabetizado/ Fundamental I Incompleto,0
+132,Fundamental I Completo/ Fundamental II Incompleto,0
+132,Fundamental II Completo/ Médio Incompleto,0
+132,Médio Completo/ Superior Incompleto,0
+132,Superior Completo,0
+133,Não Alfabetizado/ Fundamental I Incompleto,3753.268375151516
+133,Fundamental I Completo/ Fundamental II Incompleto,3164.8134392424254
+133,Fundamental II Completo/ Médio Incompleto,3020.073423151516
+133,Médio Completo/ Superior Incompleto,11745.531905545471
+133,Superior Completo,14758.310563242452
+134,Não Alfabetizado/ Fundamental I Incompleto,4198.971943562498
+134,Fundamental I Completo/ Fundamental II Incompleto,2425.276927687499
+134,Fundamental II Completo/ Médio Incompleto,5040.143082374998
+134,Médio Completo/ Superior Incompleto,8734.206508208328
+134,Superior Completo,8428.405649187493
+135,Não Alfabetizado/ Fundamental I Incompleto,5366.312891532246
+135,Fundamental I Completo/ Fundamental II Incompleto,4415.930060227816
+135,Fundamental II Completo/ Médio Incompleto,3415.8537682077726
+135,Médio Completo/ Superior Incompleto,12397.596669713936
+135,Superior Completo,12567.307583460064
+136,Não Alfabetizado/ Fundamental I Incompleto,4217.051377943181
+136,Fundamental I Completo/ Fundamental II Incompleto,4366.614644681818
+136,Fundamental II Completo/ Médio Incompleto,4442.340511306817
+136,Médio Completo/ Superior Incompleto,12075.040416939399
+136,Superior Completo,7468.948783409086
+137,Não Alfabetizado/ Fundamental I Incompleto,10099.395516334167
+137,Fundamental I Completo/ Fundamental II Incompleto,3495.0968526616616
+137,Fundamental II Completo/ Médio Incompleto,7029.4109850850255
+137,Médio Completo/ Superior Incompleto,22776.086696200742
+137,Superior Completo,10038.996175583987
+138,Não Alfabetizado/ Fundamental I Incompleto,1782.7204654820516
+138,Fundamental I Completo/ Fundamental II Incompleto,2088.2091044038457
+138,Fundamental II Completo/ Médio Incompleto,1037.3159026352564
+138,Médio Completo/ Superior Incompleto,2250.234255791666
+138,Superior Completo,696.5218500012825
+139,Não Alfabetizado/ Fundamental I Incompleto,4844.3279880659575
+139,Fundamental I Completo/ Fundamental II Incompleto,2139.0286014566695
+139,Fundamental II Completo/ Médio Incompleto,3169.5723537759554
+139,Médio Completo/ Superior Incompleto,10130.872880481375
+139,Superior Completo,4025.205928020261
+140,Não Alfabetizado/ Fundamental I Incompleto,8154.809530383327
+140,Fundamental I Completo/ Fundamental II Incompleto,9769.88779643077
+140,Fundamental II Completo/ Médio Incompleto,4098.347308723075
+140,Médio Completo/ Superior Incompleto,19156.68757931153
+140,Superior Completo,6211.258229699995
+141,Não Alfabetizado/ Fundamental I Incompleto,17432.700673854535
+141,Fundamental I Completo/ Fundamental II Incompleto,9904.407055028782
+141,Fundamental II Completo/ Médio Incompleto,12092.634378796964
+141,Médio Completo/ Superior Incompleto,26108.51076736512
+141,Superior Completo,13737.759637297728
+142,Não Alfabetizado/ Fundamental I Incompleto,16761.63575522982
+142,Fundamental I Completo/ Fundamental II Incompleto,11240.026550506605
+142,Fundamental II Completo/ Médio Incompleto,10471.712123141766
+142,Médio Completo/ Superior Incompleto,24701.895134955324
+142,Superior Completo,3148.715495537571
+143,Não Alfabetizado/ Fundamental I Incompleto,0
+143,Fundamental I Completo/ Fundamental II Incompleto,0
+143,Fundamental II Completo/ Médio Incompleto,0
+143,Médio Completo/ Superior Incompleto,0
+143,Superior Completo,0
+144,Não Alfabetizado/ Fundamental I Incompleto,14835.070499164925
+144,Fundamental I Completo/ Fundamental II Incompleto,8972.3733562905
+144,Fundamental II Completo/ Médio Incompleto,8603.656496607962
+144,Médio Completo/ Superior Incompleto,45673.37975776989
+144,Superior Completo,26441.507201236
+145,Não Alfabetizado/ Fundamental I Incompleto,673.1615067295592
+145,Fundamental I Completo/ Fundamental II Incompleto,392.65503456603733
+145,Fundamental II Completo/ Médio Incompleto,417.8881328396225
+145,Médio Completo/ Superior Incompleto,1663.616372245283
+145,Superior Completo,1332.6790313710687
+146,Não Alfabetizado/ Fundamental I Incompleto,0
+146,Fundamental I Completo/ Fundamental II Incompleto,0
+146,Fundamental II Completo/ Médio Incompleto,0
+146,Médio Completo/ Superior Incompleto,0
+146,Superior Completo,0
+147,Não Alfabetizado/ Fundamental I Incompleto,9406.74057141781
+147,Fundamental I Completo/ Fundamental II Incompleto,3225.291970152954
+147,Fundamental II Completo/ Médio Incompleto,4598.441547721683
+147,Médio Completo/ Superior Incompleto,12678.071740067862
+147,Superior Completo,3993.4605872547695
+148,Não Alfabetizado/ Fundamental I Incompleto,3767.771470770775
+148,Fundamental I Completo/ Fundamental II Incompleto,1020.8872293749992
+148,Fundamental II Completo/ Médio Incompleto,4635.145365072113
+148,Médio Completo/ Superior Incompleto,8988.959603943851
+148,Superior Completo,4456.233849935951
+149,Não Alfabetizado/ Fundamental I Incompleto,0
+149,Fundamental I Completo/ Fundamental II Incompleto,0
+149,Fundamental II Completo/ Médio Incompleto,0
+149,Médio Completo/ Superior Incompleto,0
+149,Superior Completo,0
+150,Não Alfabetizado/ Fundamental I Incompleto,14196.01313889153
+150,Fundamental I Completo/ Fundamental II Incompleto,9094.644580010257
+150,Fundamental II Completo/ Médio Incompleto,7950.033000937253
+150,Médio Completo/ Superior Incompleto,16865.099661540276
+150,Superior Completo,3452.209365301741
+151,Não Alfabetizado/ Fundamental I Incompleto,22704.101132715918
+151,Fundamental I Completo/ Fundamental II Incompleto,22708.89499427642
+151,Fundamental II Completo/ Médio Incompleto,18333.729794314764
+151,Médio Completo/ Superior Incompleto,38429.470387890535
+151,Superior Completo,7452.778762818053
+152,Não Alfabetizado/ Fundamental I Incompleto,5092.243544001571
+152,Fundamental I Completo/ Fundamental II Incompleto,5039.0309448497455
+152,Fundamental II Completo/ Médio Incompleto,4514.907647940481
+152,Médio Completo/ Superior Incompleto,13745.888060832536
+152,Superior Completo,6776.928301718562
+153,Não Alfabetizado/ Fundamental I Incompleto,1714.2493111740368
+153,Fundamental I Completo/ Fundamental II Incompleto,1681.6895120135134
+153,Fundamental II Completo/ Médio Incompleto,1289.4377997051595
+153,Médio Completo/ Superior Incompleto,6307.7995391654385
+153,Superior Completo,5290.821435500407
+154,Não Alfabetizado/ Fundamental I Incompleto,6457.572178111915
+154,Fundamental I Completo/ Fundamental II Incompleto,5260.811717614685
+154,Fundamental II Completo/ Médio Incompleto,5324.454723390655
+154,Médio Completo/ Superior Incompleto,16946.290564329414
+154,Superior Completo,11475.870495011104
+155,Não Alfabetizado/ Fundamental I Incompleto,7626.47773303932
+155,Fundamental I Completo/ Fundamental II Incompleto,5889.547021157433
+155,Fundamental II Completo/ Médio Incompleto,6229.167816612668
+155,Médio Completo/ Superior Incompleto,10904.859016224877
+155,Superior Completo,1591.9532664242975
+156,Não Alfabetizado/ Fundamental I Incompleto,8823.514007482348
+156,Fundamental I Completo/ Fundamental II Incompleto,2134.6255981647064
+156,Fundamental II Completo/ Médio Incompleto,6427.044535796079
+156,Médio Completo/ Superior Incompleto,22293.891950494108
+156,Superior Completo,4230.9334971529415
+157,Não Alfabetizado/ Fundamental I Incompleto,2918.2800309031695
+157,Fundamental I Completo/ Fundamental II Incompleto,2727.7449364944655
+157,Fundamental II Completo/ Médio Incompleto,3712.91259384858
+157,Médio Completo/ Superior Incompleto,8418.908267585217
+157,Superior Completo,1851.1584361684195
+158,Não Alfabetizado/ Fundamental I Incompleto,11602.632749289109
+158,Fundamental I Completo/ Fundamental II Incompleto,5462.84271189796
+158,Fundamental II Completo/ Médio Incompleto,8093.258675743199
+158,Médio Completo/ Superior Incompleto,21319.655965024664
+158,Superior Completo,13980.60312886905
+159,Não Alfabetizado/ Fundamental I Incompleto,9181.039864915952
+159,Fundamental I Completo/ Fundamental II Incompleto,10932.173403062097
+159,Fundamental II Completo/ Médio Incompleto,15314.765368875342
+159,Médio Completo/ Superior Incompleto,26255.762553028257
+159,Superior Completo,2487.2538789813225
+160,Não Alfabetizado/ Fundamental I Incompleto,7717.486727528845
+160,Fundamental I Completo/ Fundamental II Incompleto,5324.515453291669
+160,Fundamental II Completo/ Médio Incompleto,4215.916730429489
+160,Médio Completo/ Superior Incompleto,19719.620986521153
+160,Superior Completo,13694.467952042949
+161,Não Alfabetizado/ Fundamental I Incompleto,10636.468244279546
+161,Fundamental I Completo/ Fundamental II Incompleto,10439.149719182577
+161,Fundamental II Completo/ Médio Incompleto,10239.234639177273
+161,Médio Completo/ Superior Incompleto,13345.58213769925
+161,Superior Completo,2636.562491871213
+162,Não Alfabetizado/ Fundamental I Incompleto,2917.441353928241
+162,Fundamental I Completo/ Fundamental II Incompleto,1698.4883154177382
+162,Fundamental II Completo/ Médio Incompleto,1348.1479210554744
+162,Médio Completo/ Superior Incompleto,7448.405855589108
+162,Superior Completo,2429.516516131103
+163,Não Alfabetizado/ Fundamental I Incompleto,5497.195538819
+163,Fundamental I Completo/ Fundamental II Incompleto,6768.527135631982
+163,Fundamental II Completo/ Médio Incompleto,5500.061936583071
+163,Médio Completo/ Superior Incompleto,15335.29067985351
+163,Superior Completo,14417.930042362708
+164,Não Alfabetizado/ Fundamental I Incompleto,986.6621585952386
+164,Fundamental I Completo/ Fundamental II Incompleto,899.6673571309528
+164,Fundamental II Completo/ Médio Incompleto,820.1639507380957
+164,Médio Completo/ Superior Incompleto,2380.723441892858
+164,Superior Completo,761.781024666667
+165,Não Alfabetizado/ Fundamental I Incompleto,574.4729689247313
+165,Fundamental I Completo/ Fundamental II Incompleto,492.7431126144395
+165,Fundamental II Completo/ Médio Incompleto,251.59215443932413
+165,Médio Completo/ Superior Incompleto,1202.8213801059917
+165,Superior Completo,662.3696820138252
+166,Não Alfabetizado/ Fundamental I Incompleto,3028.6989517505676
+166,Fundamental I Completo/ Fundamental II Incompleto,3805.3806652985145
+166,Fundamental II Completo/ Médio Incompleto,4139.054745093605
+166,Médio Completo/ Superior Incompleto,9067.044288834473
+166,Superior Completo,12835.81608755365
+167,Não Alfabetizado/ Fundamental I Incompleto,2068.152085262657
+167,Fundamental I Completo/ Fundamental II Incompleto,1073.8924561993665
+167,Fundamental II Completo/ Médio Incompleto,1179.9830589240498
+167,Médio Completo/ Superior Incompleto,6684.55829665347
+167,Superior Completo,6433.412414830687
+168,Não Alfabetizado/ Fundamental I Incompleto,1414.3015418701311
+168,Fundamental I Completo/ Fundamental II Incompleto,3285.2774122597434
+168,Fundamental II Completo/ Médio Incompleto,446.6322014025977
+168,Médio Completo/ Superior Incompleto,8911.20347288312
+168,Superior Completo,8444.583842129881
+169,Não Alfabetizado/ Fundamental I Incompleto,3504.850614549775
+169,Fundamental I Completo/ Fundamental II Incompleto,1841.9737307133134
+169,Fundamental II Completo/ Médio Incompleto,1933.6504251460526
+169,Médio Completo/ Superior Incompleto,7172.023879235316
+169,Superior Completo,8007.4996610561175
+170,Não Alfabetizado/ Fundamental I Incompleto,7142.160365724468
+170,Fundamental I Completo/ Fundamental II Incompleto,5050.884578336388
+170,Fundamental II Completo/ Médio Incompleto,3924.5318743389657
+170,Médio Completo/ Superior Incompleto,11965.771308828906
+170,Superior Completo,6609.651037431754
+171,Não Alfabetizado/ Fundamental I Incompleto,5230.619027304076
+171,Fundamental I Completo/ Fundamental II Incompleto,5527.522593862518
+171,Fundamental II Completo/ Médio Incompleto,4861.94731100067
+171,Médio Completo/ Superior Incompleto,17287.11051352775
+171,Superior Completo,7758.804214268662
+172,Não Alfabetizado/ Fundamental I Incompleto,5151.25007059927
+172,Fundamental I Completo/ Fundamental II Incompleto,1640.219984628661
+172,Fundamental II Completo/ Médio Incompleto,5457.023892068651
+172,Médio Completo/ Superior Incompleto,9331.090550749757
+172,Superior Completo,5208.42077315134
+173,Não Alfabetizado/ Fundamental I Incompleto,5734.900225985116
+173,Fundamental I Completo/ Fundamental II Incompleto,3110.531891934981
+173,Fundamental II Completo/ Médio Incompleto,3118.527126871107
+173,Médio Completo/ Superior Incompleto,9685.900403105992
+173,Superior Completo,5168.1363320432665
+174,Não Alfabetizado/ Fundamental I Incompleto,11769.756857074955
+174,Fundamental I Completo/ Fundamental II Incompleto,6568.99591930223
+174,Fundamental II Completo/ Médio Incompleto,3907.7992923179136
+174,Médio Completo/ Superior Incompleto,21978.82754588595
+174,Superior Completo,4660.622845022328
+175,Não Alfabetizado/ Fundamental I Incompleto,5515.716392660318
+175,Fundamental I Completo/ Fundamental II Incompleto,7114.662393336505
+175,Fundamental II Completo/ Médio Incompleto,3926.6907555619046
+175,Médio Completo/ Superior Incompleto,12588.230895625406
+175,Superior Completo,2646.6959700666666
+176,Não Alfabetizado/ Fundamental I Incompleto,7109.797987303385
+176,Fundamental I Completo/ Fundamental II Incompleto,5587.506496268984
+176,Fundamental II Completo/ Médio Incompleto,4441.845805975935
+176,Médio Completo/ Superior Incompleto,21536.91191913475
+176,Superior Completo,8151.93907877166
+177,Não Alfabetizado/ Fundamental I Incompleto,2694.888801070885
+177,Fundamental I Completo/ Fundamental II Incompleto,1974.4814993513532
+177,Fundamental II Completo/ Médio Incompleto,1605.8849267934743
+177,Médio Completo/ Superior Incompleto,3745.1647124946508
+177,Superior Completo,163.5808879459462
+178,Não Alfabetizado/ Fundamental I Incompleto,0
+178,Fundamental I Completo/ Fundamental II Incompleto,0
+178,Fundamental II Completo/ Médio Incompleto,0
+178,Médio Completo/ Superior Incompleto,0
+178,Superior Completo,0
+179,Não Alfabetizado/ Fundamental I Incompleto,0
+179,Fundamental I Completo/ Fundamental II Incompleto,0
+179,Fundamental II Completo/ Médio Incompleto,0
+179,Médio Completo/ Superior Incompleto,0
+179,Superior Completo,0
+180,Não Alfabetizado/ Fundamental I Incompleto,16601.82504168287
+180,Fundamental I Completo/ Fundamental II Incompleto,10433.271625429155
+180,Fundamental II Completo/ Médio Incompleto,11506.978148725599
+180,Médio Completo/ Superior Incompleto,24133.91891369547
+180,Superior Completo,8433.004082945568
+181,Não Alfabetizado/ Fundamental I Incompleto,11329.194562737905
+181,Fundamental I Completo/ Fundamental II Incompleto,5960.331599613095
+181,Fundamental II Completo/ Médio Incompleto,5114.177643693444
+181,Médio Completo/ Superior Incompleto,18712.169494881342
+181,Superior Completo,5484.115411968143
+182,Não Alfabetizado/ Fundamental I Incompleto,8610.606905230345
+182,Fundamental I Completo/ Fundamental II Incompleto,4861.274665254559
+182,Fundamental II Completo/ Médio Incompleto,4786.688218408824
+182,Médio Completo/ Superior Incompleto,20264.604455061803
+182,Superior Completo,8422.833724431439
+183,Não Alfabetizado/ Fundamental I Incompleto,8377.981198651942
+183,Fundamental I Completo/ Fundamental II Incompleto,5386.079678863633
+183,Fundamental II Completo/ Médio Incompleto,7196.794672609086
+183,Médio Completo/ Superior Incompleto,16901.50782465583
+183,Superior Completo,5796.635362063634
+184,Não Alfabetizado/ Fundamental I Incompleto,5679.717572816655
+184,Fundamental I Completo/ Fundamental II Incompleto,3387.660418123379
+184,Fundamental II Completo/ Médio Incompleto,4608.78799153629
+184,Médio Completo/ Superior Incompleto,9953.136522601219
+184,Superior Completo,1094.6944702207793
+185,Não Alfabetizado/ Fundamental I Incompleto,10097.927243268005
+185,Fundamental I Completo/ Fundamental II Incompleto,3117.645466850522
+185,Fundamental II Completo/ Médio Incompleto,5536.257097803636
+185,Médio Completo/ Superior Incompleto,9203.17427273379
+185,Superior Completo,1173.9883531133225
+186,Não Alfabetizado/ Fundamental I Incompleto,2154.038421424771
+186,Fundamental I Completo/ Fundamental II Incompleto,1574.778565356238
+186,Fundamental II Completo/ Médio Incompleto,1954.632462557186
+186,Médio Completo/ Superior Incompleto,4412.379807776864
+186,Superior Completo,1651.1693366357258
+187,Não Alfabetizado/ Fundamental I Incompleto,14599.98513654348
+187,Fundamental I Completo/ Fundamental II Incompleto,7946.728155381706
+187,Fundamental II Completo/ Médio Incompleto,6493.497181773571
+187,Médio Completo/ Superior Incompleto,18491.64231719717
+187,Superior Completo,731.157666910115
+188,Não Alfabetizado/ Fundamental I Incompleto,6679.286616972642
+188,Fundamental I Completo/ Fundamental II Incompleto,3445.1488531680297
+188,Fundamental II Completo/ Médio Incompleto,6354.001860733566
+188,Médio Completo/ Superior Incompleto,11361.518712682206
+188,Superior Completo,3242.03578071238
+189,Não Alfabetizado/ Fundamental I Incompleto,13825.191228120264
+189,Fundamental I Completo/ Fundamental II Incompleto,4187.754905442241
+189,Fundamental II Completo/ Médio Incompleto,9115.012852064936
+189,Médio Completo/ Superior Incompleto,16611.375316834812
+189,Superior Completo,4985.665276471852
+190,Não Alfabetizado/ Fundamental I Incompleto,5438.571963082727
+190,Fundamental I Completo/ Fundamental II Incompleto,3665.6264304485003
+190,Fundamental II Completo/ Médio Incompleto,3815.903225230767
+190,Médio Completo/ Superior Incompleto,15930.866009298394
+190,Superior Completo,4897.030463068877
+191,Não Alfabetizado/ Fundamental I Incompleto,0
+191,Fundamental I Completo/ Fundamental II Incompleto,0
+191,Fundamental II Completo/ Médio Incompleto,0
+191,Médio Completo/ Superior Incompleto,0
+191,Superior Completo,0
+192,Não Alfabetizado/ Fundamental I Incompleto,8198.072001481785
+192,Fundamental I Completo/ Fundamental II Incompleto,6599.166872611634
+192,Fundamental II Completo/ Médio Incompleto,6406.720122286134
+192,Médio Completo/ Superior Incompleto,11965.99906627968
+192,Superior Completo,5783.036255041129
+193,Não Alfabetizado/ Fundamental I Incompleto,7948.3136782166575
+193,Fundamental I Completo/ Fundamental II Incompleto,3633.3557990600025
+193,Fundamental II Completo/ Médio Incompleto,3679.593126966893
+193,Médio Completo/ Superior Incompleto,8337.431615715297
+193,Superior Completo,2066.3043830458096
+194,Não Alfabetizado/ Fundamental I Incompleto,7566.824115770133
+194,Fundamental I Completo/ Fundamental II Incompleto,3422.55072614151
+194,Fundamental II Completo/ Médio Incompleto,4018.48234573378
+194,Médio Completo/ Superior Incompleto,9353.67662477635
+194,Superior Completo,1483.4663660874369
+195,Não Alfabetizado/ Fundamental I Incompleto,8111.726551860485
+195,Fundamental I Completo/ Fundamental II Incompleto,3918.563473780415
+195,Fundamental II Completo/ Médio Incompleto,6456.681235930244
+195,Médio Completo/ Superior Incompleto,14755.108573553618
+195,Superior Completo,3804.914193899314
+196,Não Alfabetizado/ Fundamental I Incompleto,8129.62210495654
+196,Fundamental I Completo/ Fundamental II Incompleto,8675.685970027203
+196,Fundamental II Completo/ Médio Incompleto,8306.5023141996
+196,Médio Completo/ Superior Incompleto,7534.5409272865445
+196,Superior Completo,3343.640390965043
+197,Não Alfabetizado/ Fundamental I Incompleto,6684.2415366057685
+197,Fundamental I Completo/ Fundamental II Incompleto,2586.826225555288
+197,Fundamental II Completo/ Médio Incompleto,2066.0360757179483
+197,Médio Completo/ Superior Incompleto,7267.9711114382935
+197,Superior Completo,5518.927832692304
+198,Não Alfabetizado/ Fundamental I Incompleto,7781.790197742858
+198,Fundamental I Completo/ Fundamental II Incompleto,4697.328908014288
+198,Fundamental II Completo/ Médio Incompleto,3569.4536486428583
+198,Médio Completo/ Superior Incompleto,10082.707761733349
+198,Superior Completo,3353.7114690142857
+199,Não Alfabetizado/ Fundamental I Incompleto,26108.206178117194
+199,Fundamental I Completo/ Fundamental II Incompleto,21598.276935115387
+199,Fundamental II Completo/ Médio Incompleto,16368.057193032966
+199,Médio Completo/ Superior Incompleto,29956.78577575274
+199,Superior Completo,7718.639678461541
+200,Não Alfabetizado/ Fundamental I Incompleto,8386.257731613583
+200,Fundamental I Completo/ Fundamental II Incompleto,5853.4015841110195
+200,Fundamental II Completo/ Médio Incompleto,6942.943506008296
+200,Médio Completo/ Superior Incompleto,10469.818335874754
+200,Superior Completo,1643.572118490581
+201,Não Alfabetizado/ Fundamental I Incompleto,16837.614152986913
+201,Fundamental I Completo/ Fundamental II Incompleto,8395.138619075316
+201,Fundamental II Completo/ Médio Incompleto,16663.16733603453
+201,Médio Completo/ Superior Incompleto,28100.84162411583
+201,Superior Completo,4670.2435149956455
+202,Não Alfabetizado/ Fundamental I Incompleto,15803.508514460393
+202,Fundamental I Completo/ Fundamental II Incompleto,12813.356194514132
+202,Fundamental II Completo/ Médio Incompleto,8083.61276555322
+202,Médio Completo/ Superior Incompleto,35466.79142954322
+202,Superior Completo,5462.724051564071
+203,Não Alfabetizado/ Fundamental I Incompleto,15194.380815755818
+203,Fundamental I Completo/ Fundamental II Incompleto,9143.335506950989
+203,Fundamental II Completo/ Médio Incompleto,9184.86662636602
+203,Médio Completo/ Superior Incompleto,18261.631903804828
+203,Superior Completo,5272.797786965416
+204,Não Alfabetizado/ Fundamental I Incompleto,31105.33850887652
+204,Fundamental I Completo/ Fundamental II Incompleto,21155.021400222602
+204,Fundamental II Completo/ Médio Incompleto,23096.81792016486
+204,Médio Completo/ Superior Incompleto,38525.38375609444
+204,Superior Completo,1196.4268753624121
+205,Não Alfabetizado/ Fundamental I Incompleto,22339.019492457868
+205,Fundamental I Completo/ Fundamental II Incompleto,25527.633770403554
+205,Fundamental II Completo/ Médio Incompleto,16087.064047920183
+205,Médio Completo/ Superior Incompleto,35313.675524689585
+205,Superior Completo,8125.625474176274
+206,Não Alfabetizado/ Fundamental I Incompleto,12425.587531017074
+206,Fundamental I Completo/ Fundamental II Incompleto,3712.0784699459177
+206,Fundamental II Completo/ Médio Incompleto,7320.173270149904
+206,Médio Completo/ Superior Incompleto,18570.282100691642
+206,Superior Completo,3886.874742245728
+207,Não Alfabetizado/ Fundamental I Incompleto,18550.16457906191
+207,Fundamental I Completo/ Fundamental II Incompleto,17558.034034791126
+207,Fundamental II Completo/ Médio Incompleto,11896.782019208755
+207,Médio Completo/ Superior Incompleto,24502.58219675579
+207,Superior Completo,6518.448216651261
+208,Não Alfabetizado/ Fundamental I Incompleto,9831.537507239396
+208,Fundamental I Completo/ Fundamental II Incompleto,11750.228217284857
+208,Fundamental II Completo/ Médio Incompleto,6882.813058916671
+208,Médio Completo/ Superior Incompleto,4649.084600969699
+208,Superior Completo,9405.3400407894
+209,Não Alfabetizado/ Fundamental I Incompleto,6152.413854590707
+209,Fundamental I Completo/ Fundamental II Incompleto,8380.41818707154
+209,Fundamental II Completo/ Médio Incompleto,7291.506576677869
+209,Médio Completo/ Superior Incompleto,13777.671637759377
+209,Superior Completo,6589.986950006459
+210,Não Alfabetizado/ Fundamental I Incompleto,4793.9364284514395
+210,Fundamental I Completo/ Fundamental II Incompleto,5406.534463961327
+210,Fundamental II Completo/ Médio Incompleto,2648.1101230918466
+210,Médio Completo/ Superior Incompleto,9204.849622758957
+210,Superior Completo,10116.571458680291
+211,Não Alfabetizado/ Fundamental I Incompleto,9537.334235589742
+211,Fundamental I Completo/ Fundamental II Incompleto,11855.24696156044
+211,Fundamental II Completo/ Médio Incompleto,9473.756131238095
+211,Médio Completo/ Superior Incompleto,26069.48641305495
+211,Superior Completo,5226.164329553112
+212,Não Alfabetizado/ Fundamental I Incompleto,12393.550509513825
+212,Fundamental I Completo/ Fundamental II Incompleto,7938.570573868952
+212,Fundamental II Completo/ Médio Incompleto,4708.433220872781
+212,Médio Completo/ Superior Incompleto,11049.891029911529
+212,Superior Completo,5931.55494013973
+213,Não Alfabetizado/ Fundamental I Incompleto,10477.590831276928
+213,Fundamental I Completo/ Fundamental II Incompleto,5830.302574361542
+213,Fundamental II Completo/ Médio Incompleto,7517.53781869616
+213,Médio Completo/ Superior Incompleto,15199.805820007714
+213,Superior Completo,5532.751815700005
+214,Não Alfabetizado/ Fundamental I Incompleto,3859.9636098163896
+214,Fundamental I Completo/ Fundamental II Incompleto,4724.968465374105
+214,Fundamental II Completo/ Médio Incompleto,3076.9272172313867
+214,Médio Completo/ Superior Incompleto,11075.526686506842
+214,Superior Completo,3294.6106852784387
+215,Não Alfabetizado/ Fundamental I Incompleto,8997.28122399525
+215,Fundamental I Completo/ Fundamental II Incompleto,5875.286929644259
+215,Fundamental II Completo/ Médio Incompleto,1952.7642505272713
+215,Médio Completo/ Superior Incompleto,15278.903447417895
+215,Superior Completo,7090.758198422123
+216,Não Alfabetizado/ Fundamental I Incompleto,7636.091349215157
+216,Fundamental I Completo/ Fundamental II Incompleto,6861.644895202604
+216,Fundamental II Completo/ Médio Incompleto,3418.456154069938
+216,Médio Completo/ Superior Incompleto,16531.90895448475
+216,Superior Completo,5839.896165214825
+217,Não Alfabetizado/ Fundamental I Incompleto,6223.961002494625
+217,Fundamental I Completo/ Fundamental II Incompleto,4188.349258242068
+217,Fundamental II Completo/ Médio Incompleto,6145.136427826912
+217,Médio Completo/ Superior Incompleto,11127.196273014853
+217,Superior Completo,5396.361365143749
+218,Não Alfabetizado/ Fundamental I Incompleto,13911.283196342307
+218,Fundamental I Completo/ Fundamental II Incompleto,11024.326284897219
+218,Fundamental II Completo/ Médio Incompleto,5016.0001854873635
+218,Médio Completo/ Superior Incompleto,28386.975775712748
+218,Superior Completo,9995.40973955365
+219,Não Alfabetizado/ Fundamental I Incompleto,15043.53108372344
+219,Fundamental I Completo/ Fundamental II Incompleto,9002.298384479896
+219,Fundamental II Completo/ Médio Incompleto,8402.121862994429
+219,Médio Completo/ Superior Incompleto,16771.402795448554
+219,Superior Completo,5255.6475048903085
+220,Não Alfabetizado/ Fundamental I Incompleto,11003.66455508489
+220,Fundamental I Completo/ Fundamental II Incompleto,3544.5945351227247
+220,Fundamental II Completo/ Médio Incompleto,6262.039173000113
+220,Médio Completo/ Superior Incompleto,11946.304106405565
+220,Superior Completo,1753.3981870827954
+221,Não Alfabetizado/ Fundamental I Incompleto,14994.23561117925
+221,Fundamental I Completo/ Fundamental II Incompleto,4645.399212609884
+221,Fundamental II Completo/ Médio Incompleto,4975.243633477274
+221,Médio Completo/ Superior Incompleto,12514.210327427247
+221,Superior Completo,7286.905334847906
+222,Não Alfabetizado/ Fundamental I Incompleto,12825.477085321101
+222,Fundamental I Completo/ Fundamental II Incompleto,4228.586427087405
+222,Fundamental II Completo/ Médio Incompleto,6193.309569037701
+222,Médio Completo/ Superior Incompleto,17302.502350365747
+222,Superior Completo,3962.118932704177
+223,Não Alfabetizado/ Fundamental I Incompleto,8231.13213780713
+223,Fundamental I Completo/ Fundamental II Incompleto,4920.970822378507
+223,Fundamental II Completo/ Médio Incompleto,3714.3905739077104
+223,Médio Completo/ Superior Incompleto,7952.762497982326
+223,Superior Completo,1672.7386680129755
+224,Não Alfabetizado/ Fundamental I Incompleto,0
+224,Fundamental I Completo/ Fundamental II Incompleto,0
+224,Fundamental II Completo/ Médio Incompleto,0
+224,Médio Completo/ Superior Incompleto,0
+224,Superior Completo,0
+225,Não Alfabetizado/ Fundamental I Incompleto,7917.293527589332
+225,Fundamental I Completo/ Fundamental II Incompleto,5626.6651945909325
+225,Fundamental II Completo/ Médio Incompleto,5328.597491283678
+225,Médio Completo/ Superior Incompleto,11761.802596301684
+225,Superior Completo,1183.642043618554
+226,Não Alfabetizado/ Fundamental I Incompleto,19015.34623063637
+226,Fundamental I Completo/ Fundamental II Incompleto,12539.823029784671
+226,Fundamental II Completo/ Médio Incompleto,15183.792499737081
+226,Médio Completo/ Superior Incompleto,44982.32884860657
+226,Superior Completo,10556.724478253747
+227,Não Alfabetizado/ Fundamental I Incompleto,19912.18094190428
+227,Fundamental I Completo/ Fundamental II Incompleto,12271.506773593912
+227,Fundamental II Completo/ Médio Incompleto,11226.387052474765
+227,Médio Completo/ Superior Incompleto,16904.857579178755
+227,Superior Completo,3654.061481720095
+228,Não Alfabetizado/ Fundamental I Incompleto,9990.891298145665
+228,Fundamental I Completo/ Fundamental II Incompleto,9291.254950657294
+228,Fundamental II Completo/ Médio Incompleto,7671.507264796829
+228,Médio Completo/ Superior Incompleto,15087.78703072217
+228,Superior Completo,2278.574923040395
+229,Não Alfabetizado/ Fundamental I Incompleto,45823.09145967724
+229,Fundamental I Completo/ Fundamental II Incompleto,32241.934975960896
+229,Fundamental II Completo/ Médio Incompleto,19522.099132199986
+229,Médio Completo/ Superior Incompleto,45395.6676843501
+229,Superior Completo,9883.203283844134
+230,Não Alfabetizado/ Fundamental I Incompleto,19636.067781269223
+230,Fundamental I Completo/ Fundamental II Incompleto,13044.104792623077
+230,Fundamental II Completo/ Médio Incompleto,14247.0543643846
+230,Médio Completo/ Superior Incompleto,23544.221205253823
+230,Superior Completo,6650.5703474461525
+231,Não Alfabetizado/ Fundamental I Incompleto,6856.6725571973875
+231,Fundamental I Completo/ Fundamental II Incompleto,6423.751780934225
+231,Fundamental II Completo/ Médio Incompleto,5075.677011809223
+231,Médio Completo/ Superior Incompleto,16132.569667302663
+231,Superior Completo,809.3308528421071
+232,Não Alfabetizado/ Fundamental I Incompleto,10378.118170586144
+232,Fundamental I Completo/ Fundamental II Incompleto,7508.031746464929
+232,Fundamental II Completo/ Médio Incompleto,5436.028475138092
+232,Médio Completo/ Superior Incompleto,15634.197496993927
+232,Superior Completo,3257.629182089609
+233,Não Alfabetizado/ Fundamental I Incompleto,15059.644950378219
+233,Fundamental I Completo/ Fundamental II Incompleto,12919.559841538477
+233,Fundamental II Completo/ Médio Incompleto,11323.259042737187
+233,Médio Completo/ Superior Incompleto,24806.226011519266
+233,Superior Completo,3152.321910429491
+234,Não Alfabetizado/ Fundamental I Incompleto,15815.525430305584
+234,Fundamental I Completo/ Fundamental II Incompleto,9387.263330769012
+234,Fundamental II Completo/ Médio Incompleto,16779.7996014208
+234,Médio Completo/ Superior Incompleto,26244.938101318145
+234,Superior Completo,2598.467342881084
+235,Não Alfabetizado/ Fundamental I Incompleto,19965.57098406192
+235,Fundamental I Completo/ Fundamental II Incompleto,18640.654026705197
+235,Fundamental II Completo/ Médio Incompleto,10190.988772604767
+235,Médio Completo/ Superior Incompleto,31686.00916766962
+235,Superior Completo,4925.792777549581
+236,Não Alfabetizado/ Fundamental I Incompleto,1800.0097800217382
+236,Fundamental I Completo/ Fundamental II Incompleto,1264.414371435326
+236,Fundamental II Completo/ Médio Incompleto,794.2424291222823
+236,Médio Completo/ Superior Incompleto,3323.366416773912
+236,Superior Completo,4874.967714689137
+237,Não Alfabetizado/ Fundamental I Incompleto,721.5615845550028
+237,Fundamental I Completo/ Fundamental II Incompleto,786.6731102448404
+237,Fundamental II Completo/ Médio Incompleto,961.1131909200016
+237,Médio Completo/ Superior Incompleto,2759.623804136133
+237,Superior Completo,2946.027678043558
+238,Não Alfabetizado/ Fundamental I Incompleto,3645.8991740407537
+238,Fundamental I Completo/ Fundamental II Incompleto,2189.236968460815
+238,Fundamental II Completo/ Médio Incompleto,1752.803727705329
+238,Médio Completo/ Superior Incompleto,5999.98757869279
+238,Superior Completo,5672.076280937301
+239,Não Alfabetizado/ Fundamental I Incompleto,1609.1228440912698
+239,Fundamental I Completo/ Fundamental II Incompleto,1389.084608214286
+239,Fundamental II Completo/ Médio Incompleto,1084.6505737182538
+239,Médio Completo/ Superior Incompleto,6565.137508061502
+239,Superior Completo,4832.005232789679
+240,Não Alfabetizado/ Fundamental I Incompleto,2965.504926413987
+240,Fundamental I Completo/ Fundamental II Incompleto,1169.2809358839156
+240,Fundamental II Completo/ Médio Incompleto,2424.4962717785543
+240,Médio Completo/ Superior Incompleto,7041.8955240750565
+240,Superior Completo,5787.818656328204
+241,Não Alfabetizado/ Fundamental I Incompleto,1031.2564726898854
+241,Fundamental I Completo/ Fundamental II Incompleto,1568.7784761346645
+241,Fundamental II Completo/ Médio Incompleto,2327.3386944773374
+241,Médio Completo/ Superior Incompleto,3465.6161232606455
+241,Superior Completo,1279.0077193132827
+242,Não Alfabetizado/ Fundamental I Incompleto,5010.750915822607
+242,Fundamental I Completo/ Fundamental II Incompleto,6049.843476057387
+242,Fundamental II Completo/ Médio Incompleto,2946.5338814180636
+242,Médio Completo/ Superior Incompleto,9239.529282629434
+242,Superior Completo,3865.3369740508024
+243,Não Alfabetizado/ Fundamental I Incompleto,9011.568689558297
+243,Fundamental I Completo/ Fundamental II Incompleto,3804.7221378033023
+243,Fundamental II Completo/ Médio Incompleto,7939.88023884356
+243,Médio Completo/ Superior Incompleto,18502.082740461203
+243,Superior Completo,5520.751025720031
+244,Não Alfabetizado/ Fundamental I Incompleto,12142.553285589132
+244,Fundamental I Completo/ Fundamental II Incompleto,12618.905095196687
+244,Fundamental II Completo/ Médio Incompleto,12879.747278850948
+244,Médio Completo/ Superior Incompleto,22573.537344214306
+244,Superior Completo,2089.251952606059
+245,Não Alfabetizado/ Fundamental I Incompleto,3101.171521844184
+245,Fundamental I Completo/ Fundamental II Incompleto,4949.064228760377
+245,Fundamental II Completo/ Médio Incompleto,2850.465679497238
+245,Médio Completo/ Superior Incompleto,9430.317078260858
+245,Superior Completo,4259.985450532953
+246,Não Alfabetizado/ Fundamental I Incompleto,5262.610502194803
+246,Fundamental I Completo/ Fundamental II Incompleto,1895.7079660424238
+246,Fundamental II Completo/ Médio Incompleto,4834.50493230476
+246,Médio Completo/ Superior Incompleto,14051.05558959137
+246,Superior Completo,3929.1198535766252
+247,Não Alfabetizado/ Fundamental I Incompleto,18671.755949683822
+247,Fundamental I Completo/ Fundamental II Incompleto,14581.053261867046
+247,Fundamental II Completo/ Médio Incompleto,19882.48906915052
+247,Médio Completo/ Superior Incompleto,32983.51888434279
+247,Superior Completo,12644.191758164994
+248,Não Alfabetizado/ Fundamental I Incompleto,0
+248,Fundamental I Completo/ Fundamental II Incompleto,0
+248,Fundamental II Completo/ Médio Incompleto,0
+248,Médio Completo/ Superior Incompleto,0
+248,Superior Completo,0
+249,Não Alfabetizado/ Fundamental I Incompleto,10633.686508458575
+249,Fundamental I Completo/ Fundamental II Incompleto,7847.842156142306
+249,Fundamental II Completo/ Médio Incompleto,3835.3606349545844
+249,Médio Completo/ Superior Incompleto,16021.34644545376
+249,Superior Completo,8476.773552409215
+250,Não Alfabetizado/ Fundamental I Incompleto,1920.8750005438715
+250,Fundamental I Completo/ Fundamental II Incompleto,1734.6434780204677
+250,Fundamental II Completo/ Médio Incompleto,921.2500460266077
+250,Médio Completo/ Superior Incompleto,6762.041411420899
+250,Superior Completo,7840.188998672798
+251,Não Alfabetizado/ Fundamental I Incompleto,2727.8439231818193
+251,Fundamental I Completo/ Fundamental II Incompleto,2086.7103903181824
+251,Fundamental II Completo/ Médio Incompleto,965.4349329545463
+251,Médio Completo/ Superior Incompleto,10736.278453181816
+251,Superior Completo,7867.735305499999
+252,Não Alfabetizado/ Fundamental I Incompleto,3042.2825651378434
+252,Fundamental I Completo/ Fundamental II Incompleto,3337.1233956345054
+252,Fundamental II Completo/ Médio Incompleto,2567.842121659328
+252,Médio Completo/ Superior Incompleto,7678.102188315877
+252,Superior Completo,5863.648330497132
+253,Não Alfabetizado/ Fundamental I Incompleto,1954.0307269707457
+253,Fundamental I Completo/ Fundamental II Incompleto,712.6567647774632
+253,Fundamental II Completo/ Médio Incompleto,868.9635650064677
+253,Médio Completo/ Superior Incompleto,1204.938407899827
+253,Superior Completo,327.40978855712723
+254,Não Alfabetizado/ Fundamental I Incompleto,4108.840522493293
+254,Fundamental I Completo/ Fundamental II Incompleto,4632.948129010183
+254,Fundamental II Completo/ Médio Incompleto,1768.184816732549
+254,Médio Completo/ Superior Incompleto,13949.958323215822
+254,Superior Completo,9614.073471368318
+255,Não Alfabetizado/ Fundamental I Incompleto,12062.336497457243
+255,Fundamental I Completo/ Fundamental II Incompleto,9100.794440146748
+255,Fundamental II Completo/ Médio Incompleto,8203.49294788951
+255,Médio Completo/ Superior Incompleto,27299.46854880299
+255,Superior Completo,8834.899294009998
+256,Não Alfabetizado/ Fundamental I Incompleto,5256.238227461537
+256,Fundamental I Completo/ Fundamental II Incompleto,3038.3341539999988
+256,Fundamental II Completo/ Médio Incompleto,4980.937026683757
+256,Médio Completo/ Superior Incompleto,9666.378811264949
+256,Superior Completo,6527.113212991451
+257,Não Alfabetizado/ Fundamental I Incompleto,11395.637401054553
+257,Fundamental I Completo/ Fundamental II Incompleto,2262.7961196440033
+257,Fundamental II Completo/ Médio Incompleto,6260.783196602623
+257,Médio Completo/ Superior Incompleto,18769.37092466152
+257,Superior Completo,5431.40287659871
+258,Não Alfabetizado/ Fundamental I Incompleto,11391.451499144276
+258,Fundamental I Completo/ Fundamental II Incompleto,8945.569274562262
+258,Fundamental II Completo/ Médio Incompleto,12386.711239030681
+258,Médio Completo/ Superior Incompleto,24974.19809698989
+258,Superior Completo,11667.061915031341
+259,Não Alfabetizado/ Fundamental I Incompleto,9919.194509008199
+259,Fundamental I Completo/ Fundamental II Incompleto,5525.312583797221
+259,Fundamental II Completo/ Médio Incompleto,6158.420858444731
+259,Médio Completo/ Superior Incompleto,15171.128949167998
+259,Superior Completo,1169.9433684129312
+260,Não Alfabetizado/ Fundamental I Incompleto,10417.164762150842
+260,Fundamental I Completo/ Fundamental II Incompleto,7916.945747878613
+260,Fundamental II Completo/ Médio Incompleto,10386.446238817973
+260,Médio Completo/ Superior Incompleto,9350.550957905645
+260,Superior Completo,7953.893609412108
+261,Não Alfabetizado/ Fundamental I Incompleto,9719.897864353732
+261,Fundamental I Completo/ Fundamental II Incompleto,11347.329039574432
+261,Fundamental II Completo/ Médio Incompleto,6576.163411890696
+261,Médio Completo/ Superior Incompleto,20281.878195624664
+261,Superior Completo,8390.72928412066
+262,Não Alfabetizado/ Fundamental I Incompleto,22658.446821384623
+262,Fundamental I Completo/ Fundamental II Incompleto,19014.108824323084
+262,Fundamental II Completo/ Médio Incompleto,12407.751817600003
+262,Médio Completo/ Superior Incompleto,26231.737208041035
+262,Superior Completo,4869.973010312822
+263,Não Alfabetizado/ Fundamental I Incompleto,15701.14918758931
+263,Fundamental I Completo/ Fundamental II Incompleto,7599.705030290532
+263,Fundamental II Completo/ Médio Incompleto,10941.541216902466
+263,Médio Completo/ Superior Incompleto,26642.106719509153
+263,Superior Completo,2327.4905730245637
+264,Não Alfabetizado/ Fundamental I Incompleto,16952.297864059237
+264,Fundamental I Completo/ Fundamental II Incompleto,9470.032433265753
+264,Fundamental II Completo/ Médio Incompleto,9805.497743357153
+264,Médio Completo/ Superior Incompleto,23977.74270733762
+264,Superior Completo,6742.418416248828
+265,Não Alfabetizado/ Fundamental I Incompleto,10069.869965043696
+265,Fundamental I Completo/ Fundamental II Incompleto,6380.059361197534
+265,Fundamental II Completo/ Médio Incompleto,7255.244754667316
+265,Médio Completo/ Superior Incompleto,15270.297315734357
+265,Superior Completo,5271.522880178852
+266,Não Alfabetizado/ Fundamental I Incompleto,4541.299647788761
+266,Fundamental I Completo/ Fundamental II Incompleto,2595.257164112889
+266,Fundamental II Completo/ Médio Incompleto,2499.2670003241287
+266,Médio Completo/ Superior Incompleto,7686.810555749518
+266,Superior Completo,1436.3684662984501
+267,Não Alfabetizado/ Fundamental I Incompleto,4809.992325259742
+267,Fundamental I Completo/ Fundamental II Incompleto,3959.1408277684022
+267,Fundamental II Completo/ Médio Incompleto,5174.016902427852
+267,Médio Completo/ Superior Incompleto,8076.479745709966
+267,Superior Completo,3189.3722598636396
+268,Não Alfabetizado/ Fundamental I Incompleto,1933.564999111356
+268,Fundamental I Completo/ Fundamental II Incompleto,1085.5348192516192
+268,Fundamental II Completo/ Médio Incompleto,589.2110938351035
+268,Médio Completo/ Superior Incompleto,2819.3990861832685
+268,Superior Completo,7547.290091813475
+269,Não Alfabetizado/ Fundamental I Incompleto,2157.109277695766
+269,Fundamental I Completo/ Fundamental II Incompleto,1924.352076403915
+269,Fundamental II Completo/ Médio Incompleto,1261.4730017673628
+269,Médio Completo/ Superior Incompleto,6050.565554637726
+269,Superior Completo,10065.503908008095
+270,Não Alfabetizado/ Fundamental I Incompleto,1015.6858524726877
+270,Fundamental I Completo/ Fundamental II Incompleto,606.8079023508807
+270,Fundamental II Completo/ Médio Incompleto,810.4259940750354
+270,Médio Completo/ Superior Incompleto,2275.1965879575596
+270,Superior Completo,4585.883631094734
+271,Não Alfabetizado/ Fundamental I Incompleto,0
+271,Fundamental I Completo/ Fundamental II Incompleto,0
+271,Fundamental II Completo/ Médio Incompleto,0
+271,Médio Completo/ Superior Incompleto,0
+271,Superior Completo,0
+272,Não Alfabetizado/ Fundamental I Incompleto,2907.9929208857184
+272,Fundamental I Completo/ Fundamental II Incompleto,1912.2150589000016
+272,Fundamental II Completo/ Médio Incompleto,2201.2287374857165
+272,Médio Completo/ Superior Incompleto,6789.392910242858
+272,Superior Completo,5695.172950957135
+273,Não Alfabetizado/ Fundamental I Incompleto,15526.772573745342
+273,Fundamental I Completo/ Fundamental II Incompleto,3411.6167830097406
+273,Fundamental II Completo/ Médio Incompleto,8769.18431861172
+273,Médio Completo/ Superior Incompleto,21371.60851155445
+273,Superior Completo,12396.803042212292
+274,Não Alfabetizado/ Fundamental I Incompleto,5384.767739285259
+274,Fundamental I Completo/ Fundamental II Incompleto,3082.441370874468
+274,Fundamental II Completo/ Médio Incompleto,3503.399022495195
+274,Médio Completo/ Superior Incompleto,13900.34229043804
+274,Superior Completo,9955.047080776181
+275,Não Alfabetizado/ Fundamental I Incompleto,5787.935307767796
+275,Fundamental I Completo/ Fundamental II Incompleto,3045.55986860477
+275,Fundamental II Completo/ Médio Incompleto,3416.3569363112097
+275,Médio Completo/ Superior Incompleto,11834.664962825476
+275,Superior Completo,14154.48299008999
+276,Não Alfabetizado/ Fundamental I Incompleto,21986.970281766953
+276,Fundamental I Completo/ Fundamental II Incompleto,14106.76320432788
+276,Fundamental II Completo/ Médio Incompleto,15414.168298774639
+276,Médio Completo/ Superior Incompleto,27386.487488812647
+276,Superior Completo,13710.596705254224
+277,Não Alfabetizado/ Fundamental I Incompleto,7594.85772218968
+277,Fundamental I Completo/ Fundamental II Incompleto,8845.120611758093
+277,Fundamental II Completo/ Médio Incompleto,10315.440193598304
+277,Médio Completo/ Superior Incompleto,18337.32346588655
+277,Superior Completo,14359.25941091298
+278,Não Alfabetizado/ Fundamental I Incompleto,28686.087964357805
+278,Fundamental I Completo/ Fundamental II Incompleto,19179.921811869757
+278,Fundamental II Completo/ Médio Incompleto,28596.568601631858
+278,Médio Completo/ Superior Incompleto,56804.90626542071
+278,Superior Completo,5571.501268075499
+279,Não Alfabetizado/ Fundamental I Incompleto,20486.169231835072
+279,Fundamental I Completo/ Fundamental II Incompleto,16177.92068781188
+279,Fundamental II Completo/ Médio Incompleto,20830.14657567698
+279,Médio Completo/ Superior Incompleto,20807.486210363815
+279,Superior Completo,5200.285317225319
+280,Não Alfabetizado/ Fundamental I Incompleto,3029.551254819683
+280,Fundamental I Completo/ Fundamental II Incompleto,1771.9999334408137
+280,Fundamental II Completo/ Médio Incompleto,1974.0058626445298
+280,Médio Completo/ Superior Incompleto,5226.670306601982
+280,Superior Completo,8111.774830271357
+281,Não Alfabetizado/ Fundamental I Incompleto,4834.111507990963
+281,Fundamental I Completo/ Fundamental II Incompleto,3854.474755900551
+281,Fundamental II Completo/ Médio Incompleto,2592.1320369777486
+281,Médio Completo/ Superior Incompleto,10955.128269570781
+281,Superior Completo,18786.14801710747
+282,Não Alfabetizado/ Fundamental I Incompleto,6916.436763024124
+282,Fundamental I Completo/ Fundamental II Incompleto,6434.7908493508785
+282,Fundamental II Completo/ Médio Incompleto,3052.07809770395
+282,Médio Completo/ Superior Incompleto,11608.461318905707
+282,Superior Completo,5778.226953945177
+283,Não Alfabetizado/ Fundamental I Incompleto,1677.0949495756772
+283,Fundamental I Completo/ Fundamental II Incompleto,1195.9316490992621
+283,Fundamental II Completo/ Médio Incompleto,1475.1534359079585
+283,Médio Completo/ Superior Incompleto,4608.082633149636
+283,Superior Completo,1727.73989081898
+284,Não Alfabetizado/ Fundamental I Incompleto,12276.9740993883
+284,Fundamental I Completo/ Fundamental II Incompleto,5285.223585353757
+284,Fundamental II Completo/ Médio Incompleto,8859.854210774529
+284,Médio Completo/ Superior Incompleto,15675.60480009288
+284,Superior Completo,8903.344819011598
+285,Não Alfabetizado/ Fundamental I Incompleto,23190.707778540695
+285,Fundamental I Completo/ Fundamental II Incompleto,23237.72245352065
+285,Fundamental II Completo/ Médio Incompleto,17816.69784819681
+285,Médio Completo/ Superior Incompleto,34085.28549813498
+285,Superior Completo,7949.558317885858
+286,Não Alfabetizado/ Fundamental I Incompleto,1297.6863646739498
+286,Fundamental I Completo/ Fundamental II Incompleto,1378.653969367581
+286,Fundamental II Completo/ Médio Incompleto,1505.843581325068
+286,Médio Completo/ Superior Incompleto,3390.9327167535575
+286,Superior Completo,1545.8853824547084
+287,Não Alfabetizado/ Fundamental I Incompleto,4599.508467100012
+287,Fundamental I Completo/ Fundamental II Incompleto,5365.526413730662
+287,Fundamental II Completo/ Médio Incompleto,2355.7256993084907
+287,Médio Completo/ Superior Incompleto,6516.227627217705
+287,Superior Completo,8440.01611237196
+288,Não Alfabetizado/ Fundamental I Incompleto,6440.348324264489
+288,Fundamental I Completo/ Fundamental II Incompleto,2307.8659210057517
+288,Fundamental II Completo/ Médio Incompleto,2394.2683342159658
+288,Médio Completo/ Superior Incompleto,5991.76284281792
+288,Superior Completo,4695.752923723278
+289,Não Alfabetizado/ Fundamental I Incompleto,13798.58303185397
+289,Fundamental I Completo/ Fundamental II Incompleto,7629.4743375503485
+289,Fundamental II Completo/ Médio Incompleto,5293.791926880987
+289,Médio Completo/ Superior Incompleto,12304.358102264154
+289,Superior Completo,8522.79212584916
+290,Não Alfabetizado/ Fundamental I Incompleto,8893.214438713241
+290,Fundamental I Completo/ Fundamental II Incompleto,6202.901760176475
+290,Fundamental II Completo/ Médio Incompleto,12885.501037058826
+290,Médio Completo/ Superior Incompleto,23894.56256395588
+290,Superior Completo,4188.812799382354
+291,Não Alfabetizado/ Fundamental I Incompleto,12766.177857860544
+291,Fundamental I Completo/ Fundamental II Incompleto,11040.571863088053
+291,Fundamental II Completo/ Médio Incompleto,13429.120957703128
+291,Médio Completo/ Superior Incompleto,29885.245295687364
+291,Superior Completo,8687.899090161887
+292,Não Alfabetizado/ Fundamental I Incompleto,16649.52131073572
+292,Fundamental I Completo/ Fundamental II Incompleto,10365.698729653574
+292,Fundamental II Completo/ Médio Incompleto,7831.287934525003
+292,Médio Completo/ Superior Incompleto,26674.74585173095
+292,Superior Completo,4111.734500435715
+293,Não Alfabetizado/ Fundamental I Incompleto,19388.554305597187
+293,Fundamental I Completo/ Fundamental II Incompleto,15034.485404907886
+293,Fundamental II Completo/ Médio Incompleto,16619.99404334865
+293,Médio Completo/ Superior Incompleto,28211.090110886853
+293,Superior Completo,6776.874131189109
+294,Não Alfabetizado/ Fundamental I Incompleto,27129.043276024455
+294,Fundamental I Completo/ Fundamental II Incompleto,20296.58804809053
+294,Fundamental II Completo/ Médio Incompleto,22003.10303624441
+294,Médio Completo/ Superior Incompleto,37787.610888420546
+294,Superior Completo,6260.668988148352
+295,Não Alfabetizado/ Fundamental I Incompleto,26940.118306028267
+295,Fundamental I Completo/ Fundamental II Incompleto,20899.516416251005
+295,Fundamental II Completo/ Médio Incompleto,25717.182919423074
+295,Médio Completo/ Superior Incompleto,37711.42700788034
+295,Superior Completo,2911.745151042918
+296,Não Alfabetizado/ Fundamental I Incompleto,727.35776635
+296,Fundamental I Completo/ Fundamental II Incompleto,1053.1102839177422
+296,Fundamental II Completo/ Médio Incompleto,1177.3877731290322
+296,Médio Completo/ Superior Incompleto,1190.1438270370966
+296,Superior Completo,0
+297,Não Alfabetizado/ Fundamental I Incompleto,643.546871568083
+297,Fundamental I Completo/ Fundamental II Incompleto,351.5208085249888
+297,Fundamental II Completo/ Médio Incompleto,356.9299010066809
+297,Médio Completo/ Superior Incompleto,975.2697188969231
+297,Superior Completo,579.7329572230701
+298,Não Alfabetizado/ Fundamental I Incompleto,39050.031837807895
+298,Fundamental I Completo/ Fundamental II Incompleto,24572.50067335705
+298,Fundamental II Completo/ Médio Incompleto,24010.206182661495
+298,Médio Completo/ Superior Incompleto,51285.51723777995
+298,Superior Completo,6729.758407915756
+299,Não Alfabetizado/ Fundamental I Incompleto,2341.302501553192
+299,Fundamental I Completo/ Fundamental II Incompleto,1202.424213829788
+299,Fundamental II Completo/ Médio Incompleto,2010.7838700000013
+299,Médio Completo/ Superior Incompleto,2404.4496881276614
+299,Superior Completo,404.03757845744707
+300,Não Alfabetizado/ Fundamental I Incompleto,4034.9132734962377
+300,Fundamental I Completo/ Fundamental II Incompleto,2477.680349253245
+300,Fundamental II Completo/ Médio Incompleto,1899.7748463277496
+300,Médio Completo/ Superior Incompleto,12518.72920422453
+300,Superior Completo,13973.91325802494
+301,Não Alfabetizado/ Fundamental I Incompleto,1425.6760870588196
+301,Fundamental I Completo/ Fundamental II Incompleto,591.2592308663084
+301,Fundamental II Completo/ Médio Incompleto,646.2071939839552
+301,Médio Completo/ Superior Incompleto,2495.271061155072
+301,Superior Completo,7324.588429556145
+302,Não Alfabetizado/ Fundamental I Incompleto,1963.2320611428552
+302,Fundamental I Completo/ Fundamental II Incompleto,903.2380152142848
+302,Fundamental II Completo/ Médio Incompleto,1982.3747209964267
+302,Médio Completo/ Superior Incompleto,4040.5042241714223
+302,Superior Completo,7497.651605992855
+303,Não Alfabetizado/ Fundamental I Incompleto,1220.2972847560025
+303,Fundamental I Completo/ Fundamental II Incompleto,1400.4902624859037
+303,Fundamental II Completo/ Médio Incompleto,896.3115373648797
+303,Médio Completo/ Superior Incompleto,3881.8691702299107
+303,Superior Completo,2926.030521449397
+304,Não Alfabetizado/ Fundamental I Incompleto,19660.108256022337
+304,Fundamental I Completo/ Fundamental II Incompleto,9449.768507706573
+304,Fundamental II Completo/ Médio Incompleto,13797.053108864677
+304,Médio Completo/ Superior Incompleto,26418.002526351313
+304,Superior Completo,9313.062396959449
+305,Não Alfabetizado/ Fundamental I Incompleto,33400.6549902227
+305,Fundamental I Completo/ Fundamental II Incompleto,19824.630157496475
+305,Fundamental II Completo/ Médio Incompleto,20672.3114222543
+305,Médio Completo/ Superior Incompleto,40532.5168664773
+305,Superior Completo,12860.897406116508
+306,Não Alfabetizado/ Fundamental I Incompleto,18006.716413610317
+306,Fundamental I Completo/ Fundamental II Incompleto,16960.16797051227
+306,Fundamental II Completo/ Médio Incompleto,11749.103594764714
+306,Médio Completo/ Superior Incompleto,25962.848258414237
+306,Superior Completo,9530.144405759811
+307,Não Alfabetizado/ Fundamental I Incompleto,30596.4375233954
+307,Fundamental I Completo/ Fundamental II Incompleto,24013.93084166294
+307,Fundamental II Completo/ Médio Incompleto,13289.794204364589
+307,Médio Completo/ Superior Incompleto,29959.39790594229
+307,Superior Completo,6556.4619231855695
+308,Não Alfabetizado/ Fundamental I Incompleto,7389.169038255801
+308,Fundamental I Completo/ Fundamental II Incompleto,3029.2963726937933
+308,Fundamental II Completo/ Médio Incompleto,4067.2236913038687
+308,Médio Completo/ Superior Incompleto,26959.572576665814
+308,Superior Completo,433.7481688255806
+309,Não Alfabetizado/ Fundamental I Incompleto,17128.24440984189
+309,Fundamental I Completo/ Fundamental II Incompleto,11711.479962022766
+309,Fundamental II Completo/ Médio Incompleto,9044.963667868982
+309,Médio Completo/ Superior Incompleto,24109.61981867842
+309,Superior Completo,3737.686042339414
+310,Não Alfabetizado/ Fundamental I Incompleto,4941.772312621533
+310,Fundamental I Completo/ Fundamental II Incompleto,7487.741452890635
+310,Fundamental II Completo/ Médio Incompleto,7270.2034273958425
+310,Médio Completo/ Superior Incompleto,7121.375393437511
+310,Superior Completo,1473.9037816840296
+311,Não Alfabetizado/ Fundamental I Incompleto,21241.920956810445
+311,Fundamental I Completo/ Fundamental II Incompleto,19281.945754366
+311,Fundamental II Completo/ Médio Incompleto,16512.76548581698
+311,Médio Completo/ Superior Incompleto,24691.519179333314
+311,Superior Completo,6807.850972915026
+312,Não Alfabetizado/ Fundamental I Incompleto,7516.922188327296
+312,Fundamental I Completo/ Fundamental II Incompleto,4134.001635049675
+312,Fundamental II Completo/ Médio Incompleto,5891.417542231355
+312,Médio Completo/ Superior Incompleto,14402.42591399303
+312,Superior Completo,6362.127119748237
+313,Não Alfabetizado/ Fundamental I Incompleto,6438.193099380526
+313,Fundamental I Completo/ Fundamental II Incompleto,6014.979232261083
+313,Fundamental II Completo/ Médio Incompleto,3630.798833829031
+313,Médio Completo/ Superior Incompleto,5420.2883494007965
+313,Superior Completo,2761.745197924651
+314,Não Alfabetizado/ Fundamental I Incompleto,17973.47580500001
+314,Fundamental I Completo/ Fundamental II Incompleto,20187.11288903115
+314,Fundamental II Completo/ Médio Incompleto,22886.763561696902
+314,Médio Completo/ Superior Incompleto,36114.54959743808
+314,Superior Completo,8093.1139227124595
+315,Não Alfabetizado/ Fundamental I Incompleto,34721.83855476172
+315,Fundamental I Completo/ Fundamental II Incompleto,23221.975222290763
+315,Fundamental II Completo/ Médio Incompleto,23445.04500837298
+315,Médio Completo/ Superior Incompleto,34930.82777202711
+315,Superior Completo,6122.338228239462
+316,Não Alfabetizado/ Fundamental I Incompleto,2299.6299968444655
+316,Fundamental I Completo/ Fundamental II Incompleto,754.7740951110613
+316,Fundamental II Completo/ Médio Incompleto,935.3405314608972
+316,Médio Completo/ Superior Incompleto,4190.07450557787
+316,Superior Completo,7380.180093201504
+317,Não Alfabetizado/ Fundamental I Incompleto,670.487709321736
+317,Fundamental I Completo/ Fundamental II Incompleto,353.5303008753606
+317,Fundamental II Completo/ Médio Incompleto,388.271158799998
+317,Médio Completo/ Superior Incompleto,903.63803886376445
+317,Superior Completo,1990.0736158956481
+318,Não Alfabetizado/ Fundamental I Incompleto,2938.967701603386
+318,Fundamental I Completo/ Fundamental II Incompleto,2467.374583646023
+318,Fundamental II Completo/ Médio Incompleto,3895.8412588922115
+318,Médio Completo/ Superior Incompleto,8269.013409925434
+318,Superior Completo,5336.798630792499
+319,Não Alfabetizado/ Fundamental I Incompleto,1203.2797953628594
+319,Fundamental I Completo/ Fundamental II Incompleto,632.6820350371445
+319,Fundamental II Completo/ Médio Incompleto,860.318900982858
+319,Médio Completo/ Superior Incompleto,2988.4899960457165
+319,Superior Completo,3330.2279278371507
+320,Não Alfabetizado/ Fundamental I Incompleto,27184.261169839723
+320,Fundamental I Completo/ Fundamental II Incompleto,10773.223550750883
+320,Fundamental II Completo/ Médio Incompleto,12520.525720819822
+320,Médio Completo/ Superior Incompleto,20888.95681852631
+320,Superior Completo,2494.026004260033
+321,Não Alfabetizado/ Fundamental I Incompleto,7270.179744342577
+321,Fundamental I Completo/ Fundamental II Incompleto,3198.7420118993764
+321,Fundamental II Completo/ Médio Incompleto,2785.6168190777985
+321,Médio Completo/ Superior Incompleto,11203.288102333487
+321,Superior Completo,18337.17764868459
+322,Não Alfabetizado/ Fundamental I Incompleto,7025.15416400959
+322,Fundamental I Completo/ Fundamental II Incompleto,2869.241022885394
+322,Fundamental II Completo/ Médio Incompleto,5062.581429177099
+322,Médio Completo/ Superior Incompleto,9804.437482422183
+322,Superior Completo,14678.579305619016
+323,Não Alfabetizado/ Fundamental I Incompleto,14403.306054426388
+323,Fundamental I Completo/ Fundamental II Incompleto,10530.17919828172
+323,Fundamental II Completo/ Médio Incompleto,8610.309785230771
+323,Médio Completo/ Superior Incompleto,19468.10006617463
+323,Superior Completo,9698.118482210599
+324,Não Alfabetizado/ Fundamental I Incompleto,26256.246959663724
+324,Fundamental I Completo/ Fundamental II Incompleto,6715.849183035754
+324,Fundamental II Completo/ Médio Incompleto,12166.506420898362
+324,Médio Completo/ Superior Incompleto,20110.743893227882
+324,Superior Completo,6101.64163019326
+325,Não Alfabetizado/ Fundamental I Incompleto,8337.977860835088
+325,Fundamental I Completo/ Fundamental II Incompleto,4575.1726432216165
+325,Fundamental II Completo/ Médio Incompleto,6558.4768768377735
+325,Médio Completo/ Superior Incompleto,14292.600227224952
+325,Superior Completo,6292.762389248149
+326,Não Alfabetizado/ Fundamental I Incompleto,7682.123383445188
+326,Fundamental I Completo/ Fundamental II Incompleto,13467.279407548684
+326,Fundamental II Completo/ Médio Incompleto,6211.190807418988
+326,Médio Completo/ Superior Incompleto,17446.340857863433
+326,Superior Completo,6248.077854316056
+327,Não Alfabetizado/ Fundamental I Incompleto,4501.350951006811
+327,Fundamental I Completo/ Fundamental II Incompleto,2268.669327473794
+327,Fundamental II Completo/ Médio Incompleto,1523.8975605921498
+327,Médio Completo/ Superior Incompleto,4201.303109653244
+327,Superior Completo,7227.776607951532
+328,Não Alfabetizado/ Fundamental I Incompleto,3214.4113314633273
+328,Fundamental I Completo/ Fundamental II Incompleto,2647.543909789605
+328,Fundamental II Completo/ Médio Incompleto,2947.1821466333095
+328,Médio Completo/ Superior Incompleto,3766.780925528033
+328,Superior Completo,10081.085376023448
+329,Não Alfabetizado/ Fundamental I Incompleto,5661.6993073544145
+329,Fundamental I Completo/ Fundamental II Incompleto,3577.130022399341
+329,Fundamental II Completo/ Médio Incompleto,3444.50059229631
+329,Médio Completo/ Superior Incompleto,12485.832428191563
+329,Superior Completo,9236.836896838337
+330,Não Alfabetizado/ Fundamental I Incompleto,7288.500366117605
+330,Fundamental I Completo/ Fundamental II Incompleto,1787.0545440920628
+330,Fundamental II Completo/ Médio Incompleto,6058.6583776603175
+330,Médio Completo/ Superior Incompleto,19263.21785392756
+330,Superior Completo,7884.5729348961
+331,Não Alfabetizado/ Fundamental I Incompleto,7818.995746117489
+331,Fundamental I Completo/ Fundamental II Incompleto,6222.900428181304
+331,Fundamental II Completo/ Médio Incompleto,6104.893019735638
+331,Médio Completo/ Superior Incompleto,16566.73648343869
+331,Superior Completo,5463.482582398028
+332,Não Alfabetizado/ Fundamental I Incompleto,10337.26154960936
+332,Fundamental I Completo/ Fundamental II Incompleto,5515.714594904815
+332,Fundamental II Completo/ Médio Incompleto,6942.942832299057
+332,Médio Completo/ Superior Incompleto,13879.8256793468
+332,Superior Completo,7056.268719902022
+333,Não Alfabetizado/ Fundamental I Incompleto,3742.144717208333
+333,Fundamental I Completo/ Fundamental II Incompleto,3170.1873944224285
+333,Fundamental II Completo/ Médio Incompleto,3786.683680920655
+333,Médio Completo/ Superior Incompleto,7817.215736363034
+333,Superior Completo,1448.76763400266
+334,Não Alfabetizado/ Fundamental I Incompleto,6480.2369391117645
+334,Fundamental I Completo/ Fundamental II Incompleto,9650.50337822353
+334,Fundamental II Completo/ Médio Incompleto,6467.377436162354
+334,Médio Completo/ Superior Incompleto,10063.254741721183
+334,Superior Completo,4021.63022715647
+335,Não Alfabetizado/ Fundamental I Incompleto,7237.166823961535
+335,Fundamental I Completo/ Fundamental II Incompleto,3970.0530637429465
+335,Fundamental II Completo/ Médio Incompleto,8096.545728849354
+335,Médio Completo/ Superior Incompleto,13588.111635532694
+335,Superior Completo,7486.131753285252
+336,Não Alfabetizado/ Fundamental I Incompleto,6935.19395150227
+336,Fundamental I Completo/ Fundamental II Incompleto,8938.277716429451
+336,Fundamental II Completo/ Médio Incompleto,15153.693979661852
+336,Médio Completo/ Superior Incompleto,8041.92410787878
+336,Superior Completo,6515.902293169174
+337,Não Alfabetizado/ Fundamental I Incompleto,3661.2866674887396
+337,Fundamental I Completo/ Fundamental II Incompleto,2542.004230302996
+337,Fundamental II Completo/ Médio Incompleto,2033.0515631087899
+337,Médio Completo/ Superior Incompleto,8785.218140810546
+337,Superior Completo,5515.435923831703
+338,Não Alfabetizado/ Fundamental I Incompleto,7659.751254125302
+338,Fundamental I Completo/ Fundamental II Incompleto,6770.007996454011
+338,Fundamental II Completo/ Médio Incompleto,3866.9209330968442
+338,Médio Completo/ Superior Incompleto,9407.477578978509
+338,Superior Completo,3839.849537749719
+339,Não Alfabetizado/ Fundamental I Incompleto,0
+339,Fundamental I Completo/ Fundamental II Incompleto,0
+339,Fundamental II Completo/ Médio Incompleto,0
+339,Médio Completo/ Superior Incompleto,0
+339,Superior Completo,0
+340,Não Alfabetizado/ Fundamental I Incompleto,700.6953947442267
+340,Fundamental I Completo/ Fundamental II Incompleto,704.3236037889069
+340,Fundamental II Completo/ Médio Incompleto,591.8105761387548
+340,Médio Completo/ Superior Incompleto,1697.1957931308023
+340,Superior Completo,4043.9720402544203
+341,Não Alfabetizado/ Fundamental I Incompleto,1647.568130479432
+341,Fundamental I Completo/ Fundamental II Incompleto,294.0896838993259
+341,Fundamental II Completo/ Médio Incompleto,813.9510695954664
+341,Médio Completo/ Superior Incompleto,3362.457851805218
+341,Superior Completo,4422.933708097885
+342,Não Alfabetizado/ Fundamental I Incompleto,4475.777024027315
+342,Fundamental I Completo/ Fundamental II Incompleto,2320.056529286897
+342,Fundamental II Completo/ Médio Incompleto,4517.870575620394
+342,Médio Completo/ Superior Incompleto,10715.181028442366
+342,Superior Completo,13678.109499054204
+343,Não Alfabetizado/ Fundamental I Incompleto,793.6775361652047
+343,Fundamental I Completo/ Fundamental II Incompleto,164.4065289941521
+343,Fundamental II Completo/ Médio Incompleto,681.362527385965
+343,Médio Completo/ Superior Incompleto,1411.0095005146204
+343,Superior Completo,526.5437397368422
+344,Não Alfabetizado/ Fundamental I Incompleto,7647.7321291304415
+344,Fundamental I Completo/ Fundamental II Incompleto,9887.033457706008
+344,Fundamental II Completo/ Médio Incompleto,6608.554860592137
+344,Médio Completo/ Superior Incompleto,23430.914054494828
+344,Superior Completo,5115.761847677023
+345,Não Alfabetizado/ Fundamental I Incompleto,8721.419283764142
+345,Fundamental I Completo/ Fundamental II Incompleto,8086.680493365222
+345,Fundamental II Completo/ Médio Incompleto,4873.809308854443
+345,Médio Completo/ Superior Incompleto,17363.127991212914
+345,Superior Completo,2100.95590683962
+346,Não Alfabetizado/ Fundamental I Incompleto,0
+346,Fundamental I Completo/ Fundamental II Incompleto,0
+346,Fundamental II Completo/ Médio Incompleto,0
+346,Médio Completo/ Superior Incompleto,0
+346,Superior Completo,0
+347,Não Alfabetizado/ Fundamental I Incompleto,22842.857351810588
+347,Fundamental I Completo/ Fundamental II Incompleto,7623.109138019536
+347,Fundamental II Completo/ Médio Incompleto,8705.561588065553
+347,Médio Completo/ Superior Incompleto,23485.615243747
+347,Superior Completo,6909.8766117200485
+348,Não Alfabetizado/ Fundamental I Incompleto,1421.4299049262142
+348,Fundamental I Completo/ Fundamental II Incompleto,811.5495376648337
+348,Fundamental II Completo/ Médio Incompleto,941.1643445824161
+348,Médio Completo/ Superior Incompleto,1488.6824380156968
+348,Superior Completo,348.1753058241758
+349,Não Alfabetizado/ Fundamental I Incompleto,0
+349,Fundamental I Completo/ Fundamental II Incompleto,0
+349,Fundamental II Completo/ Médio Incompleto,0
+349,Médio Completo/ Superior Incompleto,0
+349,Superior Completo,0
+350,Não Alfabetizado/ Fundamental I Incompleto,17854.178678842884
+350,Fundamental I Completo/ Fundamental II Incompleto,5555.817429448949
+350,Fundamental II Completo/ Médio Incompleto,11306.855008665729
+350,Médio Completo/ Superior Incompleto,33487.99759252258
+350,Superior Completo,3739.1452314881085
+351,Não Alfabetizado/ Fundamental I Incompleto,21679.98716844957
+351,Fundamental I Completo/ Fundamental II Incompleto,9725.589307095517
+351,Fundamental II Completo/ Médio Incompleto,6544.9799430959
+351,Médio Completo/ Superior Incompleto,31019.050897773897
+351,Superior Completo,6711.402143174154
+352,Não Alfabetizado/ Fundamental I Incompleto,0
+352,Fundamental I Completo/ Fundamental II Incompleto,0
+352,Fundamental II Completo/ Médio Incompleto,0
+352,Médio Completo/ Superior Incompleto,0
+352,Superior Completo,0
+353,Não Alfabetizado/ Fundamental I Incompleto,0
+353,Fundamental I Completo/ Fundamental II Incompleto,0
+353,Fundamental II Completo/ Médio Incompleto,0
+353,Médio Completo/ Superior Incompleto,0
+353,Superior Completo,0
+354,Não Alfabetizado/ Fundamental I Incompleto,0
+354,Fundamental I Completo/ Fundamental II Incompleto,0
+354,Fundamental II Completo/ Médio Incompleto,0
+354,Médio Completo/ Superior Incompleto,0
+354,Superior Completo,0
+355,Não Alfabetizado/ Fundamental I Incompleto,15790.138654085102
+355,Fundamental I Completo/ Fundamental II Incompleto,9411.61008639616
+355,Fundamental II Completo/ Médio Incompleto,8417.126834142597
+355,Médio Completo/ Superior Incompleto,22032.781656594452
+355,Superior Completo,2972.33847280392
+356,Não Alfabetizado/ Fundamental I Incompleto,29592.818347101074
+356,Fundamental I Completo/ Fundamental II Incompleto,17937.224722125073
+356,Fundamental II Completo/ Médio Incompleto,18855.63809502457
+356,Médio Completo/ Superior Incompleto,37376.50083348297
+356,Superior Completo,2061.839156256093
+357,Não Alfabetizado/ Fundamental I Incompleto,1577.8606357906972
+357,Fundamental I Completo/ Fundamental II Incompleto,997.0300843023249
+357,Fundamental II Completo/ Médio Incompleto,693.1065875348833
+357,Médio Completo/ Superior Incompleto,1834.7413205116272
+357,Superior Completo,119.26003599999993
+358,Não Alfabetizado/ Fundamental I Incompleto,9661.400419541915
+358,Fundamental I Completo/ Fundamental II Incompleto,10580.347803339504
+358,Fundamental II Completo/ Médio Incompleto,8272.70242609687
+358,Médio Completo/ Superior Incompleto,12064.285169986013
+358,Superior Completo,3325.258393599468
+359,Não Alfabetizado/ Fundamental I Incompleto,4881.46808381412
+359,Fundamental I Completo/ Fundamental II Incompleto,2341.3021392075984
+359,Fundamental II Completo/ Médio Incompleto,2169.971144724426
+359,Médio Completo/ Superior Incompleto,7026.151346373824
+359,Superior Completo,1386.1026807828862
+360,Não Alfabetizado/ Fundamental I Incompleto,4418.406513616439
+360,Fundamental I Completo/ Fundamental II Incompleto,3715.8705509445076
+360,Fundamental II Completo/ Médio Incompleto,4047.3444055173177
+360,Médio Completo/ Superior Incompleto,5586.943272423995
+360,Superior Completo,309.4382229337836
+361,Não Alfabetizado/ Fundamental I Incompleto,4588.499089898112
+361,Fundamental I Completo/ Fundamental II Incompleto,3734.753156230192
+361,Fundamental II Completo/ Médio Incompleto,1917.2545477927972
+361,Médio Completo/ Superior Incompleto,4023.1866926718812
+361,Superior Completo,642.3073961467464
+362,Não Alfabetizado/ Fundamental I Incompleto,2236.0519011494953
+362,Fundamental I Completo/ Fundamental II Incompleto,1174.5774551676775
+362,Fundamental II Completo/ Médio Incompleto,1124.4853590392981
+362,Médio Completo/ Superior Incompleto,3035.5966850398763
+362,Superior Completo,5714.288643396539
+363,Não Alfabetizado/ Fundamental I Incompleto,8893.194496399123
+363,Fundamental I Completo/ Fundamental II Incompleto,4912.482256807018
+363,Fundamental II Completo/ Médio Incompleto,5093.698774442983
+363,Médio Completo/ Superior Incompleto,12581.58485989694
+363,Superior Completo,10044.040394745618
+364,Não Alfabetizado/ Fundamental I Incompleto,4524.41752851932
+364,Fundamental I Completo/ Fundamental II Incompleto,2065.5883654033573
+364,Fundamental II Completo/ Médio Incompleto,2108.381647689072
+364,Médio Completo/ Superior Incompleto,4362.767734825201
+364,Superior Completo,357.84756199663855
+365,Não Alfabetizado/ Fundamental I Incompleto,862.7054865808514
+365,Fundamental I Completo/ Fundamental II Incompleto,641.4509492725742
+365,Fundamental II Completo/ Médio Incompleto,463.73693842930004
+365,Médio Completo/ Superior Incompleto,1759.370921304896
+365,Superior Completo,981.7370430987339
+366,Não Alfabetizado/ Fundamental I Incompleto,4619.047851517667
+366,Fundamental I Completo/ Fundamental II Incompleto,4375.6873952606475
+366,Fundamental II Completo/ Médio Incompleto,4632.662291982906
+366,Médio Completo/ Superior Incompleto,11982.235182325163
+366,Superior Completo,5915.361252769546
+367,Não Alfabetizado/ Fundamental I Incompleto,6265.340372013728
+367,Fundamental I Completo/ Fundamental II Incompleto,2276.7329539080665
+367,Fundamental II Completo/ Médio Incompleto,2539.2539985119965
+367,Médio Completo/ Superior Incompleto,10615.61734311204
+367,Superior Completo,6087.052691550482
+368,Não Alfabetizado/ Fundamental I Incompleto,9468.734172691396
+368,Fundamental I Completo/ Fundamental II Incompleto,6096.842903455265
+368,Fundamental II Completo/ Médio Incompleto,5319.999426219038
+368,Médio Completo/ Superior Incompleto,22124.70108283043
+368,Superior Completo,9046.733727635117
+369,Não Alfabetizado/ Fundamental I Incompleto,9989.690246314462
+369,Fundamental I Completo/ Fundamental II Incompleto,8244.501292435623
+369,Fundamental II Completo/ Médio Incompleto,9109.05747268126
+369,Médio Completo/ Superior Incompleto,19119.889762309573
+369,Superior Completo,9519.854183623562
+370,Não Alfabetizado/ Fundamental I Incompleto,18382.959894592594
+370,Fundamental I Completo/ Fundamental II Incompleto,11107.283371608803
+370,Fundamental II Completo/ Médio Incompleto,5719.1232839375025
+370,Médio Completo/ Superior Incompleto,34563.592589928245
+370,Superior Completo,16013.050791101856
+371,Não Alfabetizado/ Fundamental I Incompleto,19944.8174043682
+371,Fundamental I Completo/ Fundamental II Incompleto,10920.016681451161
+371,Fundamental II Completo/ Médio Incompleto,8290.073113691136
+371,Médio Completo/ Superior Incompleto,27557.194462432966
+371,Superior Completo,8783.90136156021
+372,Não Alfabetizado/ Fundamental I Incompleto,13018.52790196774
+372,Fundamental I Completo/ Fundamental II Incompleto,7606.789285389398
+372,Fundamental II Completo/ Médio Incompleto,10606.606158785828
+372,Médio Completo/ Superior Incompleto,26329.752837771437
+372,Superior Completo,9176.318541927536
+373,Não Alfabetizado/ Fundamental I Incompleto,16812.038306755367
+373,Fundamental I Completo/ Fundamental II Incompleto,15183.461689801676
+373,Fundamental II Completo/ Médio Incompleto,10171.530930041175
+373,Médio Completo/ Superior Incompleto,23879.638737809368
+373,Superior Completo,4632.341752165146
+374,Não Alfabetizado/ Fundamental I Incompleto,0
+374,Fundamental I Completo/ Fundamental II Incompleto,0
+374,Fundamental II Completo/ Médio Incompleto,0
+374,Médio Completo/ Superior Incompleto,0
+374,Superior Completo,0
+375,Não Alfabetizado/ Fundamental I Incompleto,25356.730793902927
+375,Fundamental I Completo/ Fundamental II Incompleto,13695.453736496758
+375,Fundamental II Completo/ Médio Incompleto,13677.745660187968
+375,Médio Completo/ Superior Incompleto,27836.966351417843
+375,Superior Completo,7122.091502790315
+376,Não Alfabetizado/ Fundamental I Incompleto,10315.900337182806
+376,Fundamental I Completo/ Fundamental II Incompleto,8314.727427767608
+376,Fundamental II Completo/ Médio Incompleto,3930.0167800311488
+376,Médio Completo/ Superior Incompleto,15558.06205877138
+376,Superior Completo,2333.284380377356
+377,Não Alfabetizado/ Fundamental I Incompleto,42751.40559807377
+377,Fundamental I Completo/ Fundamental II Incompleto,36471.63787754114
+377,Fundamental II Completo/ Médio Incompleto,29168.714054455137
+377,Médio Completo/ Superior Incompleto,67838.75268274674
+377,Superior Completo,11380.489955777954
+378,Não Alfabetizado/ Fundamental I Incompleto,21979.048250597152
+378,Fundamental I Completo/ Fundamental II Incompleto,24185.42774344653
+378,Fundamental II Completo/ Médio Incompleto,9613.182775909987
+378,Médio Completo/ Superior Incompleto,35757.791249521404
+378,Superior Completo,7103.53300201961
+379,Não Alfabetizado/ Fundamental I Incompleto,13110.27017078153
+379,Fundamental I Completo/ Fundamental II Incompleto,6202.610164946421
+379,Fundamental II Completo/ Médio Incompleto,12174.749879786288
+379,Médio Completo/ Superior Incompleto,24906.328541407136
+379,Superior Completo,3722.0377301654735
+380,Não Alfabetizado/ Fundamental I Incompleto,20441.170834910354
+380,Fundamental I Completo/ Fundamental II Incompleto,21645.59698706169
+380,Fundamental II Completo/ Médio Incompleto,20354.41208702883
+380,Médio Completo/ Superior Incompleto,35808.730622076015
+380,Superior Completo,6398.102121252281
+381,Não Alfabetizado/ Fundamental I Incompleto,0
+381,Fundamental I Completo/ Fundamental II Incompleto,0
+381,Fundamental II Completo/ Médio Incompleto,0
+381,Médio Completo/ Superior Incompleto,0
+381,Superior Completo,0
+382,Não Alfabetizado/ Fundamental I Incompleto,26989.411553442107
+382,Fundamental I Completo/ Fundamental II Incompleto,17034.091189187722
+382,Fundamental II Completo/ Médio Incompleto,11048.749063413628
+382,Médio Completo/ Superior Incompleto,38787.500929238915
+382,Superior Completo,4911.213765579739
+383,Não Alfabetizado/ Fundamental I Incompleto,23587.67892183333
+383,Fundamental I Completo/ Fundamental II Incompleto,7939.738429809743
+383,Fundamental II Completo/ Médio Incompleto,11136.378098686151
+383,Médio Completo/ Superior Incompleto,31614.802162279986
+383,Superior Completo,2522.3968783851283
+384,Não Alfabetizado/ Fundamental I Incompleto,7828.864886986588
+384,Fundamental I Completo/ Fundamental II Incompleto,4433.9980100923995
+384,Fundamental II Completo/ Médio Incompleto,6515.6590326617
+384,Médio Completo/ Superior Incompleto,9680.12042584203
+384,Superior Completo,425.352855272727
+385,Não Alfabetizado/ Fundamental I Incompleto,0
+385,Fundamental I Completo/ Fundamental II Incompleto,0
+385,Fundamental II Completo/ Médio Incompleto,0
+385,Médio Completo/ Superior Incompleto,0
+385,Superior Completo,0
+386,Não Alfabetizado/ Fundamental I Incompleto,1310.1039890714278
+386,Fundamental I Completo/ Fundamental II Incompleto,1022.9010455714275
+386,Fundamental II Completo/ Médio Incompleto,588.5877886428566
+386,Médio Completo/ Superior Incompleto,825.4598086428565
+386,Superior Completo,146.94690449999987
+387,Não Alfabetizado/ Fundamental I Incompleto,20158.55497417278
+387,Fundamental I Completo/ Fundamental II Incompleto,8571.22792652675
+387,Fundamental II Completo/ Médio Incompleto,9842.871725993828
+387,Médio Completo/ Superior Incompleto,31785.132416553155
+387,Superior Completo,5733.2144075899205
+388,Não Alfabetizado/ Fundamental I Incompleto,2278.342756606491
+388,Fundamental I Completo/ Fundamental II Incompleto,1275.6968159498244
+388,Fundamental II Completo/ Médio Incompleto,682.89893010192975
+388,Médio Completo/ Superior Incompleto,1902.0823989303512
+388,Superior Completo,254.97930494333337
+389,Não Alfabetizado/ Fundamental I Incompleto,12331.543526919828
+389,Fundamental I Completo/ Fundamental II Incompleto,4216.167862020135
+389,Fundamental II Completo/ Médio Incompleto,5194.72228836626
+389,Médio Completo/ Superior Incompleto,14237.12808278609
+389,Superior Completo,4497.432155354101
+390,Não Alfabetizado/ Fundamental I Incompleto,4107.132144226249
+390,Fundamental I Completo/ Fundamental II Incompleto,2391.344327665298
+390,Fundamental II Completo/ Médio Incompleto,2850.3607366295523
+390,Médio Completo/ Superior Incompleto,3153.6587135455425
+390,Superior Completo,1100.5046561235208
+391,Não Alfabetizado/ Fundamental I Incompleto,21972.787588949486
+391,Fundamental I Completo/ Fundamental II Incompleto,12316.92018854466
+391,Fundamental II Completo/ Médio Incompleto,14509.17594334826
+391,Médio Completo/ Superior Incompleto,29716.703095553057
+391,Superior Completo,4100.406626161547
+392,Não Alfabetizado/ Fundamental I Incompleto,0
+392,Fundamental I Completo/ Fundamental II Incompleto,0
+392,Fundamental II Completo/ Médio Incompleto,0
+392,Médio Completo/ Superior Incompleto,0
+392,Superior Completo,0
+393,Não Alfabetizado/ Fundamental I Incompleto,31619.16461499586
+393,Fundamental I Completo/ Fundamental II Incompleto,13100.914446302182
+393,Fundamental II Completo/ Médio Incompleto,13914.222123785685
+393,Médio Completo/ Superior Incompleto,40731.50400840937
+393,Superior Completo,5438.195962866097
+394,Não Alfabetizado/ Fundamental I Incompleto,4040.9906567246376
+394,Fundamental I Completo/ Fundamental II Incompleto,2339.050140306749
+394,Fundamental II Completo/ Médio Incompleto,3401.8407066181608
+394,Médio Completo/ Superior Incompleto,9340.496728337925
+394,Superior Completo,916.6209767173757
+395,Não Alfabetizado/ Fundamental I Incompleto,17194.86179296684
+395,Fundamental I Completo/ Fundamental II Incompleto,6933.5118659824475
+395,Fundamental II Completo/ Médio Incompleto,9937.618198457803
+395,Médio Completo/ Superior Incompleto,54835.38753539164
+395,Superior Completo,4553.603572895803
+396,Não Alfabetizado/ Fundamental I Incompleto,26410.11939366253
+396,Fundamental I Completo/ Fundamental II Incompleto,21573.800665607414
+396,Fundamental II Completo/ Médio Incompleto,19000.552916795034
+396,Médio Completo/ Superior Incompleto,31402.832287920894
+396,Superior Completo,8235.694072622893
+397,Não Alfabetizado/ Fundamental I Incompleto,18175.77251375663
+397,Fundamental I Completo/ Fundamental II Incompleto,14149.600748161263
+397,Fundamental II Completo/ Médio Incompleto,9953.044311268233
+397,Médio Completo/ Superior Incompleto,25663.221831843435
+397,Superior Completo,3656.3592155038777
+398,Não Alfabetizado/ Fundamental I Incompleto,24543.078411063398
+398,Fundamental I Completo/ Fundamental II Incompleto,24766.577973055824
+398,Fundamental II Completo/ Médio Incompleto,17764.47615264108
+398,Médio Completo/ Superior Incompleto,39387.98550393569
+398,Superior Completo,3970.8720919460343
+399,Não Alfabetizado/ Fundamental I Incompleto,21972.311683124404
+399,Fundamental I Completo/ Fundamental II Incompleto,13189.689608895433
+399,Fundamental II Completo/ Médio Incompleto,11696.199288365131
+399,Médio Completo/ Superior Incompleto,22006.267287757328
+399,Superior Completo,1698.5199722149894
+400,Não Alfabetizado/ Fundamental I Incompleto,24964.79209762525
+400,Fundamental I Completo/ Fundamental II Incompleto,19552.625496521057
+400,Fundamental II Completo/ Médio Incompleto,21396.918870299713
+400,Médio Completo/ Superior Incompleto,43601.727581056584
+400,Superior Completo,2431.9226293046763
+401,Não Alfabetizado/ Fundamental I Incompleto,36501.061827340265
+401,Fundamental I Completo/ Fundamental II Incompleto,19652.35701284528
+401,Fundamental II Completo/ Médio Incompleto,18110.80153689101
+401,Médio Completo/ Superior Incompleto,46517.82215375038
+401,Superior Completo,15325.95974826559
+402,Não Alfabetizado/ Fundamental I Incompleto,4409.763456434104
+402,Fundamental I Completo/ Fundamental II Incompleto,4057.161063811366
+402,Fundamental II Completo/ Médio Incompleto,2581.900152028421
+402,Médio Completo/ Superior Incompleto,7921.871386770019
+402,Superior Completo,1784.3086329457353
+403,Não Alfabetizado/ Fundamental I Incompleto,4045.9251876817525
+403,Fundamental I Completo/ Fundamental II Incompleto,941.1247772455126
+403,Fundamental II Completo/ Médio Incompleto,2357.481459141325
+403,Médio Completo/ Superior Incompleto,7888.332010753919
+403,Superior Completo,504.1381496844325
+404,Não Alfabetizado/ Fundamental I Incompleto,15069.229280682928
+404,Fundamental I Completo/ Fundamental II Incompleto,12323.988244103202
+404,Fundamental II Completo/ Médio Incompleto,14968.750428627416
+404,Médio Completo/ Superior Incompleto,28048.866148464465
+404,Superior Completo,17237.174470059945
+405,Não Alfabetizado/ Fundamental I Incompleto,6090.797196682923
+405,Fundamental I Completo/ Fundamental II Incompleto,3062.089145771951
+405,Fundamental II Completo/ Médio Incompleto,4271.54519046341
+405,Médio Completo/ Superior Incompleto,14060.318459253658
+405,Superior Completo,6407.253717925608
+406,Não Alfabetizado/ Fundamental I Incompleto,5782.956582116174
+406,Fundamental I Completo/ Fundamental II Incompleto,5171.130631521582
+406,Fundamental II Completo/ Médio Incompleto,4852.321167625415
+406,Médio Completo/ Superior Incompleto,11893.055359549982
+406,Superior Completo,7418.528429923037
+407,Não Alfabetizado/ Fundamental I Incompleto,23546.561453179034
+407,Fundamental I Completo/ Fundamental II Incompleto,25178.292225304423
+407,Fundamental II Completo/ Médio Incompleto,17643.70130187442
+407,Médio Completo/ Superior Incompleto,37191.454606659805
+407,Superior Completo,10436.963878566086
+408,Não Alfabetizado/ Fundamental I Incompleto,9832.268843992266
+408,Fundamental I Completo/ Fundamental II Incompleto,7008.567204320042
+408,Fundamental II Completo/ Médio Incompleto,8133.471792609304
+408,Médio Completo/ Superior Incompleto,21144.361431504436
+408,Superior Completo,1442.3338788806664
+409,Não Alfabetizado/ Fundamental I Incompleto,3958.5562615028607
+409,Fundamental I Completo/ Fundamental II Incompleto,3557.744284886134
+409,Fundamental II Completo/ Médio Incompleto,2543.0166361259357
+409,Médio Completo/ Superior Incompleto,6380.736482063945
+409,Superior Completo,353.9436113524297
+410,Não Alfabetizado/ Fundamental I Incompleto,1598.2683646832047
+410,Fundamental I Completo/ Fundamental II Incompleto,2659.638379048919
+410,Fundamental II Completo/ Médio Incompleto,2166.9533513146325
+410,Médio Completo/ Superior Incompleto,2658.031201291083
+410,Superior Completo,309.1091101482684
+411,Não Alfabetizado/ Fundamental I Incompleto,3569.925151865948
+411,Fundamental I Completo/ Fundamental II Incompleto,2687.8987794215736
+411,Fundamental II Completo/ Médio Incompleto,2106.478941374391
+411,Médio Completo/ Superior Incompleto,5390.934760464588
+411,Superior Completo,1609.7627578892166
+412,Não Alfabetizado/ Fundamental I Incompleto,5242.087619344321
+412,Fundamental I Completo/ Fundamental II Incompleto,4402.708070380952
+412,Fundamental II Completo/ Médio Incompleto,5631.204764280218
+412,Médio Completo/ Superior Incompleto,17781.413774648347
+412,Superior Completo,3272.5859772307695
+413,Não Alfabetizado/ Fundamental I Incompleto,9602.77677792222
+413,Fundamental I Completo/ Fundamental II Incompleto,4742.683385287036
+413,Fundamental II Completo/ Médio Incompleto,3331.1154546185185
+413,Médio Completo/ Superior Incompleto,6352.618901909254
+413,Superior Completo,2675.8074407166655
+414,Não Alfabetizado/ Fundamental I Incompleto,8448.929694544038
+414,Fundamental I Completo/ Fundamental II Incompleto,5891.204592080958
+414,Fundamental II Completo/ Médio Incompleto,4252.6326608443005
+414,Médio Completo/ Superior Incompleto,11863.794231465448
+414,Superior Completo,1020.436634833992
+415,Não Alfabetizado/ Fundamental I Incompleto,3591.0107665733626
+415,Fundamental I Completo/ Fundamental II Incompleto,3810.8186573209323
+415,Fundamental II Completo/ Médio Incompleto,3368.469564832983
+415,Médio Completo/ Superior Incompleto,4012.7760633687135
+415,Superior Completo,1775.9287137044407
+416,Não Alfabetizado/ Fundamental I Incompleto,6193.8971555844955
+416,Fundamental I Completo/ Fundamental II Incompleto,4325.896611522561
+416,Fundamental II Completo/ Médio Incompleto,6269.116991780952
+416,Médio Completo/ Superior Incompleto,9719.085410153744
+416,Superior Completo,2093.007263830645
+417,Não Alfabetizado/ Fundamental I Incompleto,9393.42536864474
+417,Fundamental I Completo/ Fundamental II Incompleto,4554.671458815792
+417,Fundamental II Completo/ Médio Incompleto,6754.080188743422
+417,Médio Completo/ Superior Incompleto,11265.550803187502
+417,Superior Completo,11801.273897565792
+418,Não Alfabetizado/ Fundamental I Incompleto,7304.571774636174
+418,Fundamental I Completo/ Fundamental II Incompleto,10482.787693688151
+418,Fundamental II Completo/ Médio Incompleto,4645.419252008316
+418,Médio Completo/ Superior Incompleto,18279.492211334713
+418,Superior Completo,9775.73710636175
+419,Não Alfabetizado/ Fundamental I Incompleto,7171.54719694538
+419,Fundamental I Completo/ Fundamental II Incompleto,5363.544571671209
+419,Fundamental II Completo/ Médio Incompleto,5267.1780919106095
+419,Médio Completo/ Superior Incompleto,8917.144734779022
+419,Superior Completo,10691.583825457974
+420,Não Alfabetizado/ Fundamental I Incompleto,686.4483279211466
+420,Fundamental I Completo/ Fundamental II Incompleto,799.9920318637987
+420,Fundamental II Completo/ Médio Incompleto,612.0699619354838
+420,Médio Completo/ Superior Incompleto,1548.1176346236555
+420,Superior Completo,813.3730299999996
+421,Não Alfabetizado/ Fundamental I Incompleto,2471.0097302074896
+421,Fundamental I Completo/ Fundamental II Incompleto,2013.440002377931
+421,Fundamental II Completo/ Médio Incompleto,1369.6150292593102
+421,Médio Completo/ Superior Incompleto,5007.100987915803
+421,Superior Completo,3966.835894143216
+422,Não Alfabetizado/ Fundamental I Incompleto,8955.574267704897
+422,Fundamental I Completo/ Fundamental II Incompleto,1448.1528794117617
+422,Fundamental II Completo/ Médio Incompleto,7029.158370008163
+422,Médio Completo/ Superior Incompleto,15145.379609066327
+422,Superior Completo,23180.7349328928
+423,Não Alfabetizado/ Fundamental I Incompleto,6288.317159927552
+423,Fundamental I Completo/ Fundamental II Incompleto,2551.485899956103
+423,Fundamental II Completo/ Médio Incompleto,3722.166387406596
+423,Médio Completo/ Superior Incompleto,11560.496758273634
+423,Superior Completo,7328.532576370006
+424,Não Alfabetizado/ Fundamental I Incompleto,4622.403910560001
+424,Fundamental I Completo/ Fundamental II Incompleto,3461.4769372947385
+424,Fundamental II Completo/ Médio Incompleto,2475.016548196078
+424,Médio Completo/ Superior Incompleto,9500.368797685933
+424,Superior Completo,3742.730755884402
+425,Não Alfabetizado/ Fundamental I Incompleto,5449.186751867307
+425,Fundamental I Completo/ Fundamental II Incompleto,3282.5807691801356
+425,Fundamental II Completo/ Médio Incompleto,4809.115892783335
+425,Médio Completo/ Superior Incompleto,10373.187110459088
+425,Superior Completo,2928.9311426825775
+426,Não Alfabetizado/ Fundamental I Incompleto,2651.020467261853
+426,Fundamental I Completo/ Fundamental II Incompleto,2836.566073711852
+426,Fundamental II Completo/ Médio Incompleto,1602.5691586784305
+426,Médio Completo/ Superior Incompleto,5580.5792355353815
+426,Superior Completo,6971.264381428877
+427,Não Alfabetizado/ Fundamental I Incompleto,6324.140069007302
+427,Fundamental I Completo/ Fundamental II Incompleto,4874.188231084929
+427,Fundamental II Completo/ Médio Incompleto,6119.651769292234
+427,Médio Completo/ Superior Incompleto,15215.472523077155
+427,Superior Completo,9392.558870392688
+428,Não Alfabetizado/ Fundamental I Incompleto,9291.175263279889
+428,Fundamental I Completo/ Fundamental II Incompleto,7090.6941881126895
+428,Fundamental II Completo/ Médio Incompleto,7942.520361228125
+428,Médio Completo/ Superior Incompleto,20077.55411203984
+428,Superior Completo,7589.061015589557
+429,Não Alfabetizado/ Fundamental I Incompleto,6793.000146330713
+429,Fundamental I Completo/ Fundamental II Incompleto,10970.819608800502
+429,Fundamental II Completo/ Médio Incompleto,7977.805463643201
+429,Médio Completo/ Superior Incompleto,23392.359089715294
+429,Superior Completo,10578.031030917251
+430,Não Alfabetizado/ Fundamental I Incompleto,7719.880136046711
+430,Fundamental I Completo/ Fundamental II Incompleto,4801.364022692662
+430,Fundamental II Completo/ Médio Incompleto,11770.496683325393
+430,Médio Completo/ Superior Incompleto,13710.562131782159
+430,Superior Completo,2867.693024222224
+431,Não Alfabetizado/ Fundamental I Incompleto,15609.928195392506
+431,Fundamental I Completo/ Fundamental II Incompleto,18647.156514700935
+431,Fundamental II Completo/ Médio Incompleto,18624.688206302555
+431,Médio Completo/ Superior Incompleto,33166.549699658055
+431,Superior Completo,19709.670997289508
+432,Não Alfabetizado/ Fundamental I Incompleto,22833.511565329165
+432,Fundamental I Completo/ Fundamental II Incompleto,13813.83550881893
+432,Fundamental II Completo/ Médio Incompleto,9332.1590751766
+432,Médio Completo/ Superior Incompleto,52844.80733985743
+432,Superior Completo,12617.700870116143
+433,Não Alfabetizado/ Fundamental I Incompleto,27616.750456665344
+433,Fundamental I Completo/ Fundamental II Incompleto,20558.755597328243
+433,Fundamental II Completo/ Médio Incompleto,18762.909910706985
+433,Médio Completo/ Superior Incompleto,44248.62829242727
+433,Superior Completo,6717.981175362892
+434,Não Alfabetizado/ Fundamental I Incompleto,775.3079948137469
+434,Fundamental I Completo/ Fundamental II Incompleto,533.9695722217292
+434,Fundamental II Completo/ Médio Incompleto,544.123360687361
+434,Médio Completo/ Superior Incompleto,1110.4822267560967
+434,Superior Completo,75.11574081152989
+435,Não Alfabetizado/ Fundamental I Incompleto,6424.153908627282
+435,Fundamental I Completo/ Fundamental II Incompleto,4125.817578314693
+435,Fundamental II Completo/ Médio Incompleto,4815.365833349182
+435,Médio Completo/ Superior Incompleto,12172.201292531343
+435,Superior Completo,6626.457891361542
+436,Não Alfabetizado/ Fundamental I Incompleto,23516.60737209293
+436,Fundamental I Completo/ Fundamental II Incompleto,14865.984966072112
+436,Fundamental II Completo/ Médio Incompleto,14584.427009215611
+436,Médio Completo/ Superior Incompleto,66369.01195909853
+436,Superior Completo,8546.990840969915
+437,Não Alfabetizado/ Fundamental I Incompleto,41709.52253188651
+437,Fundamental I Completo/ Fundamental II Incompleto,24246.995637227457
+437,Fundamental II Completo/ Médio Incompleto,30797.77443760114
+437,Médio Completo/ Superior Incompleto,63546.504867961776
+437,Superior Completo,7555.256383069798
+438,Não Alfabetizado/ Fundamental I Incompleto,15572.167034486949
+438,Fundamental I Completo/ Fundamental II Incompleto,22533.718292443715
+438,Fundamental II Completo/ Médio Incompleto,17106.974480119836
+438,Médio Completo/ Superior Incompleto,34226.151244635534
+438,Superior Completo,6321.962875017685
+439,Não Alfabetizado/ Fundamental I Incompleto,6501.694339685757
+439,Fundamental I Completo/ Fundamental II Incompleto,3461.4493224195026
+439,Fundamental II Completo/ Médio Incompleto,4694.871671317337
+439,Médio Completo/ Superior Incompleto,8444.977644436534
+439,Superior Completo,2169.0059216888526
+440,Não Alfabetizado/ Fundamental I Incompleto,14892.487195164931
+440,Fundamental I Completo/ Fundamental II Incompleto,9363.543512344151
+440,Fundamental II Completo/ Médio Incompleto,12373.492286820772
+440,Médio Completo/ Superior Incompleto,33429.2674764831
+440,Superior Completo,11176.229138097398
+441,Não Alfabetizado/ Fundamental I Incompleto,5378.498069537495
+441,Fundamental I Completo/ Fundamental II Incompleto,2909.2041210568873
+441,Fundamental II Completo/ Médio Incompleto,3533.187283865559
+441,Médio Completo/ Superior Incompleto,8522.198566225501
+441,Superior Completo,2480.9138369604575
+442,Não Alfabetizado/ Fundamental I Incompleto,3230.8715016748365
+442,Fundamental I Completo/ Fundamental II Incompleto,1815.7738299549976
+442,Fundamental II Completo/ Médio Incompleto,1649.8422811911573
+442,Médio Completo/ Superior Incompleto,5713.141201645442
+442,Superior Completo,1318.3691823521851
+443,Não Alfabetizado/ Fundamental I Incompleto,2556.5619989959837
+443,Fundamental I Completo/ Fundamental II Incompleto,3323.5494918729632
+443,Fundamental II Completo/ Médio Incompleto,2587.1348817592466
+443,Médio Completo/ Superior Incompleto,3809.966743302048
+443,Superior Completo,635.7868792113715
+444,Não Alfabetizado/ Fundamental I Incompleto,5270.219897185893
+444,Fundamental I Completo/ Fundamental II Incompleto,7715.838106415041
+444,Fundamental II Completo/ Médio Incompleto,4408.797525563933
+444,Médio Completo/ Superior Incompleto,16069.426392814003
+444,Superior Completo,2127.70993650985
+445,Não Alfabetizado/ Fundamental I Incompleto,17534.934015973296
+445,Fundamental I Completo/ Fundamental II Incompleto,7234.780224792428
+445,Fundamental II Completo/ Médio Incompleto,9179.90287990678
+445,Médio Completo/ Superior Incompleto,46594.0495917362
+445,Superior Completo,14938.301565395383
+446,Não Alfabetizado/ Fundamental I Incompleto,11469.328255637232
+446,Fundamental I Completo/ Fundamental II Incompleto,5492.116710072725
+446,Fundamental II Completo/ Médio Incompleto,6258.5816374675405
+446,Médio Completo/ Superior Incompleto,18604.124170849012
+446,Superior Completo,13163.839241433932
+447,Não Alfabetizado/ Fundamental I Incompleto,7849.313409646946
+447,Fundamental I Completo/ Fundamental II Incompleto,2817.651043920891
+447,Fundamental II Completo/ Médio Incompleto,3969.4196823448224
+447,Médio Completo/ Superior Incompleto,13616.714550586572
+447,Superior Completo,16220.894164034247
+448,Não Alfabetizado/ Fundamental I Incompleto,6770.512443313413
+448,Fundamental I Completo/ Fundamental II Incompleto,4965.53162294286
+448,Fundamental II Completo/ Médio Incompleto,5776.0712762672965
+448,Médio Completo/ Superior Incompleto,13255.739854229894
+448,Superior Completo,14706.15594650671
+449,Não Alfabetizado/ Fundamental I Incompleto,10798.91315994716
+449,Fundamental I Completo/ Fundamental II Incompleto,4857.677961844588
+449,Fundamental II Completo/ Médio Incompleto,8714.76878882372
+449,Médio Completo/ Superior Incompleto,20370.67300415352
+449,Superior Completo,22462.981651908885
+450,Não Alfabetizado/ Fundamental I Incompleto,38246.40954888029
+450,Fundamental I Completo/ Fundamental II Incompleto,27569.346832896405
+450,Fundamental II Completo/ Médio Incompleto,20324.39632464639
+450,Médio Completo/ Superior Incompleto,69563.4081068912
+450,Superior Completo,16556.43043736164
+451,Não Alfabetizado/ Fundamental I Incompleto,16804.041695504
+451,Fundamental I Completo/ Fundamental II Incompleto,14117.619618114577
+451,Fundamental II Completo/ Médio Incompleto,17138.428809163306
+451,Médio Completo/ Superior Incompleto,36975.92620432491
+451,Superior Completo,17134.98585316722
+452,Não Alfabetizado/ Fundamental I Incompleto,13501.46434266826
+452,Fundamental I Completo/ Fundamental II Incompleto,5465.763832450483
+452,Fundamental II Completo/ Médio Incompleto,7185.875535297648
+452,Médio Completo/ Superior Incompleto,18362.289635908397
+452,Superior Completo,2621.601418996161
+453,Não Alfabetizado/ Fundamental I Incompleto,7537.348837621293
+453,Fundamental I Completo/ Fundamental II Incompleto,2440.8979700799855
+453,Fundamental II Completo/ Médio Incompleto,3044.0873700706143
+453,Médio Completo/ Superior Incompleto,6271.767996698352
+453,Superior Completo,11325.88714338904
+454,Não Alfabetizado/ Fundamental I Incompleto,24691.25033866158
+454,Fundamental I Completo/ Fundamental II Incompleto,28708.207444834086
+454,Fundamental II Completo/ Médio Incompleto,18453.52008637512
+454,Médio Completo/ Superior Incompleto,50132.04856070822
+454,Superior Completo,20943.95245575102
+455,Não Alfabetizado/ Fundamental I Incompleto,10531.807209077371
+455,Fundamental I Completo/ Fundamental II Incompleto,8548.791504199828
+455,Fundamental II Completo/ Médio Incompleto,9048.378739277201
+455,Médio Completo/ Superior Incompleto,22441.681937271125
+455,Superior Completo,6855.34484177516
+456,Não Alfabetizado/ Fundamental I Incompleto,23523.42512568053
+456,Fundamental I Completo/ Fundamental II Incompleto,23205.934460189794
+456,Fundamental II Completo/ Médio Incompleto,21519.115830486084
+456,Médio Completo/ Superior Incompleto,26095.946825828687
+456,Superior Completo,5261.590471435183
+457,Não Alfabetizado/ Fundamental I Incompleto,20963.443324506166
+457,Fundamental I Completo/ Fundamental II Incompleto,17082.057060208546
+457,Fundamental II Completo/ Médio Incompleto,27112.6151837513
+457,Médio Completo/ Superior Incompleto,34653.43486017337
+457,Superior Completo,8143.432242595485
+458,Não Alfabetizado/ Fundamental I Incompleto,13108.531655575154
+458,Fundamental I Completo/ Fundamental II Incompleto,8850.007221228447
+458,Fundamental II Completo/ Médio Incompleto,9403.250960663345
+458,Médio Completo/ Superior Incompleto,25465.99970771055
+458,Superior Completo,4415.219267964666
+459,Não Alfabetizado/ Fundamental I Incompleto,18073.54969676297
+459,Fundamental I Completo/ Fundamental II Incompleto,11022.205106913792
+459,Fundamental II Completo/ Médio Incompleto,13028.273303963659
+459,Médio Completo/ Superior Incompleto,27013.474130412953
+459,Superior Completo,5379.5116424816215
+460,Não Alfabetizado/ Fundamental I Incompleto,12454.675956070183
+460,Fundamental I Completo/ Fundamental II Incompleto,6067.224677514623
+460,Fundamental II Completo/ Médio Incompleto,5416.847031602342
+460,Médio Completo/ Superior Incompleto,25598.512792461996
+460,Superior Completo,9597.726552883047
+461,Não Alfabetizado/ Fundamental I Incompleto,10180.141793041716
+461,Fundamental I Completo/ Fundamental II Incompleto,6604.823534745224
+461,Fundamental II Completo/ Médio Incompleto,7208.356574826426
+461,Médio Completo/ Superior Incompleto,19735.867734810185
+461,Superior Completo,4349.809779392987
+462,Não Alfabetizado/ Fundamental I Incompleto,20895.835474863128
+462,Fundamental I Completo/ Fundamental II Incompleto,16038.570535975852
+462,Fundamental II Completo/ Médio Incompleto,24129.8572432799
+462,Médio Completo/ Superior Incompleto,30603.868815860475
+462,Superior Completo,9302.849351581375
+463,Não Alfabetizado/ Fundamental I Incompleto,16231.619420958388
+463,Fundamental I Completo/ Fundamental II Incompleto,12656.006628302892
+463,Fundamental II Completo/ Médio Incompleto,6267.518469178835
+463,Médio Completo/ Superior Incompleto,25681.399814663564
+463,Superior Completo,5997.458393975712
+464,Não Alfabetizado/ Fundamental I Incompleto,17401.44970350902
+464,Fundamental I Completo/ Fundamental II Incompleto,19329.50784072884
+464,Fundamental II Completo/ Médio Incompleto,11787.895894253457
+464,Médio Completo/ Superior Incompleto,18716.77590822974
+464,Superior Completo,5462.356828319518
+465,Não Alfabetizado/ Fundamental I Incompleto,25364.235494492365
+465,Fundamental I Completo/ Fundamental II Incompleto,21367.93871840189
+465,Fundamental II Completo/ Médio Incompleto,21225.99825312922
+465,Médio Completo/ Superior Incompleto,41752.28375174983
+465,Superior Completo,6315.570314749591
+466,Não Alfabetizado/ Fundamental I Incompleto,12225.15615953406
+466,Fundamental I Completo/ Fundamental II Incompleto,12086.810790515952
+466,Fundamental II Completo/ Médio Incompleto,11363.738049472096
+466,Médio Completo/ Superior Incompleto,15643.326394168167
+466,Superior Completo,4406.974535222364
+467,Não Alfabetizado/ Fundamental I Incompleto,4055.8167890153272
+467,Fundamental I Completo/ Fundamental II Incompleto,3038.790073853857
+467,Fundamental II Completo/ Médio Incompleto,3175.9723836115263
+467,Médio Completo/ Superior Incompleto,7653.838852283337
+467,Superior Completo,1672.5784488873635
+468,Não Alfabetizado/ Fundamental I Incompleto,38058.46108387834
+468,Fundamental I Completo/ Fundamental II Incompleto,33717.8631327146
+468,Fundamental II Completo/ Médio Incompleto,20625.089079038997
+468,Médio Completo/ Superior Incompleto,50599.214622217514
+468,Superior Completo,9617.395292502657
+469,Não Alfabetizado/ Fundamental I Incompleto,1750.9905789887866
+469,Fundamental I Completo/ Fundamental II Incompleto,911.5626279827029
+469,Fundamental II Completo/ Médio Incompleto,839.1098038732285
+469,Médio Completo/ Superior Incompleto,1520.5982739111405
+469,Superior Completo,235.74005175984644
+470,Não Alfabetizado/ Fundamental I Incompleto,2030.7369079047594
+470,Fundamental I Completo/ Fundamental II Incompleto,1926.4508604380935
+470,Fundamental II Completo/ Médio Incompleto,881.5480925904756
+470,Médio Completo/ Superior Incompleto,2289.013679847617
+470,Superior Completo,806.2516441142852
+471,Não Alfabetizado/ Fundamental I Incompleto,3021.853289456628
+471,Fundamental I Completo/ Fundamental II Incompleto,4018.106022442911
+471,Fundamental II Completo/ Médio Incompleto,2701.0986313576414
+471,Médio Completo/ Superior Incompleto,4298.341745281029
+471,Superior Completo,1165.5988950411565
+472,Não Alfabetizado/ Fundamental I Incompleto,9035.723412561589
+472,Fundamental I Completo/ Fundamental II Incompleto,6456.513802938291
+472,Fundamental II Completo/ Médio Incompleto,5269.684076457798
+472,Médio Completo/ Superior Incompleto,16217.073188481645
+472,Superior Completo,2979.005121847115
+473,Não Alfabetizado/ Fundamental I Incompleto,5262.1155864125185
+473,Fundamental I Completo/ Fundamental II Incompleto,3351.764878650833
+473,Fundamental II Completo/ Médio Incompleto,2972.153804335197
+473,Médio Completo/ Superior Incompleto,7392.546248849248
+473,Superior Completo,1974.4239300718841
+474,Não Alfabetizado/ Fundamental I Incompleto,1234.2253987484755
+474,Fundamental I Completo/ Fundamental II Incompleto,1321.6068053307927
+474,Fundamental II Completo/ Médio Incompleto,1844.395432368902
+474,Médio Completo/ Superior Incompleto,1361.953480015244
+474,Superior Completo,188.81804860975615
+475,Não Alfabetizado/ Fundamental I Incompleto,9456.544737515145
+475,Fundamental I Completo/ Fundamental II Incompleto,5387.469940999997
+475,Fundamental II Completo/ Médio Incompleto,4383.425993688311
+475,Médio Completo/ Superior Incompleto,9812.40003032467
+475,Superior Completo,955.162703090909
+476,Não Alfabetizado/ Fundamental I Incompleto,19115.571118011925
+476,Fundamental I Completo/ Fundamental II Incompleto,15042.069664340277
+476,Fundamental II Completo/ Médio Incompleto,13170.27405903243
+476,Médio Completo/ Superior Incompleto,27781.304402561815
+476,Superior Completo,7857.767761355783
+477,Não Alfabetizado/ Fundamental I Incompleto,12037.556138101418
+477,Fundamental I Completo/ Fundamental II Incompleto,5980.730573393375
+477,Fundamental II Completo/ Médio Incompleto,5910.664208267476
+477,Médio Completo/ Superior Incompleto,14183.19124444486
+477,Superior Completo,8192.862970543893
+478,Não Alfabetizado/ Fundamental I Incompleto,0
+478,Fundamental I Completo/ Fundamental II Incompleto,0
+478,Fundamental II Completo/ Médio Incompleto,0
+478,Médio Completo/ Superior Incompleto,0
+478,Superior Completo,0
+479,Não Alfabetizado/ Fundamental I Incompleto,0
+479,Fundamental I Completo/ Fundamental II Incompleto,0
+479,Fundamental II Completo/ Médio Incompleto,0
+479,Médio Completo/ Superior Incompleto,0
+479,Superior Completo,0
+480,Não Alfabetizado/ Fundamental I Incompleto,9122.110757324657
+480,Fundamental I Completo/ Fundamental II Incompleto,4623.602645315882
+480,Fundamental II Completo/ Médio Incompleto,7892.662474391123
+480,Médio Completo/ Superior Incompleto,17820.62960640408
+480,Superior Completo,2591.001342711608
+481,Não Alfabetizado/ Fundamental I Incompleto,13133.097767024301
+481,Fundamental I Completo/ Fundamental II Incompleto,11710.425252313775
+481,Fundamental II Completo/ Médio Incompleto,12770.22747015791
+481,Médio Completo/ Superior Incompleto,23707.912846753043
+481,Superior Completo,3468.333750000004
+482,Não Alfabetizado/ Fundamental I Incompleto,4994.433024529919
+482,Fundamental I Completo/ Fundamental II Incompleto,2887.371014957267
+482,Fundamental II Completo/ Médio Incompleto,3274.033161991457
+482,Médio Completo/ Superior Incompleto,7207.759274435901
+482,Superior Completo,1430.4040326666682
+483,Não Alfabetizado/ Fundamental I Incompleto,391.15436659166664
+483,Fundamental I Completo/ Fundamental II Incompleto,745.4009719416667
+483,Fundamental II Completo/ Médio Incompleto,348.0165271249999
+483,Médio Completo/ Superior Incompleto,806.4436592583334
+483,Superior Completo,1027.985080875
+484,Não Alfabetizado/ Fundamental I Incompleto,30330.566809277938
+484,Fundamental I Completo/ Fundamental II Incompleto,21052.50948370159
+484,Fundamental II Completo/ Médio Incompleto,18597.149071293832
+484,Médio Completo/ Superior Incompleto,46671.65106312958
+484,Superior Completo,15041.126833705051
+485,Não Alfabetizado/ Fundamental I Incompleto,23092.714241030466
+485,Fundamental I Completo/ Fundamental II Incompleto,21723.082413607866
+485,Fundamental II Completo/ Médio Incompleto,13778.154273445181
+485,Médio Completo/ Superior Incompleto,39977.941098863084
+485,Superior Completo,12101.105674939112
+486,Não Alfabetizado/ Fundamental I Incompleto,14581.686526634634
+486,Fundamental I Completo/ Fundamental II Incompleto,9250.34437084296
+486,Fundamental II Completo/ Médio Incompleto,11235.789390669885
+486,Médio Completo/ Superior Incompleto,30537.630563339782
+486,Superior Completo,4038.54908677084
+487,Não Alfabetizado/ Fundamental I Incompleto,7069.823735613007
+487,Fundamental I Completo/ Fundamental II Incompleto,6042.3369613450395
+487,Fundamental II Completo/ Médio Incompleto,4661.9238233932765
+487,Médio Completo/ Superior Incompleto,12002.54302518307
+487,Superior Completo,4006.362570712424
+488,Não Alfabetizado/ Fundamental I Incompleto,11761.53054328785
+488,Fundamental I Completo/ Fundamental II Incompleto,5793.952926324583
+488,Fundamental II Completo/ Médio Incompleto,5628.460243549993
+488,Médio Completo/ Superior Incompleto,15092.55155993353
+488,Superior Completo,5371.496926448434
+489,Não Alfabetizado/ Fundamental I Incompleto,700.6328661051492
+489,Fundamental I Completo/ Fundamental II Incompleto,492.4390241017164
+489,Fundamental II Completo/ Médio Incompleto,421.78660522276425
+489,Médio Completo/ Superior Incompleto,1765.3754398563651
+489,Superior Completo,1074.7661417676613
+490,Não Alfabetizado/ Fundamental I Incompleto,2038.420879573974
+490,Fundamental I Completo/ Fundamental II Incompleto,1019.9338357290546
+490,Fundamental II Completo/ Médio Incompleto,1469.4313906363625
+490,Médio Completo/ Superior Incompleto,4877.4396366755755
+490,Superior Completo,2116.77282140998
+491,Não Alfabetizado/ Fundamental I Incompleto,8337.385632007852
+491,Fundamental I Completo/ Fundamental II Incompleto,3607.8050784905663
+491,Fundamental II Completo/ Médio Incompleto,2997.2247074564175
+491,Médio Completo/ Superior Incompleto,13633.613814683518
+491,Superior Completo,8323.96531503275
+492,Não Alfabetizado/ Fundamental I Incompleto,11278.065433305102
+492,Fundamental I Completo/ Fundamental II Incompleto,4888.704841324564
+492,Fundamental II Completo/ Médio Incompleto,10551.459530560865
+492,Médio Completo/ Superior Incompleto,20309.580677428945
+492,Superior Completo,13234.198564105523
+493,Não Alfabetizado/ Fundamental I Incompleto,7776.317830398808
+493,Fundamental I Completo/ Fundamental II Incompleto,5192.733199258577
+493,Fundamental II Completo/ Médio Incompleto,5045.796794477509
+493,Médio Completo/ Superior Incompleto,10583.531627802946
+493,Superior Completo,2432.618299375355
+494,Não Alfabetizado/ Fundamental I Incompleto,11352.438160344778
+494,Fundamental I Completo/ Fundamental II Incompleto,12792.358191366933
+494,Fundamental II Completo/ Médio Incompleto,6260.8470617484845
+494,Médio Completo/ Superior Incompleto,26990.69852196466
+494,Superior Completo,6166.67148404866
+495,Não Alfabetizado/ Fundamental I Incompleto,24784.058096100573
+495,Fundamental I Completo/ Fundamental II Incompleto,17778.781865007157
+495,Fundamental II Completo/ Médio Incompleto,18228.782700278367
+495,Médio Completo/ Superior Incompleto,46694.290698964076
+495,Superior Completo,14483.089687011085
+496,Não Alfabetizado/ Fundamental I Incompleto,15025.090009757772
+496,Fundamental I Completo/ Fundamental II Incompleto,10533.555478828443
+496,Fundamental II Completo/ Médio Incompleto,10239.6515201672
+496,Médio Completo/ Superior Incompleto,24132.32109494515
+496,Superior Completo,12128.37191254574
+497,Não Alfabetizado/ Fundamental I Incompleto,2885.0279941082886
+497,Fundamental I Completo/ Fundamental II Incompleto,1778.935879048503
+497,Fundamental II Completo/ Médio Incompleto,1828.5570253751405
+497,Médio Completo/ Superior Incompleto,4531.482165882624
+497,Superior Completo,1766.0000223386846
+498,Não Alfabetizado/ Fundamental I Incompleto,2053.9788506789514
+498,Fundamental I Completo/ Fundamental II Incompleto,1354.9695648500024
+498,Fundamental II Completo/ Médio Incompleto,1271.2347822776337
+498,Médio Completo/ Superior Incompleto,4455.006646197373
+498,Superior Completo,2464.808001215794
+499,Não Alfabetizado/ Fundamental I Incompleto,30270.70080697186
+499,Fundamental I Completo/ Fundamental II Incompleto,23387.735037577546
+499,Fundamental II Completo/ Médio Incompleto,17530.516561820572
+499,Médio Completo/ Superior Incompleto,46231.24699638009
+499,Superior Completo,11919.785731108226
+500,Não Alfabetizado/ Fundamental I Incompleto,12441.65597239718
+500,Fundamental I Completo/ Fundamental II Incompleto,9771.8465564895
+500,Fundamental II Completo/ Médio Incompleto,5964.029464059292
+500,Médio Completo/ Superior Incompleto,18302.196124316597
+500,Superior Completo,3337.2843114258885
+501,Não Alfabetizado/ Fundamental I Incompleto,8682.460042295908
+501,Fundamental I Completo/ Fundamental II Incompleto,12109.502809693902
+501,Fundamental II Completo/ Médio Incompleto,10401.44144156016
+501,Médio Completo/ Superior Incompleto,14224.876215156766
+501,Superior Completo,5883.723481624715
+502,Não Alfabetizado/ Fundamental I Incompleto,6309.042662691863
+502,Fundamental I Completo/ Fundamental II Incompleto,5144.576783258724
+502,Fundamental II Completo/ Médio Incompleto,2816.9072275861226
+502,Médio Completo/ Superior Incompleto,6079.068764246734
+502,Superior Completo,392.4074423750001
+503,Não Alfabetizado/ Fundamental I Incompleto,1739.9664891399418
+503,Fundamental I Completo/ Fundamental II Incompleto,764.5150767902371
+503,Fundamental II Completo/ Médio Incompleto,737.7138770312157
+503,Médio Completo/ Superior Incompleto,1879.8579583524047
+503,Superior Completo,780.9484803281706
+504,Não Alfabetizado/ Fundamental I Incompleto,31273.790914161196
+504,Fundamental I Completo/ Fundamental II Incompleto,13018.93162744507
+504,Fundamental II Completo/ Médio Incompleto,16121.396251265582
+504,Médio Completo/ Superior Incompleto,40008.98257294508
+504,Superior Completo,5884.921841514657
+505,Não Alfabetizado/ Fundamental I Incompleto,1367.4179580227274
+505,Fundamental I Completo/ Fundamental II Incompleto,962.7027874873734
+505,Fundamental II Completo/ Médio Incompleto,758.0789487247471
+505,Médio Completo/ Superior Incompleto,2546.9102431489882
+505,Superior Completo,2297.8908036060598
+506,Não Alfabetizado/ Fundamental I Incompleto,6503.392859868002
+506,Fundamental I Completo/ Fundamental II Incompleto,3326.646655382285
+506,Fundamental II Completo/ Médio Incompleto,2976.0753049283644
+506,Médio Completo/ Superior Incompleto,12427.116105979683
+506,Superior Completo,8027.76695447748
+507,Não Alfabetizado/ Fundamental I Incompleto,5012.448888461238
+507,Fundamental I Completo/ Fundamental II Incompleto,1540.2181001989484
+507,Fundamental II Completo/ Médio Incompleto,2827.9506251176103
+507,Médio Completo/ Superior Incompleto,7998.6559075144005
+507,Superior Completo,5945.72993085987
+508,Não Alfabetizado/ Fundamental I Incompleto,33655.07498770348
+508,Fundamental I Completo/ Fundamental II Incompleto,22517.87438589658
+508,Fundamental II Completo/ Médio Incompleto,19420.63184971638
+508,Médio Completo/ Superior Incompleto,53482.92821421607
+508,Superior Completo,9776.48046359866
+509,Não Alfabetizado/ Fundamental I Incompleto,2070.560967682863
+509,Fundamental I Completo/ Fundamental II Incompleto,339.6694770413468
+509,Fundamental II Completo/ Médio Incompleto,817.07445402344365
+509,Médio Completo/ Superior Incompleto,2277.694066965898
+509,Superior Completo,0
+510,Não Alfabetizado/ Fundamental I Incompleto,0
+510,Fundamental I Completo/ Fundamental II Incompleto,0
+510,Fundamental II Completo/ Médio Incompleto,0
+510,Médio Completo/ Superior Incompleto,0
+510,Superior Completo,0
+511,Não Alfabetizado/ Fundamental I Incompleto,9638.429121356052
+511,Fundamental I Completo/ Fundamental II Incompleto,9236.338690820925
+511,Fundamental II Completo/ Médio Incompleto,4343.748238557665
+511,Médio Completo/ Superior Incompleto,11133.785368614614
+511,Superior Completo,1763.6892456176492
+512,Não Alfabetizado/ Fundamental I Incompleto,12800.963766359757
+512,Fundamental I Completo/ Fundamental II Incompleto,6657.525137666962
+512,Fundamental II Completo/ Médio Incompleto,8346.374917167903
+512,Médio Completo/ Superior Incompleto,18010.681443241017
+512,Superior Completo,4741.444760393602
+513,Não Alfabetizado/ Fundamental I Incompleto,1034.3140348137108
+513,Fundamental I Completo/ Fundamental II Incompleto,305.6166064992548
+513,Fundamental II Completo/ Médio Incompleto,560.6291973765523
+513,Médio Completo/ Superior Incompleto,1002.1357474744161
+513,Superior Completo,684.3052244570295
+514,Não Alfabetizado/ Fundamental I Incompleto,29048.443754169617
+514,Fundamental I Completo/ Fundamental II Incompleto,18544.20844356174
+514,Fundamental II Completo/ Médio Incompleto,15674.6715742173
+514,Médio Completo/ Superior Incompleto,32601.792461471374
+514,Superior Completo,8756.88047965528
+515,Não Alfabetizado/ Fundamental I Incompleto,29757.055543411287
+515,Fundamental I Completo/ Fundamental II Incompleto,14146.954799425272
+515,Fundamental II Completo/ Médio Incompleto,21370.023500659037
+515,Médio Completo/ Superior Incompleto,46072.42415539489
+515,Superior Completo,9474.550206794574
+516,Não Alfabetizado/ Fundamental I Incompleto,25237.561080437412
+516,Fundamental I Completo/ Fundamental II Incompleto,14957.828149423121
+516,Fundamental II Completo/ Médio Incompleto,19699.462203278774
+516,Médio Completo/ Superior Incompleto,40400.31289969511
+516,Superior Completo,31312.81451579233
+517,Não Alfabetizado/ Fundamental I Incompleto,5674.817553985392
+517,Fundamental I Completo/ Fundamental II Incompleto,2285.345719957792
+517,Fundamental II Completo/ Médio Incompleto,1518.8676515227273
+517,Médio Completo/ Superior Incompleto,7004.996805441557
+517,Superior Completo,1622.975572892857

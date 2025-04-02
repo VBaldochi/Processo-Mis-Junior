@@ -1,0 +1,4137 @@
+COD_ZONA,EMPREGOS_POR_VINCULO_EMPREGATICIO,QTD
+1,Assalariado com Carteira,50878.04872781296
+1,Assalariado sem Carteira,2696.982224101517
+1,Funcionário Público,10478.581133138236
+1,Autônomo,3936.3343573755355
+1,Empregador,1528.4076502450666
+1,Profissional Liberal,1959.0291357855106
+1,Dono de Negócio Familiar,374.9303033524963
+1,Trabalhador Familiar,0
+2,Assalariado com Carteira,31038.469026763043
+2,Assalariado sem Carteira,4186.388999024857
+2,Funcionário Público,4410.402319136323
+2,Autônomo,10162.664496329246
+2,Empregador,464.4823744339576
+2,Profissional Liberal,408.00434744719735
+2,Dono de Negócio Familiar,759.2346244972368
+2,Trabalhador Familiar,424.09112371903154
+3,Assalariado com Carteira,8482.44272431396
+3,Assalariado sem Carteira,743.9648829796953
+3,Funcionário Público,4459.6520572459685
+3,Autônomo,2485.3690497250172
+3,Empregador,589.7119224537543
+3,Profissional Liberal,1153.297237214159
+3,Dono de Negócio Familiar,632.90895957017494
+3,Trabalhador Familiar,0
+4,Assalariado com Carteira,11205.694190006763
+4,Assalariado sem Carteira,628.9170739988039
+4,Funcionário Público,3032.8251997082007
+4,Autônomo,5321.224760424236
+4,Empregador,204.90975930509168
+4,Profissional Liberal,1759.530617150007
+4,Dono de Negócio Familiar,237.64244460259596
+4,Trabalhador Familiar,163.1965584234694
+5,Assalariado com Carteira,54159.11895099025
+5,Assalariado sem Carteira,5952.220673259765
+5,Funcionário Público,5778.0736125420135
+5,Autônomo,8485.584079793529
+5,Empregador,3125.816466875745
+5,Profissional Liberal,6987.25699037242
+5,Dono de Negócio Familiar,4810.736423435651
+5,Trabalhador Familiar,187.84829744097235
+6,Assalariado com Carteira,22485.617965510202
+6,Assalariado sem Carteira,1643.2470933546535
+6,Funcionário Público,2957.240436821643
+6,Autônomo,6408.295056395489
+6,Empregador,1995.0719138096918
+6,Profissional Liberal,435.39668638461
+6,Dono de Negócio Familiar,2101.4033073478568
+6,Trabalhador Familiar,345.64981253846145
+7,Assalariado com Carteira,23664.889251281555
+7,Assalariado sem Carteira,1927.555539226125
+7,Funcionário Público,2331.20685998363
+7,Autônomo,4927.460045959695
+7,Empregador,834.9220589984343
+7,Profissional Liberal,336.4591955651566
+7,Dono de Negócio Familiar,927.7412085079357
+7,Trabalhador Familiar,97.67680050961539
+8,Assalariado com Carteira,11166.059354435949
+8,Assalariado sem Carteira,911.0490822869026
+8,Funcionário Público,977.3177543905678
+8,Autônomo,1502.0387316047606
+8,Empregador,72.03673915241637
+8,Profissional Liberal,0
+8,Dono de Negócio Familiar,451.65552758023483
+8,Trabalhador Familiar,0
+9,Assalariado com Carteira,9736.090535797934
+9,Assalariado sem Carteira,700.0703445212193
+9,Funcionário Público,2977.7967369362527
+9,Autônomo,2291.427780703686
+9,Empregador,522.8295876260089
+9,Profissional Liberal,210.36950466632715
+9,Dono de Negócio Familiar,53.79711247058825
+9,Trabalhador Familiar,0
+10,Assalariado com Carteira,5026.453066189878
+10,Assalariado sem Carteira,352.56052035729783
+10,Funcionário Público,631.9674715625763
+10,Autônomo,146.32503868891072
+10,Empregador,280.87575232820586
+10,Profissional Liberal,185.6457023707668
+10,Dono de Negócio Familiar,88.93729581176484
+10,Trabalhador Familiar,0
+11,Assalariado com Carteira,3266.0224358213636
+11,Assalariado sem Carteira,99.69452891736489
+11,Funcionário Público,0
+11,Autônomo,379.5831321681329
+11,Empregador,0
+11,Profissional Liberal,16.746443999999993
+11,Dono de Negócio Familiar,139.3640376899998
+11,Trabalhador Familiar,0
+12,Assalariado com Carteira,9682.252004075099
+12,Assalariado sem Carteira,3371.1202121231263
+12,Funcionário Público,851.7499872389349
+12,Autônomo,6045.151146394102
+12,Empregador,42.2921019826429
+12,Profissional Liberal,20.475956032258054
+12,Dono de Negócio Familiar,1054.9179644784722
+12,Trabalhador Familiar,0
+13,Assalariado com Carteira,5038.732685272277
+13,Assalariado sem Carteira,1080.4224045813328
+13,Funcionário Público,0
+13,Autônomo,2259.9487932594056
+13,Empregador,290.269882656605
+13,Profissional Liberal,0
+13,Dono de Negócio Familiar,524.0771117345223
+13,Trabalhador Familiar,87.92780726810692
+14,Assalariado com Carteira,18170.350660332668
+14,Assalariado sem Carteira,1229.5794813330897
+14,Funcionário Público,109.17265187662328
+14,Autônomo,5081.997474620134
+14,Empregador,1167.771293257231
+14,Profissional Liberal,75.18137104863615
+14,Dono de Negócio Familiar,1946.8475980591227
+14,Trabalhador Familiar,157.7632590624999
+15,Assalariado com Carteira,9663.802901662428
+15,Assalariado sem Carteira,375.38479814210984
+15,Funcionário Público,763.0957176482398
+15,Autônomo,3069.5729618951837
+15,Empregador,270.3449909312639
+15,Profissional Liberal,0
+15,Dono de Negócio Familiar,29.143879324675357
+15,Trabalhador Familiar,0
+16,Assalariado com Carteira,12545.479829364258
+16,Assalariado sem Carteira,550.6607024060377
+16,Funcionário Público,2040.242385245597
+16,Autônomo,2433.74157390936
+16,Empregador,72.97854402739736
+16,Profissional Liberal,325.25050898674857
+16,Dono de Negócio Familiar,515.9543174290284
+16,Trabalhador Familiar,0
+17,Assalariado com Carteira,6259.591143772083
+17,Assalariado sem Carteira,628.6922623005339
+17,Funcionário Público,0
+17,Autônomo,1734.4486117657943
+17,Empregador,94.67356188462963
+17,Profissional Liberal,37.3347245227273
+17,Dono de Negócio Familiar,522.5179867932534
+17,Trabalhador Familiar,83.55791561855813
+18,Assalariado com Carteira,17831.445645736956
+18,Assalariado sem Carteira,804.47545428
+18,Funcionário Público,1514.879949462256
+18,Autônomo,2824.278179773482
+18,Empregador,559.9977388780486
+18,Profissional Liberal,109.36288143037962
+18,Dono de Negócio Familiar,445.0843480383296
+18,Trabalhador Familiar,0
+19,Assalariado com Carteira,9655.881157489437
+19,Assalariado sem Carteira,530.7751159183681
+19,Funcionário Público,1647.8047491898137
+19,Autônomo,2939.0884427420488
+19,Empregador,281.5307726590192
+19,Profissional Liberal,382.5508897602036
+19,Dono de Negócio Familiar,998.2107113398472
+19,Trabalhador Familiar,12.023308766917264
+20,Assalariado com Carteira,2935.11887205639
+20,Assalariado sem Carteira,429.14674158608494
+20,Funcionário Público,1119.928934686847
+20,Autônomo,2809.674925764323
+20,Empregador,0
+20,Profissional Liberal,756.7660560167362
+20,Dono de Negócio Familiar,108.28854887096767
+20,Trabalhador Familiar,0
+21,Assalariado com Carteira,3532.9224118416937
+21,Assalariado sem Carteira,1834.2660147078054
+21,Funcionário Público,470.3201797333337
+21,Autônomo,2226.697643961012
+21,Empregador,0
+21,Profissional Liberal,947.8718796312704
+21,Dono de Negócio Familiar,672.967779385714
+21,Trabalhador Familiar,0
+22,Assalariado com Carteira,3979.372017317482
+22,Assalariado sem Carteira,0
+22,Funcionário Público,638.8344378692435
+22,Autônomo,3327.5323114226594
+22,Empregador,53.42232683076918
+22,Profissional Liberal,296.25790368923845
+22,Dono de Negócio Familiar,129.28708007534263
+22,Trabalhador Familiar,0
+23,Assalariado com Carteira,11633.148036036911
+23,Assalariado sem Carteira,1533.7556680645307
+23,Funcionário Público,1950.0066563912412
+23,Autônomo,2266.280719106835
+23,Empregador,106.64348310000001
+23,Profissional Liberal,301.0141153930216
+23,Dono de Negócio Familiar,123.80118795597951
+23,Trabalhador Familiar,0
+24,Assalariado com Carteira,10142.313325577446
+24,Assalariado sem Carteira,2383.0451702784885
+24,Funcionário Público,2526.066800040172
+24,Autônomo,1468.9255034683642
+24,Empregador,39.90561925
+24,Profissional Liberal,417.6783921593118
+24,Dono de Negócio Familiar,1018.1151557374156
+24,Trabalhador Familiar,0
+25,Assalariado com Carteira,7913.322760657416
+25,Assalariado sem Carteira,956.7281089022991
+25,Funcionário Público,0
+25,Autônomo,2983.6657503120737
+25,Empregador,30.84043835460983
+25,Profissional Liberal,83.84319457080133
+25,Dono de Negócio Familiar,173.49251612903217
+25,Trabalhador Familiar,0
+26,Assalariado com Carteira,7226.357579156527
+26,Assalariado sem Carteira,515.3604923685493
+26,Funcionário Público,1214.9833151939392
+26,Autônomo,1868.6574287661556
+26,Empregador,742.0893181023116
+26,Profissional Liberal,1291.6358967048573
+26,Dono de Negócio Familiar,459.69836704639084
+26,Trabalhador Familiar,101.66387358139542
+27,Assalariado com Carteira,34423.249383663366
+27,Assalariado sem Carteira,1003.1542577286839
+27,Funcionário Público,666.2916923837623
+27,Autônomo,4183.907382350695
+27,Empregador,626.1746696988832
+27,Profissional Liberal,3388.444539786043
+27,Dono de Negócio Familiar,563.999941222793
+27,Trabalhador Familiar,0
+28,Assalariado com Carteira,22817.946178158032
+28,Assalariado sem Carteira,1197.2500553065088
+28,Funcionário Público,329.7380300061505
+28,Autônomo,1661.597134189695
+28,Empregador,318.20200496816955
+28,Profissional Liberal,1542.5968907661124
+28,Dono de Negócio Familiar,565.1715580224121
+28,Trabalhador Familiar,0
+29,Assalariado com Carteira,32244.666477030096
+29,Assalariado sem Carteira,2383.5357479644304
+29,Funcionário Público,3045.8418921833927
+29,Autônomo,2179.786045429445
+29,Empregador,1221.0811626631364
+29,Profissional Liberal,3577.1711911647108
+29,Dono de Negócio Familiar,337.183164428537
+29,Trabalhador Familiar,421.51187075381085
+30,Assalariado com Carteira,11600.215576835848
+30,Assalariado sem Carteira,2105.066059890496
+30,Funcionário Público,106.34624005952348
+30,Autônomo,1347.6151221364394
+30,Empregador,284.88348955357293
+30,Profissional Liberal,2361.901256912414
+30,Dono de Negócio Familiar,742.7313362748366
+30,Trabalhador Familiar,34.05756747081723
+31,Assalariado com Carteira,17024.177557794217
+31,Assalariado sem Carteira,767.2318194559231
+31,Funcionário Público,3156.9823265625073
+31,Autônomo,2387.8357704376353
+31,Empregador,729.5252879513732
+31,Profissional Liberal,2981.1089579986665
+31,Dono de Negócio Familiar,55.40952375862074
+31,Trabalhador Familiar,0
+32,Assalariado com Carteira,37946.47052572624
+32,Assalariado sem Carteira,1916.0359425584238
+32,Funcionário Público,1726.379421134239
+32,Autônomo,3371.739992696112
+32,Empregador,836.7444417932206
+32,Profissional Liberal,2356.707468864183
+32,Dono de Negócio Familiar,82.74444230163454
+32,Trabalhador Familiar,0
+33,Assalariado com Carteira,2308.5181219205992
+33,Assalariado sem Carteira,204.3472797588426
+33,Funcionário Público,0
+33,Autônomo,457.6444035930189
+33,Empregador,13.594001518518471
+33,Profissional Liberal,121.97824402522323
+33,Dono de Negócio Familiar,20.37404003448278
+33,Trabalhador Familiar,0
+34,Assalariado com Carteira,7394.3709942839
+34,Assalariado sem Carteira,829.2685430056099
+34,Funcionário Público,0
+34,Autônomo,592.8058642702557
+34,Empregador,0
+34,Profissional Liberal,1088.1118295874458
+34,Dono de Negócio Familiar,60.30866971206245
+34,Trabalhador Familiar,0
+35,Assalariado com Carteira,21100.338206889835
+35,Assalariado sem Carteira,3248.9040832515384
+35,Funcionário Público,1722.437584891929
+35,Autônomo,7263.132850237827
+35,Empregador,1088.8340203075384
+35,Profissional Liberal,1369.795392155093
+35,Dono de Negócio Familiar,0
+35,Trabalhador Familiar,0
+36,Assalariado com Carteira,18386.98473167485
+36,Assalariado sem Carteira,1271.7113194547328
+36,Funcionário Público,1591.1978323510298
+36,Autônomo,6729.987988039664
+36,Empregador,608.7003387956995
+36,Profissional Liberal,1767.8471839764807
+36,Dono de Negócio Familiar,2776.910038675564
+36,Trabalhador Familiar,0
+37,Assalariado com Carteira,14293.868361918263
+37,Assalariado sem Carteira,1247.0583417622652
+37,Funcionário Público,1622.792648044524
+37,Autônomo,1418.7390108982765
+37,Empregador,110.89660945844064
+37,Profissional Liberal,131.93843033116877
+37,Dono de Negócio Familiar,194.32988710604835
+37,Trabalhador Familiar,0
+38,Assalariado com Carteira,4380.62675695352
+38,Assalariado sem Carteira,103.1212974428571
+38,Funcionário Público,0
+38,Autônomo,274.56385448319315
+38,Empregador,0
+38,Profissional Liberal,174.33525414761903
+38,Dono de Negócio Familiar,171.3996838285713
+38,Trabalhador Familiar,25.99984118571427
+39,Assalariado com Carteira,5482.64257577422
+39,Assalariado sem Carteira,857.014383191492
+39,Funcionário Público,1319.2516036639192
+39,Autônomo,821.224692067705
+39,Empregador,317.13312554643926
+39,Profissional Liberal,0
+39,Dono de Negócio Familiar,154.24291251428565
+39,Trabalhador Familiar,0
+40,Assalariado com Carteira,15026.875358453759
+40,Assalariado sem Carteira,442.16965463192656
+40,Funcionário Público,244.36928779387813
+40,Autônomo,1425.857008063256
+40,Empregador,8.683879589285702
+40,Profissional Liberal,196.60750661309484
+40,Dono de Negócio Familiar,285.978094582792
+40,Trabalhador Familiar,23.943402589285682
+41,Assalariado com Carteira,13979.759120105478
+41,Assalariado sem Carteira,2227.462753503459
+41,Funcionário Público,1157.3822988630798
+41,Autônomo,4228.717704038204
+41,Empregador,989.6408135341218
+41,Profissional Liberal,121.65232135793424
+41,Dono de Negócio Familiar,1703.8133363362178
+41,Trabalhador Familiar,0
+42,Assalariado com Carteira,6375.195255699176
+42,Assalariado sem Carteira,486.1997977687427
+42,Funcionário Público,0
+42,Autônomo,861.4898893820205
+42,Empregador,70.90675824285717
+42,Profissional Liberal,391.91260663292314
+42,Dono de Negócio Familiar,372.63859961562275
+42,Trabalhador Familiar,186.22472615180263
+43,Assalariado com Carteira,16720.471972846364
+43,Assalariado sem Carteira,883.2289787669545
+43,Funcionário Público,949.0511609152711
+43,Autônomo,3274.03511056119
+43,Empregador,110.4501202938861
+43,Profissional Liberal,745.3001560918154
+43,Dono de Negócio Familiar,1009.4194544889737
+43,Trabalhador Familiar,0
+44,Assalariado com Carteira,10233.307801201792
+44,Assalariado sem Carteira,2032.8328917537212
+44,Funcionário Público,357.0565946461537
+44,Autônomo,3104.1016388689845
+44,Empregador,717.509882986864
+44,Profissional Liberal,720.473231516666
+44,Dono de Negócio Familiar,835.8692341547475
+44,Trabalhador Familiar,41.24128659000015
+45,Assalariado com Carteira,24749.614030712914
+45,Assalariado sem Carteira,1831.5311614609898
+45,Funcionário Público,670.4559240363733
+45,Autônomo,3908.61081705549
+45,Empregador,206.92435943469815
+45,Profissional Liberal,1100.6853082692917
+45,Dono de Negócio Familiar,1013.9417140055634
+45,Trabalhador Familiar,0
+46,Assalariado com Carteira,7595.1495927879905
+46,Assalariado sem Carteira,982.2222363766591
+46,Funcionário Público,23.116802888888866
+46,Autônomo,4932.273338302849
+46,Empregador,182.56976735294117
+46,Profissional Liberal,182.28843454545455
+46,Dono de Negócio Familiar,2684.2926894119214
+46,Trabalhador Familiar,0
+47,Assalariado com Carteira,5172.6049901227425
+47,Assalariado sem Carteira,1001.4966176621218
+47,Funcionário Público,0
+47,Autônomo,5134.67962891686
+47,Empregador,0
+47,Profissional Liberal,561.4735676726772
+47,Dono de Negócio Familiar,106.3147302461538
+47,Trabalhador Familiar,0
+48,Assalariado com Carteira,7978.304845011599
+48,Assalariado sem Carteira,1221.5161675935415
+48,Funcionário Público,238.7338362648162
+48,Autônomo,3988.958738194132
+48,Empregador,363.3004710432061
+48,Profissional Liberal,641.7775853345255
+48,Dono de Negócio Familiar,434.64503501241705
+48,Trabalhador Familiar,0
+49,Assalariado com Carteira,12971.067182177821
+49,Assalariado sem Carteira,1078.0690733870447
+49,Funcionário Público,652.5374130123774
+49,Autônomo,3522.01514626118
+49,Empregador,460.74313788505754
+49,Profissional Liberal,990.3909169871481
+49,Dono de Negócio Familiar,334.32894822054124
+49,Trabalhador Familiar,0
+50,Assalariado com Carteira,588.9683775837775
+50,Assalariado sem Carteira,156.85247281436398
+50,Funcionário Público,65.22713787096791
+50,Autônomo,546.2027420909508
+50,Empregador,0
+50,Profissional Liberal,210.06644516397895
+50,Dono de Negócio Familiar,277.83317903494685
+50,Trabalhador Familiar,0
+51,Assalariado com Carteira,3804.363153587645
+51,Assalariado sem Carteira,981.8082732942365
+51,Funcionário Público,0
+51,Autônomo,957.0586110938067
+51,Empregador,327.1796120000002
+51,Profissional Liberal,636.5395874030388
+51,Dono de Negócio Familiar,366.5013397735843
+51,Trabalhador Familiar,91.62533494339607
+52,Assalariado com Carteira,10601.196477901914
+52,Assalariado sem Carteira,454.932957025444
+52,Funcionário Público,0
+52,Autônomo,1581.8837000631947
+52,Empregador,155.096155353846
+52,Profissional Liberal,1615.9104767362053
+52,Dono de Negócio Familiar,327.1796120000002
+52,Trabalhador Familiar,0
+53,Assalariado com Carteira,16208.779468219356
+53,Assalariado sem Carteira,2929.710472074423
+53,Funcionário Público,370.9223904724464
+53,Autônomo,1321.3520927439736
+53,Empregador,276.47829956361585
+53,Profissional Liberal,1647.8223554765157
+53,Dono de Negócio Familiar,296.7704781344641
+53,Trabalhador Familiar,0
+54,Assalariado com Carteira,20721.30756807382
+54,Assalariado sem Carteira,433.5128739625424
+54,Funcionário Público,2936.8623711005266
+54,Autônomo,1930.1401825343928
+54,Empregador,539.7006804659052
+54,Profissional Liberal,2905.356472170306
+54,Dono de Negócio Familiar,257.6213815380116
+54,Trabalhador Familiar,0
+55,Assalariado com Carteira,7640.541482283137
+55,Assalariado sem Carteira,2198.5740724018387
+55,Funcionário Público,681.1380984338643
+55,Autônomo,2653.7456199260796
+55,Empregador,621.2243946666665
+55,Profissional Liberal,1709.0755816647206
+55,Dono de Negócio Familiar,173.2719714107128
+55,Trabalhador Familiar,0
+56,Assalariado com Carteira,13064.898196237275
+56,Assalariado sem Carteira,2402.180273321225
+56,Funcionário Público,186.29130485031422
+56,Autônomo,2696.9589897283445
+56,Empregador,973.4830276246839
+56,Profissional Liberal,2770.0785902551106
+56,Dono de Negócio Familiar,48.81036578602
+56,Trabalhador Familiar,0
+57,Assalariado com Carteira,29467.438975039982
+57,Assalariado sem Carteira,2029.4246826624385
+57,Funcionário Público,2061.3232529971556
+57,Autônomo,5279.916635294959
+57,Empregador,1259.8510802238593
+57,Profissional Liberal,4220.2633327506155
+57,Dono de Negócio Familiar,827.1577647816359
+57,Trabalhador Familiar,0
+58,Assalariado com Carteira,6764.113711158846
+58,Assalariado sem Carteira,1715.959893109513
+58,Funcionário Público,88.2316091925463
+58,Autônomo,6088.247530459817
+58,Empregador,284.9762516404742
+58,Profissional Liberal,1285.6797648252323
+58,Dono de Negócio Familiar,200.57411978934806
+58,Trabalhador Familiar,0
+59,Assalariado com Carteira,19831.696460066134
+59,Assalariado sem Carteira,2477.1190319029074
+59,Funcionário Público,140.4774359101121
+59,Autônomo,4232.222035537135
+59,Empregador,1560.7795775205338
+59,Profissional Liberal,1755.953608402378
+59,Dono de Negócio Familiar,1652.9568321028125
+59,Trabalhador Familiar,0
+60,Assalariado com Carteira,8054.271902639059
+60,Assalariado sem Carteira,1376.4516208156313
+60,Funcionário Público,90.34916637160903
+60,Autônomo,4228.376917169713
+60,Empregador,643.7021977369147
+60,Profissional Liberal,890.4347692413581
+60,Dono de Negócio Familiar,104.25392074602343
+60,Trabalhador Familiar,0
+61,Assalariado com Carteira,11654.566582898278
+61,Assalariado sem Carteira,2058.392975129881
+61,Funcionário Público,688.4153688649021
+61,Autônomo,2971.1728652209545
+61,Empregador,142.36459885822316
+61,Profissional Liberal,777.2123710748942
+61,Dono de Negócio Familiar,442.5346453755935
+61,Trabalhador Familiar,0
+62,Assalariado com Carteira,9287.96859255615
+62,Assalariado sem Carteira,1835.1090196405612
+62,Funcionário Público,4371.606313405802
+62,Autônomo,2978.3908699300173
+62,Empregador,439.1000933613084
+62,Profissional Liberal,630.4432215517334
+62,Dono de Negócio Familiar,405.07617553338696
+62,Trabalhador Familiar,46.86288829268307
+63,Assalariado com Carteira,9524.408325191614
+63,Assalariado sem Carteira,131.43245770441717
+63,Funcionário Público,1461.7399490906232
+63,Autônomo,409.0345272152638
+63,Empregador,58.871924585543134
+63,Profissional Liberal,1054.2108488073322
+63,Dono de Negócio Familiar,10.12353899578056
+63,Trabalhador Familiar,0
+64,Assalariado com Carteira,27165.86150053832
+64,Assalariado sem Carteira,1592.43435421982
+64,Funcionário Público,354.5406983072925
+64,Autônomo,6322.812679996707
+64,Empregador,582.3747458283632
+64,Profissional Liberal,4023.001077418582
+64,Dono de Negócio Familiar,1124.77684434097
+64,Trabalhador Familiar,105.98995762119738
+65,Assalariado com Carteira,10393.562353569789
+65,Assalariado sem Carteira,1126.0510076179528
+65,Funcionário Público,0
+65,Autônomo,3890.473360144273
+65,Empregador,407.78651670322785
+65,Profissional Liberal,1674.9047248034626
+65,Dono de Negócio Familiar,62.94406808894803
+65,Trabalhador Familiar,0
+66,Assalariado com Carteira,16216.876084724017
+66,Assalariado sem Carteira,1661.3154477798064
+66,Funcionário Público,0
+66,Autônomo,2396.7597543645693
+66,Empregador,630.2807228197407
+66,Profissional Liberal,944.7508081966816
+66,Dono de Negócio Familiar,541.6158059451271
+66,Trabalhador Familiar,135.75371128962357
+67,Assalariado com Carteira,6214.580851995618
+67,Assalariado sem Carteira,436.85901448368236
+67,Funcionário Público,10.12353899578056
+67,Autônomo,869.5244472184258
+67,Empregador,174.20278521803948
+67,Profissional Liberal,940.1666351826932
+67,Dono de Negócio Familiar,119.44008146103894
+67,Trabalhador Familiar,0
+68,Assalariado com Carteira,53914.47930998429
+68,Assalariado sem Carteira,5979.261443781571
+68,Funcionário Público,574.8336543809106
+68,Autônomo,5456.352785077879
+68,Empregador,1097.0441272873734
+68,Profissional Liberal,5509.839835009671
+68,Dono de Negócio Familiar,905.4872463645721
+68,Trabalhador Familiar,128.23904366789458
+69,Assalariado com Carteira,17477.6661908623
+69,Assalariado sem Carteira,1012.9789385024877
+69,Funcionário Público,0
+69,Autônomo,2349.8769388498013
+69,Empregador,618.1143540130976
+69,Profissional Liberal,1787.177408294182
+69,Dono de Negócio Familiar,216.83608796301857
+69,Trabalhador Familiar,0
+70,Assalariado com Carteira,11372.493774625886
+70,Assalariado sem Carteira,3414.475676844616
+70,Funcionário Público,0
+70,Autônomo,3479.1389228273606
+70,Empregador,709.5794635520858
+70,Profissional Liberal,1064.0988186126929
+70,Dono de Negócio Familiar,284.19149571167134
+70,Trabalhador Familiar,0
+71,Assalariado com Carteira,12797.77491261818
+71,Assalariado sem Carteira,993.0652772712499
+71,Funcionário Público,87.42451054414047
+71,Autônomo,2752.1344284586958
+71,Empregador,428.80557502059895
+71,Profissional Liberal,3341.384854287145
+71,Dono de Negócio Familiar,214.88611444782595
+71,Trabalhador Familiar,0
+72,Assalariado com Carteira,20655.767585395686
+72,Assalariado sem Carteira,216.34838340597867
+72,Funcionário Público,170.06242199999983
+72,Autônomo,683.4288742421132
+72,Empregador,635.5806812772062
+72,Profissional Liberal,1543.5655078779046
+72,Dono de Negócio Familiar,389.3129583284814
+72,Trabalhador Familiar,155.51219707936517
+73,Assalariado com Carteira,79825.26661666324
+73,Assalariado sem Carteira,4314.9993782705005
+73,Funcionário Público,0
+73,Autônomo,6689.998514860727
+73,Empregador,2077.8641912074895
+73,Profissional Liberal,3620.457015967455
+73,Dono de Negócio Familiar,1068.806842235567
+73,Trabalhador Familiar,135.1948449473683
+74,Assalariado com Carteira,24343.640392720055
+74,Assalariado sem Carteira,2180.8743194068397
+74,Funcionário Público,1354.3149911988573
+74,Autônomo,3922.064978003338
+74,Empregador,915.3843216972274
+74,Profissional Liberal,3054.2917049317516
+74,Dono de Negócio Familiar,462.8707338148136
+74,Trabalhador Familiar,0
+75,Assalariado com Carteira,8663.931293134081
+75,Assalariado sem Carteira,342.44509194211054
+75,Funcionário Público,0
+75,Autônomo,1400.378014999171
+75,Empregador,323.2053961919388
+75,Profissional Liberal,1062.8936572946855
+75,Dono de Negócio Familiar,771.33504114583
+75,Trabalhador Familiar,0
+76,Assalariado com Carteira,13880.519325433572
+76,Assalariado sem Carteira,3179.307046357067
+76,Funcionário Público,220.05717739062487
+76,Autônomo,4283.974748421026
+76,Empregador,704.1104179546173
+76,Profissional Liberal,1341.044666735735
+76,Dono de Negócio Familiar,69.61716968002773
+76,Trabalhador Familiar,0
+77,Assalariado com Carteira,26857.790368305712
+77,Assalariado sem Carteira,2100.720994550281
+77,Funcionário Público,2370.756747816016
+77,Autônomo,3050.6621109439498
+77,Empregador,1077.8708472875267
+77,Profissional Liberal,3369.457631751832
+77,Dono de Negócio Familiar,122.97752095712842
+77,Trabalhador Familiar,0
+78,Assalariado com Carteira,16618.931616165628
+78,Assalariado sem Carteira,1059.9642681487092
+78,Funcionário Público,33.87546736423827
+78,Autônomo,3160.3578499844407
+78,Empregador,634.7377853595376
+78,Profissional Liberal,2942.9489591965184
+78,Dono de Negócio Familiar,481.21723470978
+78,Trabalhador Familiar,0
+79,Assalariado com Carteira,34521.67086428117
+79,Assalariado sem Carteira,2244.6271682265433
+79,Funcionário Público,3133.5976908662014
+79,Autônomo,1876.2205187073785
+79,Empregador,949.2236944735445
+79,Profissional Liberal,2875.66204224525
+79,Dono de Negócio Familiar,593.0987888897206
+79,Trabalhador Familiar,0
+80,Assalariado com Carteira,17903.012589842903
+80,Assalariado sem Carteira,2611.4993571766427
+80,Funcionário Público,85.16477262215389
+80,Autônomo,3780.5308459164307
+80,Empregador,725.9697127625395
+80,Profissional Liberal,1466.1252655133635
+80,Dono de Negócio Familiar,931.1510242662902
+80,Trabalhador Familiar,49.16380018656719
+81,Assalariado com Carteira,30135.665133375707
+81,Assalariado sem Carteira,1953.412136022894
+81,Funcionário Público,0
+81,Autônomo,4939.785184718619
+81,Empregador,1325.4621288127053
+81,Profissional Liberal,2594.7026842167475
+81,Dono de Negócio Familiar,691.825883394749
+81,Trabalhador Familiar,0
+82,Assalariado com Carteira,57145.471498925865
+82,Assalariado sem Carteira,2944.004263982082
+82,Funcionário Público,982.4996299313486
+82,Autônomo,7575.688770563988
+82,Empregador,1504.3590139708638
+82,Profissional Liberal,3045.924601258662
+82,Dono de Negócio Familiar,1581.5541011180567
+82,Trabalhador Familiar,294.3180382578725
+83,Assalariado com Carteira,14958.82921959209
+83,Assalariado sem Carteira,907.3482666130585
+83,Funcionário Público,533.7372419541962
+83,Autônomo,5982.633396165184
+83,Empregador,1399.2404526459463
+83,Profissional Liberal,3390.2914730419216
+83,Dono de Negócio Familiar,609.5240519449991
+83,Trabalhador Familiar,18.922007143617087
+84,Assalariado com Carteira,7177.437147995119
+84,Assalariado sem Carteira,1455.2665007500473
+84,Funcionário Público,0
+84,Autônomo,2432.0719724443907
+84,Empregador,546.3665348827549
+84,Profissional Liberal,986.6595336593717
+84,Dono de Negócio Familiar,165.20985239384638
+84,Trabalhador Familiar,0
+85,Assalariado com Carteira,2511.800370654264
+85,Assalariado sem Carteira,114.95732790479248
+85,Funcionário Público,0
+85,Autônomo,113.24421261805568
+85,Empregador,56.86991165625005
+85,Profissional Liberal,462.27367059768585
+85,Dono de Negócio Familiar,0
+85,Trabalhador Familiar,0
+86,Assalariado com Carteira,2306.960732467527
+86,Assalariado sem Carteira,546.4122258291234
+86,Funcionário Público,89.14401125000002
+86,Autônomo,596.5460773445958
+86,Empregador,131.2407978695589
+86,Profissional Liberal,217.0246378278854
+86,Dono de Negócio Familiar,15.691651877300638
+86,Trabalhador Familiar,0
+87,Assalariado com Carteira,4880.998566690922
+87,Assalariado sem Carteira,330.02828761491
+87,Funcionário Público,114.96624999999986
+87,Autônomo,3891.6967794638363
+87,Empregador,298.26645021581146
+87,Profissional Liberal,1135.5175055789941
+87,Dono de Negócio Familiar,192.54926447360896
+87,Trabalhador Familiar,0
+88,Assalariado com Carteira,9343.267613543849
+88,Assalariado sem Carteira,713.3777810663065
+88,Funcionário Público,375.55732432140644
+88,Autônomo,5315.833267375467
+88,Empregador,1910.1655413794374
+88,Profissional Liberal,4386.4025003961415
+88,Dono de Negócio Familiar,2047.3788124635732
+88,Trabalhador Familiar,20.90386647222224
+89,Assalariado com Carteira,1602.7144062730608
+89,Assalariado sem Carteira,210.1963558559553
+89,Funcionário Público,100.82809799999998
+89,Autônomo,1892.0777578333332
+89,Empregador,296.9690264285713
+89,Profissional Liberal,852.4303150714288
+89,Dono de Negócio Familiar,487.1858781407606
+89,Trabalhador Familiar,0
+90,Assalariado com Carteira,5376.619319382636
+90,Assalariado sem Carteira,335.25697840515977
+90,Funcionário Público,0
+90,Autônomo,2453.5566831960846
+90,Empregador,632.7206028054004
+90,Profissional Liberal,736.7112534327864
+90,Dono de Negócio Familiar,206.22317364907855
+90,Trabalhador Familiar,0
+91,Assalariado com Carteira,20897.19943405871
+91,Assalariado sem Carteira,1337.2941270745805
+91,Funcionário Público,901.3956428934342
+91,Autônomo,1175.6865467716407
+91,Empregador,27.283107272727275
+91,Profissional Liberal,0
+91,Dono de Negócio Familiar,57.268837991211086
+91,Trabalhador Familiar,0
+92,Assalariado com Carteira,9386.824068649517
+92,Assalariado sem Carteira,41.70773042857142
+92,Funcionário Público,925.108402630218
+92,Autônomo,1196.8718287294878
+92,Empregador,49.20360695628016
+92,Profissional Liberal,855.9724351650543
+92,Dono de Negócio Familiar,233.30604468461547
+92,Trabalhador Familiar,235.79598780000012
+93,Assalariado com Carteira,20334.35704874076
+93,Assalariado sem Carteira,1882.2760642431958
+93,Funcionário Público,709.9013394175754
+93,Autônomo,5119.384861979277
+93,Empregador,570.9863534018149
+93,Profissional Liberal,1581.2520313020007
+93,Dono de Negócio Familiar,296.6032229690588
+93,Trabalhador Familiar,0
+94,Assalariado com Carteira,13287.345711541808
+94,Assalariado sem Carteira,1126.276126052178
+94,Funcionário Público,516.6496200404378
+94,Autônomo,3489.240612048645
+94,Empregador,365.9391266022479
+94,Profissional Liberal,467.0040970374397
+94,Dono de Negócio Familiar,308.82432024208316
+94,Trabalhador Familiar,0
+95,Assalariado com Carteira,4466.7172121534295
+95,Assalariado sem Carteira,359.59964726308846
+95,Funcionário Público,0
+95,Autônomo,2370.7410635496226
+95,Empregador,777.2521310096981
+95,Profissional Liberal,1638.6435659081576
+95,Dono de Negócio Familiar,35.61596829838714
+95,Trabalhador Familiar,0
+96,Assalariado com Carteira,9492.536369432453
+96,Assalariado sem Carteira,412.95318529040077
+96,Funcionário Público,339.6983833649009
+96,Autônomo,1075.288645464328
+96,Empregador,123.14993931933842
+96,Profissional Liberal,535.1102514074896
+96,Dono de Negócio Familiar,0
+96,Trabalhador Familiar,0
+97,Assalariado com Carteira,8231.156134819981
+97,Assalariado sem Carteira,1471.6454299995864
+97,Funcionário Público,223.13408984615393
+97,Autônomo,2576.8872685887472
+97,Empregador,525.3570639828758
+97,Profissional Liberal,818.3332718899387
+97,Dono de Negócio Familiar,92.31273935195492
+97,Trabalhador Familiar,0
+98,Assalariado com Carteira,7221.008103271229
+98,Assalariado sem Carteira,197.69878500567228
+98,Funcionário Público,0
+98,Autônomo,717.764831672375
+98,Empregador,0
+98,Profissional Liberal,12.436694400000013
+98,Dono de Negócio Familiar,351.5366624987547
+98,Trabalhador Familiar,0
+99,Assalariado com Carteira,19087.542422389648
+99,Assalariado sem Carteira,173.79983711940284
+99,Funcionário Público,442.1435486424192
+99,Autônomo,2767.7716108415652
+99,Empregador,375.3291716908923
+99,Profissional Liberal,44.81297975884269
+99,Dono de Negócio Familiar,44.82369244782612
+99,Trabalhador Familiar,0
+100,Assalariado com Carteira,26572.30498493973
+100,Assalariado sem Carteira,2511.6735080159233
+100,Funcionário Público,1102.951391717612
+100,Autônomo,4566.135022735342
+100,Empregador,952.9876439007214
+100,Profissional Liberal,3558.946010467011
+100,Dono de Negócio Familiar,949.7918754357631
+100,Trabalhador Familiar,202.33416528301876
+101,Assalariado com Carteira,5636.527243176118
+101,Assalariado sem Carteira,0
+101,Funcionário Público,1133.1267864808917
+101,Autônomo,3502.98109055378
+101,Empregador,306.3437781304586
+101,Profissional Liberal,323.6553543783678
+101,Dono de Negócio Familiar,44.10007363218386
+101,Trabalhador Familiar,44.10007363218386
+102,Assalariado com Carteira,4117.858415851535
+102,Assalariado sem Carteira,597.6314604628458
+102,Funcionário Público,99.93180628327426
+102,Autônomo,2495.567829680468
+102,Empregador,150.52539390958913
+102,Profissional Liberal,379.66363824642724
+102,Dono de Negócio Familiar,285.5754121095888
+102,Trabalhador Familiar,49.369675205479396
+103,Assalariado com Carteira,2247.192287438837
+103,Assalariado sem Carteira,9.24855974712644
+103,Funcionário Público,0
+103,Autônomo,549.6726903639158
+103,Empregador,18.49711949425288
+103,Profissional Liberal,55.49135848275863
+103,Dono de Negócio Familiar,41.85166859770116
+103,Trabalhador Familiar,0
+104,Assalariado com Carteira,1077.7287434132406
+104,Assalariado sem Carteira,444.38964617822205
+104,Funcionário Público,390.2197746989078
+104,Autônomo,991.5213997433464
+104,Empregador,18.851867628865868
+104,Profissional Liberal,424.59062325772953
+104,Dono de Negócio Familiar,224.02066778644993
+104,Trabalhador Familiar,45.578313927834785
+105,Assalariado com Carteira,11231.354923785106
+105,Assalariado sem Carteira,395.7322273882689
+105,Funcionário Público,67.71863136111108
+105,Autônomo,3246.0033622863666
+105,Empregador,238.87819431343894
+105,Profissional Liberal,456.89717406920096
+105,Dono de Negócio Familiar,458.3898181054129
+105,Trabalhador Familiar,417.73514117617117
+106,Assalariado com Carteira,13038.591704553666
+106,Assalariado sem Carteira,1339.6257172112632
+106,Funcionário Público,1011.1259954875952
+106,Autônomo,4367.416852054747
+106,Empregador,620.2410998974997
+106,Profissional Liberal,0
+106,Dono de Negócio Familiar,576.6986512493904
+106,Trabalhador Familiar,0
+107,Assalariado com Carteira,8053.943397862741
+107,Assalariado sem Carteira,456.171076754918
+107,Funcionário Público,1466.7082794560863
+107,Autônomo,1404.3108996840074
+107,Empregador,369.013225807152
+107,Profissional Liberal,799.5017410869197
+107,Dono de Negócio Familiar,295.64922915559947
+107,Trabalhador Familiar,0
+108,Assalariado com Carteira,12041.380392474715
+108,Assalariado sem Carteira,520.9319663293271
+108,Funcionário Público,146.4015539024677
+108,Autônomo,2404.089896989396
+108,Empregador,97.90387362010327
+108,Profissional Liberal,12.75141565
+108,Dono de Negócio Familiar,215.8849537305831
+108,Trabalhador Familiar,105.07526771223019
+109,Assalariado com Carteira,10438.557198311795
+109,Assalariado sem Carteira,2379.279096983589
+109,Funcionário Público,1171.8799606962928
+109,Autônomo,14757.725655164133
+109,Empregador,117.59703220644249
+109,Profissional Liberal,0
+109,Dono de Negócio Familiar,5102.636201592738
+109,Trabalhador Familiar,417.43728785999934
+110,Assalariado com Carteira,6765.0080411925155
+110,Assalariado sem Carteira,743.4724465621882
+110,Funcionário Público,0
+110,Autônomo,6387.373364713831
+110,Empregador,1631.7558406448643
+110,Profissional Liberal,350.8757402566603
+110,Dono de Negócio Familiar,1242.1255560575305
+110,Trabalhador Familiar,0
+111,Assalariado com Carteira,8173.443834238919
+111,Assalariado sem Carteira,675.864967345627
+111,Funcionário Público,630.8803655489879
+111,Autônomo,4909.668733305794
+111,Empregador,737.2020251707313
+111,Profissional Liberal,999.1594650279227
+111,Dono de Negócio Familiar,1600.648397247645
+111,Trabalhador Familiar,0
+112,Assalariado com Carteira,7233.251908379024
+112,Assalariado sem Carteira,397.852249631781
+112,Funcionário Público,437.37172317289526
+112,Autônomo,4974.705325493071
+112,Empregador,488.9640730084932
+112,Profissional Liberal,0
+112,Dono de Negócio Familiar,352.08060412121205
+112,Trabalhador Familiar,0
+113,Assalariado com Carteira,12687.726608868143
+113,Assalariado sem Carteira,299.80105691401894
+113,Funcionário Público,0
+113,Autônomo,4171.1668434105
+113,Empregador,501.74376202685784
+113,Profissional Liberal,280.11145211104645
+113,Dono de Negócio Familiar,431.26703130176986
+113,Trabalhador Familiar,0
+114,Assalariado com Carteira,0
+114,Assalariado sem Carteira,0
+114,Funcionário Público,0
+114,Autônomo,210.67466585714286
+114,Empregador,0
+114,Profissional Liberal,0
+114,Dono de Negócio Familiar,0
+114,Trabalhador Familiar,0
+115,Assalariado com Carteira,3458.744506943535
+115,Assalariado sem Carteira,837.6263140151511
+115,Funcionário Público,252.63391742544474
+115,Autônomo,7681.933007604059
+115,Empregador,0
+115,Profissional Liberal,0
+115,Dono de Negócio Familiar,553.880743884323
+115,Trabalhador Familiar,0
+116,Assalariado com Carteira,10696.272437740568
+116,Assalariado sem Carteira,1839.8008047652959
+116,Funcionário Público,1948.8699254789067
+116,Autônomo,16065.322128904781
+116,Empregador,0
+116,Profissional Liberal,115.62552748809487
+116,Dono de Negócio Familiar,1517.491188848548
+116,Trabalhador Familiar,0
+117,Assalariado com Carteira,5003.138604124882
+117,Assalariado sem Carteira,152.05365603488397
+117,Funcionário Público,743.378789333333
+117,Autônomo,7628.750753938126
+117,Empregador,408.3758651313806
+117,Profissional Liberal,0
+117,Dono de Negócio Familiar,2602.6252172549034
+117,Trabalhador Familiar,0
+118,Assalariado com Carteira,1822.4148251981044
+118,Assalariado sem Carteira,197.8348872369349
+118,Funcionário Público,0
+118,Autônomo,1644.056299741974
+118,Empregador,342.4324932923089
+118,Profissional Liberal,0
+118,Dono de Negócio Familiar,0
+118,Trabalhador Familiar,0
+119,Assalariado com Carteira,3691.7778091905275
+119,Assalariado sem Carteira,1143.6683186818182
+119,Funcionário Público,368.0118006818179
+119,Autônomo,8381.558883358846
+119,Empregador,383.76095802202394
+119,Profissional Liberal,0
+119,Dono de Negócio Familiar,0
+119,Trabalhador Familiar,0
+120,Assalariado com Carteira,0
+120,Assalariado sem Carteira,0
+120,Funcionário Público,0
+120,Autônomo,0
+120,Empregador,0
+120,Profissional Liberal,0
+120,Dono de Negócio Familiar,0
+120,Trabalhador Familiar,0
+121,Assalariado com Carteira,2419.805620546365
+121,Assalariado sem Carteira,478.67305954347825
+121,Funcionário Público,605.5605100121952
+121,Autônomo,10522.158995810521
+121,Empregador,1076.1556515000002
+121,Profissional Liberal,0
+121,Dono de Negócio Familiar,588.1903935581394
+121,Trabalhador Familiar,0
+122,Assalariado com Carteira,1718.1210745564713
+122,Assalariado sem Carteira,295.0934050909091
+122,Funcionário Público,256.38386124999994
+122,Autônomo,6384.188442054503
+122,Empregador,0
+122,Profissional Liberal,0
+122,Dono de Negócio Familiar,955.7325263255818
+122,Trabalhador Familiar,0
+123,Assalariado com Carteira,789.635100434972
+123,Assalariado sem Carteira,418.482111826052
+123,Funcionário Público,524.5815505333327
+123,Autônomo,7875.201188833326
+123,Empregador,0
+123,Profissional Liberal,0
+123,Dono de Negócio Familiar,0
+123,Trabalhador Familiar,0
+124,Assalariado com Carteira,5906.659246538444
+124,Assalariado sem Carteira,2087.7297746794356
+124,Funcionário Público,2384.9364279620127
+124,Autônomo,6746.369334659459
+124,Empregador,52.58742346666658
+124,Profissional Liberal,0
+124,Dono de Negócio Familiar,0
+124,Trabalhador Familiar,480.2149750000002
+125,Assalariado com Carteira,2644.3490467293236
+125,Assalariado sem Carteira,83.011495125
+125,Funcionário Público,269.6087604999999
+125,Autônomo,7340.922766525415
+125,Empregador,18.851867628865868
+125,Profissional Liberal,44.81297975884269
+125,Dono de Negócio Familiar,1968.217622524765
+125,Trabalhador Familiar,0
+126,Assalariado com Carteira,6283.577366792526
+126,Assalariado sem Carteira,256.38386124999994
+126,Funcionário Público,375.1105441825495
+126,Autônomo,4477.565328619986
+126,Empregador,0
+126,Profissional Liberal,0
+126,Dono de Negócio Familiar,636.9158821449273
+126,Trabalhador Familiar,0
+127,Assalariado com Carteira,11452.259391719253
+127,Assalariado sem Carteira,1571.4515150034767
+127,Funcionário Público,512.6156537647711
+127,Autônomo,3848.1648530574216
+127,Empregador,888.5733694128273
+127,Profissional Liberal,659.0640021449273
+127,Dono de Negócio Familiar,956.8882946751415
+127,Trabalhador Familiar,0
+128,Assalariado com Carteira,10139.885062066629
+128,Assalariado sem Carteira,542.9687753182992
+128,Funcionário Público,738.3876402500003
+128,Autônomo,2143.596340505131
+128,Empregador,51.97253748935792
+128,Profissional Liberal,42.195094906637905
+128,Dono de Negócio Familiar,33.22728757798169
+128,Trabalhador Familiar,0
+129,Assalariado com Carteira,9903.767713276684
+129,Assalariado sem Carteira,2056.8001744022354
+129,Funcionário Público,457.66010074106475
+129,Autônomo,1363.2329903726452
+129,Empregador,228.1951394576273
+129,Profissional Liberal,285.12279655136257
+129,Dono de Negócio Familiar,163.495739916373
+129,Trabalhador Familiar,0
+130,Assalariado com Carteira,1859.5035780425578
+130,Assalariado sem Carteira,177.5488135555556
+130,Funcionário Público,1544.9935254980592
+130,Autônomo,276.72568867953674
+130,Empregador,0
+130,Profissional Liberal,0
+130,Dono de Negócio Familiar,0
+130,Trabalhador Familiar,0
+131,Assalariado com Carteira,9506.923025135384
+131,Assalariado sem Carteira,243.20218145565747
+131,Funcionário Público,89.01925876250394
+131,Autônomo,340.8979825256705
+131,Empregador,727.2825585283026
+131,Profissional Liberal,0
+131,Dono de Negócio Familiar,0
+131,Trabalhador Familiar,0
+132,Assalariado com Carteira,2343.375189260187
+132,Assalariado sem Carteira,420.8576751627909
+132,Funcionário Público,856.5162454261426
+132,Autônomo,0
+132,Empregador,0
+132,Profissional Liberal,250.354314647008
+132,Dono de Negócio Familiar,0
+132,Trabalhador Familiar,0
+133,Assalariado com Carteira,10244.861379902073
+133,Assalariado sem Carteira,1509.9686196020962
+133,Funcionário Público,400.91307424944966
+133,Autônomo,4118.4173878036445
+133,Empregador,486.4992341010711
+133,Profissional Liberal,1847.5868813637003
+133,Dono de Negócio Familiar,1757.664650459245
+133,Trabalhador Familiar,0
+134,Assalariado com Carteira,5493.382105639426
+134,Assalariado sem Carteira,691.3578656319369
+134,Funcionário Público,668.2849734892204
+134,Autônomo,4728.123107804748
+134,Empregador,727.2825585283026
+134,Profissional Liberal,372.0099490056573
+134,Dono de Negócio Familiar,1841.970930333333
+134,Trabalhador Familiar,183.5709714374999
+135,Assalariado com Carteira,9293.753650573897
+135,Assalariado sem Carteira,1246.6063650484386
+135,Funcionário Público,504.20130518464697
+135,Autônomo,3245.3542889124387
+135,Empregador,47.06107391666667
+135,Profissional Liberal,1297.8250561269347
+135,Dono de Negócio Familiar,1809.9742989451483
+135,Trabalhador Familiar,0
+136,Assalariado com Carteira,13777.94700075163
+136,Assalariado sem Carteira,1890.340043171792
+136,Funcionário Público,513.3359190012667
+136,Autônomo,5323.0858889708925
+136,Empregador,915.1188739320887
+136,Profissional Liberal,365.01732326836793
+136,Dono de Negócio Familiar,685.8554594583334
+136,Trabalhador Familiar,0
+137,Assalariado com Carteira,6166.473357529111
+137,Assalariado sem Carteira,3544.2183842476175
+137,Funcionário Público,869.1173504999998
+137,Autônomo,9363.405806269227
+137,Empregador,142.74019262499993
+137,Profissional Liberal,31.846894333333335
+137,Dono de Negócio Familiar,769.4619883646251
+137,Trabalhador Familiar,0
+138,Assalariado com Carteira,7886.7147955551945
+138,Assalariado sem Carteira,1637.2633998596357
+138,Funcionário Público,243.15381725
+138,Autônomo,1670.8843830875903
+138,Empregador,0
+138,Profissional Liberal,68.11857691929822
+138,Dono de Negócio Familiar,550.7161369333334
+138,Trabalhador Familiar,0
+139,Assalariado com Carteira,6491.91520152861
+139,Assalariado sem Carteira,1329.356350767399
+139,Funcionário Público,2311.059100235173
+139,Autônomo,2688.734079946779
+139,Empregador,816.1749877557793
+139,Profissional Liberal,235.31615097826096
+139,Dono de Negócio Familiar,63.50678960825256
+139,Trabalhador Familiar,231.50562747826095
+140,Assalariado com Carteira,7942.297940354171
+140,Assalariado sem Carteira,964.8608310346143
+140,Funcionário Público,56.802585000000036
+140,Autônomo,6204.320805057162
+140,Empregador,0
+140,Profissional Liberal,0
+140,Dono de Negócio Familiar,749.7974914883423
+140,Trabalhador Familiar,318.55716552307655
+141,Assalariado com Carteira,8136.820672544431
+141,Assalariado sem Carteira,619.9073314974505
+141,Funcionário Público,1751.3792441268042
+141,Autônomo,8958.347876755706
+141,Empregador,669.5878716657811
+141,Profissional Liberal,115.62552748809487
+141,Dono de Negócio Familiar,1601.2369204992415
+141,Trabalhador Familiar,0
+142,Assalariado com Carteira,1852.0714280833624
+142,Assalariado sem Carteira,2885.179911153195
+142,Funcionário Público,508.3790264517263
+142,Autônomo,10408.51742445725
+142,Empregador,0
+142,Profissional Liberal,0
+142,Dono de Negócio Familiar,2020.0477068889677
+142,Trabalhador Familiar,0
+143,Assalariado com Carteira,0
+143,Assalariado sem Carteira,0
+143,Funcionário Público,0
+143,Autônomo,0
+143,Empregador,0
+143,Profissional Liberal,0
+143,Dono de Negócio Familiar,0
+143,Trabalhador Familiar,0
+144,Assalariado com Carteira,13127.26686466951
+144,Assalariado sem Carteira,697.9660202671257
+144,Funcionário Público,722.6803267031463
+144,Autônomo,12774.286401111844
+144,Empregador,877.0112978400001
+144,Profissional Liberal,1846.963784534746
+144,Dono de Negócio Familiar,43.73673988505742
+144,Trabalhador Familiar,0
+145,Assalariado com Carteira,1284.1973157826367
+145,Assalariado sem Carteira,94.75159745454546
+145,Funcionário Público,83.683025
+145,Autônomo,888.2714461062205
+145,Empregador,0
+145,Profissional Liberal,0
+145,Dono de Negócio Familiar,41.52105133333332
+145,Trabalhador Familiar,0
+146,Assalariado com Carteira,0
+146,Assalariado sem Carteira,0
+146,Funcionário Público,0
+146,Autônomo,0
+146,Empregador,0
+146,Profissional Liberal,0
+146,Dono de Negócio Familiar,0
+146,Trabalhador Familiar,0
+147,Assalariado com Carteira,5844.681071391777
+147,Assalariado sem Carteira,0
+147,Funcionário Público,664.9503885644795
+147,Autônomo,6464.978781227391
+147,Empregador,47.06107391666667
+147,Profissional Liberal,147.65207153892197
+147,Dono de Negócio Familiar,141.18322175000003
+147,Trabalhador Familiar,0
+148,Assalariado com Carteira,3083.7959148987857
+148,Assalariado sem Carteira,1319.3566599592596
+148,Funcionário Público,0
+148,Autônomo,2085.9584220096144
+148,Empregador,55.18095899999999
+148,Profissional Liberal,717.8451506249996
+148,Dono de Negócio Familiar,573.8116957692306
+148,Trabalhador Familiar,0
+149,Assalariado com Carteira,68.44721766666667
+149,Assalariado sem Carteira,0
+149,Funcionário Público,0
+149,Autônomo,0
+149,Empregador,0
+149,Profissional Liberal,0
+149,Dono de Negócio Familiar,0
+149,Trabalhador Familiar,0
+150,Assalariado com Carteira,2329.908168696587
+150,Assalariado sem Carteira,703.8524932498046
+150,Funcionário Público,0
+150,Autônomo,5532.353911014078
+150,Empregador,15.691651877300638
+150,Profissional Liberal,450.4999811388267
+150,Dono de Negócio Familiar,959.965875994189
+150,Trabalhador Familiar,277.1447936515942
+151,Assalariado com Carteira,5254.663699686067
+151,Assalariado sem Carteira,425.09489399999995
+151,Funcionário Público,242.86986095848454
+151,Autônomo,12798.769563202033
+151,Empregador,264.4428620416667
+151,Profissional Liberal,0
+151,Dono de Negócio Familiar,2024.6984977469783
+151,Trabalhador Familiar,0
+152,Assalariado com Carteira,7135.018101450429
+152,Assalariado sem Carteira,294.80308270037744
+152,Funcionário Público,1512.2978969123158
+152,Autônomo,4621.365832912001
+152,Empregador,0
+152,Profissional Liberal,670.2281320354582
+152,Dono de Negócio Familiar,339.00108237722634
+152,Trabalhador Familiar,0
+153,Assalariado com Carteira,5709.249860400414
+153,Assalariado sem Carteira,914.4945662091502
+153,Funcionário Público,1079.2055945859015
+153,Autônomo,2243.93058389657
+153,Empregador,33.80017011764706
+153,Profissional Liberal,452.61901420433196
+153,Dono de Negócio Familiar,331.850949143325
+153,Trabalhador Familiar,0
+154,Assalariado com Carteira,8407.440396017904
+154,Assalariado sem Carteira,1278.559870234973
+154,Funcionário Público,839.9933415097503
+154,Autônomo,5567.691488072449
+154,Empregador,111.62679750704102
+154,Profissional Liberal,398.1716451032182
+154,Dono de Negócio Familiar,558.3007330876048
+154,Trabalhador Familiar,0
+155,Assalariado com Carteira,1160.0157349405897
+155,Assalariado sem Carteira,680.3878724618138
+155,Funcionário Público,227.6422952954544
+155,Autônomo,2779.054540034053
+155,Empregador,467.65326566666636
+155,Profissional Liberal,148.48451321428564
+155,Dono de Negócio Familiar,610.4025190023007
+155,Trabalhador Familiar,246.39337630188663
+156,Assalariado com Carteira,10299.717007901312
+156,Assalariado sem Carteira,124.42014720000006
+156,Funcionário Público,1964.3531150224478
+156,Autônomo,4423.833099607694
+156,Empregador,414.8849359764706
+156,Profissional Liberal,0
+156,Dono de Negócio Familiar,383.8426189411766
+156,Trabalhador Familiar,0
+157,Assalariado com Carteira,2013.6371851633053
+157,Assalariado sem Carteira,135.55051416666657
+157,Funcionário Público,1388.230377368419
+157,Autônomo,2998.040737486706
+157,Empregador,0
+157,Profissional Liberal,135.55051416666657
+157,Dono de Negócio Familiar,314.33782153846147
+157,Trabalhador Familiar,0
+158,Assalariado com Carteira,4547.865722825346
+158,Assalariado sem Carteira,462.0633982653058
+158,Funcionário Público,107.25594240000005
+158,Autônomo,1828.2593540816315
+158,Empregador,0
+158,Profissional Liberal,934.0776288750006
+158,Dono de Negócio Familiar,48.243160297619056
+158,Trabalhador Familiar,0
+159,Assalariado com Carteira,11686.01897262962
+159,Assalariado sem Carteira,1319.711123398316
+159,Funcionário Público,1663.9879902083335
+159,Autônomo,12502.163517584659
+159,Empregador,603.7175011915597
+159,Profissional Liberal,0
+159,Dono de Negócio Familiar,1427.1913330530665
+159,Trabalhador Familiar,0
+160,Assalariado com Carteira,4530.2886696391615
+160,Assalariado sem Carteira,1219.7238546274752
+160,Funcionário Público,199.0858225516091
+160,Autônomo,6233.878936360736
+160,Empregador,267.90113425
+160,Profissional Liberal,0
+160,Dono de Negócio Familiar,245.71927800000012
+160,Trabalhador Familiar,0
+161,Assalariado com Carteira,17917.34665968561
+161,Assalariado sem Carteira,2334.8617684927767
+161,Funcionário Público,1687.080396172038
+161,Autônomo,8754.915175499673
+161,Empregador,102.04016915662675
+161,Profissional Liberal,882.4127256329117
+161,Dono de Negócio Familiar,1526.9348467498812
+161,Trabalhador Familiar,0
+162,Assalariado com Carteira,9082.227912097245
+162,Assalariado sem Carteira,1826.0846030699695
+162,Funcionário Público,1107.0174517898708
+162,Autônomo,4120.953449618995
+162,Empregador,648.6048003231199
+162,Profissional Liberal,217.0583192265384
+162,Dono de Negócio Familiar,821.169405778184
+162,Trabalhador Familiar,0
+163,Assalariado com Carteira,9367.128215948065
+163,Assalariado sem Carteira,21.352845871921254
+163,Funcionário Público,923.2601661306982
+163,Autônomo,4463.596993523646
+163,Empregador,694.81114311928
+163,Profissional Liberal,880.5710880000004
+163,Dono de Negócio Familiar,968.770416094
+163,Trabalhador Familiar,0
+164,Assalariado com Carteira,9201.453425693171
+164,Assalariado sem Carteira,86.1256722976191
+164,Funcionário Público,7.4801095529411885
+164,Autônomo,1062.909604236323
+164,Empregador,76.76575560000003
+164,Profissional Liberal,0
+164,Dono de Negócio Familiar,71.28324439285718
+164,Trabalhador Familiar,0
+165,Assalariado com Carteira,10997.487860692567
+165,Assalariado sem Carteira,723.0894285974339
+165,Funcionário Público,304.72584193939394
+165,Autônomo,2187.1731721245046
+165,Empregador,34.05756747081723
+165,Profissional Liberal,12.314929714285729
+165,Dono de Negócio Familiar,73.661742658986185
+165,Trabalhador Familiar,0
+166,Assalariado com Carteira,21747.621109283926
+166,Assalariado sem Carteira,1642.105879715214
+166,Funcionário Público,256.5337698397408
+166,Autônomo,4095.3848356354533
+166,Empregador,451.2293934163273
+166,Profissional Liberal,1391.059895664937
+166,Dono de Negócio Familiar,768.934191003993
+166,Trabalhador Familiar,0
+167,Assalariado com Carteira,23607.285053871597
+167,Assalariado sem Carteira,3689.1098190769053
+167,Funcionário Público,1436.930369599963
+167,Autônomo,4656.348420250388
+167,Empregador,1029.9120633807106
+167,Profissional Liberal,1234.8875494991255
+167,Dono de Negócio Familiar,1838.989084183128
+167,Trabalhador Familiar,0
+168,Assalariado com Carteira,15060.351672679928
+168,Assalariado sem Carteira,1456.202936393997
+168,Funcionário Público,1108.1533312949969
+168,Autônomo,2552.6030111435393
+168,Empregador,0
+168,Profissional Liberal,1882.958955784904
+168,Dono de Negócio Familiar,98.24467681447955
+168,Trabalhador Familiar,0
+169,Assalariado com Carteira,9951.26969462044
+169,Assalariado sem Carteira,1394.1063308581859
+169,Funcionário Público,1193.9530112878483
+169,Autônomo,5389.58807934534
+169,Empregador,273.6168002863159
+169,Profissional Liberal,65.84986751351346
+169,Dono de Negócio Familiar,759.5294439211665
+169,Trabalhador Familiar,0
+170,Assalariado com Carteira,10852.139567408465
+170,Assalariado sem Carteira,1554.8826205009373
+170,Funcionário Público,1803.1915061807488
+170,Autônomo,4536.838004174566
+170,Empregador,34.05756747081723
+170,Profissional Liberal,778.9288479886059
+170,Dono de Negócio Familiar,307.40710921006337
+170,Trabalhador Familiar,0
+171,Assalariado com Carteira,7455.801739666721
+171,Assalariado sem Carteira,1130.5315716699374
+171,Funcionário Público,349.29461665338863
+171,Autônomo,4732.836165535437
+171,Empregador,0
+171,Profissional Liberal,1141.9245241289593
+171,Dono de Negócio Familiar,0
+171,Trabalhador Familiar,0
+172,Assalariado com Carteira,5563.2648881170035
+172,Assalariado sem Carteira,239.83109193749982
+172,Funcionário Público,570.7921887051976
+172,Autônomo,4266.185845285738
+172,Empregador,616.9019216363631
+172,Profissional Liberal,137.05045464274184
+172,Dono de Negócio Familiar,13.820573076923077
+172,Trabalhador Familiar,0
+173,Assalariado com Carteira,4882.16659969228
+173,Assalariado sem Carteira,429.6693659999997
+173,Funcionário Público,463.8248843538464
+173,Autônomo,2834.084591030173
+173,Empregador,411.13629918425096
+173,Profissional Liberal,0
+173,Dono de Negócio Familiar,0
+173,Trabalhador Familiar,0
+174,Assalariado com Carteira,1849.0294708018546
+174,Assalariado sem Carteira,541.0460381851558
+174,Funcionário Público,391.818260112782
+174,Autônomo,5867.29685129313
+174,Empregador,0
+174,Profissional Liberal,970.8205817631581
+174,Dono de Negócio Familiar,485.95945366666655
+174,Trabalhador Familiar,0
+175,Assalariado com Carteira,2035.3623444493965
+175,Assalariado sem Carteira,914.5714888222224
+175,Funcionário Público,0
+175,Autônomo,5310.4248043591615
+175,Empregador,0
+175,Profissional Liberal,0
+175,Dono de Negócio Familiar,1546.6507414730156
+175,Trabalhador Familiar,268.20589274285703
+176,Assalariado com Carteira,2231.141094379692
+176,Assalariado sem Carteira,1617.6098110872726
+176,Funcionário Público,449.32640585454544
+176,Autônomo,8365.829073766008
+176,Empregador,491.1475029117647
+176,Profissional Liberal,399.7087645090907
+176,Dono de Negócio Familiar,755.4224259669736
+176,Trabalhador Familiar,4367.150194145452
+177,Assalariado com Carteira,290.85287129729755
+177,Assalariado sem Carteira,163.5808879459462
+177,Funcionário Público,40.299166
+177,Autônomo,960.4865657001536
+177,Empregador,83.59703464864877
+177,Profissional Liberal,0
+177,Dono de Negócio Familiar,355.64013145946
+177,Trabalhador Familiar,0
+178,Assalariado com Carteira,722.3783918064508
+178,Assalariado sem Carteira,0
+178,Funcionário Público,279.5584367170957
+178,Autônomo,286.70730263157895
+178,Empregador,0
+178,Profissional Liberal,0
+178,Dono de Negócio Familiar,0
+178,Trabalhador Familiar,0
+179,Assalariado com Carteira,0
+179,Assalariado sem Carteira,0
+179,Funcionário Público,0
+179,Autônomo,0
+179,Empregador,0
+179,Profissional Liberal,0
+179,Dono de Negócio Familiar,0
+179,Trabalhador Familiar,0
+180,Assalariado com Carteira,3887.550154058606
+180,Assalariado sem Carteira,1176.9721566334688
+180,Funcionário Público,408.3596239895132
+180,Autônomo,7397.057697329654
+180,Empregador,481.9806577777777
+180,Profissional Liberal,250.22519111111112
+180,Dono de Negócio Familiar,843.0036157854254
+180,Trabalhador Familiar,0
+181,Assalariado com Carteira,5403.999283413141
+181,Assalariado sem Carteira,1098.3170283118948
+181,Funcionário Público,1609.1756977864559
+181,Autônomo,3795.6153883323573
+181,Empregador,0
+181,Profissional Liberal,0
+181,Dono de Negócio Familiar,664.0272188004056
+181,Trabalhador Familiar,147.64538491929818
+182,Assalariado com Carteira,6261.849701002429
+182,Assalariado sem Carteira,801.8698221954264
+182,Funcionário Público,1113.9592050754702
+182,Autônomo,7310.273670236407
+182,Empregador,0
+182,Profissional Liberal,0
+182,Dono de Negócio Familiar,1566.1330741062418
+182,Trabalhador Familiar,0
+183,Assalariado com Carteira,1654.8626870124233
+183,Assalariado sem Carteira,0
+183,Funcionário Público,1248.6327408949774
+183,Autônomo,4904.735952838792
+183,Empregador,0
+183,Profissional Liberal,0
+183,Dono de Negócio Familiar,0
+183,Trabalhador Familiar,0
+184,Assalariado com Carteira,2116.154614027266
+184,Assalariado sem Carteira,457.6764579659092
+184,Funcionário Público,284.7892660376821
+184,Autônomo,1930.4014747272743
+184,Empregador,47.16859589473683
+184,Profissional Liberal,0
+184,Dono de Negócio Familiar,140.69255892857134
+184,Trabalhador Familiar,0
+185,Assalariado com Carteira,2170.891788466663
+185,Assalariado sem Carteira,343.1158840028448
+185,Funcionário Público,0
+185,Autônomo,2356.37861531262
+185,Empregador,0
+185,Profissional Liberal,0
+185,Dono de Negócio Familiar,144.929129265306
+185,Trabalhador Familiar,0
+186,Assalariado com Carteira,1425.3389460442618
+186,Assalariado sem Carteira,96.0774364898988
+186,Funcionário Público,0
+186,Autônomo,927.7112879897561
+186,Empregador,85.93855556962038
+186,Profissional Liberal,118.742190379747
+186,Dono de Negócio Familiar,0
+186,Trabalhador Familiar,0
+187,Assalariado com Carteira,2258.9029641703423
+187,Assalariado sem Carteira,1048.8628098657944
+187,Funcionário Público,74.34339054545454
+187,Autônomo,5786.0118951949025
+187,Empregador,185.89257274358962
+187,Profissional Liberal,0
+187,Dono de Negócio Familiar,604.5622709824263
+187,Trabalhador Familiar,0
+188,Assalariado com Carteira,3445.876803208869
+188,Assalariado sem Carteira,279.7254403505156
+188,Funcionário Público,902.4450486365847
+188,Autônomo,2923.347772911552
+188,Empregador,0
+188,Profissional Liberal,0
+188,Dono de Negócio Familiar,747.6168227109016
+188,Trabalhador Familiar,0
+189,Assalariado com Carteira,4001.430111773686
+189,Assalariado sem Carteira,141.8699424744191
+189,Funcionário Público,1123.5161923773658
+189,Autônomo,4865.612661888711
+189,Empregador,0
+189,Profissional Liberal,102.04016915662675
+189,Dono de Negócio Familiar,459.69836704639084
+189,Trabalhador Familiar,0
+190,Assalariado com Carteira,9134.174396572298
+190,Assalariado sem Carteira,1979.0022440570087
+190,Funcionário Público,1789.88054271336
+190,Autônomo,1580.8256097392332
+190,Empregador,617.0069385532963
+190,Profissional Liberal,92.27213641176469
+190,Dono de Negócio Familiar,196.37465021176476
+190,Trabalhador Familiar,0
+191,Assalariado com Carteira,6635.9954155936275
+191,Assalariado sem Carteira,0
+191,Funcionário Público,540.9133743076047
+191,Autônomo,996.4236539541803
+191,Empregador,513.4668837446806
+191,Profissional Liberal,0
+191,Dono de Negócio Familiar,0
+191,Trabalhador Familiar,0
+192,Assalariado com Carteira,2513.9442362346626
+192,Assalariado sem Carteira,133.01432901818166
+192,Funcionário Público,1881.6632265293006
+192,Autônomo,4567.30813662314
+192,Empregador,89.70512145833338
+192,Profissional Liberal,0
+192,Dono de Negócio Familiar,192.4607241081081
+192,Trabalhador Familiar,0
+193,Assalariado com Carteira,4376.495917815269
+193,Assalariado sem Carteira,0
+193,Funcionário Público,0
+193,Autônomo,2029.3704366978527
+193,Empregador,0
+193,Profissional Liberal,0
+193,Dono de Negócio Familiar,164.10547483246734
+193,Trabalhador Familiar,15.520598828571421
+194,Assalariado com Carteira,774.689140238507
+194,Assalariado sem Carteira,519.0499612728986
+194,Funcionário Público,347.71294422927826
+194,Autônomo,1400.3444406954834
+194,Empregador,0
+194,Profissional Liberal,106.3773909268293
+194,Dono de Negócio Familiar,1704.1732486738542
+194,Trabalhador Familiar,0
+195,Assalariado com Carteira,1439.1734862597714
+195,Assalariado sem Carteira,76.39072090322581
+195,Funcionário Público,431.4106588235295
+195,Autônomo,4119.44931139112
+195,Empregador,0
+195,Profissional Liberal,188.7803172666666
+195,Dono de Negócio Familiar,0
+195,Trabalhador Familiar,0
+196,Assalariado com Carteira,1619.5252358426903
+196,Assalariado sem Carteira,298.08910712264196
+196,Funcionário Público,173.94652166666668
+196,Autônomo,5632.601376776223
+196,Empregador,0
+196,Profissional Liberal,0
+196,Dono de Negócio Familiar,615.1079668285244
+196,Trabalhador Familiar,0
+197,Assalariado com Carteira,2551.5680174113318
+197,Assalariado sem Carteira,1059.7796801552302
+197,Funcionário Público,887.91050441777
+197,Autônomo,2413.35391144286
+197,Empregador,30.573672351543202
+197,Profissional Liberal,258.2483060447759
+197,Dono de Negócio Familiar,561.5945706994531
+197,Trabalhador Familiar,0
+198,Assalariado com Carteira,10069.335366358642
+198,Assalariado sem Carteira,2033.5077325274724
+198,Funcionário Público,4473.284565126587
+198,Autônomo,5897.861478099152
+198,Empregador,0
+198,Profissional Liberal,508.42509343076927
+198,Dono de Negócio Familiar,425.3767164083562
+198,Trabalhador Familiar,525.8661604245291
+199,Assalariado com Carteira,5559.022186339686
+199,Assalariado sem Carteira,1765.8031819583248
+199,Funcionário Público,253.06009910389616
+199,Autônomo,5897.345965269044
+199,Empregador,406.72867128205087
+199,Profissional Liberal,0
+199,Dono de Negócio Familiar,5854.767271576195
+199,Trabalhador Familiar,932.5434993846158
+200,Assalariado com Carteira,1779.085160759194
+200,Assalariado sem Carteira,1915.6567692858441
+200,Funcionário Público,661.5280260731138
+200,Autônomo,4037.5258091146147
+200,Empregador,192.1548729797976
+200,Profissional Liberal,0
+200,Dono de Negócio Familiar,480.387182449494
+200,Trabalhador Familiar,96.0774364898988
+201,Assalariado com Carteira,6128.9942489341665
+201,Assalariado sem Carteira,1686.8503151320278
+201,Funcionário Público,1423.6699711635094
+201,Autônomo,6664.3757622869425
+201,Empregador,436.0317261327865
+201,Profissional Liberal,0
+201,Dono de Negócio Familiar,164.50040661798266
+201,Trabalhador Familiar,114.94432344067786
+202,Assalariado com Carteira,3050.887425850023
+202,Assalariado sem Carteira,1197.2381537742478
+202,Funcionário Público,577.0462624025033
+202,Autônomo,6220.2710801202575
+202,Empregador,0
+202,Profissional Liberal,0
+202,Dono de Negócio Familiar,425.4324971538461
+202,Trabalhador Familiar,0
+203,Assalariado com Carteira,1485.3349488443598
+203,Assalariado sem Carteira,1224.9668334269986
+203,Funcionário Público,850.9610021093483
+203,Autônomo,3153.63522632664
+203,Empregador,0
+203,Profissional Liberal,0
+203,Dono de Negócio Familiar,1736.9770733368455
+203,Trabalhador Familiar,387.9042648443111
+204,Assalariado com Carteira,10201.222771145165
+204,Assalariado sem Carteira,423.77771448380304
+204,Funcionário Público,1366.064906993484
+204,Autônomo,9635.992653991665
+204,Empregador,0
+204,Profissional Liberal,0
+204,Dono de Negócio Familiar,1253.3298091165984
+204,Trabalhador Familiar,0
+205,Assalariado com Carteira,4078.176412969552
+205,Assalariado sem Carteira,339.1332095909091
+205,Funcionário Público,2871.501292901342
+205,Autônomo,13303.793685891356
+205,Empregador,0
+205,Profissional Liberal,0
+205,Dono de Negócio Familiar,678.2664191818182
+205,Trabalhador Familiar,1002.5885586818181
+206,Assalariado com Carteira,3956.174369631969
+206,Assalariado sem Carteira,2620.2838362347757
+206,Funcionário Público,566.0293950415113
+206,Autônomo,8706.421099318366
+206,Empregador,49.55608317730481
+206,Profissional Liberal,0
+206,Dono de Negócio Familiar,0
+206,Trabalhador Familiar,0
+207,Assalariado com Carteira,3776.2660712329644
+207,Assalariado sem Carteira,377.95986344507577
+207,Funcionário Público,1806.49522277521
+207,Autônomo,9848.677881742648
+207,Empregador,0
+207,Profissional Liberal,105.98995762119738
+207,Dono de Negócio Familiar,92.61217034482767
+207,Trabalhador Familiar,0
+208,Assalariado com Carteira,14640.950461153552
+208,Assalariado sem Carteira,2310.0391717727975
+208,Funcionário Público,2045.2716134243544
+208,Autônomo,5765.757071113305
+208,Empregador,1140.4250722573197
+208,Profissional Liberal,1305.8479726671333
+208,Dono de Negócio Familiar,1633.2513268787886
+208,Trabalhador Familiar,0
+209,Assalariado com Carteira,6128.829758253508
+209,Assalariado sem Carteira,1623.813006538348
+209,Funcionário Público,708.526641837344
+209,Autônomo,2865.6329334508277
+209,Empregador,1233.408897552753
+209,Profissional Liberal,153.8024461118074
+209,Dono de Negócio Familiar,206.22435713513502
+209,Trabalhador Familiar,0
+210,Assalariado com Carteira,13638.497483136
+210,Assalariado sem Carteira,191.57717672580645
+210,Funcionário Público,43.16364266666667
+210,Autônomo,3582.295564853659
+210,Empregador,53.62796518368273
+210,Profissional Liberal,1174.5456276606053
+210,Dono de Negócio Familiar,1877.75713804139
+210,Trabalhador Familiar,0
+211,Assalariado com Carteira,11102.136393750163
+211,Assalariado sem Carteira,672.0750944154627
+211,Funcionário Público,1203.7698844149968
+211,Autônomo,6368.066058731755
+211,Empregador,557.9574891503163
+211,Profissional Liberal,0
+211,Dono de Negócio Familiar,591.8295092976186
+211,Trabalhador Familiar,0
+212,Assalariado com Carteira,4432.880688251714
+212,Assalariado sem Carteira,1326.8387807463687
+212,Funcionário Público,80.81984289230769
+212,Autônomo,2628.4083518080115
+212,Empregador,0
+212,Profissional Liberal,0
+212,Dono de Negócio Familiar,280.5757495278451
+212,Trabalhador Familiar,0
+213,Assalariado com Carteira,11520.205068203724
+213,Assalariado sem Carteira,1593.476287010803
+213,Funcionário Público,363.91396749999984
+213,Autônomo,5789.252096714265
+213,Empregador,0
+213,Profissional Liberal,612.6317937623775
+213,Dono de Negócio Familiar,1740.0000088002885
+213,Trabalhador Familiar,225.8066824999999
+214,Assalariado com Carteira,7346.356504094257
+214,Assalariado sem Carteira,219.03770273239428
+214,Funcionário Público,599.0735602588427
+214,Autônomo,3612.2234322459744
+214,Empregador,0
+214,Profissional Liberal,0
+214,Dono de Negócio Familiar,156.2559286002397
+214,Trabalhador Familiar,457.04727159230765
+215,Assalariado com Carteira,10759.536742194368
+215,Assalariado sem Carteira,2221.6447502737137
+215,Funcionário Público,170.62578436363623
+215,Autônomo,4178.506708538653
+215,Empregador,0
+215,Profissional Liberal,0
+215,Dono de Negócio Familiar,841.7142018717701
+215,Trabalhador Familiar,0
+216,Assalariado com Carteira,4226.374649510745
+216,Assalariado sem Carteira,1224.6171452657416
+216,Funcionário Público,915.2814163112619
+216,Autônomo,5271.8486096700835
+216,Empregador,0
+216,Profissional Liberal,0
+216,Dono de Negócio Familiar,779.1723939873407
+216,Trabalhador Familiar,0
+217,Assalariado com Carteira,2694.82356203676
+217,Assalariado sem Carteira,944.8221145796649
+217,Funcionário Público,1458.4312749588441
+217,Autônomo,5389.106183926218
+217,Empregador,344.7874338904103
+217,Profissional Liberal,0
+217,Dono de Negócio Familiar,0
+217,Trabalhador Familiar,0
+218,Assalariado com Carteira,6272.55105561683
+218,Assalariado sem Carteira,551.3468295728325
+218,Funcionário Público,1887.128041052752
+218,Autônomo,6943.925435040854
+218,Empregador,94.53298264585031
+218,Profissional Liberal,210.8924583241614
+218,Dono de Negócio Familiar,2663.2052752024656
+218,Trabalhador Familiar,0
+219,Assalariado com Carteira,6520.81070394068
+219,Assalariado sem Carteira,219.3156341046088
+219,Funcionário Público,262.029520153846
+219,Autônomo,8951.51044109741
+219,Empregador,0
+219,Profissional Liberal,0
+219,Dono de Negócio Familiar,1221.766898647029
+219,Trabalhador Familiar,0
+220,Assalariado com Carteira,4328.502789399228
+220,Assalariado sem Carteira,783.9869940000001
+220,Funcionário Público,613.3875709612529
+220,Autônomo,4070.777386341564
+220,Empregador,210.48788727272728
+220,Profissional Liberal,210.48788727272728
+220,Dono de Negócio Familiar,514.5900735438597
+220,Trabalhador Familiar,0
+221,Assalariado com Carteira,8012.808980105204
+221,Assalariado sem Carteira,947.1036362753525
+221,Funcionário Público,784.0482403841995
+221,Autônomo,7516.08352246521
+221,Empregador,127.59327350000002
+221,Profissional Liberal,198.4477979999999
+221,Dono de Negócio Familiar,182.6168021052632
+221,Trabalhador Familiar,0
+222,Assalariado com Carteira,8446.092830136782
+222,Assalariado sem Carteira,605.6782341996005
+222,Funcionário Público,320.9363497159093
+222,Autônomo,4625.825927245796
+222,Empregador,392.7493004235295
+222,Profissional Liberal,342.1346720000001
+222,Dono de Negócio Familiar,2030.4041729372548
+222,Trabalhador Familiar,0
+223,Assalariado com Carteira,6092.5206673004495
+223,Assalariado sem Carteira,680.1297377631373
+223,Funcionário Público,378.3941118873235
+223,Autônomo,2716.6432052314303
+223,Empregador,0
+223,Profissional Liberal,241.9119202191776
+223,Dono de Negócio Familiar,641.9965124383552
+223,Trabalhador Familiar,0
+224,Assalariado com Carteira,1326.9408302693666
+224,Assalariado sem Carteira,0
+224,Funcionário Público,0
+224,Autônomo,491.1760051886798
+224,Empregador,0
+224,Profissional Liberal,0
+224,Dono de Negócio Familiar,0
+224,Trabalhador Familiar,0
+225,Assalariado com Carteira,5385.158590462519
+225,Assalariado sem Carteira,1236.5357859669105
+225,Funcionário Público,0
+225,Autônomo,5010.65075617462
+225,Empregador,3.8105235000000106
+225,Profissional Liberal,0
+225,Dono de Negócio Familiar,236.64140232536423
+225,Trabalhador Familiar,118.32070116268211
+226,Assalariado com Carteira,4060.7746136974124
+226,Assalariado sem Carteira,3041.701240869547
+226,Funcionário Público,2843.65197577803
+226,Autônomo,7680.8688107948055
+226,Empregador,152.32877599999998
+226,Profissional Liberal,612.0271430463908
+226,Dono de Negócio Familiar,1632.6839185630433
+226,Trabalhador Familiar,646.3505010154627
+227,Assalariado com Carteira,4279.086321074685
+227,Assalariado sem Carteira,857.9616005236592
+227,Funcionário Público,118.32070116268211
+227,Autônomo,7177.012198024389
+227,Empregador,401.5071317368428
+227,Profissional Liberal,0
+227,Dono de Negócio Familiar,2524.6797412370865
+227,Trabalhador Familiar,434.860803216494
+228,Assalariado com Carteira,659.3527446812061
+228,Assalariado sem Carteira,401.5071317368428
+228,Funcionário Público,420.38702315173646
+228,Autônomo,6464.060743795604
+228,Empregador,0
+228,Profissional Liberal,0
+228,Dono de Negócio Familiar,712.9511220624241
+228,Trabalhador Familiar,155.72199516279068
+229,Assalariado com Carteira,9278.413737728411
+229,Assalariado sem Carteira,3183.053666177508
+229,Funcionário Público,2989.3803213775736
+229,Autônomo,16230.37222189555
+229,Empregador,0
+229,Profissional Liberal,0
+229,Dono de Negócio Familiar,211.6110995081965
+229,Trabalhador Familiar,0
+230,Assalariado com Carteira,2585.4949800170652
+230,Assalariado sem Carteira,821.5839883461538
+230,Funcionário Público,99.44425972868198
+230,Autônomo,6833.541751757684
+230,Empregador,0
+230,Profissional Liberal,0
+230,Dono de Negócio Familiar,2569.8299729578216
+230,Trabalhador Familiar,1042.30089226154
+231,Assalariado com Carteira,3679.624152050144
+231,Assalariado sem Carteira,265.2219225789478
+231,Funcionário Público,37.3347245227273
+231,Autônomo,4193.656830221162
+231,Empregador,0
+231,Profissional Liberal,81.94159768965524
+231,Dono de Negócio Familiar,0
+231,Trabalhador Familiar,0
+232,Assalariado com Carteira,2085.438329999847
+232,Assalariado sem Carteira,572.7323793844153
+232,Funcionário Público,1227.060226054454
+232,Autônomo,4945.398667804008
+232,Empregador,0
+232,Profissional Liberal,0
+232,Dono de Negócio Familiar,448.48656597619026
+232,Trabalhador Familiar,276.69379887012957
+233,Assalariado com Carteira,1119.448639482052
+233,Assalariado sem Carteira,945.1547173080918
+233,Funcionário Público,1806.936228413384
+233,Autônomo,11200.856037233563
+233,Empregador,404.4351691333337
+233,Profissional Liberal,23.72580940853666
+233,Dono de Negócio Familiar,1156.539627800839
+233,Trabalhador Familiar,0
+234,Assalariado com Carteira,1767.4152813148119
+234,Assalariado sem Carteira,583.5434038702721
+234,Funcionário Público,1010.662821673713
+234,Autônomo,11353.4284333545
+234,Empregador,0
+234,Profissional Liberal,0
+234,Dono de Negócio Familiar,2425.2249174261788
+234,Trabalhador Familiar,0
+235,Assalariado com Carteira,4431.268516882327
+235,Assalariado sem Carteira,1356.3788136806722
+235,Funcionário Público,3052.0066430433435
+235,Autônomo,11758.31002549236
+235,Empregador,134.8110321818184
+235,Profissional Liberal,0
+235,Dono de Negócio Familiar,1804.9127636619914
+235,Trabalhador Familiar,1284.9513209645552
+236,Assalariado com Carteira,6881.2674624885785
+236,Assalariado sem Carteira,818.8819037859669
+236,Funcionário Público,368.30255061097074
+236,Autônomo,1661.2378991619325
+236,Empregador,0
+236,Profissional Liberal,548.9926736521338
+236,Dono de Negócio Familiar,343.03647365652165
+236,Trabalhador Familiar,298.8185111730769
+237,Assalariado com Carteira,6493.984175953873
+237,Assalariado sem Carteira,881.1666722045603
+237,Funcionário Público,0
+237,Autônomo,3588.745757773713
+237,Empregador,525.6685282670403
+237,Profissional Liberal,178.65818046096797
+237,Dono de Negócio Familiar,93.23465709792477
+237,Trabalhador Familiar,0
+238,Assalariado com Carteira,6895.198536470778
+238,Assalariado sem Carteira,635.4671755668955
+238,Funcionário Público,451.86973549014255
+238,Autônomo,2223.98141545768
+238,Empregador,248.80504550999999
+238,Profissional Liberal,194.29024989498242
+238,Dono de Negócio Familiar,344.2546205522321
+238,Trabalhador Familiar,318.74931278350476
+239,Assalariado com Carteira,10434.006854171726
+239,Assalariado sem Carteira,1738.319195745872
+239,Funcionário Público,532.6202542901475
+239,Autônomo,3296.51544844921
+239,Empregador,431.11160787897575
+239,Profissional Liberal,745.0440755549857
+239,Dono de Negócio Familiar,379.5998650128405
+239,Trabalhador Familiar,0
+240,Assalariado com Carteira,12104.942998753035
+240,Assalariado sem Carteira,2086.8409706145535
+240,Funcionário Público,794.3707214417664
+240,Autônomo,2715.937975836795
+240,Empregador,0
+240,Profissional Liberal,448.6974808033363
+240,Dono de Negócio Familiar,797.5001897698237
+240,Trabalhador Familiar,88.54125381818176
+241,Assalariado com Carteira,7516.955214695432
+241,Assalariado sem Carteira,798.9125578349524
+241,Funcionário Público,1075.026659051
+241,Autônomo,2263.2344348143833
+241,Empregador,158.42306640495408
+241,Profissional Liberal,0
+241,Dono de Negócio Familiar,556.947843969143
+241,Trabalhador Familiar,0
+242,Assalariado com Carteira,9517.80845741276
+242,Assalariado sem Carteira,195.38410622292002
+242,Funcionário Público,0
+242,Autônomo,2175.0166753069516
+242,Empregador,334.4637454686547
+242,Profissional Liberal,0
+242,Dono de Negócio Familiar,311.8489297125058
+242,Trabalhador Familiar,0
+243,Assalariado com Carteira,8860.399823887428
+243,Assalariado sem Carteira,2824.724173587091
+243,Funcionário Público,99.24912534020254
+243,Autônomo,6509.00276813732
+243,Empregador,0
+243,Profissional Liberal,0
+243,Dono de Negócio Familiar,1794.6712521761042
+243,Trabalhador Familiar,124.48273048387088
+244,Assalariado com Carteira,1723.4657700257387
+244,Assalariado sem Carteira,1655.9818147522212
+244,Funcionário Público,464.5143973467499
+244,Autônomo,6345.959132802822
+244,Empregador,242.70818225806434
+244,Profissional Liberal,0
+244,Dono de Negócio Familiar,0
+244,Trabalhador Familiar,0
+245,Assalariado com Carteira,3643.658570262325
+245,Assalariado sem Carteira,0
+245,Funcionário Público,0
+245,Autônomo,2861.664809386668
+245,Empregador,0
+245,Profissional Liberal,225.3236859090907
+245,Dono de Negócio Familiar,0
+245,Trabalhador Familiar,0
+246,Assalariado com Carteira,3181.1844540266557
+246,Assalariado sem Carteira,678.00371729728
+246,Funcionário Público,0
+246,Autônomo,2249.3591422757636
+246,Empregador,0
+246,Profissional Liberal,100.4048182
+246,Dono de Negócio Familiar,889.4414166752211
+246,Trabalhador Familiar,100.4048182
+247,Assalariado com Carteira,10153.009446804035
+247,Assalariado sem Carteira,1196.2236254713523
+247,Funcionário Público,633.6925818399019
+247,Autônomo,7667.746873110655
+247,Empregador,0
+247,Profissional Liberal,137.48000545098006
+247,Dono de Negócio Familiar,1262.6744249866024
+247,Trabalhador Familiar,0
+248,Assalariado com Carteira,1800.0912245035993
+248,Assalariado sem Carteira,152.78776281570333
+248,Funcionário Público,131.73927903320376
+248,Autônomo,0
+248,Empregador,47.791483691728345
+248,Profissional Liberal,0
+248,Dono de Negócio Familiar,0
+248,Trabalhador Familiar,0
+249,Assalariado com Carteira,3251.1678923432137
+249,Assalariado sem Carteira,761.7622416585367
+249,Funcionário Público,0
+249,Autônomo,8226.011876424902
+249,Empregador,112.18577983018857
+249,Profissional Liberal,100.76263043478262
+249,Dono de Negócio Familiar,1832.41507691169
+249,Trabalhador Familiar,396.9695633170735
+250,Assalariado com Carteira,8696.298120517004
+250,Assalariado sem Carteira,744.4314190427859
+250,Funcionário Público,348.50444294531263
+250,Autônomo,1843.7698202985766
+250,Empregador,176.4241547727274
+250,Profissional Liberal,576.798047556691
+250,Dono de Negócio Familiar,714.4504146594247
+250,Trabalhador Familiar,0
+251,Assalariado com Carteira,2598.8370154783693
+251,Assalariado sem Carteira,961.3038184704016
+251,Funcionário Público,549.2192445939847
+251,Autônomo,3951.092354512844
+251,Empregador,483.71879291904986
+251,Profissional Liberal,0
+251,Dono de Negócio Familiar,3108.423551977274
+251,Trabalhador Familiar,0
+252,Assalariado com Carteira,5714.21619608005
+252,Assalariado sem Carteira,944.5420262994198
+252,Funcionário Público,311.23518695454584
+252,Autônomo,3924.124570657456
+252,Empregador,0
+252,Profissional Liberal,108.7763961025641
+252,Dono de Negócio Familiar,657.625309
+252,Trabalhador Familiar,0
+253,Assalariado com Carteira,6211.194470561182
+253,Assalariado sem Carteira,249.3148980948547
+253,Funcionário Público,0
+253,Autônomo,431.21021073963675
+253,Empregador,0
+253,Profissional Liberal,20.964608788732342
+253,Dono de Negócio Familiar,41.929217577464684
+253,Trabalhador Familiar,0
+254,Assalariado com Carteira,12666.680292569665
+254,Assalariado sem Carteira,2307.3575057916146
+254,Funcionário Público,774.634103126587
+254,Autônomo,3828.012628768274
+254,Empregador,963.3979574570416
+254,Profissional Liberal,1480.643004494616
+254,Dono de Negócio Familiar,96.2275743396226
+254,Trabalhador Familiar,0
+255,Assalariado com Carteira,9845.224068694575
+255,Assalariado sem Carteira,2291.6210895542085
+255,Funcionário Público,55.51238545514513
+255,Autônomo,5662.6976918272
+255,Empregador,0
+255,Profissional Liberal,0
+255,Dono de Negócio Familiar,3164.8333842032825
+255,Trabalhador Familiar,0
+256,Assalariado com Carteira,4360.322490728062
+256,Assalariado sem Carteira,1359.0425214981872
+256,Funcionário Público,368.0125776862745
+256,Autônomo,2799.593055591452
+256,Empregador,130.6101841880339
+256,Profissional Liberal,41.036800000000014
+256,Dono de Negócio Familiar,410.43508329270736
+256,Trabalhador Familiar,0
+257,Assalariado com Carteira,2344.8734047140524
+257,Assalariado sem Carteira,873.7198323076918
+257,Funcionário Público,106.81611703061203
+257,Autônomo,3823.597944202344
+257,Empregador,0
+257,Profissional Liberal,449.6877182608695
+257,Dono de Negócio Familiar,554.3582335013459
+257,Trabalhador Familiar,0
+258,Assalariado com Carteira,10538.799808889915
+258,Assalariado sem Carteira,1434.3198100151749
+258,Funcionário Público,1606.2501703509893
+258,Autônomo,2153.5234049439423
+258,Empregador,0
+258,Profissional Liberal,0
+258,Dono de Negócio Familiar,252.9459340350877
+258,Trabalhador Familiar,0
+259,Assalariado com Carteira,2917.193362384079
+259,Assalariado sem Carteira,179.72586573333317
+259,Funcionário Público,0
+259,Autônomo,6194.874134094002
+259,Empregador,139.21179026666653
+259,Profissional Liberal,0
+259,Dono de Negócio Familiar,1326.5227391639216
+259,Trabalhador Familiar,0
+260,Assalariado com Carteira,2637.814716483502
+260,Assalariado sem Carteira,1007.0804310204077
+260,Funcionário Público,0
+260,Autônomo,4917.788924973682
+260,Empregador,0
+260,Profissional Liberal,340.48241341176447
+260,Dono de Negócio Familiar,0
+260,Trabalhador Familiar,0
+261,Assalariado com Carteira,5111.015256537359
+261,Assalariado sem Carteira,871.187846707903
+261,Funcionário Público,245.80846791916707
+261,Autônomo,4176.630135686554
+261,Empregador,0
+261,Profissional Liberal,146.2894501841402
+261,Dono de Negócio Familiar,1467.42151305271
+261,Trabalhador Familiar,0
+262,Assalariado com Carteira,5983.844779962063
+262,Assalariado sem Carteira,1794.1311444064531
+262,Funcionário Público,94.53298264585031
+262,Autônomo,9681.646949822441
+262,Empregador,0
+262,Profissional Liberal,0
+262,Dono de Negócio Familiar,995.3300351889344
+262,Trabalhador Familiar,742.3841011538467
+263,Assalariado com Carteira,4510.682220809316
+263,Assalariado sem Carteira,602.2324433811327
+263,Funcionário Público,2743.9243116285043
+263,Autônomo,5450.494513917813
+263,Empregador,0
+263,Profissional Liberal,322.4427364596791
+263,Dono de Negócio Familiar,744.461286755517
+263,Trabalhador Familiar,997.7916534757296
+264,Assalariado com Carteira,9034.487179009988
+264,Assalariado sem Carteira,2647.9019560468187
+264,Funcionário Público,133.86806052631624
+264,Autônomo,7287.392411649534
+264,Empregador,929.2014084102221
+264,Profissional Liberal,690.0817268292682
+264,Dono de Negócio Familiar,1014.7218137312469
+264,Trabalhador Familiar,0
+265,Assalariado com Carteira,5000.815568712398
+265,Assalariado sem Carteira,2422.0223301283877
+265,Funcionário Público,599.7705949233037
+265,Autônomo,4919.952016840556
+265,Empregador,434.0631232000006
+265,Profissional Liberal,0
+265,Dono de Negócio Familiar,2479.760584581231
+265,Trabalhador Familiar,0
+266,Assalariado com Carteira,2809.676011077729
+266,Assalariado sem Carteira,503.012969520349
+266,Funcionário Público,192.4607241081081
+266,Autônomo,2798.9295817837883
+266,Empregador,0
+266,Profissional Liberal,0
+266,Dono de Negócio Familiar,100.65032812500006
+266,Trabalhador Familiar,0
+267,Assalariado com Carteira,4884.170583360438
+267,Assalariado sem Carteira,1602.5753200501792
+267,Funcionário Público,1323.0223976084042
+267,Autônomo,1874.6008436991356
+267,Empregador,0
+267,Profissional Liberal,0
+267,Dono de Negócio Familiar,448.6797186976913
+267,Trabalhador Familiar,116.47679236363656
+268,Assalariado com Carteira,5359.371008738167
+268,Assalariado sem Carteira,1268.9843479038523
+268,Funcionário Público,163.79313833926193
+268,Autônomo,1926.5514004564293
+268,Empregador,623.6577826358272
+268,Profissional Liberal,1517.4912240785814
+268,Dono de Negócio Familiar,206.91672566537295
+268,Trabalhador Familiar,0
+269,Assalariado com Carteira,11966.64587978269
+269,Assalariado sem Carteira,920.368741839683
+269,Funcionário Público,0
+269,Autônomo,2592.143237996403
+269,Empregador,571.5512306000314
+269,Profissional Liberal,1761.0420933842354
+269,Dono de Negócio Familiar,541.8695877240787
+269,Trabalhador Familiar,0
+270,Assalariado com Carteira,6399.452323984838
+270,Assalariado sem Carteira,346.5138149962286
+270,Funcionário Público,475.9492324997049
+270,Autônomo,1140.5399491555231
+270,Empregador,788.2894580537566
+270,Profissional Liberal,329.00689419448145
+270,Dono de Negócio Familiar,332.11331315583044
+270,Trabalhador Familiar,0
+271,Assalariado com Carteira,11873.661011626884
+271,Assalariado sem Carteira,0
+271,Funcionário Público,340.37808421869346
+271,Autônomo,1148.3953031275626
+271,Empregador,63.660529409638436
+271,Profissional Liberal,0
+271,Dono de Negócio Familiar,0
+271,Trabalhador Familiar,0
+272,Assalariado com Carteira,8807.938320699936
+272,Assalariado sem Carteira,478.32464769841266
+272,Funcionário Público,382.3223155881697
+272,Autônomo,2906.276725536925
+272,Empregador,116.61163915714259
+272,Profissional Liberal,168.85332884953522
+272,Dono de Negócio Familiar,167.46044731270234
+272,Trabalhador Familiar,0
+273,Assalariado com Carteira,8746.140176542363
+273,Assalariado sem Carteira,1245.7868560070547
+273,Funcionário Público,811.2791003394152
+273,Autônomo,13449.456819938512
+273,Empregador,322.95809898930463
+273,Profissional Liberal,508.84812022828703
+273,Dono de Negócio Familiar,1993.1819396783098
+273,Trabalhador Familiar,0
+274,Assalariado com Carteira,21341.181609278294
+274,Assalariado sem Carteira,3197.414162620981
+274,Funcionário Público,848.0511104924162
+274,Autônomo,6179.53659336759
+274,Empregador,299.60469477447447
+274,Profissional Liberal,1563.0271934112252
+274,Dono de Negócio Familiar,960.5249131584521
+274,Trabalhador Familiar,0
+275,Assalariado com Carteira,13885.905587570174
+275,Assalariado sem Carteira,3450.181159917946
+275,Funcionário Público,705.7085841949785
+275,Autônomo,3237.4224452459666
+275,Empregador,1792.4411874146765
+275,Profissional Liberal,1073.5310568553818
+275,Dono de Negócio Familiar,242.5627721069816
+275,Trabalhador Familiar,0
+276,Assalariado com Carteira,4531.897060366323
+276,Assalariado sem Carteira,2201.717375134764
+276,Funcionário Público,1612.9740248349126
+276,Autônomo,11808.832576628
+276,Empregador,225.82598557735946
+276,Profissional Liberal,1279.683125397961
+276,Dono de Negócio Familiar,1730.199022512571
+276,Trabalhador Familiar,0
+277,Assalariado com Carteira,9532.890772771581
+277,Assalariado sem Carteira,3575.93398180469
+277,Funcionário Público,1937.5931085538277
+277,Autônomo,9105.413930216248
+277,Empregador,130.44998264762495
+277,Profissional Liberal,271.95516100000003
+277,Dono de Negócio Familiar,1735.1097589367594
+277,Trabalhador Familiar,0
+278,Assalariado com Carteira,3765.6432275124635
+278,Assalariado sem Carteira,1269.7525926642202
+278,Funcionário Público,241.91327422222207
+278,Autônomo,12001.898559469693
+278,Empregador,609.2160601358767
+278,Profissional Liberal,151.68430199999997
+278,Dono de Negócio Familiar,3626.2594751770794
+278,Trabalhador Familiar,0
+279,Assalariado com Carteira,3810.7641626605528
+279,Assalariado sem Carteira,200.85802775722564
+279,Funcionário Público,0
+279,Autônomo,10544.570441916108
+279,Empregador,639.7225175338363
+279,Profissional Liberal,0
+279,Dono de Negócio Familiar,2643.0669588169003
+279,Trabalhador Familiar,0
+280,Assalariado com Carteira,20811.70563382312
+280,Assalariado sem Carteira,1763.417020877648
+280,Funcionário Público,366.2370942461766
+280,Autônomo,4016.444834656855
+280,Empregador,59.07762435555564
+280,Profissional Liberal,956.961311257922
+280,Dono de Negócio Familiar,193.61979913806252
+280,Trabalhador Familiar,0
+281,Assalariado com Carteira,8703.808058588342
+281,Assalariado sem Carteira,2747.973561642396
+281,Funcionário Público,909.4948133958248
+281,Autônomo,4412.259297084377
+281,Empregador,474.7821691650142
+281,Profissional Liberal,552.4876632445831
+281,Dono de Negócio Familiar,1530.7941823586984
+281,Trabalhador Familiar,138.73489933333332
+282,Assalariado com Carteira,13904.303135997694
+282,Assalariado sem Carteira,71.67191018689574
+282,Funcionário Público,619.4050626820716
+282,Autônomo,4532.7025609745515
+282,Empregador,0
+282,Profissional Liberal,979.4954068421056
+282,Dono de Negócio Familiar,2694.921028309156
+282,Trabalhador Familiar,0
+283,Assalariado com Carteira,1389.5678565293701
+283,Assalariado sem Carteira,1021.2387952716166
+283,Funcionário Público,0
+283,Autônomo,1110.8544513338386
+283,Empregador,0
+283,Profissional Liberal,0
+283,Dono de Negócio Familiar,123.98531046536537
+283,Trabalhador Familiar,43.44102825641022
+284,Assalariado com Carteira,3943.056162997545
+284,Assalariado sem Carteira,1080.1949158142863
+284,Funcionário Público,510.7288880276295
+284,Autônomo,5342.367204911458
+284,Empregador,0
+284,Profissional Liberal,0
+284,Dono de Negócio Familiar,1609.5838040615017
+284,Trabalhador Familiar,530.9191853299932
+285,Assalariado com Carteira,8437.050725850408
+285,Assalariado sem Carteira,2037.6890703214492
+285,Funcionário Público,1479.8593922922514
+285,Autônomo,10605.06232487691
+285,Empregador,1377.2805363226744
+285,Profissional Liberal,432.2854543255814
+285,Dono de Negócio Familiar,2604.801136228364
+285,Trabalhador Familiar,411.82478948837206
+286,Assalariado com Carteira,16344.947186368181
+286,Assalariado sem Carteira,0
+286,Funcionário Público,440.5173158585591
+286,Autônomo,2032.2313809729942
+286,Empregador,192.64939620273475
+286,Profissional Liberal,126.87569348997287
+286,Dono de Negócio Familiar,203.95772952941178
+286,Trabalhador Familiar,0
+287,Assalariado com Carteira,9047.538883526773
+287,Assalariado sem Carteira,314.4920630880256
+287,Funcionário Público,1341.1983090281694
+287,Autônomo,3219.8867504613463
+287,Empregador,268.1553502685079
+287,Profissional Liberal,129.0362040763462
+287,Dono de Negócio Familiar,411.4739435578627
+287,Trabalhador Familiar,0
+288,Assalariado com Carteira,4839.077056659429
+288,Assalariado sem Carteira,211.78495853658538
+288,Funcionário Público,37.997067130434615
+288,Autônomo,3169.4333434128425
+288,Empregador,0
+288,Profissional Liberal,470.99284772353894
+288,Dono de Negócio Familiar,120.56047149999999
+288,Trabalhador Familiar,0
+289,Assalariado com Carteira,8856.773742882484
+289,Assalariado sem Carteira,1139.2679710621144
+289,Funcionário Público,605.1425191849269
+289,Autônomo,8499.653177131771
+289,Empregador,417.20161342940924
+289,Profissional Liberal,362.1302880188679
+289,Dono de Negócio Familiar,708.692151134942
+289,Trabalhador Familiar,476.41652974359
+290,Assalariado com Carteira,1650.0821329001365
+290,Assalariado sem Carteira,717.1729322865854
+290,Funcionário Público,0
+290,Autônomo,5274.924159392432
+290,Empregador,555.0969760000004
+290,Profissional Liberal,203.95772952941178
+290,Dono de Negócio Familiar,1314.1516815294126
+290,Trabalhador Familiar,0
+291,Assalariado com Carteira,2538.830312393872
+291,Assalariado sem Carteira,1791.541298733839
+291,Funcionário Público,854.5209855303032
+291,Autônomo,11455.02302242666
+291,Empregador,0
+291,Profissional Liberal,104.31894583871394
+291,Dono de Negócio Familiar,1326.0848907642169
+291,Trabalhador Familiar,0
+292,Assalariado com Carteira,3738.451169993873
+292,Assalariado sem Carteira,606.01810845
+292,Funcionário Público,53.06393972727272
+292,Autônomo,4479.313076000433
+292,Empregador,606.01810845
+292,Profissional Liberal,0
+292,Dono de Negócio Familiar,1164.0723079500003
+292,Trabalhador Familiar,0
+293,Assalariado com Carteira,12197.570095822148
+293,Assalariado sem Carteira,781.0003575891938
+293,Funcionário Público,1271.679203755466
+293,Autônomo,8995.087767396255
+293,Empregador,156.41571861272888
+293,Profissional Liberal,1204.220527872912
+293,Dono de Negócio Familiar,2573.46550236264
+293,Trabalhador Familiar,0
+294,Assalariado com Carteira,7688.563310487498
+294,Assalariado sem Carteira,158.58933083881624
+294,Funcionário Público,17.373639330049315
+294,Autônomo,7054.812902900288
+294,Empregador,0
+294,Profissional Liberal,140.4774359101121
+294,Dono de Negócio Familiar,0
+294,Trabalhador Familiar,0
+295,Assalariado com Carteira,2646.5708339758803
+295,Assalariado sem Carteira,1267.1607900303432
+295,Funcionário Público,1150.496234311266
+295,Autônomo,13413.41276324684
+295,Empregador,0
+295,Profissional Liberal,0
+295,Dono de Negócio Familiar,1106.8871683702507
+295,Trabalhador Familiar,0
+296,Assalariado com Carteira,865.1768472258068
+296,Assalariado sem Carteira,76.67856265486736
+296,Funcionário Público,0
+296,Autônomo,576.9128937822582
+296,Empregador,0
+296,Profissional Liberal,0
+296,Dono de Negócio Familiar,78.65445528405286
+296,Trabalhador Familiar,0
+297,Assalariado com Carteira,67.58660065446466
+297,Assalariado sem Carteira,233.60094089823616
+297,Funcionário Público,0
+297,Autônomo,497.3119864547649
+297,Empregador,0
+297,Profissional Liberal,0
+297,Dono de Negócio Familiar,0
+297,Trabalhador Familiar,0
+298,Assalariado com Carteira,8506.869006590056
+298,Assalariado sem Carteira,1007.9752806718941
+298,Funcionário Público,1934.7675044087573
+298,Autônomo,12128.127966278369
+298,Empregador,292.1934200106554
+298,Profissional Liberal,0
+298,Dono de Negócio Familiar,3117.909192197056
+298,Trabalhador Familiar,680.2669748504861
+299,Assalariado com Carteira,1084.4372165094164
+299,Assalariado sem Carteira,92.16154675531921
+299,Funcionário Público,0
+299,Autônomo,737.9807276594652
+299,Empregador,0
+299,Profissional Liberal,0
+299,Dono de Negócio Familiar,271.2473431914895
+299,Trabalhador Familiar,0
+300,Assalariado com Carteira,82721.28424964522
+300,Assalariado sem Carteira,3808.865255220145
+300,Funcionário Público,584.0476901187379
+300,Autônomo,8931.608750244335
+300,Empregador,1976.0701594994125
+300,Profissional Liberal,1941.5823121692247
+300,Dono de Negócio Familiar,1055.636114123317
+300,Trabalhador Familiar,23.315702429149823
+301,Assalariado com Carteira,11965.641746004938
+301,Assalariado sem Carteira,1492.0849366233442
+301,Funcionário Público,23.315702429149823
+301,Autônomo,3150.492971709746
+301,Empregador,130.82613423900037
+301,Profissional Liberal,974.57902294915
+301,Dono de Negócio Familiar,496.74569175910136
+301,Trabalhador Familiar,0
+302,Assalariado com Carteira,19956.796595982643
+302,Assalariado sem Carteira,2084.1955872684516
+302,Funcionário Público,1353.3385185291877
+302,Autônomo,3097.8667133983395
+302,Empregador,413.39499377567296
+302,Profissional Liberal,1596.6115631493212
+302,Dono de Negócio Familiar,1199.306480850484
+302,Trabalhador Familiar,0
+303,Assalariado com Carteira,20812.149237338912
+303,Assalariado sem Carteira,1929.0262748013442
+303,Funcionário Público,594.440514350764
+303,Autônomo,3528.248168534451
+303,Empregador,724.7336583818263
+303,Profissional Liberal,161.53602270424412
+303,Dono de Negócio Familiar,923.4141027123082
+303,Trabalhador Familiar,23.315702429149823
+304,Assalariado com Carteira,21357.924820971482
+304,Assalariado sem Carteira,2238.0495895725817
+304,Funcionário Público,872.758495114059
+304,Autônomo,8249.292179391845
+304,Empregador,126.10494568779194
+304,Profissional Liberal,0
+304,Dono de Negócio Familiar,837.6172353333325
+304,Trabalhador Familiar,1148.412164308176
+305,Assalariado com Carteira,9246.634177236254
+305,Assalariado sem Carteira,950.658413797647
+305,Funcionário Público,464.6134512269749
+305,Autônomo,12283.163499429622
+305,Empregador,346.68060187679686
+305,Profissional Liberal,0
+305,Dono de Negócio Familiar,2990.914065788809
+305,Trabalhador Familiar,0
+306,Assalariado com Carteira,5297.093685686685
+306,Assalariado sem Carteira,1016.3425114990856
+306,Funcionário Público,1877.1170571350344
+306,Autônomo,9003.192605956941
+306,Empregador,0
+306,Profissional Liberal,371.82589125
+306,Dono de Negócio Familiar,962.638840028096
+306,Trabalhador Familiar,759.5086570869196
+307,Assalariado com Carteira,4585.4272392511
+307,Assalariado sem Carteira,927.8978822662209
+307,Funcionário Público,464.4780909314618
+307,Autônomo,13028.206457009748
+307,Empregador,226.50054350000005
+307,Profissional Liberal,626.9410419199997
+307,Dono de Negócio Familiar,3960.5538096064756
+307,Trabalhador Familiar,326.18051722223544
+308,Assalariado com Carteira,1478.509161638441
+308,Assalariado sem Carteira,112.60299861111129
+308,Funcionário Público,917.5786279398906
+308,Autônomo,2962.996965260952
+308,Empregador,212.04556185951577
+308,Profissional Liberal,0
+308,Dono de Negócio Familiar,2399.084520788125
+308,Trabalhador Familiar,202.20175817873815
+309,Assalariado com Carteira,902.3813648195027
+309,Assalariado sem Carteira,524.0183709510511
+309,Funcionário Público,206.25555397902954
+309,Autônomo,9333.013650884095
+309,Empregador,142.80537903630656
+309,Profissional Liberal,0
+309,Dono de Negócio Familiar,1308.0400735008923
+309,Trabalhador Familiar,0
+310,Assalariado com Carteira,2457.769155951655
+310,Assalariado sem Carteira,127.20953486111131
+310,Funcionário Público,653.4197182222216
+310,Autônomo,3496.7939595833373
+310,Empregador,0
+310,Profissional Liberal,0
+310,Dono de Negócio Familiar,910.8887886284731
+310,Trabalhador Familiar,643.6279253298617
+311,Assalariado com Carteira,7293.026233489276
+311,Assalariado sem Carteira,403.9075406462663
+311,Funcionário Público,90.34916637160903
+311,Autônomo,8553.30145757364
+311,Empregador,0
+311,Profissional Liberal,97.3059316666667
+311,Dono de Negócio Familiar,126.61009176470577
+311,Trabalhador Familiar,0
+312,Assalariado com Carteira,6097.461688394223
+312,Assalariado sem Carteira,518.2621525930238
+312,Funcionário Público,981.8353637961989
+312,Autônomo,5307.289089095879
+312,Empregador,0
+312,Profissional Liberal,716.8877183921214
+312,Dono de Negócio Familiar,1106.0694375221433
+312,Trabalhador Familiar,0
+313,Assalariado com Carteira,1909.674650925006
+313,Assalariado sem Carteira,0
+313,Funcionário Público,1006.2090227490463
+313,Autônomo,2150.8075725339336
+313,Empregador,0
+313,Profissional Liberal,0
+313,Dono de Negócio Familiar,0
+313,Trabalhador Familiar,0
+314,Assalariado com Carteira,11550.066459126652
+314,Assalariado sem Carteira,941.2146524814884
+314,Funcionário Público,687.8030692863274
+314,Autônomo,11884.004668912938
+314,Empregador,501.20457982005854
+314,Profissional Liberal,400.96918443956076
+314,Dono de Negócio Familiar,1394.1651731538466
+314,Trabalhador Familiar,417.16107323076903
+315,Assalariado com Carteira,8185.430704654203
+315,Assalariado sem Carteira,1973.295521921566
+315,Funcionário Público,997.0514536924003
+315,Autônomo,17045.98869455361
+315,Empregador,163.52418036914833
+315,Profissional Liberal,0
+315,Dono de Negócio Familiar,2006.2794217014546
+315,Trabalhador Familiar,730.6396434820336
+316,Assalariado com Carteira,9513.192789253713
+316,Assalariado sem Carteira,835.0478940036629
+316,Funcionário Público,570.5011010231005
+316,Autônomo,1689.4230147084038
+316,Empregador,220.858791153072
+316,Profissional Liberal,945.6333359249354
+316,Dono de Negócio Familiar,63.660529409638436
+316,Trabalhador Familiar,79.40968674984452
+317,Assalariado com Carteira,5334.241420615154
+317,Assalariado sem Carteira,665.6744285648008
+317,Funcionário Público,0
+317,Autônomo,1297.765617384919
+317,Empregador,45.870647881739046
+317,Profissional Liberal,271.24913146445124
+317,Dono de Negócio Familiar,96.39365073921697
+317,Trabalhador Familiar,6.603856336231852
+318,Assalariado com Carteira,8444.03698367769
+318,Assalariado sem Carteira,1891.5065342184062
+318,Funcionário Público,0
+318,Autônomo,1746.0812542889203
+318,Empregador,201.07914947421182
+318,Profissional Liberal,175.63987507963387
+318,Dono de Negócio Familiar,386.49872397782866
+318,Trabalhador Familiar,201.51915410585605
+319,Assalariado com Carteira,11256.98831403873
+319,Assalariado sem Carteira,2063.217458682775
+319,Funcionário Público,2351.212077182115
+319,Autônomo,3790.9733709236443
+319,Empregador,44.82369244782612
+319,Profissional Liberal,801.2852750389945
+319,Dono de Negócio Familiar,95.13879280000047
+319,Trabalhador Familiar,0
+320,Assalariado com Carteira,3838.4631648567597
+320,Assalariado sem Carteira,1633.3418895672635
+320,Funcionário Público,121.98639469886112
+320,Autônomo,5167.143705891348
+320,Empregador,178.45656939418916
+320,Profissional Liberal,920.7198425266039
+320,Dono de Negócio Familiar,242.166751826052
+320,Trabalhador Familiar,0
+321,Assalariado com Carteira,11768.307853854112
+321,Assalariado sem Carteira,2524.2136933328857
+321,Funcionário Público,397.85269841016657
+321,Autônomo,4184.040597993722
+321,Empregador,641.5437800325496
+321,Profissional Liberal,1468.9613769707196
+321,Dono de Negócio Familiar,1844.534044777253
+321,Trabalhador Familiar,515.2785649870132
+322,Assalariado com Carteira,12781.079555050746
+322,Assalariado sem Carteira,930.2785855175969
+322,Funcionário Público,0
+322,Autônomo,3559.101605231482
+322,Empregador,574.6457469026562
+322,Profissional Liberal,858.9084076174123
+322,Dono de Negócio Familiar,2070.7520896029573
+322,Trabalhador Familiar,0
+323,Assalariado com Carteira,1632.223258886585
+323,Assalariado sem Carteira,8.975351411764708
+323,Funcionário Público,23.315702429149823
+323,Autônomo,7165.191753986388
+323,Empregador,70.42415429457365
+323,Profissional Liberal,1136.9367246153843
+323,Dono de Negócio Familiar,950.8868028831172
+323,Trabalhador Familiar,0
+324,Assalariado com Carteira,5766.571076910373
+324,Assalariado sem Carteira,0
+324,Funcionário Público,1916.3036788293402
+324,Autônomo,12842.160342080919
+324,Empregador,0
+324,Profissional Liberal,0
+324,Dono de Negócio Familiar,1458.1755167218425
+324,Trabalhador Familiar,556.8068127801009
+325,Assalariado com Carteira,4914.556313671891
+325,Assalariado sem Carteira,636.5574770776474
+325,Funcionário Público,986.4899707669992
+325,Autônomo,3516.6573294934706
+325,Empregador,44.82369244782612
+325,Profissional Liberal,943.5654333379189
+325,Dono de Negócio Familiar,246.17719828036505
+325,Trabalhador Familiar,0
+326,Assalariado com Carteira,4231.566497568346
+326,Assalariado sem Carteira,910.8218777024815
+326,Funcionário Público,42.271851428571466
+326,Autônomo,5736.961879235228
+326,Empregador,102.53342191304303
+326,Profissional Liberal,372.25718288888885
+326,Dono de Negócio Familiar,0
+326,Trabalhador Familiar,0
+327,Assalariado com Carteira,3367.8196201211867
+327,Assalariado sem Carteira,642.7375217260519
+327,Funcionário Público,0
+327,Autônomo,1657.1299687347164
+327,Empregador,48.2218028085109
+327,Profissional Liberal,489.29524380131426
+327,Dono de Negócio Familiar,329.59900944146534
+327,Trabalhador Familiar,0
+328,Assalariado com Carteira,10053.195489965785
+328,Assalariado sem Carteira,1250.4231731856737
+328,Funcionário Público,0
+328,Autônomo,1994.5301959231924
+328,Empregador,497.2027612664805
+328,Profissional Liberal,523.386115622112
+328,Dono de Negócio Familiar,916.5953616109
+328,Trabalhador Familiar,0
+329,Assalariado com Carteira,12366.287559992428
+329,Assalariado sem Carteira,540.3854498383681
+329,Funcionário Público,240.26374577347642
+329,Autônomo,5960.422588214934
+329,Empregador,550.6393278035926
+329,Profissional Liberal,749.9594976606033
+329,Dono de Negócio Familiar,928.4148276043258
+329,Trabalhador Familiar,0
+330,Assalariado com Carteira,4375.4298113827645
+330,Assalariado sem Carteira,0
+330,Funcionário Público,1533.7217143915775
+330,Autônomo,5315.6565468697545
+330,Empregador,445.3207833068202
+330,Profissional Liberal,791.0846895426895
+330,Dono de Negócio Familiar,1283.326196904761
+330,Trabalhador Familiar,144.64443500000002
+331,Assalariado com Carteira,5901.826077844254
+331,Assalariado sem Carteira,0
+331,Funcionário Público,631.7172699042155
+331,Autônomo,4420.662765721381
+331,Empregador,202.33416528301876
+331,Profissional Liberal,132.69485258426664
+331,Dono de Negócio Familiar,1878.1184586742424
+331,Trabalhador Familiar,0
+332,Assalariado com Carteira,6152.254969153171
+332,Assalariado sem Carteira,1321.2258115636364
+332,Funcionário Público,831.6746196936999
+332,Autônomo,3027.0408690740505
+332,Empregador,1428.6560238181823
+332,Profissional Liberal,542.9815995909092
+332,Dono de Negócio Familiar,0
+332,Trabalhador Familiar,0
+333,Assalariado com Carteira,5243.66076398604
+333,Assalariado sem Carteira,542.9815995909092
+333,Funcionário Público,0
+333,Autônomo,2426.9351986336937
+333,Empregador,249.7771331249998
+333,Profissional Liberal,116.91995840418403
+333,Dono de Negócio Familiar,0
+333,Trabalhador Familiar,0
+334,Assalariado com Carteira,7850.619421612727
+334,Assalariado sem Carteira,823.0932079598481
+334,Funcionário Público,967.6483693085124
+334,Autônomo,5066.803100012733
+334,Empregador,0
+334,Profissional Liberal,93.98099679273841
+334,Dono de Negócio Familiar,496.3470435714286
+334,Trabalhador Familiar,82.26741250000002
+335,Assalariado com Carteira,4915.587639398549
+335,Assalariado sem Carteira,1122.7463655749993
+335,Funcionário Público,570.7422697009688
+335,Autônomo,2951.640998048075
+335,Empregador,58.83914600000001
+335,Profissional Liberal,0
+335,Dono de Negócio Familiar,494.54632769999995
+335,Trabalhador Familiar,0
+336,Assalariado com Carteira,4919.610014076837
+336,Assalariado sem Carteira,46.73707723404259
+336,Funcionário Público,71.40280420000002
+336,Autônomo,3740.725056026604
+336,Empregador,0
+336,Profissional Liberal,0
+336,Dono de Negócio Familiar,1538.308650780242
+336,Trabalhador Familiar,0
+337,Assalariado com Carteira,8432.696616222625
+337,Assalariado sem Carteira,988.5175836650508
+337,Funcionário Público,557.3962979645929
+337,Autônomo,3661.7890105329975
+337,Empregador,0
+337,Profissional Liberal,332.7830339634369
+337,Dono de Negócio Familiar,1282.1913185755102
+337,Trabalhador Familiar,0
+338,Assalariado com Carteira,18113.727142167998
+338,Assalariado sem Carteira,669.445115330396
+338,Funcionário Público,116.05905928775478
+338,Autônomo,1505.1978124227592
+338,Empregador,33.81787264285707
+338,Profissional Liberal,263.1517716078772
+338,Dono de Negócio Familiar,1005.1492800000004
+338,Trabalhador Familiar,0
+339,Assalariado com Carteira,13647.258675046578
+339,Assalariado sem Carteira,1712.9382394704849
+339,Funcionário Público,8315.182051097656
+339,Autônomo,1389.319169331909
+339,Empregador,265.9783424640004
+339,Profissional Liberal,1554.0490629153567
+339,Dono de Negócio Familiar,0
+339,Trabalhador Familiar,0
+340,Assalariado com Carteira,10464.751775059245
+340,Assalariado sem Carteira,490.59693418297064
+340,Funcionário Público,36.01836957620819
+340,Autônomo,1377.0227596117331
+340,Empregador,136.25772580271774
+340,Profissional Liberal,988.6208699816974
+340,Dono de Negócio Familiar,109.8932050826151
+340,Trabalhador Familiar,0
+341,Assalariado com Carteira,5520.079398425913
+341,Assalariado sem Carteira,881.8421533846157
+341,Funcionário Público,142.9530709090909
+341,Autônomo,1684.4784183651348
+341,Empregador,67.99046201119
+341,Profissional Liberal,107.38254770541691
+341,Dono de Negócio Familiar,385.3900425272203
+341,Trabalhador Familiar,0
+342,Assalariado com Carteira,7942.513580936702
+342,Assalariado sem Carteira,253.71681272783357
+342,Funcionário Público,1299.6524554418556
+342,Autônomo,4347.392706823995
+342,Empregador,123.40824736842073
+342,Profissional Liberal,145.8658480537964
+342,Dono de Negócio Familiar,754.6880548680522
+342,Trabalhador Familiar,0
+343,Assalariado com Carteira,248.11650736842114
+343,Assalariado sem Carteira,27.929025
+343,Funcionário Público,0
+343,Autônomo,270.83086204678364
+343,Empregador,0
+343,Profissional Liberal,0
+343,Dono de Negócio Familiar,27.929025
+343,Trabalhador Familiar,0
+344,Assalariado com Carteira,15726.267220281452
+344,Assalariado sem Carteira,1270.1193633641747
+344,Funcionário Público,1297.268634873163
+344,Autônomo,5807.77112444088
+344,Empregador,1381.1812551306675
+344,Profissional Liberal,1519.6160726785788
+344,Dono de Negócio Familiar,1002.4117181283648
+344,Trabalhador Familiar,0
+345,Assalariado com Carteira,3221.0737574889417
+345,Assalariado sem Carteira,0
+345,Funcionário Público,970.5700238597207
+345,Autônomo,3453.2741556226392
+345,Empregador,699.7959572678565
+345,Profissional Liberal,11.513082595744722
+345,Dono de Negócio Familiar,1484.2010636792436
+345,Trabalhador Familiar,0
+346,Assalariado com Carteira,378.6496233742135
+346,Assalariado sem Carteira,0
+346,Funcionário Público,0
+346,Autônomo,0
+346,Empregador,0
+346,Profissional Liberal,0
+346,Dono de Negócio Familiar,0
+346,Trabalhador Familiar,0
+347,Assalariado com Carteira,16361.3802329517
+347,Assalariado sem Carteira,86.13143576470587
+347,Funcionário Público,895.1115891464424
+347,Autônomo,9542.065580597802
+347,Empregador,94.71112666666666
+347,Profissional Liberal,0
+347,Dono de Negócio Familiar,961.5720613286958
+347,Trabalhador Familiar,0
+348,Assalariado com Carteira,1997.5980614732216
+348,Assalariado sem Carteira,46.6478724999999
+348,Funcionário Público,39.721907704081545
+348,Autônomo,591.4277637817887
+348,Empregador,39.721907704081545
+348,Profissional Liberal,0
+348,Dono de Negócio Familiar,79.44381540816309
+348,Trabalhador Familiar,0
+349,Assalariado com Carteira,257.9665313511863
+349,Assalariado sem Carteira,0
+349,Funcionário Público,0
+349,Autônomo,0
+349,Empregador,0
+349,Profissional Liberal,0
+349,Dono de Negócio Familiar,0
+349,Trabalhador Familiar,0
+350,Assalariado com Carteira,5839.292929448975
+350,Assalariado sem Carteira,649.1673397846147
+350,Funcionário Público,649.1673397846147
+350,Autônomo,2351.2049355666572
+350,Empregador,0
+350,Profissional Liberal,95.40270993506495
+350,Dono de Negócio Familiar,242.98129327272753
+350,Trabalhador Familiar,0
+351,Assalariado com Carteira,4645.264322482323
+351,Assalariado sem Carteira,0
+351,Funcionário Público,4527.434493093046
+351,Autônomo,5614.6369936392275
+351,Empregador,0
+351,Profissional Liberal,0
+351,Dono de Negócio Familiar,304.72584193939394
+351,Trabalhador Familiar,133.89517459090908
+352,Assalariado com Carteira,3505.8071126569125
+352,Assalariado sem Carteira,0
+352,Funcionário Público,832.0652738974361
+352,Autônomo,595.0328202531653
+352,Empregador,0
+352,Profissional Liberal,0
+352,Dono de Negócio Familiar,0
+352,Trabalhador Familiar,0
+353,Assalariado com Carteira,476.2325470772809
+353,Assalariado sem Carteira,0
+353,Funcionário Público,0
+353,Autônomo,0
+353,Empregador,0
+353,Profissional Liberal,0
+353,Dono de Negócio Familiar,0
+353,Trabalhador Familiar,0
+354,Assalariado com Carteira,0
+354,Assalariado sem Carteira,0
+354,Funcionário Público,0
+354,Autônomo,434.72078670769264
+354,Empregador,0
+354,Profissional Liberal,0
+354,Dono de Negócio Familiar,0
+354,Trabalhador Familiar,0
+355,Assalariado com Carteira,8132.77534622785
+355,Assalariado sem Carteira,1465.6392821878273
+355,Funcionário Público,1181.6090887041453
+355,Autônomo,6249.143230816699
+355,Empregador,0
+355,Profissional Liberal,0
+355,Dono de Negócio Familiar,586.57626845098
+355,Trabalhador Familiar,0
+356,Assalariado com Carteira,2294.6926481099053
+356,Assalariado sem Carteira,312.76406902272703
+356,Funcionário Público,777.8546853749983
+356,Autônomo,8317.831372340925
+356,Empregador,259.2848951249994
+356,Profissional Liberal,0
+356,Dono de Negócio Familiar,2348.5507575604943
+356,Trabalhador Familiar,0
+357,Assalariado com Carteira,0
+357,Assalariado sem Carteira,306.474908381097
+357,Funcionário Público,0
+357,Autônomo,484.68375541860433
+357,Empregador,0
+357,Profissional Liberal,0
+357,Dono de Negócio Familiar,0
+357,Trabalhador Familiar,0
+358,Assalariado com Carteira,5807.372834296572
+358,Assalariado sem Carteira,832.8976899670326
+358,Funcionário Público,752.2310790904818
+358,Autônomo,6965.829846791947
+358,Empregador,0
+358,Profissional Liberal,0
+358,Dono de Negócio Familiar,0
+358,Trabalhador Familiar,0
+359,Assalariado com Carteira,2950.7774511582634
+359,Assalariado sem Carteira,536.7711576098563
+359,Funcionário Público,216.02523089229578
+359,Autônomo,3949.793027132145
+359,Empregador,493.14793283722315
+359,Profissional Liberal,104.40035144274057
+359,Dono de Negócio Familiar,0
+359,Trabalhador Familiar,0
+360,Assalariado com Carteira,3359.825556096086
+360,Assalariado sem Carteira,1368.546134004651
+360,Funcionário Público,682.1288326520935
+360,Autônomo,3631.217800679688
+360,Empregador,570.8649174901954
+360,Profissional Liberal,0
+360,Dono de Negócio Familiar,309.4382229337836
+360,Trabalhador Familiar,0
+361,Assalariado com Carteira,1546.8704719367222
+361,Assalariado sem Carteira,480.976265391738
+361,Funcionário Público,372.6906097183098
+361,Autônomo,2324.3504956861007
+361,Empregador,0
+361,Profissional Liberal,0
+361,Dono de Negócio Familiar,109.9964102054447
+361,Trabalhador Familiar,0
+362,Assalariado com Carteira,17088.853401727454
+362,Assalariado sem Carteira,3690.2367789220057
+362,Funcionário Público,2081.7569078958104
+362,Autônomo,4372.649554997695
+362,Empregador,693.2453788285964
+362,Profissional Liberal,443.2879966989721
+362,Dono de Negócio Familiar,1821.207876646225
+362,Trabalhador Familiar,72.92906127272732
+363,Assalariado com Carteira,19843.962627583434
+363,Assalariado sem Carteira,2598.102592643887
+363,Funcionário Público,3903.415885439393
+363,Autônomo,6214.823842529374
+363,Empregador,409.6075975
+363,Profissional Liberal,265.66984978478877
+363,Dono de Negócio Familiar,1549.8898897646188
+363,Trabalhador Familiar,0
+364,Assalariado com Carteira,22499.00058570454
+364,Assalariado sem Carteira,727.533612527827
+364,Funcionário Público,425.08261662418283
+364,Autônomo,2907.542424636728
+364,Empregador,160.87041370588196
+364,Profissional Liberal,0
+364,Dono de Negócio Familiar,345.0268018416705
+364,Trabalhador Familiar,0
+365,Assalariado com Carteira,13498.439312933398
+365,Assalariado sem Carteira,158.59674281818175
+365,Funcionário Público,1410.6387022348604
+365,Autônomo,1029.910462449215
+365,Empregador,0
+365,Profissional Liberal,0
+365,Dono de Negócio Familiar,355.2636624265939
+365,Trabalhador Familiar,0
+366,Assalariado com Carteira,28342.065935929473
+366,Assalariado sem Carteira,2847.6282791445033
+366,Funcionário Público,568.0891890038963
+366,Autônomo,4100.678668092563
+366,Empregador,139.74507328978973
+366,Profissional Liberal,1109.4385741774886
+366,Dono de Negócio Familiar,540.9017383140188
+366,Trabalhador Familiar,0
+367,Assalariado com Carteira,5500.987724370363
+367,Assalariado sem Carteira,212.99409515789475
+367,Funcionário Público,335.97630204081605
+367,Autônomo,4229.776137708851
+367,Empregador,0
+367,Profissional Liberal,304.35235327241264
+367,Dono de Negócio Familiar,806.8058097959176
+367,Trabalhador Familiar,0
+368,Assalariado com Carteira,10466.460456908915
+368,Assalariado sem Carteira,4341.592334194049
+368,Funcionário Público,1720.112025931283
+368,Autônomo,2211.131752553419
+368,Empregador,291.4022122916668
+368,Profissional Liberal,0
+368,Dono de Negócio Familiar,1794.6831986931445
+368,Trabalhador Familiar,0
+369,Assalariado com Carteira,8626.448445115899
+369,Assalariado sem Carteira,4246.022659693158
+369,Funcionário Público,3108.4084366558827
+369,Autônomo,4230.2570175296705
+369,Empregador,23.943402589285682
+369,Profissional Liberal,0
+369,Dono de Negócio Familiar,632.9743405022227
+369,Trabalhador Familiar,316.6816718675296
+370,Assalariado com Carteira,15521.747008759456
+370,Assalariado sem Carteira,2458.608605184862
+370,Funcionário Público,2420.5489024228705
+370,Autônomo,7771.167215397679
+370,Empregador,1079.1421577099395
+370,Profissional Liberal,1318.739357722222
+370,Dono de Negócio Familiar,1891.2017621111113
+370,Trabalhador Familiar,0
+371,Assalariado com Carteira,2121.86632086386
+371,Assalariado sem Carteira,660.8367499999994
+371,Funcionário Público,1358.3063947222208
+371,Autônomo,3667.3527870576904
+371,Empregador,0
+371,Profissional Liberal,0
+371,Dono de Negócio Familiar,2168.363495278188
+371,Trabalhador Familiar,0
+372,Assalariado com Carteira,6821.981460665749
+372,Assalariado sem Carteira,431.6941098084683
+372,Funcionário Público,823.7954900801976
+372,Autônomo,3459.3854232030735
+372,Empregador,0
+372,Profissional Liberal,632.2103629032258
+372,Dono de Negócio Familiar,1747.0080659696018
+372,Trabalhador Familiar,0
+373,Assalariado com Carteira,8553.489988093355
+373,Assalariado sem Carteira,1623.619775759228
+373,Funcionário Público,498.5958200362077
+373,Autônomo,8151.913089714445
+373,Empregador,386.860647193746
+373,Profissional Liberal,239.74133292207762
+373,Dono de Negócio Familiar,1132.5233596821708
+373,Trabalhador Familiar,0
+374,Assalariado com Carteira,16094.19290519163
+374,Assalariado sem Carteira,428.1436444607567
+374,Funcionário Público,316.48717025111137
+374,Autônomo,391.1077962985688
+374,Empregador,363.1898371652104
+374,Profissional Liberal,0
+374,Dono de Negócio Familiar,192.6731925
+374,Trabalhador Familiar,0
+375,Assalariado com Carteira,16389.948415242547
+375,Assalariado sem Carteira,2060.419992348739
+375,Funcionário Público,418.3958721134835
+375,Autônomo,11657.89644661267
+375,Empregador,177.01668132876685
+375,Profissional Liberal,39.02050288888892
+375,Dono de Negócio Familiar,1036.9432645511283
+375,Trabalhador Familiar,0
+376,Assalariado com Carteira,10691.969557886532
+376,Assalariado sem Carteira,2106.3896403425474
+376,Funcionário Público,692.5301887418832
+376,Autônomo,5414.668924979729
+376,Empregador,31.167279444444457
+376,Profissional Liberal,0
+376,Dono de Negócio Familiar,881.7148145274709
+376,Trabalhador Familiar,0
+377,Assalariado com Carteira,25271.299990603326
+377,Assalariado sem Carteira,6711.33895680482
+377,Funcionário Público,3050.633921799559
+377,Autônomo,18252.681020100055
+377,Empregador,909.8296490326109
+377,Profissional Liberal,87.76096707272734
+377,Dono de Negócio Familiar,2346.706318881508
+377,Trabalhador Familiar,356.14284743478385
+378,Assalariado com Carteira,20551.995831200515
+378,Assalariado sem Carteira,1442.20859742959
+378,Funcionário Público,1823.9538669860049
+378,Autônomo,11193.464967607291
+378,Empregador,0
+378,Profissional Liberal,178.48555077528076
+378,Dono de Negócio Familiar,3478.051356394917
+378,Trabalhador Familiar,0
+379,Assalariado com Carteira,5256.136855099078
+379,Assalariado sem Carteira,671.8143039999995
+379,Funcionário Público,0
+379,Autônomo,3555.2356158684483
+379,Empregador,0
+379,Profissional Liberal,0
+379,Dono de Negócio Familiar,3032.0960639967534
+379,Trabalhador Familiar,721.0565375999988
+380,Assalariado com Carteira,3872.8635408862224
+380,Assalariado sem Carteira,490.8271031111109
+380,Funcionário Público,1241.4524965952153
+380,Autônomo,10159.848040109882
+380,Empregador,0
+380,Profissional Liberal,0
+380,Dono de Negócio Familiar,1722.1234853929773
+380,Trabalhador Familiar,0
+381,Assalariado com Carteira,0
+381,Assalariado sem Carteira,0
+381,Funcionário Público,0
+381,Autônomo,0
+381,Empregador,0
+381,Profissional Liberal,0
+381,Dono de Negócio Familiar,0
+381,Trabalhador Familiar,0
+382,Assalariado com Carteira,4322.828115320071
+382,Assalariado sem Carteira,3396.030322746847
+382,Funcionário Público,381.8631038377259
+382,Autônomo,7227.851460934659
+382,Empregador,2110.0793865205997
+382,Profissional Liberal,100.80936533333336
+382,Dono de Negócio Familiar,1005.1349026976751
+382,Trabalhador Familiar,0
+383,Assalariado com Carteira,2902.865627851528
+383,Assalariado sem Carteira,1071.3407389164272
+383,Funcionário Público,850.9107279230769
+383,Autônomo,7598.087219591282
+383,Empregador,0
+383,Profissional Liberal,0
+383,Dono de Negócio Familiar,2334.673662805128
+383,Trabalhador Familiar,0
+384,Assalariado com Carteira,2413.994519213792
+384,Assalariado sem Carteira,667.4371107113012
+384,Funcionário Público,979.6822601351216
+384,Autônomo,4391.374443350225
+384,Empregador,0
+384,Profissional Liberal,0
+384,Dono de Negócio Familiar,585.3053299672133
+384,Trabalhador Familiar,0
+385,Assalariado com Carteira,452.0472590649344
+385,Assalariado sem Carteira,0
+385,Funcionário Público,0
+385,Autônomo,0
+385,Empregador,0
+385,Profissional Liberal,0
+385,Dono de Negócio Familiar,0
+385,Trabalhador Familiar,0
+386,Assalariado com Carteira,2894.65219388589
+386,Assalariado sem Carteira,40.73276978571425
+386,Funcionário Público,0
+386,Autônomo,1078.2420172857135
+386,Empregador,0
+386,Profissional Liberal,0
+386,Dono de Negócio Familiar,96.18453507142848
+386,Trabalhador Familiar,48.982301499999956
+387,Assalariado com Carteira,18476.97754533457
+387,Assalariado sem Carteira,1762.443364205899
+387,Funcionário Público,2634.6025234995204
+387,Autônomo,6193.51433788275
+387,Empregador,48.982301499999956
+387,Profissional Liberal,23.116802888888866
+387,Dono de Negócio Familiar,1402.5981737295037
+387,Trabalhador Familiar,0
+388,Assalariado com Carteira,2142.061598815288
+388,Assalariado sem Carteira,15.550930999999995
+388,Funcionário Público,0
+388,Autônomo,865.829113266491
+388,Empregador,0
+388,Profissional Liberal,0
+388,Dono de Negócio Familiar,157.27230013000002
+388,Trabalhador Familiar,0
+389,Assalariado com Carteira,4336.174451008066
+389,Assalariado sem Carteira,0
+389,Funcionário Público,4455.684198651408
+389,Autônomo,6121.8363409126305
+389,Empregador,0
+389,Profissional Liberal,1839.213178212765
+389,Dono de Negócio Familiar,153.34177485714275
+389,Trabalhador Familiar,0
+390,Assalariado com Carteira,588.2031423126364
+390,Assalariado sem Carteira,239.1045910478914
+390,Funcionário Público,64.63478102857138
+390,Autônomo,1828.319507639051
+390,Empregador,0
+390,Profissional Liberal,0
+390,Dono de Negócio Familiar,0
+390,Trabalhador Familiar,0
+391,Assalariado com Carteira,7305.687158175089
+391,Assalariado sem Carteira,1274.2235821237418
+391,Funcionário Público,1438.4660950325163
+391,Autônomo,7668.276653367043
+391,Empregador,0
+391,Profissional Liberal,680.3800102083967
+391,Dono de Negócio Familiar,739.9326077404821
+391,Trabalhador Familiar,0
+392,Assalariado com Carteira,0
+392,Assalariado sem Carteira,0
+392,Funcionário Público,485.3672969497492
+392,Autônomo,0
+392,Empregador,0
+392,Profissional Liberal,0
+392,Dono de Negócio Familiar,0
+392,Trabalhador Familiar,0
+393,Assalariado com Carteira,8056.316637657144
+393,Assalariado sem Carteira,1680.4944641679213
+393,Funcionário Público,2965.8178974926154
+393,Autônomo,10650.862283475199
+393,Empregador,0
+393,Profissional Liberal,0
+393,Dono de Negócio Familiar,1428.6555616258456
+393,Trabalhador Familiar,0
+394,Assalariado com Carteira,981.8828558104932
+394,Assalariado sem Carteira,644.121476557983
+394,Funcionário Público,0
+394,Autônomo,2240.5581318344257
+394,Empregador,0
+394,Profissional Liberal,76.39072090322581
+394,Dono de Negócio Familiar,76.39072090322581
+394,Trabalhador Familiar,0
+395,Assalariado com Carteira,20180.55413073774
+395,Assalariado sem Carteira,929.6644529120174
+395,Funcionário Público,2861.0234282263245
+395,Autônomo,5872.374156932601
+395,Empregador,409.5192754471758
+395,Profissional Liberal,0
+395,Dono de Negócio Familiar,238.1789777906975
+395,Trabalhador Familiar,0
+396,Assalariado com Carteira,6330.871421637605
+396,Assalariado sem Carteira,2358.4987294370967
+396,Funcionário Público,2341.927096573495
+396,Autônomo,16973.720381270377
+396,Empregador,0
+396,Profissional Liberal,110.51268048125104
+396,Dono de Negócio Familiar,780.3291435450715
+396,Trabalhador Familiar,561.0964929730985
+397,Assalariado com Carteira,13468.81782358637
+397,Assalariado sem Carteira,1733.5132181327472
+397,Funcionário Público,1453.988055208627
+397,Autônomo,6089.028840473993
+397,Empregador,0
+397,Profissional Liberal,49.55608317730481
+397,Dono de Negócio Familiar,1364.58417902946
+397,Trabalhador Familiar,0
+398,Assalariado com Carteira,9441.639000541429
+398,Assalariado sem Carteira,3463.7598499611167
+398,Funcionário Público,624.9384339753019
+398,Autônomo,7180.854036866599
+398,Empregador,0
+398,Profissional Liberal,329.9036728534863
+398,Dono de Negócio Familiar,2374.069366392323
+398,Trabalhador Familiar,0
+399,Assalariado com Carteira,3444.167843659674
+399,Assalariado sem Carteira,929.6260272227876
+399,Funcionário Público,523.7809254755678
+399,Autônomo,6073.910670918214
+399,Empregador,0
+399,Profissional Liberal,0
+399,Dono de Negócio Familiar,519.7527275641637
+399,Trabalhador Familiar,358.0260922752506
+400,Assalariado com Carteira,14690.488170084065
+400,Assalariado sem Carteira,1415.5069540765178
+400,Funcionário Público,346.8892302286821
+400,Autônomo,11242.847450766094
+400,Empregador,992.1495625624124
+400,Profissional Liberal,0
+400,Dono de Negócio Familiar,3062.378451740256
+400,Trabalhador Familiar,0
+401,Assalariado com Carteira,22610.087892317195
+401,Assalariado sem Carteira,2600.1711436474015
+401,Funcionário Público,5403.493876261771
+401,Autônomo,17336.805045691854
+401,Empregador,1469.3522993670133
+401,Profissional Liberal,1168.9699711966864
+401,Dono de Negócio Familiar,4126.40338180301
+401,Trabalhador Familiar,0
+402,Assalariado com Carteira,1370.1487887798653
+402,Assalariado sem Carteira,314.4608231179039
+402,Funcionário Público,510.3825636690636
+402,Autônomo,2325.335789056845
+402,Empregador,661.0686441731266
+402,Profissional Liberal,0
+402,Dono de Negócio Familiar,99.44425972868198
+402,Trabalhador Familiar,99.44425972868198
+403,Assalariado com Carteira,1681.8647669303434
+403,Assalariado sem Carteira,462.8359571574863
+403,Funcionário Público,0
+403,Autônomo,1691.3407388580886
+403,Empregador,0
+403,Profissional Liberal,0
+403,Dono de Negócio Familiar,72.22941633532963
+403,Trabalhador Familiar,0
+404,Assalariado com Carteira,22982.265593057517
+404,Assalariado sem Carteira,4828.596892497915
+404,Funcionário Público,2615.708908332345
+404,Autônomo,14508.984524961037
+404,Empregador,2320.4014630280594
+404,Profissional Liberal,1069.9310722375894
+404,Dono de Negócio Familiar,2109.5714764455324
+404,Trabalhador Familiar,297.8187063703702
+405,Assalariado com Carteira,12504.112487260209
+405,Assalariado sem Carteira,557.1969437892601
+405,Funcionário Público,895.1145582538493
+405,Autônomo,3718.599581509408
+405,Empregador,197.484287357143
+405,Profissional Liberal,510.3825636690636
+405,Dono de Negócio Familiar,440.368193281707
+405,Trabalhador Familiar,356.45613362857154
+406,Assalariado com Carteira,12959.653694373403
+406,Assalariado sem Carteira,427.5294213703701
+406,Funcionário Público,2405.0504279149104
+406,Autônomo,5790.679087179554
+406,Empregador,0
+406,Profissional Liberal,867.7813739465117
+406,Dono de Negócio Familiar,0
+406,Trabalhador Familiar,0
+407,Assalariado com Carteira,11266.523387806314
+407,Assalariado sem Carteira,618.5559716223368
+407,Funcionário Público,1127.7006788146184
+407,Autônomo,14949.51403011273
+407,Empregador,794.131491509804
+407,Profissional Liberal,0
+407,Dono de Negócio Familiar,0
+407,Trabalhador Familiar,0
+408,Assalariado com Carteira,5731.507224955203
+408,Assalariado sem Carteira,1033.0623971146765
+408,Funcionário Público,1434.427765147411
+408,Autônomo,7225.705509074479
+408,Empregador,0
+408,Profissional Liberal,0
+408,Dono de Negócio Familiar,852.7394768299514
+408,Trabalhador Familiar,0
+409,Assalariado com Carteira,1196.4937124338405
+409,Assalariado sem Carteira,323.4532705778261
+409,Funcionário Público,0
+409,Autônomo,1951.4440031608433
+409,Empregador,429.8487395098038
+409,Profissional Liberal,0
+409,Dono de Negócio Familiar,80.04400340120691
+409,Trabalhador Familiar,0
+410,Assalariado com Carteira,4480.277966777126
+410,Assalariado sem Carteira,243.8711011333333
+410,Funcionário Público,186.71108476306597
+410,Autônomo,1204.747343087879
+410,Empregador,0
+410,Profissional Liberal,0
+410,Dono de Negócio Familiar,49.70172375
+410,Trabalhador Familiar,143.46097098666672
+411,Assalariado com Carteira,2859.460809787693
+411,Assalariado sem Carteira,131.25505838541648
+411,Funcionário Público,103.22075301558115
+411,Autônomo,1505.6436945812068
+411,Empregador,0
+411,Profissional Liberal,563.6680272605031
+411,Dono de Negócio Familiar,103.22075301558115
+411,Trabalhador Familiar,0
+412,Assalariado com Carteira,6921.671094288862
+412,Assalariado sem Carteira,332.7703042745097
+412,Funcionário Público,367.0513407142857
+412,Autônomo,2639.3175042750227
+412,Empregador,0
+412,Profissional Liberal,218.78088478533095
+412,Dono de Negócio Familiar,734.1026814285714
+412,Trabalhador Familiar,0
+413,Assalariado com Carteira,1121.9725470657404
+413,Assalariado sem Carteira,0
+413,Funcionário Público,175.44504477500004
+413,Autônomo,3932.1897505722213
+413,Empregador,141.11976787272718
+413,Profissional Liberal,447.71842785185163
+413,Dono de Negócio Familiar,175.44504477500004
+413,Trabalhador Familiar,175.44504477500004
+414,Assalariado com Carteira,1624.0231820099589
+414,Assalariado sem Carteira,131.25505838541648
+414,Funcionário Público,1976.1589623980528
+414,Autônomo,3283.055364813288
+414,Empregador,90.27555999999987
+414,Profissional Liberal,229.022755443038
+414,Dono de Negócio Familiar,1498.1730361054845
+414,Trabalhador Familiar,360.5899719166662
+415,Assalariado com Carteira,889.4535383391122
+415,Assalariado sem Carteira,509.34322407103605
+415,Funcionário Público,540.1983811408035
+415,Autônomo,1643.2491285953492
+415,Empregador,0
+415,Profissional Liberal,0
+415,Dono de Negócio Familiar,217.34375487272735
+415,Trabalhador Familiar,0
+416,Assalariado com Carteira,4700.827925091932
+416,Assalariado sem Carteira,1012.6135361013196
+416,Funcionário Público,355.24780703401746
+416,Autônomo,3374.519491464148
+416,Empregador,0
+416,Profissional Liberal,33.626741749999994
+416,Dono de Negócio Familiar,723.8925879244481
+416,Trabalhador Familiar,0
+417,Assalariado com Carteira,12793.473446382019
+417,Assalariado sem Carteira,1511.1184712102759
+417,Funcionário Público,1088.1028342444454
+417,Autônomo,7357.533044542509
+417,Empregador,64.99132694193547
+417,Profissional Liberal,0
+417,Dono de Negócio Familiar,1413.9015651809214
+417,Trabalhador Familiar,0
+418,Assalariado com Carteira,7392.548192500901
+418,Assalariado sem Carteira,847.2666527433868
+418,Funcionário Público,834.851078024948
+418,Autônomo,3119.890182760891
+418,Empregador,0
+418,Profissional Liberal,0
+418,Dono de Negócio Familiar,1396.8139363166028
+418,Trabalhador Familiar,586.5286525405405
+419,Assalariado com Carteira,8855.464906341338
+419,Assalariado sem Carteira,3073.0998228581225
+419,Funcionário Público,1445.539555075777
+419,Autônomo,4127.198320752936
+419,Empregador,0
+419,Profissional Liberal,42.104506125
+419,Dono de Negócio Familiar,371.5244036488135
+419,Trabalhador Familiar,0
+420,Assalariado com Carteira,7064.792715959229
+420,Assalariado sem Carteira,769.7551885599995
+420,Funcionário Público,0
+420,Autônomo,645.7998210568128
+420,Empregador,109.10150215053758
+420,Profissional Liberal,53.42232683076918
+420,Dono de Negócio Familiar,463.0183383368071
+420,Trabalhador Familiar,0
+421,Assalariado com Carteira,30416.97452523965
+421,Assalariado sem Carteira,2754.0986978488836
+421,Funcionário Público,401.35515994163177
+421,Autônomo,3619.522859820345
+421,Empregador,304.2097818324179
+421,Profissional Liberal,1577.434180025196
+421,Dono de Negócio Familiar,332.1263040019354
+421,Trabalhador Familiar,0
+422,Assalariado com Carteira,53520.75796061758
+422,Assalariado sem Carteira,5068.390262513469
+422,Funcionário Público,8163.075706483121
+422,Autônomo,10206.512489569954
+422,Empregador,2616.9264953292204
+422,Profissional Liberal,844.030561652196
+422,Dono de Negócio Familiar,2136.846527100032
+422,Trabalhador Familiar,135.8490772941173
+423,Assalariado com Carteira,5072.528080444454
+423,Assalariado sem Carteira,274.6169896
+423,Funcionário Público,0
+423,Autônomo,3965.0759853500504
+423,Empregador,105.17484693333316
+423,Profissional Liberal,0
+423,Dono de Negócio Familiar,273.0888548878674
+423,Trabalhador Familiar,0
+424,Assalariado com Carteira,5162.959227793532
+424,Assalariado sem Carteira,573.3624157793378
+424,Funcionário Público,884.7307431764705
+424,Autônomo,3534.5089784611405
+424,Empregador,635.5710502451336
+424,Profissional Liberal,109.46100157894742
+424,Dono de Negócio Familiar,0
+424,Trabalhador Familiar,0
+425,Assalariado com Carteira,3469.647728649147
+425,Assalariado sem Carteira,262.7358849285715
+425,Funcionário Público,0
+425,Autônomo,2891.755779937349
+425,Empregador,0
+425,Profissional Liberal,0
+425,Dono de Negócio Familiar,256.77797589552256
+425,Trabalhador Familiar,0
+426,Assalariado com Carteira,10652.94717615554
+426,Assalariado sem Carteira,2946.4854083710097
+426,Funcionário Público,0
+426,Autônomo,2025.7362493048306
+426,Empregador,0
+426,Profissional Liberal,435.069251379679
+426,Dono de Negócio Familiar,20.018500799999998
+426,Trabalhador Familiar,109.61684544117641
+427,Assalariado com Carteira,9017.0063141706
+427,Assalariado sem Carteira,1150.4241712705875
+427,Funcionário Público,1757.6232790657407
+427,Autônomo,3771.9825764740335
+427,Empregador,0
+427,Profissional Liberal,0
+427,Dono de Negócio Familiar,679.2382869090903
+427,Trabalhador Familiar,134.25737920000003
+428,Assalariado com Carteira,4993.280755087404
+428,Assalariado sem Carteira,871.5452734495223
+428,Funcionário Público,276.10595721753987
+428,Autônomo,3061.5337577852483
+428,Empregador,0
+428,Profissional Liberal,656.1837603962689
+428,Dono de Negócio Familiar,2316.181093034815
+428,Trabalhador Familiar,0
+429,Assalariado com Carteira,4806.535421195898
+429,Assalariado sem Carteira,807.1122336091241
+429,Funcionário Público,0
+429,Autônomo,9148.633202237135
+429,Empregador,0
+429,Profissional Liberal,135.8490772941173
+429,Dono de Negócio Familiar,1160.4008333333343
+429,Trabalhador Familiar,0
+430,Assalariado com Carteira,5927.758111649734
+430,Assalariado sem Carteira,671.9593499934235
+430,Funcionário Público,0
+430,Autônomo,4825.626591304777
+430,Empregador,201.46900607692308
+430,Profissional Liberal,165.87679217777782
+430,Dono de Negócio Familiar,534.4437935
+430,Trabalhador Familiar,201.46900607692308
+431,Assalariado com Carteira,18959.745526201117
+431,Assalariado sem Carteira,143.14645545454547
+431,Funcionário Público,2466.5777855624146
+431,Autônomo,8754.462389023507
+431,Empregador,0
+431,Profissional Liberal,318.5068294736842
+431,Dono de Negócio Familiar,1858.1951959999988
+431,Trabalhador Familiar,0
+432,Assalariado com Carteira,14287.856885632063
+432,Assalariado sem Carteira,5081.058895654565
+432,Funcionário Público,1618.1786786491216
+432,Autônomo,13556.226215303885
+432,Empregador,0
+432,Profissional Liberal,0
+432,Dono de Negócio Familiar,1220.300448868739
+432,Trabalhador Familiar,0
+433,Assalariado com Carteira,2482.5693745688404
+433,Assalariado sem Carteira,2389.4073497360496
+433,Funcionário Público,1091.7373217967213
+433,Autônomo,13043.802055891822
+433,Empregador,0
+433,Profissional Liberal,0
+433,Dono de Negócio Familiar,940.4090897303597
+433,Trabalhador Familiar,0
+434,Assalariado com Carteira,907.1387780592295
+434,Assalariado sem Carteira,0
+434,Funcionário Público,0
+434,Autônomo,318.04229014190673
+434,Empregador,49.126516487804835
+434,Profissional Liberal,0
+434,Dono de Negócio Familiar,19.336782951219497
+434,Trabalhador Familiar,0
+435,Assalariado com Carteira,24308.00452497202
+435,Assalariado sem Carteira,3214.3839750552293
+435,Funcionário Público,621.1063904389976
+435,Autônomo,4596.199029680982
+435,Empregador,0
+435,Profissional Liberal,0
+435,Dono de Negócio Familiar,44.287607356521775
+435,Trabalhador Familiar,0
+436,Assalariado com Carteira,21104.021996390707
+436,Assalariado sem Carteira,2731.2198761717973
+436,Funcionário Público,3541.992772507543
+436,Autônomo,22375.883111631265
+436,Empregador,980.1293802697458
+436,Profissional Liberal,1308.3402269115027
+436,Dono de Negócio Familiar,4703.02323013386
+436,Trabalhador Familiar,389.4962593030303
+437,Assalariado com Carteira,8671.205315140227
+437,Assalariado sem Carteira,3028.3945676328212
+437,Funcionário Público,1734.2240053492187
+437,Autônomo,20827.534619472146
+437,Empregador,1251.7507152799196
+437,Profissional Liberal,624.6606128600117
+437,Dono de Negócio Familiar,1033.2303036299743
+437,Trabalhador Familiar,0
+438,Assalariado com Carteira,4969.464542617411
+438,Assalariado sem Carteira,1202.0792647615979
+438,Funcionário Público,143.42856389333346
+438,Autônomo,11910.51882675291
+438,Empregador,0
+438,Profissional Liberal,0
+438,Dono de Negócio Familiar,2136.4147708407036
+438,Trabalhador Familiar,0
+439,Assalariado com Carteira,633.6525120270616
+439,Assalariado sem Carteira,38.20306695
+439,Funcionário Público,148.87278592105267
+439,Autônomo,1922.2303919442716
+439,Empregador,0
+439,Profissional Liberal,0
+439,Dono de Negócio Familiar,148.87278592105267
+439,Trabalhador Familiar,0
+440,Assalariado com Carteira,17143.564130659768
+440,Assalariado sem Carteira,1835.4511081302717
+440,Funcionário Público,1422.568169676442
+440,Autônomo,9030.269476569596
+440,Empregador,407.8675548839818
+440,Profissional Liberal,507.3209231428572
+440,Dono de Negócio Familiar,1803.1955076249978
+440,Trabalhador Familiar,0
+441,Assalariado com Carteira,476.8449548202727
+441,Assalariado sem Carteira,181.5555555928151
+441,Funcionário Público,469.7209699090912
+441,Autônomo,1519.7959907418365
+441,Empregador,177.4524839439655
+441,Profissional Liberal,0
+441,Dono de Negócio Familiar,558.2696320909432
+441,Trabalhador Familiar,0
+442,Assalariado com Carteira,1206.7282753592478
+442,Assalariado sem Carteira,500.5907788312648
+442,Funcionário Público,254.29871603126458
+442,Autônomo,1441.0478798661102
+442,Empregador,0
+442,Profissional Liberal,0
+442,Dono de Negócio Familiar,277.68853389333344
+442,Trabalhador Familiar,0
+443,Assalariado com Carteira,350.40088477719354
+443,Assalariado sem Carteira,141.01502884210515
+443,Funcionário Público,755.2657719810672
+443,Autônomo,1601.8273034007598
+443,Empregador,0
+443,Profissional Liberal,0
+443,Dono de Negócio Familiar,0
+443,Trabalhador Familiar,0
+444,Assalariado com Carteira,1346.7542404998567
+444,Assalariado sem Carteira,293.7235044155847
+444,Funcionário Público,490.62236066732845
+444,Autônomo,2580.4102764217373
+444,Empregador,0
+444,Profissional Liberal,140.24108034188035
+444,Dono de Negócio Familiar,394.9936214305102
+444,Trabalhador Familiar,384.19448209090956
+445,Assalariado com Carteira,24103.606477297864
+445,Assalariado sem Carteira,253.34141746505875
+445,Funcionário Público,266.7914162727274
+445,Autônomo,9589.922687184158
+445,Empregador,135.8490772941173
+445,Profissional Liberal,1118.982208062387
+445,Dono de Negócio Familiar,2042.9297526492312
+445,Trabalhador Familiar,146.36988494117614
+446,Assalariado com Carteira,27195.767723422483
+446,Assalariado sem Carteira,1020.4731222491232
+446,Funcionário Público,531.6023836862746
+446,Autônomo,6553.221394432121
+446,Empregador,935.1935665382754
+446,Profissional Liberal,0
+446,Dono de Negócio Familiar,539.6179785174602
+446,Trabalhador Familiar,0
+447,Assalariado com Carteira,15236.626383269284
+447,Assalariado sem Carteira,1343.2165996408025
+447,Funcionário Público,623.4104390740742
+447,Autônomo,3049.754143711243
+447,Empregador,0
+447,Profissional Liberal,1086.3907756592664
+447,Dono de Negócio Familiar,3361.5060562094923
+447,Trabalhador Familiar,362.93196340206157
+448,Assalariado com Carteira,23259.31196501406
+448,Assalariado sem Carteira,1857.6864029080577
+448,Funcionário Público,906.133441588452
+448,Autônomo,3901.626472901029
+448,Empregador,334.17173860317445
+448,Profissional Liberal,427.83007388611145
+448,Dono de Negócio Familiar,799.7794294848553
+448,Trabalhador Familiar,0
+449,Assalariado com Carteira,47688.687456627384
+449,Assalariado sem Carteira,3631.2773439631455
+449,Funcionário Público,4943.17912966654
+449,Autônomo,8740.4273897167
+449,Empregador,1957.5467382636903
+449,Profissional Liberal,1767.3000401724094
+449,Dono de Negócio Familiar,2249.3285635554394
+449,Trabalhador Familiar,682.8345357289688
+450,Assalariado com Carteira,17898.001981897367
+450,Assalariado sem Carteira,2549.6546360118946
+450,Funcionário Público,1874.486494
+450,Autônomo,16423.174760350917
+450,Empregador,548.5953540766059
+450,Profissional Liberal,731.4575492021568
+450,Dono de Negócio Familiar,2500.8817272291712
+450,Trabalhador Familiar,9.914754919831193
+451,Assalariado com Carteira,22899.413341313764
+451,Assalariado sem Carteira,3222.190168438275
+451,Funcionário Público,0
+451,Autônomo,11837.611639355307
+451,Empregador,637.0044405925927
+451,Profissional Liberal,570.9917197160455
+451,Dono de Negócio Familiar,956.4610797115047
+451,Trabalhador Familiar,0
+452,Assalariado com Carteira,4676.653750005862
+452,Assalariado sem Carteira,1229.7524991034109
+452,Funcionário Público,184.19592097959182
+452,Autônomo,4864.958313149619
+452,Empregador,0
+452,Profissional Liberal,0
+452,Dono de Negócio Familiar,405.84686628571444
+452,Trabalhador Familiar,0
+453,Assalariado com Carteira,1806.3031637435954
+453,Assalariado sem Carteira,0
+453,Funcionário Público,791.49075596329
+453,Autônomo,2875.0473262933688
+453,Empregador,0
+453,Profissional Liberal,0
+453,Dono de Negócio Familiar,816.5384362271218
+453,Trabalhador Familiar,0
+454,Assalariado com Carteira,22976.003834016108
+454,Assalariado sem Carteira,3544.8241605713206
+454,Funcionário Público,319.86777319161484
+454,Autônomo,15138.134212530154
+454,Empregador,333.76864211363653
+454,Profissional Liberal,23.448480888888923
+454,Dono de Negócio Familiar,4341.374482584469
+454,Trabalhador Familiar,451.80322288888874
+455,Assalariado com Carteira,27601.51670537867
+455,Assalariado sem Carteira,3657.011612133158
+455,Funcionário Público,1733.675960994011
+455,Autônomo,10275.498446035672
+455,Empregador,1183.1101542644992
+455,Profissional Liberal,0
+455,Dono de Negócio Familiar,979.6944346160741
+455,Trabalhador Familiar,0
+456,Assalariado com Carteira,15440.429967705199
+456,Assalariado sem Carteira,2741.474492885365
+456,Funcionário Público,52.58742346666658
+456,Autônomo,9505.128789364913
+456,Empregador,1483.6368735995525
+456,Profissional Liberal,0
+456,Dono de Negócio Familiar,2724.5075978635687
+456,Trabalhador Familiar,0
+457,Assalariado com Carteira,29315.226496751464
+457,Assalariado sem Carteira,759.8898148014543
+457,Funcionário Público,1084.200576467828
+457,Autônomo,13468.24480673004
+457,Empregador,137.3954721985912
+457,Profissional Liberal,0
+457,Dono de Negócio Familiar,5456.142912618283
+457,Trabalhador Familiar,427.61730259999996
+458,Assalariado com Carteira,8719.151838709467
+458,Assalariado sem Carteira,1123.6555478809532
+458,Funcionário Público,140.50634345454546
+458,Autônomo,8678.032451481065
+458,Empregador,0
+458,Profissional Liberal,0
+458,Dono de Negócio Familiar,765.5661135271243
+458,Trabalhador Familiar,0
+459,Assalariado com Carteira,5412.277983937406
+459,Assalariado sem Carteira,2659.816139790889
+459,Funcionário Público,448.45634827272727
+459,Autônomo,3878.308599295256
+459,Empregador,0
+459,Profissional Liberal,0
+459,Dono de Negócio Familiar,553.2577452239012
+459,Trabalhador Familiar,148.60322643750004
+460,Assalariado com Carteira,19559.31212695387
+460,Assalariado sem Carteira,619.7293329155557
+460,Funcionário Público,2973.886427288982
+460,Autônomo,9711.815611402242
+460,Empregador,486.27430201454786
+460,Profissional Liberal,0
+460,Dono de Negócio Familiar,0
+460,Trabalhador Familiar,0
+461,Assalariado com Carteira,5615.189675631259
+461,Assalariado sem Carteira,2490.8862248994715
+461,Funcionário Público,1549.5793002623786
+461,Autônomo,5145.6097502922175
+461,Empregador,87.63967863966306
+461,Profissional Liberal,0
+461,Dono de Negócio Familiar,0
+461,Trabalhador Familiar,0
+462,Assalariado com Carteira,8314.294084855159
+462,Assalariado sem Carteira,1378.6396691492223
+462,Funcionário Público,1468.8365865988785
+462,Autônomo,5794.451324321096
+462,Empregador,0
+462,Profissional Liberal,11.513082595744722
+462,Dono de Negócio Familiar,825.3703576983958
+462,Trabalhador Familiar,0
+463,Assalariado com Carteira,7410.680511849438
+463,Assalariado sem Carteira,1520.8481879331803
+463,Funcionário Público,168.58141954642852
+463,Autônomo,7410.6328460551895
+463,Empregador,613.3822827710836
+463,Profissional Liberal,0
+463,Dono de Negócio Familiar,1268.0705997862785
+463,Trabalhador Familiar,0
+464,Assalariado com Carteira,3905.058617545971
+464,Assalariado sem Carteira,408.8436605666666
+464,Funcionário Público,1268.7452083555554
+464,Autônomo,9168.061776988072
+464,Empregador,0
+464,Profissional Liberal,0
+464,Dono de Negócio Familiar,1756.0174902516526
+464,Trabalhador Familiar,0
+465,Assalariado com Carteira,8024.165007247192
+465,Assalariado sem Carteira,1525.135625235582
+465,Funcionário Público,378.50217378947394
+465,Autônomo,4752.488162860435
+465,Empregador,0
+465,Profissional Liberal,0
+465,Dono de Negócio Familiar,1014.8107255442729
+465,Trabalhador Familiar,466.75754503529436
+466,Assalariado com Carteira,23852.322303084504
+466,Assalariado sem Carteira,3330.150724259902
+466,Funcionário Público,3578.1458747164675
+466,Autônomo,7135.425045756321
+466,Empregador,25.724593400000025
+466,Profissional Liberal,23.315702429149823
+466,Dono de Negócio Familiar,537.723984196643
+466,Trabalhador Familiar,0
+467,Assalariado com Carteira,6230.299261796016
+467,Assalariado sem Carteira,216.87628532026145
+467,Funcionário Público,96.86681961904753
+467,Autônomo,3342.699783520552
+467,Empregador,0
+467,Profissional Liberal,0
+467,Dono de Negócio Familiar,900.1903124102828
+467,Trabalhador Familiar,0
+468,Assalariado com Carteira,14420.153406108291
+468,Assalariado sem Carteira,1269.4886418091266
+468,Funcionário Público,3449.5223065244595
+468,Autônomo,23796.529510802575
+468,Empregador,873.0215792434574
+468,Profissional Liberal,698.1526449964731
+468,Dono de Negócio Familiar,3130.776424942723
+468,Trabalhador Familiar,163.52418036914833
+469,Assalariado com Carteira,432.0444391562276
+469,Assalariado sem Carteira,107.60314093933333
+469,Funcionário Público,103.54852508737875
+469,Autônomo,630.5375978635673
+469,Empregador,54.05088692857142
+469,Profissional Liberal,0
+469,Dono de Negócio Familiar,24.93235501597605
+469,Trabalhador Familiar,0
+470,Assalariado com Carteira,2670.714278278651
+470,Assalariado sem Carteira,357.46563128812977
+470,Funcionário Público,461.9429969101237
+470,Autônomo,1091.3207037333327
+470,Empregador,0
+470,Profissional Liberal,25.08455637748334
+470,Dono de Negócio Familiar,387.46727847619013
+470,Trabalhador Familiar,0
+471,Assalariado com Carteira,1661.1944943791686
+471,Assalariado sem Carteira,260.1059174352047
+471,Funcionário Público,479.95522354065224
+471,Autônomo,2235.9517123842347
+471,Empregador,360.1614975204117
+471,Profissional Liberal,0
+471,Dono de Negócio Familiar,265.83135942475747
+471,Trabalhador Familiar,103.54852508737875
+472,Assalariado com Carteira,3936.0059376218824
+472,Assalariado sem Carteira,1239.358284254642
+472,Funcionário Público,554.5678661326178
+472,Autônomo,7044.909956401131
+472,Empregador,0
+472,Profissional Liberal,287.3647009946262
+472,Dono de Negócio Familiar,947.2227841722859
+472,Trabalhador Familiar,0
+473,Assalariado com Carteira,322.96030204083223
+473,Assalariado sem Carteira,497.13023539606263
+473,Funcionário Público,230.0356879646021
+473,Autônomo,2714.7785294846535
+473,Empregador,0
+473,Profissional Liberal,0
+473,Dono de Negócio Familiar,76.67856265486736
+473,Trabalhador Familiar,0
+474,Assalariado com Carteira,828.125907858367
+474,Assalariado sem Carteira,140.60929353658537
+474,Funcionário Público,0
+474,Autônomo,1261.6095799123088
+474,Empregador,0
+474,Profissional Liberal,0
+474,Dono de Negócio Familiar,62.93934953658538
+474,Trabalhador Familiar,0
+475,Assalariado com Carteira,2895.2844879696954
+475,Assalariado sem Carteira,1254.0165558311683
+475,Funcionário Público,777.4796816095235
+475,Autônomo,3554.9969225238074
+475,Empregador,0
+475,Profissional Liberal,0
+475,Dono de Negócio Familiar,836.4625373463201
+475,Trabalhador Familiar,101.97037584415578
+476,Assalariado com Carteira,29770.710467823872
+476,Assalariado sem Carteira,3944.331103923354
+476,Funcionário Público,4912.601687335003
+476,Autônomo,8922.867410706871
+476,Empregador,444.80209378045146
+476,Profissional Liberal,694.670306541726
+476,Dono de Negócio Familiar,1024.8257034837764
+476,Trabalhador Familiar,0
+477,Assalariado com Carteira,21962.06949937061
+477,Assalariado sem Carteira,694.0584314881509
+477,Funcionário Público,873.2580311940378
+477,Autônomo,3835.0145137799077
+477,Empregador,700.3084688158749
+477,Profissional Liberal,1550.5501740402206
+477,Dono de Negócio Familiar,1210.262033847785
+477,Trabalhador Familiar,0
+478,Assalariado com Carteira,74478.52861586762
+478,Assalariado sem Carteira,3224.090121224329
+478,Funcionário Público,68.72633835294108
+478,Autônomo,2163.1794636613904
+478,Empregador,1589.255880745814
+478,Profissional Liberal,1905.4610914985742
+478,Dono de Negócio Familiar,340.16668900854586
+478,Trabalhador Familiar,0
+479,Assalariado com Carteira,5041.395333440426
+479,Assalariado sem Carteira,0
+479,Funcionário Público,1707.2237377915487
+479,Autônomo,0
+479,Empregador,0
+479,Profissional Liberal,0
+479,Dono de Negócio Familiar,0
+479,Trabalhador Familiar,0
+480,Assalariado com Carteira,195.56906147368412
+480,Assalariado sem Carteira,555.76800937815
+480,Funcionário Público,2500.5071848592916
+480,Autônomo,4094.202836817024
+480,Empregador,0
+480,Profissional Liberal,275.2858707226885
+480,Dono de Negócio Familiar,908.0373727335068
+480,Trabalhador Familiar,0
+481,Assalariado com Carteira,3614.394143448471
+481,Assalariado sem Carteira,751.9423712894744
+481,Funcionário Público,1299.4835482514668
+481,Autônomo,9997.071972616744
+481,Empregador,1445.672740555554
+481,Profissional Liberal,416.4899375000004
+481,Dono de Negócio Familiar,1302.0309883870586
+481,Trabalhador Familiar,791.6286875000008
+482,Assalariado com Carteira,6715.847231952343
+482,Assalariado sem Carteira,419.11302923636316
+482,Funcionário Público,1689.347163755324
+482,Autônomo,2177.5051632357204
+482,Empregador,0
+482,Profissional Liberal,136.00639830769248
+482,Dono de Negócio Familiar,0
+482,Trabalhador Familiar,0
+483,Assalariado com Carteira,3646.1074598019727
+483,Assalariado sem Carteira,0
+483,Funcionário Público,0
+483,Autônomo,207.941172075
+483,Empregador,573.0920501280009
+483,Profissional Liberal,134.37875925
+483,Dono de Negócio Familiar,918.1133280647782
+483,Trabalhador Familiar,0
+484,Assalariado com Carteira,3406.224091847241
+484,Assalariado sem Carteira,1706.3231635765192
+484,Funcionário Público,610.2097077570853
+484,Autônomo,13072.93701579117
+484,Empregador,146.73826
+484,Profissional Liberal,0
+484,Dono de Negócio Familiar,787.5130513194614
+484,Trabalhador Familiar,0
+485,Assalariado com Carteira,10316.280670628248
+485,Assalariado sem Carteira,1157.0215700187407
+485,Funcionário Público,3097.637905917814
+485,Autônomo,9386.817987584744
+485,Empregador,587.4631592690532
+485,Profissional Liberal,265.9783424640004
+485,Dono de Negócio Familiar,1238.1777451660275
+485,Trabalhador Familiar,237.9927318934508
+486,Assalariado com Carteira,5441.350847354598
+486,Assalariado sem Carteira,1077.9170900992258
+486,Funcionário Público,1427.87100865592
+486,Autônomo,8406.287464789171
+486,Empregador,0
+486,Profissional Liberal,0
+486,Dono de Negócio Familiar,2598.301543073022
+486,Trabalhador Familiar,0
+487,Assalariado com Carteira,2805.0916787089886
+487,Assalariado sem Carteira,1045.2566638739797
+487,Funcionário Público,249.56877012765977
+487,Autônomo,3471.542493351733
+487,Empregador,146.73826
+487,Profissional Liberal,0
+487,Dono de Negócio Familiar,131.0485000451647
+487,Trabalhador Familiar,0
+488,Assalariado com Carteira,1127.156745987234
+488,Assalariado sem Carteira,669.527573584864
+488,Funcionário Público,0
+488,Autônomo,5930.71242096208
+488,Empregador,400.76785566024336
+488,Profissional Liberal,119.61720614389185
+488,Dono de Negócio Familiar,284.98822716216534
+488,Trabalhador Familiar,0
+489,Assalariado com Carteira,16689.409240284564
+489,Assalariado sem Carteira,2310.9380763258423
+489,Funcionário Público,1275.4738330054204
+489,Autônomo,2003.0270672678703
+489,Empregador,331.62211826821226
+489,Profissional Liberal,342.62943885324046
+489,Dono de Negócio Familiar,821.055493350512
+489,Trabalhador Familiar,0
+490,Assalariado com Carteira,22456.30991220625
+490,Assalariado sem Carteira,794.3806060100699
+490,Funcionário Público,439.7618280000001
+490,Autônomo,1306.7965537944935
+490,Empregador,67.189379625
+490,Profissional Liberal,1200.0309597936418
+490,Dono de Negócio Familiar,523.6262652745102
+490,Trabalhador Familiar,0
+491,Assalariado com Carteira,7745.628208490343
+491,Assalariado sem Carteira,596.7834542886035
+491,Funcionário Público,765.3914889080313
+491,Autônomo,6297.1578948858405
+491,Empregador,258.03181127272734
+491,Profissional Liberal,131.0485000451647
+491,Dono de Negócio Familiar,86.5058863921568
+491,Trabalhador Familiar,0
+492,Assalariado com Carteira,16630.77183009901
+492,Assalariado sem Carteira,1988.9871361946928
+492,Funcionário Público,2804.725018254915
+492,Autônomo,9115.999085108828
+492,Empregador,398.293069654166
+492,Profissional Liberal,1781.1435598128262
+492,Dono de Negócio Familiar,2342.323090661764
+492,Trabalhador Familiar,0
+493,Assalariado com Carteira,1897.0276755461314
+493,Assalariado sem Carteira,192.23216008163243
+493,Funcionário Público,482.96799414089236
+493,Autônomo,2730.058620971788
+493,Empregador,71.40280420000002
+493,Profissional Liberal,0
+493,Dono de Negócio Familiar,217.04634805077004
+493,Trabalhador Familiar,0
+494,Assalariado com Carteira,884.7232482646124
+494,Assalariado sem Carteira,688.4582404147001
+494,Funcionário Público,308.42349709708446
+494,Autônomo,3572.8370650966945
+494,Empregador,0
+494,Profissional Liberal,195.1524573000001
+494,Dono de Negócio Familiar,2634.607747862071
+494,Trabalhador Familiar,0
+495,Assalariado com Carteira,8840.643632898538
+495,Assalariado sem Carteira,542.5257949590157
+495,Funcionário Público,1662.8500248013356
+495,Autônomo,9211.650955761696
+495,Empregador,880.3041753528514
+495,Profissional Liberal,0
+495,Dono de Negócio Familiar,3777.517256375593
+495,Trabalhador Familiar,0
+496,Assalariado com Carteira,3560.9163762501153
+496,Assalariado sem Carteira,2288.655636238895
+496,Funcionário Público,912.6621845
+496,Autônomo,7626.994114286255
+496,Empregador,636.8669682505317
+496,Profissional Liberal,570.8649174901954
+496,Dono de Negócio Familiar,305.0840284719321
+496,Trabalhador Familiar,0
+497,Assalariado com Carteira,2594.3515288757217
+497,Assalariado sem Carteira,75.34920368560616
+497,Funcionário Público,710.5112412775712
+497,Autônomo,1338.8458380374698
+497,Empregador,19.247705032967055
+497,Profissional Liberal,0
+497,Dono de Negócio Familiar,122.18515041071431
+497,Trabalhador Familiar,0
+498,Assalariado com Carteira,12698.926456665258
+498,Assalariado sem Carteira,1077.6318791370156
+498,Funcionário Público,220.803408076923
+498,Autônomo,1866.9838092025113
+498,Empregador,673.6345513420282
+498,Profissional Liberal,15.55625883803553
+498,Dono de Negócio Familiar,761.6945005383745
+498,Trabalhador Familiar,0
+499,Assalariado com Carteira,5965.367010622154
+499,Assalariado sem Carteira,1717.7972460975252
+499,Funcionário Público,2054.9467361389934
+499,Autônomo,9101.907445351355
+499,Empregador,95.58986475632864
+499,Profissional Liberal,0
+499,Dono de Negócio Familiar,1813.2829304592851
+499,Trabalhador Familiar,127.41071382752078
+500,Assalariado com Carteira,7918.049517289816
+500,Assalariado sem Carteira,156.72336278767443
+500,Funcionário Público,293.53528415024624
+500,Autônomo,4984.526415629094
+500,Empregador,2145.2991386111667
+500,Profissional Liberal,0
+500,Dono de Negócio Familiar,529.9959668613009
+500,Trabalhador Familiar,0
+501,Assalariado com Carteira,7028.936714088489
+501,Assalariado sem Carteira,1015.5424525472279
+501,Funcionário Público,441.10510279397494
+501,Autônomo,4476.668890873512
+501,Empregador,0
+501,Profissional Liberal,0
+501,Dono de Negócio Familiar,938.2703935135149
+501,Trabalhador Familiar,469.13519675675747
+502,Assalariado com Carteira,17689.727794645874
+502,Assalariado sem Carteira,736.7618101735738
+502,Funcionário Público,0
+502,Autônomo,3053.5253001823885
+502,Empregador,168.56622087500008
+502,Profissional Liberal,195.94452800531934
+502,Dono de Negócio Familiar,101.77221509302342
+502,Trabalhador Familiar,0
+503,Assalariado com Carteira,6259.4634015166175
+503,Assalariado sem Carteira,41.120345391304376
+503,Funcionário Público,2029.7514242394936
+503,Autônomo,1124.7713978662002
+503,Empregador,193.46597543661997
+503,Profissional Liberal,0
+503,Dono de Negócio Familiar,70.97984514569038
+503,Trabalhador Familiar,0
+504,Assalariado com Carteira,5492.245380275821
+504,Assalariado sem Carteira,600.9155642857145
+504,Funcionário Público,1681.284976030167
+504,Autônomo,7539.953591329278
+504,Empregador,251.0066756295078
+504,Profissional Liberal,106.59382972500005
+504,Dono de Negócio Familiar,6464.488850846161
+504,Trabalhador Familiar,0
+505,Assalariado com Carteira,497.5242199389191
+505,Assalariado sem Carteira,0
+505,Funcionário Público,0
+505,Autônomo,446.2133592146462
+505,Empregador,138.56853930303018
+505,Profissional Liberal,209.4329009292927
+505,Dono de Negócio Familiar,71.03570702777779
+505,Trabalhador Familiar,0
+506,Assalariado com Carteira,18748.39838302436
+506,Assalariado sem Carteira,2486.2829448713405
+506,Funcionário Público,587.86715035587
+506,Autônomo,3024.664304814073
+506,Empregador,755.881780319395
+506,Profissional Liberal,479.9361377298867
+506,Dono de Negócio Familiar,2260.8415974028762
+506,Trabalhador Familiar,185.49272668973924
+507,Assalariado com Carteira,20455.211530531364
+507,Assalariado sem Carteira,443.5833409447611
+507,Funcionário Público,0
+507,Autônomo,2087.9146748043177
+507,Empregador,1647.7781488738524
+507,Profissional Liberal,1368.2040044760365
+507,Dono de Negócio Familiar,9.914754919831193
+507,Trabalhador Familiar,0
+508,Assalariado com Carteira,23124.007880240384
+508,Assalariado sem Carteira,1689.7989450446807
+508,Funcionário Público,3067.9219545527876
+508,Autônomo,17495.40192102915
+508,Empregador,316.78001755893786
+508,Profissional Liberal,727.09033124092
+508,Dono de Negócio Familiar,1089.988495272027
+508,Trabalhador Familiar,0
+509,Assalariado com Carteira,100.08622281739122
+509,Assalariado sem Carteira,196.38857955072456
+509,Funcionário Público,0
+509,Autônomo,910.2742737391301
+509,Empregador,0
+509,Profissional Liberal,0
+509,Dono de Negócio Familiar,270.6104511372548
+509,Trabalhador Familiar,135.3052255686274
+510,Assalariado com Carteira,0
+510,Assalariado sem Carteira,0
+510,Funcionário Público,0
+510,Autônomo,0
+510,Empregador,0
+510,Profissional Liberal,0
+510,Dono de Negócio Familiar,52.08861421739127
+510,Trabalhador Familiar,0
+511,Assalariado com Carteira,2697.6827619224473
+511,Assalariado sem Carteira,1534.4960238808496
+511,Funcionário Público,442.78001822649674
+511,Autônomo,4174.316836892953
+511,Empregador,308.7788840204079
+511,Profissional Liberal,0
+511,Dono de Negócio Familiar,2014.7081153157906
+511,Trabalhador Familiar,0
+512,Assalariado com Carteira,8947.347390455245
+512,Assalariado sem Carteira,2008.5346614510786
+512,Funcionário Público,613.8072353418818
+512,Autônomo,5972.463107057308
+512,Empregador,0
+512,Profissional Liberal,264.49203944737144
+512,Dono de Negócio Familiar,0
+512,Trabalhador Familiar,0
+513,Assalariado com Carteira,17.408102196721302
+513,Assalariado sem Carteira,0
+513,Funcionário Público,0
+513,Autônomo,330.86437762940886
+513,Empregador,0
+513,Profissional Liberal,56.20169724242425
+513,Dono de Negócio Familiar,129.8114966815698
+513,Trabalhador Familiar,0
+514,Assalariado com Carteira,10328.194429280118
+514,Assalariado sem Carteira,237.4675052631578
+514,Funcionário Público,2018.2228842218801
+514,Autônomo,13052.050254442405
+514,Empregador,0
+514,Profissional Liberal,300.921236
+514,Dono de Negócio Familiar,557.2478522040838
+514,Trabalhador Familiar,10.703504983606551
+515,Assalariado com Carteira,11951.921008720987
+515,Assalariado sem Carteira,791.6333239013841
+515,Funcionário Público,1560.952784093234
+515,Autônomo,9410.17585645457
+515,Empregador,17.408102196721302
+515,Profissional Liberal,0
+515,Dono de Negócio Familiar,1429.862525152519
+515,Trabalhador Familiar,0
+516,Assalariado com Carteira,25551.928880114727
+516,Assalariado sem Carteira,1556.5273145175504
+516,Funcionário Público,3883.834660436292
+516,Autônomo,10924.794003906805
+516,Empregador,382.168016919984
+516,Profissional Liberal,1742.68480967142
+516,Dono de Negócio Familiar,4205.79321891438
+516,Trabalhador Familiar,0
+517,Assalariado com Carteira,1081.0917591783477
+517,Assalariado sem Carteira,212.05750500000002
+517,Funcionário Público,1305.9415221960778
+517,Autônomo,1889.5065940357142
+517,Empregador,0
+517,Profissional Liberal,121.48669172727273
+517,Dono de Negócio Familiar,532.6057144935065
+517,Trabalhador Familiar,0

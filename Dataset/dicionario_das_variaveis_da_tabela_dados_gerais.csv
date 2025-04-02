@@ -1,0 +1,127 @@
+VAR_NOME,VAR_CONTEUDO
+ZONA,Zona do Domicílio
+MUNI_DOM,Município de Domicílio
+CO_DOM_X,Coordenada X Domicílio
+CO_DOM_Y,Coordenada Y Domicílio
+ID_DOM,Identifica Domicílio
+F_DOM,Identifica Primeiro Registro do Domicílio
+FE_DOM,Fator de Expansão do Domicílio
+DOM,Número do Domicílio
+CD_ENTRE,Código de Entrevista
+DATA,Data da Entrevista
+TIPO_DOM,Tipo de Domicílio
+AGUA,Possui água encanada?
+RUA_PAVI,A rua é pavimentada?
+NO_MORAD,Total de Moradores no Domicílio
+TOT_FAM,Total de Familias no Domicílio
+ID_FAM,Identifica Família
+F_FAM,Identifica Primeiro Registro da Família
+FE_FAM,Fator de Expansão da Família
+FAMILIA,Número da Família
+NO_MORAF,Total de Moradores na Família
+CONDMORA,Condição de Moradia
+QT_BANHO,Banheiros
+QT_EMPRE,Empregados Domésticos
+QT_AUTO,Automóveis
+QT_MICRO,Microcomputadores
+QT_LAVALOU,Máquinas de Lava louça
+QT_GEL1,Geladeiras de 1 porta
+QT_GEL2,Geladeiras de 2 portas
+QT_FREEZ,Freezer
+QT_MLAVA,Máquinas de Lavar
+QT_DVD,DVDs
+QT_MICROON,Microondas
+QT_MOTO,Motos
+QT_SECAROU,Secadora de roupas
+QT_BICICLE,Bicicletas
+NAO_DCL_IT,Código de Declaração de Itens de Conforto
+CRITERIOBR,Critério de Classificação Econômica Brasil
+PONTO_BR,Pontos Critério Brasil
+ANO_AUTO1,Ano Fabricação - Auto 1
+ANO_AUTO2,Ano Fabricação - Auto 2
+ANO_AUTO3,Ano Fabricação - Auto 3
+RENDA_FA,Renda Familiar Mensal
+CD_RENFA,Código de Renda Familiar
+ID_PESS,Identifica Pessoa
+F_PESS,Identifica Primeiro Registro da Pessoa
+FE_PESS,Fator de Expansão da Pessoa
+PESSOA,Número da Pessoa
+SIT_FAM,Situação Familiar
+IDADE,Idade
+SEXO,Gênero
+ESTUDA,Estuda Atualmente?
+GRAU_INS,Grau de Instrução
+CD_ATIVI,Condição de Atividade
+CO_REN_I,Condição de Renda Individual
+VL_REN_I,Renda Individual
+ZONA_ESC,Zona da Escola
+MUNIESC,Município da Escola
+CO_ESC_X,Coordenada X Escola
+CO_ESC_Y,Coordenada Y Escola
+TIPO_ESC,Tipo de Escola
+ZONATRA1,Zona do Primeiro Trabalho
+MUNITRA1,Município do Primeiro Trabalho
+CO_TR1_X,Coordenada X 1º Trabalho
+CO_TR1_Y,Coordenada Y 1º Trabalho
+TRAB1_RE,Primeiro Trabalho é igual a Residência ?
+TRABEXT1,Realiza Trabalho Externo-1º Trabalho
+OCUP1,Ocupação do 1º Trabalho
+SETOR1,Setor de Atividade do 1º Trabalho
+VINC1,Vínculo Empregatício do 1º Trabalho
+ZONATRA2,Zona do Segundo Trabalho
+MUNITRA2,Município do Segundo Trabalho
+CO_TR2_X,Coordenada X 2º Trabalho
+CO_TR2_Y,Coordenada Y 2º Trabalho
+TRAB2_RE,Segundo Trabalho é igual a Residência ?
+TRABEXT2,Realiza Trabalho Externo-2º Trabalho
+OCUP2,Ocupação do 2º Trabalho
+SETOR2,Setor de Atividade do 2º Trabalho
+VINC2,Vínculo Empregatício do 2º Trabalho
+N_VIAG,Número da Viagem
+FE_VIA,Fator de Expansão da Viagem
+DIA_SEM,Dia da Semana
+TOT_VIAG,Total de Viagens da Pessoa
+ZONA_O,Zona de Origem
+MUNI_O,Município de Origem
+CO_O_X,Coordenada X Origem
+CO_O_Y,Coordenada Y Origem
+ZONA_D,Zona de Destino
+MUNI_D,Município de Destino
+CO_D_X,Coordenada X Destino
+CO_D_Y,Coordenada Y Destino
+ZONA_T1,Zona da 1ª Transferência
+MUNI_T1,Município 1ª Transferência
+CO_T1_X,Coordenada X 1ª Transferência
+CO_T1_Y,Coordenada Y 1ª Transferência
+ZONA_T2,Zona da 2ª Transferência
+MUNI_T2,Município 2ª Transferência
+CO_T2_X,Coordenada X 2ª Transferência
+CO_T2_Y,Coordenada Y 2ª Transferência
+ZONA_T3,Zona da 3ª Transferência
+MUNI_T3,Município 3ª Transferência
+CO_T3_X,Coordenada X 3ª Transferência
+CO_T3_Y,Coordenada Y 3ª Transferência
+MOTIVO_O,Motivo na Origem
+MOTIVO_D,Motivo no Destino
+SERVIR_O,Servir Passageiro na Origem
+SERVIR_D,Servir Passageiro no Destino
+MODO1,Modo 1
+MODO2,Modo 2
+MODO3,Modo 3
+MODO4,Modo 4
+H_SAIDA,Hora Saída
+MIN_SAIDA,Minuto Saída
+ANDA_O,Tempo Andando na Origem
+H_CHEG,Hora Chegada
+MIN_CHEG,Minuto Chegada
+ANDA_D,Tempo Andando no Destino
+DURACAO,Duração da Viagem (em minutos)
+MODOPRIN,Modo Principal
+TIPOVG,Tipo de Viagem
+PAG_VIAG,Quem Pagou a Viagem
+TP_ESAUTO,Tipo de Estacionamento do Automóvel ou Moto
+VL_EST,Valor do Estacionamento do Automóvel ou Moto
+PE_BICI,Por Que Viajou A Pé ou Bicicleta
+VIA_BICI,"Se viajou de bicicleta, usou via segregada?"
+TP_ESBICI,Estacionamento Bicicleta
+ID_ORDEM,Número de Ordem do Registro

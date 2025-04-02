@@ -1,0 +1,4137 @@
+COD_ZONA,RAZAO_VIAGEM_A_PE,QTD
+1,Pequena Distância,42895.927077529275
+1,Condução Cara,131.61830691497528
+1,Ponto/ Estação Distante,81.36032158641883
+1,Condução Demora para Passar,0
+1,Viagem Demorada,0
+1,Condução Lotada,243.43293342589465
+1,Atividade Física,356.5527830847727
+1,Outros Motivos,0
+2,Pequena Distância,25600.408170941355
+2,Condução Cara,354.07781149560594
+2,Ponto/ Estação Distante,216.785740707493
+2,Condução Demora para Passar,81.30570698687193
+2,Viagem Demorada,0
+2,Condução Lotada,191.09688908055264
+2,Atividade Física,350.34671727243534
+2,Outros Motivos,0
+3,Pequena Distância,21668.340262595677
+3,Condução Cara,1319.2045901492743
+3,Ponto/ Estação Distante,156.0983853697374
+3,Condução Demora para Passar,0
+3,Viagem Demorada,0
+3,Condução Lotada,0
+3,Atividade Física,620.9252994620115
+3,Outros Motivos,0
+4,Pequena Distância,23395.715158673152
+4,Condução Cara,209.350236894309
+4,Ponto/ Estação Distante,0
+4,Condução Demora para Passar,21.39341190471944
+4,Viagem Demorada,548.2854438857612
+4,Condução Lotada,0
+4,Atividade Física,1465.026807526646
+4,Outros Motivos,1587.430226973807
+5,Pequena Distância,49730.6524022114
+5,Condução Cara,208.29563037990874
+5,Ponto/ Estação Distante,0
+5,Condução Demora para Passar,0
+5,Viagem Demorada,0
+5,Condução Lotada,0
+5,Atividade Física,1829.180294823425
+5,Outros Motivos,128.23433002500929
+6,Pequena Distância,34046.498116547446
+6,Condução Cara,0
+6,Ponto/ Estação Distante,49.53916230150182
+6,Condução Demora para Passar,0
+6,Viagem Demorada,39.37325849009625
+6,Condução Lotada,36.34154359239331
+6,Atividade Física,37.85673540973248
+6,Outros Motivos,0
+7,Pequena Distância,29326.287743359524
+7,Condução Cara,153.51542513437718
+7,Ponto/ Estação Distante,144.0412454854652
+7,Condução Demora para Passar,44.76719208612904
+7,Viagem Demorada,92.16858675576903
+7,Condução Lotada,0
+7,Atividade Física,866.5003978794077
+7,Outros Motivos,0
+8,Pequena Distância,19071.791710689486
+8,Condução Cara,249.60499941779693
+8,Ponto/ Estação Distante,70.63015382479826
+8,Condução Demora para Passar,19.686629245048124
+8,Viagem Demorada,0
+8,Condução Lotada,0
+8,Atividade Física,166.2437835929815
+8,Outros Motivos,218.87040309983428
+9,Pequena Distância,7587.194195163886
+9,Condução Cara,182.50427073504994
+9,Ponto/ Estação Distante,166.10098657120028
+9,Condução Demora para Passar,0
+9,Viagem Demorada,0
+9,Condução Lotada,0
+9,Atividade Física,70.63015382479826
+9,Outros Motivos,0
+10,Pequena Distância,4060.851908056123
+10,Condução Cara,72.95528109364996
+10,Ponto/ Estação Distante,0
+10,Condução Demora para Passar,42.4972853265762
+10,Viagem Demorada,0
+10,Condução Lotada,0
+10,Atividade Física,11.148193036253758
+10,Outros Motivos,0
+11,Pequena Distância,1478.4083889186277
+11,Condução Cara,0
+11,Ponto/ Estação Distante,70.16358697750955
+11,Condução Demora para Passar,89.53438417225809
+11,Viagem Demorada,0
+11,Condução Lotada,0
+11,Atividade Física,54.923537110253065
+11,Outros Motivos,0
+12,Pequena Distância,14703.40793736645
+12,Condução Cara,720.1535625359991
+12,Ponto/ Estação Distante,0
+12,Condução Demora para Passar,69.25170955158728
+12,Viagem Demorada,22.028007363114966
+12,Condução Lotada,0
+12,Atividade Física,0
+12,Outros Motivos,0
+13,Pequena Distância,4095.109607425224
+13,Condução Cara,0
+13,Ponto/ Estação Distante,0
+13,Condução Demora para Passar,0
+13,Viagem Demorada,24.93361558215133
+13,Condução Lotada,0
+13,Atividade Física,0
+13,Outros Motivos,0
+14,Pequena Distância,14700.880982574772
+14,Condução Cara,187.31946792329458
+14,Ponto/ Estação Distante,23.201964032243254
+14,Condução Demora para Passar,68.91006763861738
+14,Viagem Demorada,357.5332410961358
+14,Condução Lotada,0
+14,Atividade Física,154.77288944243125
+14,Outros Motivos,0
+15,Pequena Distância,7226.473858753199
+15,Condução Cara,0
+15,Ponto/ Estação Distante,528.1982901650006
+15,Condução Demora para Passar,0
+15,Viagem Demorada,231.72590524510804
+15,Condução Lotada,410.49252579317596
+15,Atividade Física,174.4721383940793
+15,Outros Motivos,0
+16,Pequena Distância,13414.0532401258
+16,Condução Cara,311.1672833171634
+16,Ponto/ Estação Distante,0
+16,Condução Demora para Passar,81.30570698687193
+16,Viagem Demorada,0
+16,Condução Lotada,178.7666205480679
+16,Atividade Física,37.978407875442834
+16,Outros Motivos,0
+17,Pequena Distância,10362.24974267009
+17,Condução Cara,53.91846903362122
+17,Ponto/ Estação Distante,0
+17,Condução Demora para Passar,19.686629245048124
+17,Viagem Demorada,202.1523852223372
+17,Condução Lotada,0
+17,Atividade Física,15.297709600445875
+17,Outros Motivos,0
+18,Pequena Distância,18551.26289873939
+18,Condução Cara,539.3128120356753
+18,Ponto/ Estação Distante,0
+18,Condução Demora para Passar,0
+18,Viagem Demorada,0
+18,Condução Lotada,0
+18,Atividade Física,616.3346291494584
+18,Outros Motivos,0
+19,Pequena Distância,10775.491216777194
+19,Condução Cara,0
+19,Ponto/ Estação Distante,0
+19,Condução Demora para Passar,0
+19,Viagem Demorada,0
+19,Condução Lotada,0
+19,Atividade Física,205.57969870009276
+19,Outros Motivos,253.7981618949979
+20,Pequena Distância,13700.338853404714
+20,Condução Cara,466.8193135780399
+20,Ponto/ Estação Distante,0
+20,Condução Demora para Passar,0
+20,Viagem Demorada,0
+20,Condução Lotada,0
+20,Atividade Física,0
+20,Outros Motivos,0
+21,Pequena Distância,9142.796202301079
+21,Condução Cara,93.406561143284
+21,Ponto/ Estação Distante,0
+21,Condução Demora para Passar,0
+21,Viagem Demorada,0
+21,Condução Lotada,0
+21,Atividade Física,363.04329054045286
+21,Outros Motivos,0
+22,Pequena Distância,10600.577560811538
+22,Condução Cara,0
+22,Ponto/ Estação Distante,0
+22,Condução Demora para Passar,0
+22,Viagem Demorada,0
+22,Condução Lotada,134.25711697387902
+22,Atividade Física,1043.6809905822633
+22,Outros Motivos,35.98290256083297
+23,Pequena Distância,11330.66842014906
+23,Condução Cara,119.56236130590429
+23,Ponto/ Estação Distante,0
+23,Condução Demora para Passar,0
+23,Viagem Demorada,0
+23,Condução Lotada,0
+23,Atividade Física,341.5914480065655
+23,Outros Motivos,82.96097428228293
+24,Pequena Distância,16850.427380085584
+24,Condução Cara,1125.3809211964983
+24,Ponto/ Estação Distante,0
+24,Condução Demora para Passar,0
+24,Viagem Demorada,0
+24,Condução Lotada,0
+24,Atividade Física,191.87745208048003
+24,Outros Motivos,264.80519719868516
+25,Pequena Distância,17463.743587249464
+25,Condução Cara,0
+25,Ponto/ Estação Distante,348.76809212574835
+25,Condução Demora para Passar,0
+25,Viagem Demorada,0
+25,Condução Lotada,0
+25,Atividade Física,47.69647308790774
+25,Outros Motivos,0
+26,Pequena Distância,16222.1408092233
+26,Condução Cara,127.31608326676232
+26,Ponto/ Estação Distante,0
+26,Condução Demora para Passar,227.2542287300906
+26,Viagem Demorada,0
+26,Condução Lotada,115.19860340088536
+26,Atividade Física,316.80251897916384
+26,Outros Motivos,0
+27,Pequena Distância,27424.824706920524
+27,Condução Cara,56.15959880772378
+27,Ponto/ Estação Distante,370.9007392038691
+27,Condução Demora para Passar,0
+27,Viagem Demorada,455.2225948403705
+27,Condução Lotada,36.34154359239331
+27,Atividade Física,928.0656806281777
+27,Outros Motivos,485.94633063548787
+28,Pequena Distância,15904.74265033287
+28,Condução Cara,0
+28,Ponto/ Estação Distante,0
+28,Condução Demora para Passar,0
+28,Viagem Demorada,0
+28,Condução Lotada,0
+28,Atividade Física,878.2155823957279
+28,Outros Motivos,0
+29,Pequena Distância,21422.058797537138
+29,Condução Cara,78.3360065209389
+29,Ponto/ Estação Distante,0
+29,Condução Demora para Passar,0
+29,Viagem Demorada,0
+29,Condução Lotada,0
+29,Atividade Física,267.83889691505783
+29,Outros Motivos,237.0075436401959
+30,Pequena Distância,17964.751485392047
+30,Condução Cara,46.94398715957856
+30,Ponto/ Estação Distante,64.45319243063004
+30,Condução Demora para Passar,17.780715190540576
+30,Viagem Demorada,79.79987319613592
+30,Condução Lotada,117.16082305374235
+30,Atividade Física,1243.2595030181262
+30,Outros Motivos,282.27125335724975
+31,Pequena Distância,27628.884346268318
+31,Condução Cara,197.5683951125654
+31,Ponto/ Estação Distante,128.23433002500929
+31,Condução Demora para Passar,0
+31,Viagem Demorada,93.06284904539073
+31,Condução Lotada,0
+31,Atividade Física,557.5628576922878
+31,Outros Motivos,414.99253006785966
+32,Pequena Distância,30199.259822625772
+32,Condução Cara,304.79202984409204
+32,Ponto/ Estação Distante,0
+32,Condução Demora para Passar,21.39341190471944
+32,Viagem Demorada,0
+32,Condução Lotada,64.24640097667478
+32,Atividade Física,1013.9118968261209
+32,Outros Motivos,0
+33,Pequena Distância,1287.0067732544373
+33,Condução Cara,0
+33,Ponto/ Estação Distante,0
+33,Condução Demora para Passar,0
+33,Viagem Demorada,0
+33,Condução Lotada,0
+33,Atividade Física,21.71897563983677
+33,Outros Motivos,127.81590186947915
+34,Pequena Distância,6798.710863620794
+34,Condução Cara,0
+34,Ponto/ Estação Distante,128.23433002500929
+34,Condução Demora para Passar,0
+34,Viagem Demorada,0
+34,Condução Lotada,0
+34,Atividade Física,167.82479700346653
+34,Outros Motivos,0
+35,Pequena Distância,39055.65602640701
+35,Condução Cara,383.0027657293409
+35,Ponto/ Estação Distante,144.0412454854652
+35,Condução Demora para Passar,0
+35,Viagem Demorada,0
+35,Condução Lotada,0
+35,Atividade Física,1534.7527534222447
+35,Outros Motivos,2581.904244996977
+36,Pequena Distância,24856.226865375735
+36,Condução Cara,428.4240316081885
+36,Ponto/ Estação Distante,0
+36,Condução Demora para Passar,0
+36,Viagem Demorada,0
+36,Condução Lotada,0
+36,Atividade Física,737.2185254351995
+36,Outros Motivos,1679.5581010702385
+37,Pequena Distância,4844.994995766593
+37,Condução Cara,194.33916825921278
+37,Ponto/ Estação Distante,0
+37,Condução Demora para Passar,0
+37,Viagem Demorada,0
+37,Condução Lotada,0
+37,Atividade Física,6.861830900774708
+37,Outros Motivos,0
+38,Pequena Distância,2781.6362938183593
+38,Condução Cara,78.39653855540244
+38,Ponto/ Estação Distante,17.586889482086796
+38,Condução Demora para Passar,35.23037682674371
+38,Viagem Demorada,0
+38,Condução Lotada,0
+38,Atividade Física,64.45319243063004
+38,Outros Motivos,1733.1862564320384
+39,Pequena Distância,3731.172825531819
+39,Condução Cara,0
+39,Ponto/ Estação Distante,17.586889482086796
+39,Condução Demora para Passar,0
+39,Viagem Demorada,0
+39,Condução Lotada,0
+39,Atividade Física,98.53699438811526
+39,Outros Motivos,0
+40,Pequena Distância,10424.80021689328
+40,Condução Cara,78.96304424942812
+40,Ponto/ Estação Distante,0
+40,Condução Demora para Passar,0
+40,Viagem Demorada,0
+40,Condução Lotada,0
+40,Atividade Física,300.54064115644314
+40,Outros Motivos,0
+41,Pequena Distância,25432.80118028233
+41,Condução Cara,1241.3261468523074
+41,Ponto/ Estação Distante,504.6820521369477
+41,Condução Demora para Passar,0
+41,Viagem Demorada,0
+41,Condução Lotada,0
+41,Atividade Física,409.8273413298793
+41,Outros Motivos,456.34570559226023
+42,Pequena Distância,6157.054128865314
+42,Condução Cara,40.1706736807327
+42,Ponto/ Estação Distante,0
+42,Condução Demora para Passar,33.67969081187367
+42,Viagem Demorada,37.493459570343994
+42,Condução Lotada,0
+42,Atividade Física,0
+42,Outros Motivos,0
+43,Pequena Distância,16552.552548059517
+43,Condução Cara,1230.6228481688186
+43,Ponto/ Estação Distante,96.01845569979014
+43,Condução Demora para Passar,0
+43,Viagem Demorada,85.68574042168463
+43,Condução Lotada,0
+43,Atividade Física,649.0950918703505
+43,Outros Motivos,89.53900764477429
+44,Pequena Distância,11346.257924954609
+44,Condução Cara,260.6517427891649
+44,Ponto/ Estação Distante,0
+44,Condução Demora para Passar,0
+44,Viagem Demorada,0
+44,Condução Lotada,0
+44,Atividade Física,561.0265212441371
+44,Outros Motivos,0
+45,Pequena Distância,24622.374113228583
+45,Condução Cara,331.788531680607
+45,Ponto/ Estação Distante,0
+45,Condução Demora para Passar,0
+45,Viagem Demorada,0
+45,Condução Lotada,97.51227194342177
+45,Atividade Física,417.96366805867666
+45,Outros Motivos,14.937345363410758
+46,Pequena Distância,25584.60035314576
+46,Condução Cara,386.71854961706964
+46,Ponto/ Estação Distante,0
+46,Condução Demora para Passar,345.3350945822126
+46,Viagem Demorada,0
+46,Condução Lotada,0
+46,Atividade Física,0
+46,Outros Motivos,477.4392640608139
+47,Pequena Distância,13976.118351812212
+47,Condução Cara,921.7911858460768
+47,Ponto/ Estação Distante,0
+47,Condução Demora para Passar,0
+47,Viagem Demorada,0
+47,Condução Lotada,0
+47,Atividade Física,107.11836164105182
+47,Outros Motivos,183.52049573203337
+48,Pequena Distância,9753.313675694866
+48,Condução Cara,954.5104980827787
+48,Ponto/ Estação Distante,72.5022176717372
+48,Condução Demora para Passar,0
+48,Viagem Demorada,0
+48,Condução Lotada,0
+48,Atividade Física,79.12915009842908
+48,Outros Motivos,0
+49,Pequena Distância,12165.773055536229
+49,Condução Cara,147.28752374140132
+49,Ponto/ Estação Distante,0
+49,Condução Demora para Passar,0
+49,Viagem Demorada,0
+49,Condução Lotada,0
+49,Atividade Física,767.3661277991102
+49,Outros Motivos,0
+50,Pequena Distância,2564.3874592561306
+50,Condução Cara,16.583586900003276
+50,Ponto/ Estação Distante,35.05534131019025
+50,Condução Demora para Passar,0
+50,Viagem Demorada,0
+50,Condução Lotada,0
+50,Atividade Física,170.58673513329597
+50,Outros Motivos,0
+51,Pequena Distância,5838.209639162774
+51,Condução Cara,0
+51,Ponto/ Estação Distante,0
+51,Condução Demora para Passar,0
+51,Viagem Demorada,0
+51,Condução Lotada,0
+51,Atividade Física,103.82361255561248
+51,Outros Motivos,0
+52,Pequena Distância,6110.449998759934
+52,Condução Cara,746.1743442141806
+52,Ponto/ Estação Distante,0
+52,Condução Demora para Passar,0
+52,Viagem Demorada,0
+52,Condução Lotada,0
+52,Atividade Física,147.9985985026185
+52,Outros Motivos,0
+53,Pequena Distância,9385.549062361071
+53,Condução Cara,495.08051937169654
+53,Ponto/ Estação Distante,0
+53,Condução Demora para Passar,0
+53,Viagem Demorada,0
+53,Condução Lotada,0
+53,Atividade Física,462.57683826122417
+53,Outros Motivos,0
+54,Pequena Distância,19666.26469177758
+54,Condução Cara,0
+54,Ponto/ Estação Distante,73.51076920678226
+54,Condução Demora para Passar,0
+54,Viagem Demorada,0
+54,Condução Lotada,0
+54,Atividade Física,451.23817902756764
+54,Outros Motivos,0
+55,Pequena Distância,5826.214003369173
+55,Condução Cara,0
+55,Ponto/ Estação Distante,0
+55,Condução Demora para Passar,0
+55,Viagem Demorada,0
+55,Condução Lotada,0
+55,Atividade Física,618.407285062686
+55,Outros Motivos,0
+56,Pequena Distância,17656.38878223679
+56,Condução Cara,279.96501463255714
+56,Ponto/ Estação Distante,0
+56,Condução Demora para Passar,0
+56,Viagem Demorada,0
+56,Condução Lotada,0
+56,Atividade Física,1069.046965110822
+56,Outros Motivos,35.98290256083297
+57,Pequena Distância,26833.24761337245
+57,Condução Cara,0
+57,Ponto/ Estação Distante,0
+57,Condução Demora para Passar,203.07288149770608
+57,Viagem Demorada,0
+57,Condução Lotada,134.25711697387902
+57,Atividade Física,1760.108833194038
+57,Outros Motivos,21.361657251874895
+58,Pequena Distância,12187.239371678335
+58,Condução Cara,406.04086563394674
+58,Ponto/ Estação Distante,0
+58,Condução Demora para Passar,0
+58,Viagem Demorada,0
+58,Condução Lotada,0
+58,Atividade Física,740.1017325998439
+58,Outros Motivos,0
+59,Pequena Distância,43533.393810304355
+59,Condução Cara,0
+59,Ponto/ Estação Distante,267.2735335026364
+59,Condução Demora para Passar,0
+59,Viagem Demorada,0
+59,Condução Lotada,0
+59,Atividade Física,3333.6950719209117
+59,Outros Motivos,0
+60,Pequena Distância,8236.978385889788
+60,Condução Cara,0
+60,Ponto/ Estação Distante,0
+60,Condução Demora para Passar,0
+60,Viagem Demorada,102.37754492121071
+60,Condução Lotada,0
+60,Atividade Física,1313.8579742671682
+60,Outros Motivos,0
+61,Pequena Distância,16959.119350327168
+61,Condução Cara,0
+61,Ponto/ Estação Distante,267.2735335026364
+61,Condução Demora para Passar,0
+61,Viagem Demorada,0
+61,Condução Lotada,0
+61,Atividade Física,525.5814584108019
+61,Outros Motivos,0
+62,Pequena Distância,5344.328233867314
+62,Condução Cara,0
+62,Ponto/ Estação Distante,0
+62,Condução Demora para Passar,0
+62,Viagem Demorada,0
+62,Condução Lotada,0
+62,Atividade Física,391.019553242794
+62,Outros Motivos,203.07288149770608
+63,Pequena Distância,2038.9672852085791
+63,Condução Cara,0
+63,Ponto/ Estação Distante,0
+63,Condução Demora para Passar,0
+63,Viagem Demorada,0
+63,Condução Lotada,0
+63,Atividade Física,243.68076719315766
+63,Outros Motivos,0
+64,Pequena Distância,23353.930683592116
+64,Condução Cara,0
+64,Ponto/ Estação Distante,0
+64,Condução Demora para Passar,0
+64,Viagem Demorada,0
+64,Condução Lotada,0
+64,Atividade Física,639.1521157610376
+64,Outros Motivos,162.2219260202122
+65,Pequena Distância,13078.583758906727
+65,Condução Cara,0
+65,Ponto/ Estação Distante,115.62499601416577
+65,Condução Demora para Passar,0
+65,Viagem Demorada,0
+65,Condução Lotada,0
+65,Atividade Física,258.9356149938828
+65,Outros Motivos,162.2219260202122
+66,Pequena Distância,5055.67627622473
+66,Condução Cara,0
+66,Ponto/ Estação Distante,0
+66,Condução Demora para Passar,0
+66,Viagem Demorada,102.37754492121071
+66,Condução Lotada,0
+66,Atividade Física,260.9584860440621
+66,Outros Motivos,0
+67,Pequena Distância,6727.359615762264
+67,Condução Cara,0
+67,Ponto/ Estação Distante,115.62499601416577
+67,Condução Demora para Passar,80.44789634059654
+67,Viagem Demorada,0
+67,Condução Lotada,0
+67,Atividade Física,587.9153295924656
+67,Outros Motivos,0
+68,Pequena Distância,53536.10156189486
+68,Condução Cara,260.3615642430573
+68,Ponto/ Estação Distante,0
+68,Condução Demora para Passar,0
+68,Viagem Demorada,127.53462671434896
+68,Condução Lotada,0
+68,Atividade Física,624.5442254596678
+68,Outros Motivos,0
+69,Pequena Distância,14814.282473917241
+69,Condução Cara,0
+69,Ponto/ Estação Distante,0
+69,Condução Demora para Passar,69.44266842968133
+69,Viagem Demorada,149.24254162581724
+69,Condução Lotada,0
+69,Atividade Física,374.76163745375584
+69,Outros Motivos,79.79987319613592
+70,Pequena Distância,11304.119834495263
+70,Condução Cara,260.3615642430573
+70,Ponto/ Estação Distante,0
+70,Condução Demora para Passar,0
+70,Viagem Demorada,70.58577442601442
+70,Condução Lotada,0
+70,Atividade Física,201.89798864076
+70,Outros Motivos,0
+71,Pequena Distância,12586.242213000987
+71,Condução Cara,131.16193343417478
+71,Ponto/ Estação Distante,0
+71,Condução Demora para Passar,0
+71,Viagem Demorada,0
+71,Condução Lotada,0
+71,Atividade Física,641.7793665171462
+71,Outros Motivos,0
+72,Pequena Distância,12355.12227953342
+72,Condução Cara,0
+72,Ponto/ Estação Distante,0
+72,Condução Demora para Passar,0
+72,Viagem Demorada,0
+72,Condução Lotada,0
+72,Atividade Física,0
+72,Outros Motivos,0
+73,Pequena Distância,56452.05773912242
+73,Condução Cara,0
+73,Ponto/ Estação Distante,0
+73,Condução Demora para Passar,115.16923055543721
+73,Viagem Demorada,79.79987319613592
+73,Condução Lotada,34.72133421484067
+73,Atividade Física,543.0810882127423
+73,Outros Motivos,0
+74,Pequena Distância,18658.044579265254
+74,Condução Cara,574.4046529334319
+74,Ponto/ Estação Distante,0
+74,Condução Demora para Passar,0
+74,Viagem Demorada,0
+74,Condução Lotada,0
+74,Atividade Física,797.0737419833721
+74,Outros Motivos,380.7342390966709
+75,Pequena Distância,10935.833585535273
+75,Condução Cara,0
+75,Ponto/ Estação Distante,0
+75,Condução Demora para Passar,203.07288149770608
+75,Viagem Demorada,0
+75,Condução Lotada,0
+75,Atividade Física,235.66145954330537
+75,Outros Motivos,203.07288149770608
+76,Pequena Distância,9769.058160388206
+76,Condução Cara,142.69667241579242
+76,Ponto/ Estação Distante,0
+76,Condução Demora para Passar,0
+76,Viagem Demorada,0
+76,Condução Lotada,0
+76,Atividade Física,414.24405713439904
+76,Outros Motivos,0
+77,Pequena Distância,18463.178694230155
+77,Condução Cara,0
+77,Ponto/ Estação Distante,0
+77,Condução Demora para Passar,0
+77,Viagem Demorada,0
+77,Condução Lotada,0
+77,Atividade Física,1452.1270176125727
+77,Outros Motivos,237.0075436401959
+78,Pequena Distância,13306.910570061318
+78,Condução Cara,0
+78,Ponto/ Estação Distante,0
+78,Condução Demora para Passar,0
+78,Viagem Demorada,0
+78,Condução Lotada,0
+78,Atividade Física,265.7961633139949
+78,Outros Motivos,0
+79,Pequena Distância,27061.61601367345
+79,Condução Cara,0
+79,Ponto/ Estação Distante,0
+79,Condução Demora para Passar,0
+79,Viagem Demorada,0
+79,Condução Lotada,0
+79,Atividade Física,751.4345850721865
+79,Outros Motivos,0
+80,Pequena Distância,22322.47780347168
+80,Condução Cara,0
+80,Ponto/ Estação Distante,0
+80,Condução Demora para Passar,0
+80,Viagem Demorada,0
+80,Condução Lotada,0
+80,Atividade Física,305.3582103446073
+80,Outros Motivos,27.315976034543386
+81,Pequena Distância,17025.251834570336
+81,Condução Cara,0
+81,Ponto/ Estação Distante,0
+81,Condução Demora para Passar,0
+81,Viagem Demorada,0
+81,Condução Lotada,0
+81,Atividade Física,659.7644665480598
+81,Outros Motivos,79.79987319613592
+82,Pequena Distância,30380.977047253964
+82,Condução Cara,102.01508833029902
+82,Ponto/ Estação Distante,0
+82,Condução Demora para Passar,0
+82,Viagem Demorada,0
+82,Condução Lotada,0
+82,Atividade Física,528.6264259183947
+82,Outros Motivos,0
+83,Pequena Distância,19808.399413436513
+83,Condução Cara,138.70295866601077
+83,Ponto/ Estação Distante,0
+83,Condução Demora para Passar,0
+83,Viagem Demorada,0
+83,Condução Lotada,0
+83,Atividade Física,901.8033053884501
+83,Outros Motivos,102.01508833029902
+84,Pequena Distância,12193.244717289317
+84,Condução Cara,428.4240316081885
+84,Ponto/ Estação Distante,0
+84,Condução Demora para Passar,338.80126513847546
+84,Viagem Demorada,0
+84,Condução Lotada,0
+84,Atividade Física,301.4920450851449
+84,Outros Motivos,101.55805598569174
+85,Pequena Distância,3998.039365347205
+85,Condução Cara,0
+85,Ponto/ Estação Distante,0
+85,Condução Demora para Passar,0
+85,Viagem Demorada,0
+85,Condução Lotada,0
+85,Atividade Física,62.786312652062854
+85,Outros Motivos,0
+86,Pequena Distância,1451.510196515963
+86,Condução Cara,0
+86,Ponto/ Estação Distante,0
+86,Condução Demora para Passar,17.780715190540576
+86,Viagem Demorada,0
+86,Condução Lotada,0
+86,Atividade Física,219.62741844030586
+86,Outros Motivos,0
+87,Pequena Distância,6862.991285595663
+87,Condução Cara,0
+87,Ponto/ Estação Distante,0
+87,Condução Demora para Passar,0
+87,Viagem Demorada,0
+87,Condução Lotada,0
+87,Atividade Física,625.9017392202512
+87,Outros Motivos,50.77902799284587
+88,Pequena Distância,28328.041652708784
+88,Condução Cara,223.6233502878161
+88,Ponto/ Estação Distante,115.10934168723021
+88,Condução Demora para Passar,0
+88,Viagem Demorada,0
+88,Condução Lotada,0
+88,Atividade Física,2035.682343728694
+88,Outros Motivos,79.21097268168892
+89,Pequena Distância,1931.6017346737874
+89,Condução Cara,223.6233502878161
+89,Ponto/ Estação Distante,148.91153870084688
+89,Condução Demora para Passar,0
+89,Viagem Demorada,0
+89,Condução Lotada,0
+89,Atividade Física,273.27958190702475
+89,Outros Motivos,0
+90,Pequena Distância,8157.251894206477
+90,Condução Cara,0
+90,Ponto/ Estação Distante,61.525915323659895
+90,Condução Demora para Passar,61.65374660908329
+90,Viagem Demorada,0
+90,Condução Lotada,0
+90,Atividade Física,951.3409425337979
+90,Outros Motivos,50.77902799284587
+91,Pequena Distância,4916.41314954564
+91,Condução Cara,0
+91,Ponto/ Estação Distante,0
+91,Condução Demora para Passar,0
+91,Viagem Demorada,0
+91,Condução Lotada,0
+91,Atividade Física,0
+91,Outros Motivos,0
+92,Pequena Distância,8675.92072438893
+92,Condução Cara,0
+92,Ponto/ Estação Distante,0
+92,Condução Demora para Passar,0
+92,Viagem Demorada,0
+92,Condução Lotada,0
+92,Atividade Física,15.789487048405547
+92,Outros Motivos,0
+93,Pequena Distância,12466.988147531683
+93,Condução Cara,601.2960230127266
+93,Ponto/ Estação Distante,0
+93,Condução Demora para Passar,0
+93,Viagem Demorada,0
+93,Condução Lotada,0
+93,Atividade Física,275.02700866541846
+93,Outros Motivos,0
+94,Pequena Distância,11989.869361468584
+94,Condução Cara,81.36167266506209
+94,Ponto/ Estação Distante,0
+94,Condução Demora para Passar,61.65374660908329
+94,Viagem Demorada,61.65374660908329
+94,Condução Lotada,0
+94,Atividade Física,668.8509753563667
+94,Outros Motivos,0
+95,Pequena Distância,8101.4598072600775
+95,Condução Cara,566.6408178913007
+95,Ponto/ Estação Distante,0
+95,Condução Demora para Passar,0
+95,Viagem Demorada,0
+95,Condução Lotada,0
+95,Atividade Física,0
+95,Outros Motivos,0
+96,Pequena Distância,3209.407927826855
+96,Condução Cara,464.6257295610016
+96,Ponto/ Estação Distante,0
+96,Condução Demora para Passar,0
+96,Viagem Demorada,0
+96,Condução Lotada,0
+96,Atividade Física,0
+96,Outros Motivos,0
+97,Pequena Distância,6045.570469741784
+97,Condução Cara,0
+97,Ponto/ Estação Distante,0
+97,Condução Demora para Passar,0
+97,Viagem Demorada,0
+97,Condução Lotada,0
+97,Atividade Física,447.9961099407219
+97,Outros Motivos,0
+98,Pequena Distância,958.1067897620452
+98,Condução Cara,0
+98,Ponto/ Estação Distante,321.6777291678848
+98,Condução Demora para Passar,53.04731507621524
+98,Viagem Demorada,0
+98,Condução Lotada,0
+98,Atividade Física,0
+98,Outros Motivos,120.58975634165641
+99,Pequena Distância,3745.068194550023
+99,Condução Cara,57.563253065012674
+99,Ponto/ Estação Distante,0
+99,Condução Demora para Passar,0
+99,Viagem Demorada,61.65374660908329
+99,Condução Lotada,0
+99,Atividade Física,0
+99,Outros Motivos,0
+100,Pequena Distância,19005.08761615796
+100,Condução Cara,254.40351376063703
+100,Ponto/ Estação Distante,101.01194491011505
+100,Condução Demora para Passar,556.4438936989785
+100,Viagem Demorada,0
+100,Condução Lotada,0
+100,Atividade Física,233.67059978350102
+100,Outros Motivos,0
+101,Pequena Distância,7104.55101649893
+101,Condução Cara,46.47321161090793
+101,Ponto/ Estação Distante,0
+101,Condução Demora para Passar,0
+101,Viagem Demorada,0
+101,Condução Lotada,0
+101,Atividade Física,0
+101,Outros Motivos,0
+102,Pequena Distância,3769.637475199216
+102,Condução Cara,0
+102,Ponto/ Estação Distante,0
+102,Condução Demora para Passar,0
+102,Viagem Demorada,0
+102,Condução Lotada,0
+102,Atividade Física,239.13418051379605
+102,Outros Motivos,164.12394775917699
+103,Pequena Distância,599.5145043491866
+103,Condução Cara,0
+103,Ponto/ Estação Distante,137.46824411458817
+103,Condução Demora para Passar,0
+103,Viagem Demorada,0
+103,Condução Lotada,0
+103,Atividade Física,96.21681709529567
+103,Outros Motivos,0
+104,Pequena Distância,1923.5134963342205
+104,Condução Cara,0
+104,Ponto/ Estação Distante,69.75302671433394
+104,Condução Demora para Passar,0
+104,Viagem Demorada,0
+104,Condução Lotada,0
+104,Atividade Física,138.92674036762875
+104,Outros Motivos,21.361657251874895
+105,Pequena Distância,6492.879929145697
+105,Condução Cara,0
+105,Ponto/ Estação Distante,0
+105,Condução Demora para Passar,0
+105,Viagem Demorada,0
+105,Condução Lotada,0
+105,Atividade Física,784.9007398701198
+105,Outros Motivos,51.03174156091077
+106,Pequena Distância,4085.1065910457683
+106,Condução Cara,0
+106,Ponto/ Estação Distante,0
+106,Condução Demora para Passar,0
+106,Viagem Demorada,0
+106,Condução Lotada,0
+106,Atividade Física,0
+106,Outros Motivos,0
+107,Pequena Distância,5787.105092207939
+107,Condução Cara,0
+107,Ponto/ Estação Distante,0
+107,Condução Demora para Passar,0
+107,Viagem Demorada,0
+107,Condução Lotada,0
+107,Atividade Física,238.16569523034002
+107,Outros Motivos,42.72331450374979
+108,Pequena Distância,1819.8733740403359
+108,Condução Cara,0
+108,Ponto/ Estação Distante,0
+108,Condução Demora para Passar,0
+108,Viagem Demorada,0
+108,Condução Lotada,0
+108,Atividade Física,42.72331450374979
+108,Outros Motivos,0
+109,Pequena Distância,49656.394811861355
+109,Condução Cara,0
+109,Ponto/ Estação Distante,0
+109,Condução Demora para Passar,0
+109,Viagem Demorada,0
+109,Condução Lotada,0
+109,Atividade Física,0
+109,Outros Motivos,0
+110,Pequena Distância,23628.111070558436
+110,Condução Cara,267.13194518243654
+110,Ponto/ Estação Distante,0
+110,Condução Demora para Passar,730.7100919515685
+110,Viagem Demorada,0
+110,Condução Lotada,0
+110,Atividade Física,0
+110,Outros Motivos,0
+111,Pequena Distância,27346.11617910901
+111,Condução Cara,438.1118679503095
+111,Ponto/ Estação Distante,0
+111,Condução Demora para Passar,0
+111,Viagem Demorada,0
+111,Condução Lotada,0
+111,Atividade Física,0
+111,Outros Motivos,0
+112,Pequena Distância,24032.718532820098
+112,Condução Cara,0
+112,Ponto/ Estação Distante,0
+112,Condução Demora para Passar,734.7251573431719
+112,Viagem Demorada,0
+112,Condução Lotada,0
+112,Atividade Física,0
+112,Outros Motivos,45.114630876209546
+113,Pequena Distância,10833.945607564545
+113,Condução Cara,239.87637123650154
+113,Ponto/ Estação Distante,321.6777291678848
+113,Condução Demora para Passar,0
+113,Viagem Demorada,0
+113,Condução Lotada,0
+113,Atividade Física,82.59453842386141
+113,Outros Motivos,0
+114,Pequena Distância,238.7222365598744
+114,Condução Cara,0
+114,Ponto/ Estação Distante,0
+114,Condução Demora para Passar,0
+114,Viagem Demorada,0
+114,Condução Lotada,0
+114,Atividade Física,0
+114,Outros Motivos,0
+115,Pequena Distância,23847.484234555523
+115,Condução Cara,0
+115,Ponto/ Estação Distante,0
+115,Condução Demora para Passar,0
+115,Viagem Demorada,0
+115,Condução Lotada,0
+115,Atividade Física,0
+115,Outros Motivos,0
+116,Pequena Distância,85270.61023952632
+116,Condução Cara,3144.371679716835
+116,Ponto/ Estação Distante,0
+116,Condução Demora para Passar,0
+116,Viagem Demorada,0
+116,Condução Lotada,0
+116,Atividade Física,0
+116,Outros Motivos,0
+117,Pequena Distância,8299.622732475696
+117,Condução Cara,508.63856379579653
+117,Ponto/ Estação Distante,0
+117,Condução Demora para Passar,1016.3352157707749
+117,Viagem Demorada,0
+117,Condução Lotada,0
+117,Atividade Física,0
+117,Outros Motivos,64.37531390937018
+118,Pequena Distância,7558.394405524138
+118,Condução Cara,508.63856379579653
+118,Ponto/ Estação Distante,14.936980363427212
+118,Condução Demora para Passar,0
+118,Viagem Demorada,0
+118,Condução Lotada,0
+118,Atividade Física,0
+118,Outros Motivos,64.37531390937018
+119,Pequena Distância,30591.466134863313
+119,Condução Cara,0
+119,Ponto/ Estação Distante,0
+119,Condução Demora para Passar,450.29244486550425
+119,Viagem Demorada,450.29244486550425
+119,Condução Lotada,0
+119,Atividade Física,1954.1053151790863
+119,Outros Motivos,1264.6885479458758
+120,Pequena Distância,0
+120,Condução Cara,0
+120,Ponto/ Estação Distante,0
+120,Condução Demora para Passar,0
+120,Viagem Demorada,0
+120,Condução Lotada,0
+120,Atividade Física,0
+120,Outros Motivos,0
+121,Pequena Distância,33426.82839715867
+121,Condução Cara,4121.832581845504
+121,Ponto/ Estação Distante,0
+121,Condução Demora para Passar,0
+121,Viagem Demorada,0
+121,Condução Lotada,566.7437240920391
+121,Atividade Física,666.4974438286077
+121,Outros Motivos,766.9810478144107
+122,Pequena Distância,29137.07224449935
+122,Condução Cara,0
+122,Ponto/ Estação Distante,0
+122,Condução Demora para Passar,0
+122,Viagem Demorada,0
+122,Condução Lotada,0
+122,Atividade Física,0
+122,Outros Motivos,0
+123,Pequena Distância,32034.730338091806
+123,Condução Cara,0
+123,Ponto/ Estação Distante,0
+123,Condução Demora para Passar,0
+123,Viagem Demorada,0
+123,Condução Lotada,0
+123,Atividade Física,0
+123,Outros Motivos,766.9810478144107
+124,Pequena Distância,42716.756562815506
+124,Condução Cara,1367.0538751752842
+124,Ponto/ Estação Distante,0
+124,Condução Demora para Passar,0
+124,Viagem Demorada,0
+124,Condução Lotada,0
+124,Atividade Física,0
+124,Outros Motivos,1019.5066015886603
+125,Pequena Distância,38983.63430711684
+125,Condução Cara,1367.0538751752842
+125,Ponto/ Estação Distante,0
+125,Condução Demora para Passar,419.6578438298576
+125,Viagem Demorada,0
+125,Condução Lotada,0
+125,Atividade Física,0
+125,Outros Motivos,1019.5066015886603
+126,Pequena Distância,20856.576753962694
+126,Condução Cara,811.5714751612973
+126,Ponto/ Estação Distante,0
+126,Condução Demora para Passar,362.40966940772506
+126,Viagem Demorada,0
+126,Condução Lotada,0
+126,Atividade Física,187.8482152333283
+126,Outros Motivos,0
+127,Pequena Distância,28519.28584434728
+127,Condução Cara,1659.7350849561462
+127,Ponto/ Estação Distante,0
+127,Condução Demora para Passar,1002.0513584969399
+127,Viagem Demorada,0
+127,Condução Lotada,2640.6374753001514
+127,Atividade Física,2848.706245590976
+127,Outros Motivos,719.3660335655051
+128,Pequena Distância,3364.963415545393
+128,Condução Cara,304.77306488527773
+128,Ponto/ Estação Distante,0
+128,Condução Demora para Passar,0
+128,Viagem Demorada,0
+128,Condução Lotada,0
+128,Atividade Física,0
+128,Outros Motivos,0
+129,Pequena Distância,9673.295896775011
+129,Condução Cara,10.827295231339187
+129,Ponto/ Estação Distante,0
+129,Condução Demora para Passar,0
+129,Viagem Demorada,0
+129,Condução Lotada,0
+129,Atividade Física,288.8724760880761
+129,Outros Motivos,0
+130,Pequena Distância,1219.0080253370468
+130,Condução Cara,93.67628806252743
+130,Ponto/ Estação Distante,0
+130,Condução Demora para Passar,0
+130,Viagem Demorada,0
+130,Condução Lotada,0
+130,Atividade Física,169.36852638447925
+130,Outros Motivos,0
+131,Pequena Distância,5317.832668198952
+131,Condução Cara,18.71969986124541
+131,Ponto/ Estação Distante,0
+131,Condução Demora para Passar,0
+131,Viagem Demorada,0
+131,Condução Lotada,0
+131,Atividade Física,173.14179933287204
+131,Outros Motivos,0
+132,Pequena Distância,511.49662519099564
+132,Condução Cara,45.1622136929449
+132,Ponto/ Estação Distante,0
+132,Condução Demora para Passar,0
+132,Viagem Demorada,0
+132,Condução Lotada,0
+132,Atividade Física,0
+132,Outros Motivos,0
+133,Pequena Distância,16308.790604955566
+133,Condução Cara,271.0869781718352
+133,Ponto/ Estação Distante,0
+133,Condução Demora para Passar,0
+133,Viagem Demorada,391.42838757077806
+133,Condução Lotada,0
+133,Atividade Física,564.1841263945303
+133,Outros Motivos,0
+134,Pequena Distância,9311.59934530258
+134,Condução Cara,443.17952386290983
+134,Ponto/ Estação Distante,0
+134,Condução Demora para Passar,0
+134,Viagem Demorada,646.9230374903407
+134,Condução Lotada,0
+134,Atividade Física,761.4494964529124
+134,Outros Motivos,0
+135,Pequena Distância,20223.793828395133
+135,Condução Cara,44.846658539697586
+135,Ponto/ Estação Distante,1729.9876207770867
+135,Condução Demora para Passar,0
+135,Viagem Demorada,255.49464991956256
+135,Condução Lotada,0
+135,Atividade Física,0
+135,Outros Motivos,0
+136,Pequena Distância,25773.784536408795
+136,Condução Cara,267.13194518243654
+136,Ponto/ Estação Distante,0
+136,Condução Demora para Passar,0
+136,Viagem Demorada,0
+136,Condução Lotada,0
+136,Atividade Física,798.7247807034782
+136,Outros Motivos,174.4610585136811
+137,Pequena Distância,31428.636832434047
+137,Condução Cara,1005.9496000271865
+137,Ponto/ Estação Distante,0
+137,Condução Demora para Passar,0
+137,Viagem Demorada,0
+137,Condução Lotada,0
+137,Atividade Física,0
+137,Outros Motivos,0
+138,Pequena Distância,11090.237469183443
+138,Condução Cara,43.5374676549576
+138,Ponto/ Estação Distante,0
+138,Condução Demora para Passar,43.6832818889544
+138,Viagem Demorada,0
+138,Condução Lotada,0
+138,Atividade Física,193.32006723644213
+138,Outros Motivos,0
+139,Pequena Distância,18721.747522102036
+139,Condução Cara,234.67870869663687
+139,Ponto/ Estação Distante,0
+139,Condução Demora para Passar,43.6832818889544
+139,Viagem Demorada,0
+139,Condução Lotada,0
+139,Atividade Física,79.48045877379703
+139,Outros Motivos,130.92486552072586
+140,Pequena Distância,46559.541787735514
+140,Condução Cara,485.7238627034165
+140,Ponto/ Estação Distante,0
+140,Condução Demora para Passar,0
+140,Viagem Demorada,0
+140,Condução Lotada,0
+140,Atividade Física,0
+140,Outros Motivos,196.54502806757813
+141,Pequena Distância,52385.78526513964
+141,Condução Cara,2722.9074748894914
+141,Ponto/ Estação Distante,2720.963132915367
+141,Condução Demora para Passar,0
+141,Viagem Demorada,0
+141,Condução Lotada,0
+141,Atividade Física,0
+141,Outros Motivos,0
+142,Pequena Distância,39309.72932852174
+142,Condução Cara,669.37592543015
+142,Ponto/ Estação Distante,0
+142,Condução Demora para Passar,0
+142,Viagem Demorada,0
+142,Condução Lotada,0
+142,Atividade Física,0
+142,Outros Motivos,0
+143,Pequena Distância,0
+143,Condução Cara,0
+143,Ponto/ Estação Distante,0
+143,Condução Demora para Passar,0
+143,Viagem Demorada,0
+143,Condução Lotada,0
+143,Atividade Física,0
+143,Outros Motivos,0
+144,Pequena Distância,32848.30323060788
+144,Condução Cara,2053.5315494593415
+144,Ponto/ Estação Distante,0
+144,Condução Demora para Passar,0
+144,Viagem Demorada,0
+144,Condução Lotada,0
+144,Atividade Física,0
+144,Outros Motivos,0
+145,Pequena Distância,1609.6969140385904
+145,Condução Cara,0
+145,Ponto/ Estação Distante,0
+145,Condução Demora para Passar,0
+145,Viagem Demorada,0
+145,Condução Lotada,0
+145,Atividade Física,0
+145,Outros Motivos,0
+146,Pequena Distância,0
+146,Condução Cara,0
+146,Ponto/ Estação Distante,0
+146,Condução Demora para Passar,0
+146,Viagem Demorada,0
+146,Condução Lotada,0
+146,Atividade Física,0
+146,Outros Motivos,0
+147,Pequena Distância,29117.928344090542
+147,Condução Cara,0
+147,Ponto/ Estação Distante,0
+147,Condução Demora para Passar,0
+147,Viagem Demorada,0
+147,Condução Lotada,0
+147,Atividade Física,0
+147,Outros Motivos,0
+148,Pequena Distância,20203.63216337917
+148,Condução Cara,0
+148,Ponto/ Estação Distante,0
+148,Condução Demora para Passar,0
+148,Viagem Demorada,0
+148,Condução Lotada,0
+148,Atividade Física,0
+148,Outros Motivos,241.37162921392172
+149,Pequena Distância,0
+149,Condução Cara,0
+149,Ponto/ Estação Distante,0
+149,Condução Demora para Passar,0
+149,Viagem Demorada,0
+149,Condução Lotada,0
+149,Atividade Física,0
+149,Outros Motivos,0
+150,Pequena Distância,19317.062100134917
+150,Condução Cara,813.5238714588781
+150,Ponto/ Estação Distante,0
+150,Condução Demora para Passar,0
+150,Viagem Demorada,0
+150,Condução Lotada,729.2171751331566
+150,Atividade Física,1273.2087156788007
+150,Outros Motivos,0
+151,Pequena Distância,72208.11107007547
+151,Condução Cara,813.5238714588781
+151,Ponto/ Estação Distante,0
+151,Condução Demora para Passar,0
+151,Viagem Demorada,0
+151,Condução Lotada,1542.7410465920348
+151,Atividade Física,1458.4031308115598
+151,Outros Motivos,0
+152,Pequena Distância,27708.327018820608
+152,Condução Cara,0
+152,Ponto/ Estação Distante,1941.3651797081945
+152,Condução Demora para Passar,0
+152,Viagem Demorada,0
+152,Condução Lotada,0
+152,Atividade Física,0
+152,Outros Motivos,0
+153,Pequena Distância,5322.571527097816
+153,Condução Cara,0
+153,Ponto/ Estação Distante,0
+153,Condução Demora para Passar,0
+153,Viagem Demorada,0
+153,Condução Lotada,0
+153,Atividade Física,0
+153,Outros Motivos,0
+154,Pequena Distância,16701.321145690334
+154,Condução Cara,0
+154,Ponto/ Estação Distante,0
+154,Condução Demora para Passar,0
+154,Viagem Demorada,0
+154,Condução Lotada,0
+154,Atividade Física,245.1516256506119
+154,Outros Motivos,241.37162921392172
+155,Pequena Distância,15757.493174683244
+155,Condução Cara,2188.4069081415855
+155,Ponto/ Estação Distante,0
+155,Condução Demora para Passar,0
+155,Viagem Demorada,0
+155,Condução Lotada,0
+155,Atividade Física,289.6712076575819
+155,Outros Motivos,0
+156,Pequena Distância,23023.01423348079
+156,Condução Cara,0
+156,Ponto/ Estação Distante,289.9629407514118
+156,Condução Demora para Passar,0
+156,Viagem Demorada,0
+156,Condução Lotada,0
+156,Atividade Física,474.8656227903409
+156,Outros Motivos,0
+157,Pequena Distância,9889.983519527532
+157,Condução Cara,0
+157,Ponto/ Estação Distante,0
+157,Condução Demora para Passar,0
+157,Viagem Demorada,0
+157,Condução Lotada,0
+157,Atividade Física,245.1516256506119
+157,Outros Motivos,0
+158,Pequena Distância,22572.15687060803
+158,Condução Cara,0
+158,Ponto/ Estação Distante,1941.3651797081945
+158,Condução Demora para Passar,0
+158,Viagem Demorada,601.3648493815597
+158,Condução Lotada,0
+158,Atividade Física,0
+158,Outros Motivos,0
+159,Pequena Distância,36933.77786615461
+159,Condução Cara,1573.048468820018
+159,Ponto/ Estação Distante,0
+159,Condução Demora para Passar,0
+159,Viagem Demorada,0
+159,Condução Lotada,0
+159,Atividade Física,0
+159,Outros Motivos,0
+160,Pequena Distância,13941.09874595933
+160,Condução Cara,0
+160,Ponto/ Estação Distante,0
+160,Condução Demora para Passar,0
+160,Viagem Demorada,0
+160,Condução Lotada,0
+160,Atividade Física,0
+160,Outros Motivos,1733.1862564320384
+161,Pequena Distância,43682.32158050648
+161,Condução Cara,458.5074052558285
+161,Ponto/ Estação Distante,0
+161,Condução Demora para Passar,0
+161,Viagem Demorada,0
+161,Condução Lotada,183.77855496415685
+161,Atividade Física,0
+161,Outros Motivos,0
+162,Pequena Distância,18641.156646419695
+162,Condução Cara,0
+162,Ponto/ Estação Distante,0
+162,Condução Demora para Passar,0
+162,Viagem Demorada,0
+162,Condução Lotada,183.77855496415685
+162,Atividade Física,182.91666131594343
+162,Outros Motivos,0
+163,Pequena Distância,16832.223461888134
+163,Condução Cara,0
+163,Ponto/ Estação Distante,0
+163,Condução Demora para Passar,72.8271508966798
+163,Viagem Demorada,0
+163,Condução Lotada,0
+163,Atividade Física,114.25309087085303
+163,Outros Motivos,0
+164,Pequena Distância,3928.006277334583
+164,Condução Cara,119.24137810151593
+164,Ponto/ Estação Distante,0
+164,Condução Demora para Passar,54.6658758332792
+164,Viagem Demorada,0
+164,Condução Lotada,0
+164,Atividade Física,0
+164,Outros Motivos,1733.1862564320384
+165,Pequena Distância,4550.697695324047
+165,Condução Cara,0
+165,Ponto/ Estação Distante,0
+165,Condução Demora para Passar,18.161275063400595
+165,Viagem Demorada,0
+165,Condução Lotada,0
+165,Atividade Física,87.3888013518615
+165,Outros Motivos,0
+166,Pequena Distância,21166.2499648011
+166,Condução Cara,1229.4968195806618
+166,Ponto/ Estação Distante,0
+166,Condução Demora para Passar,0
+166,Viagem Demorada,0
+166,Condução Lotada,0
+166,Atividade Física,0
+166,Outros Motivos,0
+167,Pequena Distância,20357.796944815116
+167,Condução Cara,1060.1306905597403
+167,Ponto/ Estação Distante,0
+167,Condução Demora para Passar,345.3350945822126
+167,Viagem Demorada,0
+167,Condução Lotada,0
+167,Atividade Física,422.00531980321273
+167,Outros Motivos,0
+168,Pequena Distância,16746.018229936843
+168,Condução Cara,206.55688531243385
+168,Ponto/ Estação Distante,0
+168,Condução Demora para Passar,0
+168,Viagem Demorada,0
+168,Condução Lotada,0
+168,Atividade Física,537.82754052467385
+168,Outros Motivos,0
+169,Pequena Distância,11457.580939604282
+169,Condução Cara,294.67770045349346
+169,Ponto/ Estação Distante,0
+169,Condução Demora para Passar,0
+169,Viagem Demorada,0
+169,Condução Lotada,271.4205613103382
+169,Atividade Física,204.20691686931912
+169,Outros Motivos,0
+170,Pequena Distância,20919.6129654941
+170,Condução Cara,782.9597588127376
+170,Ponto/ Estação Distante,0
+170,Condução Demora para Passar,0
+170,Viagem Demorada,0
+170,Condução Lotada,0
+170,Atividade Física,0
+170,Outros Motivos,823.8382543253753
+171,Pequena Distância,20410.722138113328
+171,Condução Cara,990.939419739045
+171,Ponto/ Estação Distante,0
+171,Condução Demora para Passar,525.57488730115
+171,Viagem Demorada,0
+171,Condução Lotada,0
+171,Atividade Física,525.57488730115
+171,Outros Motivos,0
+172,Pequena Distância,9850.03483090489
+172,Condução Cara,13.847585229915426
+172,Ponto/ Estação Distante,0
+172,Condução Demora para Passar,0
+172,Viagem Demorada,0
+172,Condução Lotada,372.2188747174354
+172,Atividade Física,1512.3876498648488
+172,Outros Motivos,561.2745090465288
+173,Pequena Distância,18908.659879160467
+173,Condução Cara,13.847585229915426
+173,Ponto/ Estação Distante,0
+173,Condução Demora para Passar,0
+173,Viagem Demorada,0
+173,Condução Lotada,0
+173,Atividade Física,0
+173,Outros Motivos,0
+174,Pequena Distância,35272.61341766107
+174,Condução Cara,2470.2610288857973
+174,Ponto/ Estação Distante,0
+174,Condução Demora para Passar,0
+174,Viagem Demorada,0
+174,Condução Lotada,0
+174,Atividade Física,0
+174,Outros Motivos,815.5606182825572
+175,Pequena Distância,20314.551507906162
+175,Condução Cara,477.18107131086185
+175,Ponto/ Estação Distante,0
+175,Condução Demora para Passar,989.7057007252739
+175,Viagem Demorada,0
+175,Condução Lotada,0
+175,Atividade Física,971.749903672708
+175,Outros Motivos,2318.5115007874015
+176,Pequena Distância,18291.026251493193
+176,Condução Cara,212.4562484643709
+176,Ponto/ Estação Distante,670.1162299531252
+176,Condução Demora para Passar,0
+176,Viagem Demorada,0
+176,Condução Lotada,0
+176,Atividade Física,0
+176,Outros Motivos,0
+177,Pequena Distância,4920.107796293777
+177,Condução Cara,369.39799366744813
+177,Ponto/ Estação Distante,0
+177,Condução Demora para Passar,0
+177,Viagem Demorada,0
+177,Condução Lotada,0
+177,Atividade Física,0
+177,Outros Motivos,0
+178,Pequena Distância,1266.2676952357824
+178,Condução Cara,0
+178,Ponto/ Estação Distante,0
+178,Condução Demora para Passar,0
+178,Viagem Demorada,0
+178,Condução Lotada,0
+178,Atividade Física,0
+178,Outros Motivos,0
+179,Pequena Distância,0
+179,Condução Cara,0
+179,Ponto/ Estação Distante,0
+179,Condução Demora para Passar,0
+179,Viagem Demorada,0
+179,Condução Lotada,0
+179,Atividade Física,0
+179,Outros Motivos,0
+180,Pequena Distância,51525.12679509077
+180,Condução Cara,2825.416690940381
+180,Ponto/ Estação Distante,0
+180,Condução Demora para Passar,0
+180,Viagem Demorada,0
+180,Condução Lotada,0
+180,Atividade Física,649.7545231059754
+180,Outros Motivos,630.3572360055363
+181,Pequena Distância,24854.065900305955
+181,Condução Cara,883.0909455041973
+181,Ponto/ Estação Distante,0
+181,Condução Demora para Passar,0
+181,Viagem Demorada,0
+181,Condução Lotada,222.11347355217816
+181,Atividade Física,403.0705851253578
+181,Outros Motivos,277.1738495116852
+182,Pequena Distância,22049.043629511925
+182,Condução Cara,529.418571911081
+182,Ponto/ Estação Distante,0
+182,Condução Demora para Passar,0
+182,Viagem Demorada,0
+182,Condução Lotada,0
+182,Atividade Física,403.0705851253578
+182,Outros Motivos,0
+183,Pequena Distância,16503.626823638362
+183,Condução Cara,614.0692214063574
+183,Ponto/ Estação Distante,0
+183,Condução Demora para Passar,0
+183,Viagem Demorada,0
+183,Condução Lotada,0
+183,Atividade Física,0
+183,Outros Motivos,0
+184,Pequena Distância,20083.607432296478
+184,Condução Cara,178.2238711724126
+184,Ponto/ Estação Distante,335.3473861394603
+184,Condução Demora para Passar,97.37974003108765
+184,Viagem Demorada,0
+184,Condução Lotada,0
+184,Atividade Física,91.93445738659621
+184,Outros Motivos,644.8756692100021
+185,Pequena Distância,10797.61806143631
+185,Condução Cara,319.2953647876027
+185,Ponto/ Estação Distante,335.3473861394603
+185,Condução Demora para Passar,0
+185,Viagem Demorada,0
+185,Condução Lotada,0
+185,Atividade Física,0
+185,Outros Motivos,235.98835670015848
+186,Pequena Distância,4841.7377807171015
+186,Condução Cara,200.565575972817
+186,Ponto/ Estação Distante,0
+186,Condução Demora para Passar,156.22256524139058
+186,Viagem Demorada,0
+186,Condução Lotada,0
+186,Atividade Física,97.37974003108765
+186,Outros Motivos,235.98835670015848
+187,Pequena Distância,25749.973143175463
+187,Condução Cara,579.8491507037822
+187,Ponto/ Estação Distante,0
+187,Condução Demora para Passar,0
+187,Viagem Demorada,0
+187,Condução Lotada,222.11347355217816
+187,Atividade Física,0
+187,Outros Motivos,222.11347355217816
+188,Pequena Distância,20496.913174078978
+188,Condução Cara,2163.9040284326124
+188,Ponto/ Estação Distante,0
+188,Condução Demora para Passar,0
+188,Viagem Demorada,0
+188,Condução Lotada,0
+188,Atividade Física,97.37974003108765
+188,Outros Motivos,0
+189,Pequena Distância,29385.69048328491
+189,Condução Cara,319.2953647876027
+189,Ponto/ Estação Distante,0
+189,Condução Demora para Passar,0
+189,Viagem Demorada,0
+189,Condução Lotada,0
+189,Atividade Física,307.7121097796336
+189,Outros Motivos,1272.3607455098436
+190,Pequena Distância,18990.49472358084
+190,Condução Cara,351.6078879335097
+190,Ponto/ Estação Distante,0
+190,Condução Demora para Passar,0
+190,Viagem Demorada,315.06171144437997
+190,Condução Lotada,0
+190,Atividade Física,134.07299020965954
+190,Outros Motivos,424.78414798937285
+191,Pequena Distância,1001.1138114429212
+191,Condução Cara,0
+191,Ponto/ Estação Distante,0
+191,Condução Demora para Passar,0
+191,Viagem Demorada,0
+191,Condução Lotada,0
+191,Atividade Física,0
+191,Outros Motivos,0
+192,Pequena Distância,21463.023674691005
+192,Condução Cara,968.8538289295896
+192,Ponto/ Estação Distante,0
+192,Condução Demora para Passar,0
+192,Viagem Demorada,0
+192,Condução Lotada,0
+192,Atividade Física,277.61268105201253
+192,Outros Motivos,0
+193,Pequena Distância,12392.847493581463
+193,Condução Cara,1749.5072391959984
+193,Ponto/ Estação Distante,0
+193,Condução Demora para Passar,0
+193,Viagem Demorada,0
+193,Condução Lotada,0
+193,Atividade Física,277.61268105201253
+193,Outros Motivos,301.44562459411384
+194,Pequena Distância,16252.779325041087
+194,Condução Cara,0
+194,Ponto/ Estação Distante,0
+194,Condução Demora para Passar,0
+194,Viagem Demorada,0
+194,Condução Lotada,0
+194,Atividade Física,0
+194,Outros Motivos,0
+195,Pequena Distância,16873.258823400683
+195,Condução Cara,2402.898636099465
+195,Ponto/ Estação Distante,0
+195,Condução Demora para Passar,0
+195,Viagem Demorada,0
+195,Condução Lotada,0
+195,Atividade Física,0
+195,Outros Motivos,269.2223319434437
+196,Pequena Distância,16896.105514437248
+196,Condução Cara,1330.629711514157
+196,Ponto/ Estação Distante,0
+196,Condução Demora para Passar,0
+196,Viagem Demorada,0
+196,Condução Lotada,0
+196,Atividade Física,0
+196,Outros Motivos,1400.8041286754624
+197,Pequena Distância,15684.437285221939
+197,Condução Cara,0
+197,Ponto/ Estação Distante,0
+197,Condução Demora para Passar,58.842825210302934
+197,Viagem Demorada,0
+197,Condução Lotada,0
+197,Atividade Física,899.8967516464533
+197,Outros Motivos,94.62785468939626
+198,Pequena Distância,24334.55225948482
+198,Condução Cara,0
+198,Ponto/ Estação Distante,953.6125765568587
+198,Condução Demora para Passar,0
+198,Viagem Demorada,0
+198,Condução Lotada,0
+198,Atividade Física,451.0789542049592
+198,Outros Motivos,765.0808190425433
+199,Pequena Distância,81446.27378301414
+199,Condução Cara,1413.3574241272645
+199,Ponto/ Estação Distante,0
+199,Condução Demora para Passar,0
+199,Viagem Demorada,0
+199,Condução Lotada,0
+199,Atividade Física,0
+199,Outros Motivos,0
+200,Pequena Distância,23921.19035051018
+200,Condução Cara,2196.2239204507882
+200,Ponto/ Estação Distante,0
+200,Condução Demora para Passar,0
+200,Viagem Demorada,0
+200,Condução Lotada,0
+200,Atividade Física,0
+200,Outros Motivos,984.6739604006384
+201,Pequena Distância,53382.605309237275
+201,Condução Cara,10146.258256622608
+201,Ponto/ Estação Distante,1958.8463827001135
+201,Condução Demora para Passar,0
+201,Viagem Demorada,0
+201,Condução Lotada,0
+201,Atividade Física,1060.1579416626628
+201,Outros Motivos,0
+202,Pequena Distância,23055.222075027377
+202,Condução Cara,758.3716742655637
+202,Ponto/ Estação Distante,793.1306207680179
+202,Condução Demora para Passar,0
+202,Viagem Demorada,0
+202,Condução Lotada,0
+202,Atividade Física,451.0789542049592
+202,Outros Motivos,0
+203,Pequena Distância,29056.092101215956
+203,Condução Cara,344.92392909008015
+203,Ponto/ Estação Distante,380.26166343469487
+203,Condução Demora para Passar,0
+203,Viagem Demorada,0
+203,Condução Lotada,0
+203,Atividade Física,1165.2531750359767
+203,Outros Motivos,504.0211371853021
+204,Pequena Distância,76575.7829754256
+204,Condução Cara,1653.2808909052828
+204,Ponto/ Estação Distante,0
+204,Condução Demora para Passar,2603.589641459296
+204,Viagem Demorada,0
+204,Condução Lotada,0
+204,Atividade Física,435.10150532984517
+204,Outros Motivos,0
+205,Pequena Distância,64167.94943452768
+205,Condução Cara,975.9236971194869
+205,Ponto/ Estação Distante,0
+205,Condução Demora para Passar,0
+205,Viagem Demorada,4071.1382939316113
+205,Condução Lotada,0
+205,Atividade Física,2095.1206284644413
+205,Outros Motivos,0
+206,Pequena Distância,27346.764709515053
+206,Condução Cara,1273.047946210314
+206,Ponto/ Estação Distante,0
+206,Condução Demora para Passar,0
+206,Viagem Demorada,0
+206,Condução Lotada,0
+206,Atividade Física,493.1511740359354
+206,Outros Motivos,302.39025294640845
+207,Pequena Distância,50707.338088895856
+207,Condução Cara,19618.685118885835
+207,Ponto/ Estação Distante,0
+207,Condução Demora para Passar,0
+207,Viagem Demorada,0
+207,Condução Lotada,0
+207,Atividade Física,384.2827420937646
+207,Outros Motivos,924.0373642134953
+208,Pequena Distância,25377.190137243877
+208,Condução Cara,0
+208,Ponto/ Estação Distante,0
+208,Condução Demora para Passar,0
+208,Viagem Demorada,0
+208,Condução Lotada,0
+208,Atividade Física,0
+208,Outros Motivos,0
+209,Pequena Distância,21045.397626212864
+209,Condução Cara,323.46479790448876
+209,Ponto/ Estação Distante,0
+209,Condução Demora para Passar,0
+209,Viagem Demorada,0
+209,Condução Lotada,0
+209,Atividade Física,0
+209,Outros Motivos,0
+210,Pequena Distância,17515.29757806769
+210,Condução Cara,323.46479790448876
+210,Ponto/ Estação Distante,0
+210,Condução Demora para Passar,0
+210,Viagem Demorada,0
+210,Condução Lotada,0
+210,Atividade Física,681.7108936443874
+210,Outros Motivos,514.1011076732605
+211,Pequena Distância,21640.544390602226
+211,Condução Cara,0
+211,Ponto/ Estação Distante,0
+211,Condução Demora para Passar,0
+211,Viagem Demorada,0
+211,Condução Lotada,0
+211,Atividade Física,0
+211,Outros Motivos,902.6524014599536
+212,Pequena Distância,23751.093164430793
+212,Condução Cara,0
+212,Ponto/ Estação Distante,0
+212,Condução Demora para Passar,0
+212,Viagem Demorada,0
+212,Condução Lotada,0
+212,Atividade Física,0
+212,Outros Motivos,0
+213,Pequena Distância,22568.825807064117
+213,Condução Cara,1032.9750106333677
+213,Ponto/ Estação Distante,0
+213,Condução Demora para Passar,0
+213,Viagem Demorada,0
+213,Condução Lotada,0
+213,Atividade Física,0
+213,Outros Motivos,668.2314265968955
+214,Pequena Distância,16138.417606264637
+214,Condução Cara,323.46479790448876
+214,Ponto/ Estação Distante,0
+214,Condução Demora para Passar,0
+214,Viagem Demorada,0
+214,Condução Lotada,0
+214,Atividade Física,0
+214,Outros Motivos,0
+215,Pequena Distância,18129.761848638245
+215,Condução Cara,1429.47887166281
+215,Ponto/ Estação Distante,0
+215,Condução Demora para Passar,0
+215,Viagem Demorada,0
+215,Condução Lotada,0
+215,Atividade Física,730.9125325380342
+215,Outros Motivos,0
+216,Pequena Distância,19468.00905224835
+216,Condução Cara,2192.6972596188257
+216,Ponto/ Estação Distante,0
+216,Condução Demora para Passar,0
+216,Viagem Demorada,0
+216,Condução Lotada,0
+216,Atividade Física,0
+216,Outros Motivos,271.76032025957846
+217,Pequena Distância,24122.225881342973
+217,Condução Cara,1157.2343773703622
+217,Ponto/ Estação Distante,0
+217,Condução Demora para Passar,0
+217,Viagem Demorada,0
+217,Condução Lotada,0
+217,Atividade Física,0
+217,Outros Motivos,414.0489906532236
+218,Pequena Distância,49803.01544184993
+218,Condução Cara,899.719432819507
+218,Ponto/ Estação Distante,0
+218,Condução Demora para Passar,0
+218,Viagem Demorada,0
+218,Condução Lotada,0
+218,Atividade Física,0
+218,Outros Motivos,1278.0441871040982
+219,Pequena Distância,28016.047929686698
+219,Condução Cara,0
+219,Ponto/ Estação Distante,0
+219,Condução Demora para Passar,0
+219,Viagem Demorada,0
+219,Condução Lotada,0
+219,Atividade Física,0
+219,Outros Motivos,0
+220,Pequena Distância,19836.78380329072
+220,Condução Cara,3689.426342363926
+220,Ponto/ Estação Distante,0
+220,Condução Demora para Passar,238.51059174139675
+220,Viagem Demorada,0
+220,Condução Lotada,0
+220,Atividade Física,477.0211834827935
+220,Outros Motivos,0
+221,Pequena Distância,19504.536486688725
+221,Condução Cara,1122.055159864402
+221,Ponto/ Estação Distante,0
+221,Condução Demora para Passar,238.51059174139675
+221,Viagem Demorada,0
+221,Condução Lotada,0
+221,Atividade Física,727.3265903693971
+221,Outros Motivos,0
+222,Pequena Distância,17224.96351183724
+222,Condução Cara,1201.8858225334006
+222,Ponto/ Estação Distante,0
+222,Condução Demora para Passar,0
+222,Viagem Demorada,315.06171144437997
+222,Condução Lotada,0
+222,Atividade Física,1084.7791737273712
+222,Outros Motivos,424.78414798937285
+223,Pequena Distância,8440.716868688522
+223,Condução Cara,265.68625514157173
+223,Ponto/ Estação Distante,0
+223,Condução Demora para Passar,274.11817367910635
+223,Viagem Demorada,0
+223,Condução Lotada,0
+223,Atividade Física,0
+223,Outros Motivos,0
+224,Pequena Distância,3165.4984621700823
+224,Condução Cara,0
+224,Ponto/ Estação Distante,0
+224,Condução Demora para Passar,0
+224,Viagem Demorada,0
+224,Condução Lotada,0
+224,Atividade Física,238.51059174139675
+224,Outros Motivos,0
+225,Pequena Distância,19668.03713023327
+225,Condução Cara,303.02494451711215
+225,Ponto/ Estação Distante,0
+225,Condução Demora para Passar,0
+225,Viagem Demorada,0
+225,Condução Lotada,0
+225,Atividade Física,268.1459804193191
+225,Outros Motivos,0
+226,Pequena Distância,63704.831152011066
+226,Condução Cara,4372.641890745785
+226,Ponto/ Estação Distante,190.13083171734743
+226,Condução Demora para Passar,464.0407037261857
+226,Viagem Demorada,0
+226,Condução Lotada,0
+226,Atividade Física,2758.270341849227
+226,Outros Motivos,0
+227,Pequena Distância,16787.99130740888
+227,Condução Cara,520.8989978825961
+227,Ponto/ Estação Distante,0
+227,Condução Demora para Passar,0
+227,Viagem Demorada,0
+227,Condução Lotada,0
+227,Atividade Física,134.07299020965954
+227,Outros Motivos,0
+228,Pequena Distância,20944.45669984773
+228,Condução Cara,0
+228,Ponto/ Estação Distante,0
+228,Condução Demora para Passar,0
+228,Viagem Demorada,0
+228,Condução Lotada,0
+228,Atividade Física,0
+228,Outros Motivos,807.8678360502236
+229,Pequena Distância,85160.89499332999
+229,Condução Cara,2296.404123705682
+229,Ponto/ Estação Distante,3200.3875676147663
+229,Condução Demora para Passar,904.9788589156171
+229,Viagem Demorada,0
+229,Condução Lotada,984.3876869234697
+229,Atividade Física,1994.4354492972022
+229,Outros Motivos,897.2684878963884
+230,Pequena Distância,43111.925889611004
+230,Condução Cara,0
+230,Ponto/ Estação Distante,2365.464365631993
+230,Condução Demora para Passar,857.1362149850722
+230,Viagem Demorada,0
+230,Condução Lotada,0
+230,Atividade Física,303.02494451711215
+230,Outros Motivos,0
+231,Pequena Distância,15584.426480490654
+231,Condução Cara,384.9572637335856
+231,Ponto/ Estação Distante,0
+231,Condução Demora para Passar,199.04208000764373
+231,Viagem Demorada,0
+231,Condução Lotada,0
+231,Atividade Física,0
+231,Outros Motivos,236.4937089476186
+232,Pequena Distância,25877.37583998205
+232,Condução Cara,2531.662920672748
+232,Ponto/ Estação Distante,0
+232,Condução Demora para Passar,199.04208000764373
+232,Viagem Demorada,389.3278142534476
+232,Condução Lotada,0
+232,Atividade Física,263.6191663786847
+232,Outros Motivos,0
+233,Pequena Distância,34158.054796499135
+233,Condução Cara,3639.146754839069
+233,Ponto/ Estação Distante,0
+233,Condução Demora para Passar,0
+233,Viagem Demorada,0
+233,Condução Lotada,0
+233,Atividade Física,0
+233,Outros Motivos,621.5909379628833
+234,Pequena Distância,52511.19988639407
+234,Condução Cara,0
+234,Ponto/ Estação Distante,0
+234,Condução Demora para Passar,0
+234,Viagem Demorada,0
+234,Condução Lotada,0
+234,Atividade Física,903.3394342221193
+234,Outros Motivos,0
+235,Pequena Distância,36478.91987802892
+235,Condução Cara,0
+235,Ponto/ Estação Distante,0
+235,Condução Demora para Passar,0
+235,Viagem Demorada,0
+235,Condução Lotada,0
+235,Atividade Física,1192.3998937190806
+235,Outros Motivos,0
+236,Pequena Distância,13289.447296281061
+236,Condução Cara,112.34123153906015
+236,Ponto/ Estação Distante,25.586479990086975
+236,Condução Demora para Passar,0
+236,Viagem Demorada,0
+236,Condução Lotada,0
+236,Atividade Física,41.00579825220458
+236,Outros Motivos,346.6706712412547
+237,Pequena Distância,8757.869733401405
+237,Condução Cara,953.2135767635755
+237,Ponto/ Estação Distante,0
+237,Condução Demora para Passar,0
+237,Viagem Demorada,46.731827641998336
+237,Condução Lotada,0
+237,Atividade Física,86.83327757315752
+237,Outros Motivos,0
+238,Pequena Distância,5841.413220778255
+238,Condução Cara,1386.1346383412783
+238,Ponto/ Estação Distante,0
+238,Condução Demora para Passar,0
+238,Viagem Demorada,46.731827641998336
+238,Condução Lotada,0
+238,Atividade Física,135.08831021747625
+238,Outros Motivos,1471.4922838898199
+239,Pequena Distância,12590.973111013585
+239,Condução Cara,312.99911371293837
+239,Ponto/ Estação Distante,85.77852983424948
+239,Condução Demora para Passar,85.77852983424948
+239,Viagem Demorada,0
+239,Condução Lotada,0
+239,Atividade Física,101.79305340728604
+239,Outros Motivos,0
+240,Pequena Distância,12336.178687213305
+240,Condução Cara,686.5354412045654
+240,Ponto/ Estação Distante,35.05534131019025
+240,Condução Demora para Passar,0
+240,Viagem Demorada,0
+240,Condução Lotada,0
+240,Atividade Física,176.09410846968083
+240,Outros Motivos,0
+241,Pequena Distância,5662.91638762729
+241,Condução Cara,535.9627773219855
+241,Ponto/ Estação Distante,25.586479990086975
+241,Condução Demora para Passar,23.755672179599667
+241,Viagem Demorada,0
+241,Condução Lotada,0
+241,Atividade Física,92.30452450272837
+241,Outros Motivos,0
+242,Pequena Distância,10363.901751326634
+242,Condução Cara,2417.218215861134
+242,Ponto/ Estação Distante,0
+242,Condução Demora para Passar,647.2857062310393
+242,Viagem Demorada,0
+242,Condução Lotada,0
+242,Atividade Física,0
+242,Outros Motivos,0
+243,Pequena Distância,32741.727208557408
+243,Condução Cara,7459.328445194215
+243,Ponto/ Estação Distante,336.82112560133714
+243,Condução Demora para Passar,1170.0300267603577
+243,Viagem Demorada,0
+243,Condução Lotada,0
+243,Atividade Física,486.9153941823955
+243,Outros Motivos,567.7802777572387
+244,Pequena Distância,25194.27274582063
+244,Condução Cara,14566.539293570566
+244,Ponto/ Estação Distante,743.2275547602999
+244,Condução Demora para Passar,3057.2866875195455
+244,Viagem Demorada,0
+244,Condução Lotada,0
+244,Atividade Física,2328.8306227466346
+244,Outros Motivos,1498.7912385418413
+245,Pequena Distância,12870.996476049266
+245,Condução Cara,107.19526648117382
+245,Ponto/ Estação Distante,0
+245,Condução Demora para Passar,34.41556512793421
+245,Viagem Demorada,0
+245,Condução Lotada,0
+245,Atividade Física,953.2135767635755
+245,Outros Motivos,0
+246,Pequena Distância,9618.748600263683
+246,Condução Cara,0
+246,Ponto/ Estação Distante,0
+246,Condução Demora para Passar,0
+246,Viagem Demorada,446.6532826693497
+246,Condução Lotada,0
+246,Atividade Física,139.77689105934732
+246,Outros Motivos,0
+247,Pequena Distância,65506.44572302586
+247,Condução Cara,7543.450999507826
+247,Ponto/ Estação Distante,0
+247,Condução Demora para Passar,0
+247,Viagem Demorada,0
+247,Condução Lotada,0
+247,Atividade Física,3223.2860929982753
+247,Outros Motivos,1404.7487269088124
+248,Pequena Distância,0
+248,Condução Cara,0
+248,Ponto/ Estação Distante,0
+248,Condução Demora para Passar,0
+248,Viagem Demorada,0
+248,Condução Lotada,0
+248,Atividade Física,108.10387759207396
+248,Outros Motivos,0
+249,Pequena Distância,19056.142166653768
+249,Condução Cara,0
+249,Ponto/ Estação Distante,500.0742183254202
+249,Condução Demora para Passar,0
+249,Viagem Demorada,461.6941681213327
+249,Condução Lotada,0
+249,Atividade Física,0
+249,Outros Motivos,0
+250,Pequena Distância,10743.489251783674
+250,Condução Cara,216.00567341575155
+250,Ponto/ Estação Distante,0
+250,Condução Demora para Passar,745.1763786791159
+250,Viagem Demorada,0
+250,Condução Lotada,0
+250,Atividade Física,243.1921878095502
+250,Outros Motivos,0
+251,Pequena Distância,6728.747840388709
+251,Condução Cara,216.00567341575155
+251,Ponto/ Estação Distante,0
+251,Condução Demora para Passar,0
+251,Viagem Demorada,0
+251,Condução Lotada,0
+251,Atividade Física,0
+251,Outros Motivos,0
+252,Pequena Distância,15333.18815599237
+252,Condução Cara,595.8817316432695
+252,Ponto/ Estação Distante,500.0742183254202
+252,Condução Demora para Passar,745.1763786791159
+252,Viagem Demorada,0
+252,Condução Lotada,0
+252,Atividade Física,486.9153941823955
+252,Outros Motivos,0
+253,Pequena Distância,2815.615525766183
+253,Condução Cara,14.004241299308648
+253,Ponto/ Estação Distante,0
+253,Condução Demora para Passar,23.755672179599667
+253,Viagem Demorada,0
+253,Condução Lotada,12.538142427047946
+253,Atividade Física,0
+253,Outros Motivos,14.937345363410758
+254,Pequena Distância,17245.574877695824
+254,Condução Cara,14.004241299308648
+254,Ponto/ Estação Distante,0
+254,Condução Demora para Passar,12.538142427047946
+254,Viagem Demorada,0
+254,Condução Lotada,519.1309857733486
+254,Atividade Física,0
+254,Outros Motivos,73.17260518664726
+255,Pequena Distância,36300.0180770371
+255,Condução Cara,0
+255,Ponto/ Estação Distante,0
+255,Condução Demora para Passar,0
+255,Viagem Demorada,0
+255,Condução Lotada,0
+255,Atividade Física,2130.22820993747
+255,Outros Motivos,0
+256,Pequena Distância,7654.855782092653
+256,Condução Cara,0
+256,Ponto/ Estação Distante,0
+256,Condução Demora para Passar,260.8702704974478
+256,Viagem Demorada,0
+256,Condução Lotada,266.8778127273937
+256,Atividade Física,260.8702704974478
+256,Outros Motivos,0
+257,Pequena Distância,15994.182263362423
+257,Condução Cara,841.2192908572714
+257,Ponto/ Estação Distante,0
+257,Condução Demora para Passar,260.8702704974478
+257,Viagem Demorada,0
+257,Condução Lotada,0
+257,Atividade Física,426.37812383226014
+257,Outros Motivos,0
+258,Pequena Distância,22360.184757047184
+258,Condução Cara,0
+258,Ponto/ Estação Distante,0
+258,Condução Demora para Passar,0
+258,Viagem Demorada,258.7510537181359
+258,Condução Lotada,0
+258,Atividade Física,823.9897468685253
+258,Outros Motivos,0
+259,Pequena Distância,18577.583049132627
+259,Condução Cara,658.6120297459795
+259,Ponto/ Estação Distante,0
+259,Condução Demora para Passar,0
+259,Viagem Demorada,0
+259,Condução Lotada,0
+259,Atividade Física,0
+259,Outros Motivos,0
+260,Pequena Distância,21985.43574716505
+260,Condução Cara,1566.841932864882
+260,Ponto/ Estação Distante,0
+260,Condução Demora para Passar,674.7714415504163
+260,Viagem Demorada,258.7510537181359
+260,Condução Lotada,0
+260,Atividade Física,0
+260,Outros Motivos,316.56229643291283
+261,Pequena Distância,21203.954944965226
+261,Condução Cara,406.85213014925415
+261,Ponto/ Estação Distante,0
+261,Condução Demora para Passar,0
+261,Viagem Demorada,0
+261,Condução Lotada,165.7652788530019
+261,Atividade Física,0
+261,Outros Motivos,249.9489715470854
+262,Pequena Distância,38809.20088481695
+262,Condução Cara,2140.7170734647034
+262,Ponto/ Estação Distante,0
+262,Condução Demora para Passar,0
+262,Viagem Demorada,0
+262,Condução Lotada,0
+262,Atividade Física,0
+262,Outros Motivos,1584.3323073451147
+263,Pequena Distância,41734.94752358007
+263,Condução Cara,472.536353176513
+263,Ponto/ Estação Distante,3977.6374522935103
+263,Condução Demora para Passar,365.57323256179615
+263,Viagem Demorada,365.57323256179615
+263,Condução Lotada,0
+263,Atividade Física,1164.6700036415255
+263,Outros Motivos,1164.6700036415255
+264,Pequena Distância,31629.825967323017
+264,Condução Cara,573.2423389011423
+264,Ponto/ Estação Distante,0
+264,Condução Demora para Passar,317.75671251560817
+264,Viagem Demorada,0
+264,Condução Lotada,0
+264,Atividade Física,552.6796258756461
+264,Outros Motivos,1204.024677647076
+265,Pequena Distância,36529.096515438876
+265,Condução Cara,606.3123786526526
+265,Ponto/ Estação Distante,0
+265,Condução Demora para Passar,343.0507906880651
+265,Viagem Demorada,0
+265,Condução Lotada,0
+265,Atividade Física,0
+265,Outros Motivos,443.7876163332534
+266,Pequena Distância,7581.17524420059
+266,Condução Cara,0
+266,Ponto/ Estação Distante,0
+266,Condução Demora para Passar,0
+266,Viagem Demorada,0
+266,Condução Lotada,0
+266,Atividade Física,0
+266,Outros Motivos,0
+267,Pequena Distância,18180.500125781284
+267,Condução Cara,0
+267,Ponto/ Estação Distante,0
+267,Condução Demora para Passar,317.75671251560817
+267,Viagem Demorada,0
+267,Condução Lotada,0
+267,Atividade Física,152.7587144114023
+267,Outros Motivos,131.98359787228625
+268,Pequena Distância,6888.239786565447
+268,Condução Cara,296.48464956420554
+268,Ponto/ Estação Distante,0
+268,Condução Demora para Passar,408.19049239642317
+268,Viagem Demorada,0
+268,Condução Lotada,0
+268,Atividade Física,36.49898344442361
+268,Outros Motivos,142.57557583039835
+269,Pequena Distância,13129.278333924733
+269,Condução Cara,0
+269,Ponto/ Estação Distante,946.5000355348108
+269,Condução Demora para Passar,408.19049239642317
+269,Viagem Demorada,0
+269,Condução Lotada,0
+269,Atividade Física,1116.8102905419673
+269,Outros Motivos,0
+270,Pequena Distância,5261.276792165695
+270,Condução Cara,0
+270,Ponto/ Estação Distante,0
+270,Condução Demora para Passar,0
+270,Viagem Demorada,0
+270,Condução Lotada,0
+270,Atividade Física,0
+270,Outros Motivos,0
+271,Pequena Distância,870.5048045367773
+271,Condução Cara,0
+271,Ponto/ Estação Distante,0
+271,Condução Demora para Passar,0
+271,Viagem Demorada,0
+271,Condução Lotada,0
+271,Atividade Física,138.58657475744064
+271,Outros Motivos,293.0742970970576
+272,Pequena Distância,6630.849776005292
+272,Condução Cara,0
+272,Ponto/ Estação Distante,0
+272,Condução Demora para Passar,183.5863567237721
+272,Viagem Demorada,106.1307125045862
+272,Condução Lotada,0
+272,Atividade Física,135.68092866223884
+272,Outros Motivos,1277.697496041235
+273,Pequena Distância,28113.10677161072
+273,Condução Cara,1290.4119996787135
+273,Ponto/ Estação Distante,0
+273,Condução Demora para Passar,0
+273,Viagem Demorada,106.1307125045862
+273,Condução Lotada,0
+273,Atividade Física,2891.1844678872944
+273,Outros Motivos,1277.697496041235
+274,Pequena Distância,39121.12442950858
+274,Condução Cara,1290.4119996787135
+274,Ponto/ Estação Distante,0
+274,Condução Demora para Passar,1532.2597712770869
+274,Viagem Demorada,0
+274,Condução Lotada,0
+274,Atividade Física,0
+274,Outros Motivos,461.6941681213327
+275,Pequena Distância,34386.151302150996
+275,Condução Cara,0
+275,Ponto/ Estação Distante,0
+275,Condução Demora para Passar,183.5863567237721
+275,Viagem Demorada,0
+275,Condução Lotada,0
+275,Atividade Física,337.87421096479795
+275,Outros Motivos,810.4463276189507
+276,Pequena Distância,42560.68658212261
+276,Condução Cara,0
+276,Ponto/ Estação Distante,0
+276,Condução Demora para Passar,0
+276,Viagem Demorada,0
+276,Condução Lotada,0
+276,Atividade Física,0
+276,Outros Motivos,461.6941681213327
+277,Pequena Distância,40185.141901115436
+277,Condução Cara,2173.0915589973547
+277,Ponto/ Estação Distante,0
+277,Condução Demora para Passar,372.53788025518753
+277,Viagem Demorada,0
+277,Condução Lotada,0
+277,Atividade Física,0
+277,Outros Motivos,366.6947714952013
+278,Pequena Distância,90053.77504134236
+278,Condução Cara,1674.54130883017
+278,Ponto/ Estação Distante,0
+278,Condução Demora para Passar,593.4204135518173
+278,Viagem Demorada,0
+278,Condução Lotada,0
+278,Atividade Física,394.90158786995624
+278,Outros Motivos,236.7783608495117
+279,Pequena Distância,39308.53156081439
+279,Condução Cara,3241.95329441951
+279,Ponto/ Estação Distante,0
+279,Condução Demora para Passar,0
+279,Viagem Demorada,0
+279,Condução Lotada,0
+279,Atividade Física,1309.7141760180466
+279,Outros Motivos,299.3353310868852
+280,Pequena Distância,11455.7975860495
+280,Condução Cara,900.4367730599283
+280,Ponto/ Estação Distante,0
+280,Condução Demora para Passar,0
+280,Viagem Demorada,0
+280,Condução Lotada,0
+280,Atividade Física,755.19837660241285
+280,Outros Motivos,142.57557583039835
+281,Pequena Distância,13997.406960867038
+281,Condução Cara,1184.7047636098687
+281,Ponto/ Estação Distante,0
+281,Condução Demora para Passar,963.9719360182223
+281,Viagem Demorada,0
+281,Condução Lotada,0
+281,Atividade Física,0
+281,Outros Motivos,0
+282,Pequena Distância,22807.566910751033
+282,Condução Cara,0
+282,Ponto/ Estação Distante,0
+282,Condução Demora para Passar,433.22315871163227
+282,Viagem Demorada,0
+282,Condução Lotada,0
+282,Atividade Física,180.98648102460743
+282,Outros Motivos,366.6947714952013
+283,Pequena Distância,5086.693552099556
+283,Condução Cara,0
+283,Ponto/ Estação Distante,0
+283,Condução Demora para Passar,0
+283,Viagem Demorada,0
+283,Condução Lotada,0
+283,Atividade Física,0
+283,Outros Motivos,299.3353310868852
+284,Pequena Distância,25836.17970884714
+284,Condução Cara,0
+284,Ponto/ Estação Distante,0
+284,Condução Demora para Passar,0
+284,Viagem Demorada,0
+284,Condução Lotada,0
+284,Atividade Física,0
+284,Outros Motivos,0
+285,Pequena Distância,67698.90780912498
+285,Condução Cara,3194.951570115896
+285,Ponto/ Estação Distante,0
+285,Condução Demora para Passar,710.7190785169311
+285,Viagem Demorada,1075.7769029742751
+285,Condução Lotada,0
+285,Atividade Física,1469.5096356609038
+285,Outros Motivos,726.614906069813
+286,Pequena Distância,4825.108302302366
+286,Condução Cara,0
+286,Ponto/ Estação Distante,0
+286,Condução Demora para Passar,0
+286,Viagem Demorada,0
+286,Condução Lotada,0
+286,Atividade Física,173.87021288293974
+286,Outros Motivos,0
+287,Pequena Distância,10891.855771883607
+287,Condução Cara,0
+287,Ponto/ Estação Distante,0
+287,Condução Demora para Passar,0
+287,Viagem Demorada,0
+287,Condução Lotada,0
+287,Atividade Física,3105.3136767121814
+287,Outros Motivos,2919.687154789994
+288,Pequena Distância,11432.24533290458
+288,Condução Cara,608.4413215319641
+288,Ponto/ Estação Distante,0
+288,Condução Demora para Passar,0
+288,Viagem Demorada,0
+288,Condução Lotada,0
+288,Atividade Física,0
+288,Outros Motivos,0
+289,Pequena Distância,29797.04041457198
+289,Condução Cara,304.2206607659821
+289,Ponto/ Estação Distante,0
+289,Condução Demora para Passar,0
+289,Viagem Demorada,0
+289,Condução Lotada,0
+289,Atividade Física,1081.5521157362434
+289,Outros Motivos,304.7420927750992
+290,Pequena Distância,38359.28915399815
+290,Condução Cara,0
+290,Ponto/ Estação Distante,0
+290,Condução Demora para Passar,0
+290,Viagem Demorada,0
+290,Condução Lotada,0
+290,Atividade Física,0
+290,Outros Motivos,0
+291,Pequena Distância,33433.103890005164
+291,Condução Cara,785.1447260064685
+291,Ponto/ Estação Distante,0
+291,Condução Demora para Passar,0
+291,Viagem Demorada,0
+291,Condução Lotada,323.273582465981
+291,Atividade Física,0
+291,Outros Motivos,0
+292,Pequena Distância,33281.52307562173
+292,Condução Cara,0
+292,Ponto/ Estação Distante,0
+292,Condução Demora para Passar,0
+292,Viagem Demorada,0
+292,Condução Lotada,0
+292,Atividade Física,1062.9646654822534
+292,Outros Motivos,233.04373473689267
+293,Pequena Distância,42841.20446568507
+293,Condução Cara,6044.732081622608
+293,Ponto/ Estação Distante,1313.4384179580131
+293,Condução Demora para Passar,0
+293,Viagem Demorada,0
+293,Condução Lotada,323.273582465981
+293,Atividade Física,539.8428854829851
+293,Outros Motivos,0
+294,Pequena Distância,84813.24374645088
+294,Condução Cara,0
+294,Ponto/ Estação Distante,0
+294,Condução Demora para Passar,0
+294,Viagem Demorada,0
+294,Condução Lotada,0
+294,Atividade Física,0
+294,Outros Motivos,0
+295,Pequena Distância,54387.20587207353
+295,Condução Cara,822.9882620957516
+295,Ponto/ Estação Distante,0
+295,Condução Demora para Passar,0
+295,Viagem Demorada,0
+295,Condução Lotada,1404.863382626314
+295,Atividade Física,678.952732896398
+295,Outros Motivos,0
+296,Pequena Distância,385.75298812384574
+296,Condução Cara,0
+296,Ponto/ Estação Distante,0
+296,Condução Demora para Passar,0
+296,Viagem Demorada,0
+296,Condução Lotada,0
+296,Atividade Física,0
+296,Outros Motivos,0
+297,Pequena Distância,536.3794726701686
+297,Condução Cara,0
+297,Ponto/ Estação Distante,0
+297,Condução Demora para Passar,0
+297,Viagem Demorada,0
+297,Condução Lotada,0
+297,Atividade Física,0
+297,Outros Motivos,0
+298,Pequena Distância,88253.1022445773
+298,Condução Cara,785.1447260064685
+298,Ponto/ Estação Distante,0
+298,Condução Demora para Passar,0
+298,Viagem Demorada,0
+298,Condução Lotada,0
+298,Atividade Física,0
+298,Outros Motivos,0
+299,Pequena Distância,2430.7945605551463
+299,Condução Cara,0
+299,Ponto/ Estação Distante,0
+299,Condução Demora para Passar,0
+299,Viagem Demorada,0
+299,Condução Lotada,0
+299,Atividade Física,0
+299,Outros Motivos,0
+300,Pequena Distância,58500.286543540446
+300,Condução Cara,0
+300,Ponto/ Estação Distante,0
+300,Condução Demora para Passar,570.6954625206322
+300,Viagem Demorada,0
+300,Condução Lotada,0
+300,Atividade Física,52.839543930976454
+300,Outros Motivos,1615.543610656649
+301,Pequena Distância,4431.437444504781
+301,Condução Cara,0
+301,Ponto/ Estação Distante,0
+301,Condução Demora para Passar,0
+301,Viagem Demorada,0
+301,Condução Lotada,0
+301,Atividade Física,0
+301,Outros Motivos,0
+302,Pequena Distância,15605.824243829633
+302,Condução Cara,709.0895834450895
+302,Ponto/ Estação Distante,0
+302,Condução Demora para Passar,0
+302,Viagem Demorada,0
+302,Condução Lotada,0
+302,Atividade Física,0
+302,Outros Motivos,0
+303,Pequena Distância,14744.786769708442
+303,Condução Cara,200.41355278529593
+303,Ponto/ Estação Distante,0
+303,Condução Demora para Passar,0
+303,Viagem Demorada,0
+303,Condução Lotada,0
+303,Atividade Física,570.6954625206322
+303,Outros Motivos,0
+304,Pequena Distância,63689.04802576171
+304,Condução Cara,0
+304,Ponto/ Estação Distante,177.45030505357673
+304,Condução Demora para Passar,0
+304,Viagem Demorada,330.0994128916799
+304,Condução Lotada,0
+304,Atividade Física,0
+304,Outros Motivos,0
+305,Pequena Distância,85711.22287159566
+305,Condução Cara,1822.236458877992
+305,Ponto/ Estação Distante,0
+305,Condução Demora para Passar,570.4747073516812
+305,Viagem Demorada,330.0994128916799
+305,Condução Lotada,0
+305,Atividade Física,606.1356554458562
+305,Outros Motivos,0
+306,Pequena Distância,44363.72323770896
+306,Condução Cara,1563.2467208868825
+306,Ponto/ Estação Distante,0
+306,Condução Demora para Passar,570.4747073516812
+306,Viagem Demorada,0
+306,Condução Lotada,0
+306,Atividade Física,202.04521848195208
+306,Outros Motivos,0
+307,Pequena Distância,42210.39733077988
+307,Condução Cara,1559.9908653325106
+307,Ponto/ Estação Distante,5452.28732656979
+307,Condução Demora para Passar,895.0952459569924
+307,Viagem Demorada,0
+307,Condução Lotada,0
+307,Atividade Física,0
+307,Outros Motivos,0
+308,Pequena Distância,28825.520936831366
+308,Condução Cara,1136.4876312174374
+308,Ponto/ Estação Distante,0
+308,Condução Demora para Passar,2189.033544454018
+308,Viagem Demorada,0
+308,Condução Lotada,0
+308,Atividade Física,0
+308,Outros Motivos,0
+309,Pequena Distância,23348.030750304573
+309,Condução Cara,381.8170510100821
+309,Ponto/ Estação Distante,0
+309,Condução Demora para Passar,0
+309,Viagem Demorada,0
+309,Condução Lotada,0
+309,Atividade Física,0
+309,Outros Motivos,0
+310,Pequena Distância,9209.304603606217
+310,Condução Cara,258.98973799110956
+310,Ponto/ Estação Distante,0
+310,Condução Demora para Passar,0
+310,Viagem Demorada,0
+310,Condução Lotada,0
+310,Atividade Física,0
+310,Outros Motivos,740.4108885693197
+311,Pequena Distância,53633.66380305529
+311,Condução Cara,0
+311,Ponto/ Estação Distante,0
+311,Condução Demora para Passar,0
+311,Viagem Demorada,0
+311,Condução Lotada,0
+311,Atividade Física,0
+311,Outros Motivos,740.4108885693197
+312,Pequena Distância,26524.116744366667
+312,Condução Cara,0
+312,Ponto/ Estação Distante,0
+312,Condução Demora para Passar,0
+312,Viagem Demorada,0
+312,Condução Lotada,0
+312,Atividade Física,0
+312,Outros Motivos,0
+313,Pequena Distância,15930.85402917919
+313,Condução Cara,1735.7755326506297
+313,Ponto/ Estação Distante,0
+313,Condução Demora para Passar,0
+313,Viagem Demorada,0
+313,Condução Lotada,0
+313,Atividade Física,0
+313,Outros Motivos,0
+314,Pequena Distância,67505.04348900491
+314,Condução Cara,229.12131248613852
+314,Ponto/ Estação Distante,0
+314,Condução Demora para Passar,1316.6953798761401
+314,Viagem Demorada,0
+314,Condução Lotada,0
+314,Atividade Física,0
+314,Outros Motivos,0
+315,Pequena Distância,72070.26737900924
+315,Condução Cara,2171.0743028034863
+315,Ponto/ Estação Distante,370.5890113604266
+315,Condução Demora para Passar,1316.6953798761401
+315,Viagem Demorada,0
+315,Condução Lotada,0
+315,Atividade Física,844.661981115383
+315,Outros Motivos,323.1870351176115
+316,Pequena Distância,4208.1470381662775
+316,Condução Cara,274.4069315650709
+316,Ponto/ Estação Distante,0
+316,Condução Demora para Passar,0
+316,Viagem Demorada,0
+316,Condução Lotada,0
+316,Atividade Física,0
+316,Outros Motivos,0
+317,Pequena Distância,732.3841158436896
+317,Condução Cara,0
+317,Ponto/ Estação Distante,0
+317,Condução Demora para Passar,14.96608382494715
+317,Viagem Demorada,0
+317,Condução Lotada,0
+317,Atividade Física,14.745017671598152
+317,Outros Motivos,0
+318,Pequena Distância,10787.768889264264
+318,Condução Cara,189.94653922719363
+318,Ponto/ Estação Distante,0
+318,Condução Demora para Passar,0
+318,Viagem Demorada,0
+318,Condução Lotada,0
+318,Atividade Física,0
+318,Outros Motivos,0
+319,Pequena Distância,4527.141798407073
+319,Condução Cara,214.5812862897457
+319,Ponto/ Estação Distante,0
+319,Condução Demora para Passar,0
+319,Viagem Demorada,0
+319,Condução Lotada,0
+319,Atividade Física,288.8191554074985
+319,Outros Motivos,0
+320,Pequena Distância,46216.90417209159
+320,Condução Cara,1693.3353232812228
+320,Ponto/ Estação Distante,0
+320,Condução Demora para Passar,274.4069315650709
+320,Viagem Demorada,274.4069315650709
+320,Condução Lotada,0
+320,Atividade Física,1197.872558846664
+320,Outros Motivos,1328.144424181386
+321,Pequena Distância,22920.589046820605
+321,Condução Cara,685.1734631098685
+321,Ponto/ Estação Distante,0
+321,Condução Demora para Passar,274.4069315650709
+321,Viagem Demorada,0
+321,Condução Lotada,0
+321,Atividade Física,664.2831582163135
+321,Outros Motivos,779.3305610512443
+322,Pequena Distância,13874.678016713158
+322,Condução Cara,274.4069315650709
+322,Ponto/ Estação Distante,354.90061010715345
+322,Condução Demora para Passar,177.45030505357673
+322,Viagem Demorada,0
+322,Condução Lotada,0
+322,Atividade Física,950.2345255227616
+322,Outros Motivos,0
+323,Pequena Distância,30003.898716244537
+323,Condução Cara,0
+323,Ponto/ Estação Distante,0
+323,Condução Demora para Passar,0
+323,Viagem Demorada,0
+323,Condução Lotada,0
+323,Atividade Física,0
+323,Outros Motivos,0
+324,Pequena Distância,28986.282566189362
+324,Condução Cara,0
+324,Ponto/ Estação Distante,0
+324,Condução Demora para Passar,0
+324,Viagem Demorada,0
+324,Condução Lotada,0
+324,Atividade Física,0
+324,Outros Motivos,0
+325,Pequena Distância,31013.134699541675
+325,Condução Cara,0
+325,Ponto/ Estação Distante,116.66791801954955
+325,Condução Demora para Passar,0
+325,Viagem Demorada,0
+325,Condução Lotada,0
+325,Atividade Física,0
+325,Outros Motivos,0
+326,Pequena Distância,11959.207310576561
+326,Condução Cara,0
+326,Ponto/ Estação Distante,0
+326,Condução Demora para Passar,0
+326,Viagem Demorada,0
+326,Condução Lotada,0
+326,Atividade Física,0
+326,Outros Motivos,0
+327,Pequena Distância,6985.202759973335
+327,Condução Cara,352.97303576891665
+327,Ponto/ Estação Distante,0
+327,Condução Demora para Passar,0
+327,Viagem Demorada,274.4069315650709
+327,Condução Lotada,0
+327,Atividade Física,196.4889960337423
+327,Outros Motivos,137.19891534828744
+328,Pequena Distância,7807.363684400122
+328,Condução Cara,465.7275420619099
+328,Ponto/ Estação Distante,0
+328,Condução Demora para Passar,0
+328,Viagem Demorada,0
+328,Condução Lotada,0
+328,Atividade Física,208.40750897209983
+328,Outros Motivos,0
+329,Pequena Distância,12727.40151214136
+329,Condução Cara,3246.026519916928
+329,Ponto/ Estação Distante,0
+329,Condução Demora para Passar,0
+329,Viagem Demorada,0
+329,Condução Lotada,0
+329,Atividade Física,582.7632501205185
+329,Outros Motivos,238.78124911852714
+330,Pequena Distância,13938.055311065576
+330,Condução Cara,0
+330,Ponto/ Estação Distante,0
+330,Condução Demora para Passar,0
+330,Viagem Demorada,0
+330,Condução Lotada,0
+330,Atividade Física,0
+330,Outros Motivos,0
+331,Pequena Distância,17027.3327609067
+331,Condução Cara,373.16737358216784
+331,Ponto/ Estação Distante,0
+331,Condução Demora para Passar,0
+331,Viagem Demorada,0
+331,Condução Lotada,0
+331,Atividade Física,0
+331,Outros Motivos,0
+332,Pequena Distância,32395.472250845953
+332,Condução Cara,829.5025794059761
+332,Ponto/ Estação Distante,1389.9049173702053
+332,Condução Demora para Passar,0
+332,Viagem Demorada,0
+332,Condução Lotada,0
+332,Atividade Física,1165.547609771862
+332,Outros Motivos,0
+333,Pequena Distância,8660.617775281515
+333,Condução Cara,0
+333,Ponto/ Estação Distante,0
+333,Condução Demora para Passar,0
+333,Viagem Demorada,0
+333,Condução Lotada,0
+333,Atividade Física,0
+333,Outros Motivos,0
+334,Pequena Distância,15688.215872833693
+334,Condução Cara,697.7153913668977
+334,Ponto/ Estação Distante,0
+334,Condução Demora para Passar,0
+334,Viagem Demorada,0
+334,Condução Lotada,0
+334,Atividade Física,1501.8288767627273
+334,Outros Motivos,0
+335,Pequena Distância,23171.88559975181
+335,Condução Cara,330.7032295193934
+335,Ponto/ Estação Distante,0
+335,Condução Demora para Passar,357.35401762413204
+335,Viagem Demorada,0
+335,Condução Lotada,0
+335,Atividade Física,0
+335,Outros Motivos,0
+336,Pequena Distância,13538.267044162918
+336,Condução Cara,0
+336,Ponto/ Estação Distante,0
+336,Condução Demora para Passar,357.35401762413204
+336,Viagem Demorada,0
+336,Condução Lotada,0
+336,Atividade Física,308.2437656798295
+336,Outros Motivos,0
+337,Pequena Distância,9052.642424088135
+337,Condução Cara,166.4255393191544
+337,Ponto/ Estação Distante,0
+337,Condução Demora para Passar,0
+337,Viagem Demorada,0
+337,Condução Lotada,0
+337,Atividade Física,0
+337,Outros Motivos,0
+338,Pequena Distância,20679.31778397465
+338,Condução Cara,777.6082298432395
+338,Ponto/ Estação Distante,0
+338,Condução Demora para Passar,0
+338,Viagem Demorada,0
+338,Condução Lotada,0
+338,Atividade Física,0
+338,Outros Motivos,207.37982278242927
+339,Pequena Distância,6388.039797273836
+339,Condução Cara,0
+339,Ponto/ Estação Distante,0
+339,Condução Demora para Passar,0
+339,Viagem Demorada,0
+339,Condução Lotada,0
+339,Atividade Física,103.62406905844293
+339,Outros Motivos,128.62310603163368
+340,Pequena Distância,2864.8256477944824
+340,Condução Cara,322.7934633226615
+340,Ponto/ Estação Distante,0
+340,Condução Demora para Passar,0
+340,Viagem Demorada,0
+340,Condução Lotada,0
+340,Atividade Física,172.74039053237604
+340,Outros Motivos,0
+341,Pequena Distância,7085.664298340013
+341,Condução Cara,0
+341,Ponto/ Estação Distante,0
+341,Condução Demora para Passar,0
+341,Viagem Demorada,0
+341,Condução Lotada,0
+341,Atividade Física,0
+341,Outros Motivos,0
+342,Pequena Distância,13750.445565351334
+342,Condução Cara,1026.6640664242227
+342,Ponto/ Estação Distante,746.3347471643357
+342,Condução Demora para Passar,0
+342,Viagem Demorada,0
+342,Condução Lotada,0
+342,Atividade Física,287.494676879193
+342,Outros Motivos,416.1177829108267
+343,Pequena Distância,661.4672031877974
+343,Condução Cara,0
+343,Ponto/ Estação Distante,0
+343,Condução Demora para Passar,0
+343,Viagem Demorada,0
+343,Condução Lotada,0
+343,Atividade Física,0
+343,Outros Motivos,0
+344,Pequena Distância,32254.54728471271
+344,Condução Cara,206.8096345952183
+344,Ponto/ Estação Distante,0
+344,Condução Demora para Passar,0
+344,Viagem Demorada,0
+344,Condução Lotada,0
+344,Atividade Física,0
+344,Outros Motivos,0
+345,Pequena Distância,15532.99340901559
+345,Condução Cara,905.3058914628541
+345,Ponto/ Estação Distante,0
+345,Condução Demora para Passar,0
+345,Viagem Demorada,0
+345,Condução Lotada,0
+345,Atividade Física,367.05139029236904
+345,Outros Motivos,0
+346,Pequena Distância,0
+346,Condução Cara,0
+346,Ponto/ Estação Distante,0
+346,Condução Demora para Passar,0
+346,Viagem Demorada,0
+346,Condução Lotada,0
+346,Atividade Física,0
+346,Outros Motivos,0
+347,Pequena Distância,38711.93132654394
+347,Condução Cara,7261.7318472988645
+347,Ponto/ Estação Distante,1279.9672022337481
+347,Condução Demora para Passar,1016.3352157707749
+347,Viagem Demorada,0
+347,Condução Lotada,0
+347,Atividade Física,0
+347,Outros Motivos,0
+348,Pequena Distância,2663.702124578848
+348,Condução Cara,52.858203945181565
+348,Ponto/ Estação Distante,0
+348,Condução Demora para Passar,90.02034116407026
+348,Viagem Demorada,0
+348,Condução Lotada,0
+348,Atividade Física,0
+348,Outros Motivos,0
+349,Pequena Distância,0
+349,Condução Cara,0
+349,Ponto/ Estação Distante,0
+349,Condução Demora para Passar,0
+349,Viagem Demorada,0
+349,Condução Lotada,0
+349,Atividade Física,0
+349,Outros Motivos,0
+350,Pequena Distância,24181.56215007409
+350,Condução Cara,0
+350,Ponto/ Estação Distante,0
+350,Condução Demora para Passar,744.9229573827467
+350,Viagem Demorada,0
+350,Condução Lotada,0
+350,Atividade Física,367.05139029236904
+350,Outros Motivos,0
+351,Pequena Distância,43480.57989594546
+351,Condução Cara,0
+351,Ponto/ Estação Distante,0
+351,Condução Demora para Passar,744.9229573827467
+351,Viagem Demorada,0
+351,Condução Lotada,0
+351,Atividade Física,0
+351,Outros Motivos,0
+352,Pequena Distância,425.01686568909037
+352,Condução Cara,0
+352,Ponto/ Estação Distante,0
+352,Condução Demora para Passar,0
+352,Viagem Demorada,0
+352,Condução Lotada,0
+352,Atividade Física,0
+352,Outros Motivos,0
+353,Pequena Distância,0
+353,Condução Cara,0
+353,Ponto/ Estação Distante,0
+353,Condução Demora para Passar,0
+353,Viagem Demorada,0
+353,Condução Lotada,0
+353,Atividade Física,0
+353,Outros Motivos,0
+354,Pequena Distância,0
+354,Condução Cara,0
+354,Ponto/ Estação Distante,0
+354,Condução Demora para Passar,0
+354,Viagem Demorada,0
+354,Condução Lotada,0
+354,Atividade Física,0
+354,Outros Motivos,0
+355,Pequena Distância,38642.87162788163
+355,Condução Cara,1953.076658837567
+355,Ponto/ Estação Distante,708.8060424246866
+355,Condução Demora para Passar,0
+355,Viagem Demorada,0
+355,Condução Lotada,0
+355,Atividade Física,0
+355,Outros Motivos,0
+356,Pequena Distância,68151.60855691711
+356,Condução Cara,361.37274039927786
+356,Ponto/ Estação Distante,2410.038992214868
+356,Condução Demora para Passar,0
+356,Viagem Demorada,0
+356,Condução Lotada,0
+356,Atividade Física,613.021332507284
+356,Outros Motivos,0
+357,Pequena Distância,2745.521398606784
+357,Condução Cara,0
+357,Ponto/ Estação Distante,0
+357,Condução Demora para Passar,0
+357,Viagem Demorada,0
+357,Condução Lotada,0
+357,Atividade Física,0
+357,Outros Motivos,0
+358,Pequena Distância,16363.351353358423
+358,Condução Cara,1860.8591815404466
+358,Ponto/ Estação Distante,0
+358,Condução Demora para Passar,0
+358,Viagem Demorada,0
+358,Condução Lotada,22.330084148032444
+358,Atividade Física,571.0281376925277
+358,Outros Motivos,0
+359,Pequena Distância,6451.71922361401
+359,Condução Cara,0
+359,Ponto/ Estação Distante,773.3059310545565
+359,Condução Demora para Passar,489.57026761766815
+359,Viagem Demorada,0
+359,Condução Lotada,0
+359,Atividade Física,0
+359,Outros Motivos,0
+360,Pequena Distância,7829.5781303421145
+360,Condução Cara,460.324958333639
+360,Ponto/ Estação Distante,1266.7184588333607
+360,Condução Demora para Passar,0
+360,Viagem Demorada,0
+360,Condução Lotada,22.330084148032444
+360,Atividade Física,0
+360,Outros Motivos,0
+361,Pequena Distância,4773.954948508352
+361,Condução Cara,883.0925646541517
+361,Ponto/ Estação Distante,478.5382221508346
+361,Condução Demora para Passar,0
+361,Viagem Demorada,0
+361,Condução Lotada,0
+361,Atividade Física,124.64046852034376
+361,Outros Motivos,0
+362,Pequena Distância,17943.196967377255
+362,Condução Cara,0
+362,Ponto/ Estação Distante,0
+362,Condução Demora para Passar,199.72294658229347
+362,Viagem Demorada,0
+362,Condução Lotada,0
+362,Atividade Física,43.149709519209715
+362,Outros Motivos,0
+363,Pequena Distância,32005.976724604498
+363,Condução Cara,1052.0649417372028
+363,Ponto/ Estação Distante,0
+363,Condução Demora para Passar,61.89911955642847
+363,Viagem Demorada,0
+363,Condução Lotada,0
+363,Atividade Física,12.826565852119229
+363,Outros Motivos,482.70091292911303
+364,Pequena Distância,10178.044545158547
+364,Condução Cara,231.8940954604601
+364,Ponto/ Estação Distante,0
+364,Condução Demora para Passar,243.04991648257936
+364,Viagem Demorada,0
+364,Condução Lotada,0
+364,Atividade Física,303.8123956032242
+364,Outros Motivos,0
+365,Pequena Distância,3255.2620597298014
+365,Condução Cara,0
+365,Ponto/ Estação Distante,25.653131704238458
+365,Condução Demora para Passar,0
+365,Viagem Demorada,0
+365,Condução Lotada,0
+365,Atividade Física,55.976275371328946
+365,Outros Motivos,706.6053323025751
+366,Pequena Distância,20427.311677138223
+366,Condução Cara,0
+366,Ponto/ Estação Distante,0
+366,Condução Demora para Passar,70.43957311501
+366,Viagem Demorada,0
+366,Condução Lotada,0
+366,Atividade Física,0
+366,Outros Motivos,0
+367,Pequena Distância,15833.148834017065
+367,Condução Cara,0
+367,Ponto/ Estação Distante,0
+367,Condução Demora para Passar,0
+367,Viagem Demorada,0
+367,Condução Lotada,0
+367,Atividade Física,0
+367,Outros Motivos,0
+368,Pequena Distância,36671.11471914508
+368,Condução Cara,1289.9416881398818
+368,Ponto/ Estação Distante,0
+368,Condução Demora para Passar,61.89911955642847
+368,Viagem Demorada,0
+368,Condução Lotada,70.43957311501
+368,Atividade Física,395.1840981726903
+368,Outros Motivos,0
+369,Pequena Distância,30823.274003745704
+369,Condução Cara,3365.041031916131
+369,Ponto/ Estação Distante,0
+369,Condução Demora para Passar,0
+369,Viagem Demorada,0
+369,Condução Lotada,0
+369,Atividade Física,717.2435738057155
+369,Outros Motivos,0
+370,Pequena Distância,35421.755003804596
+370,Condução Cara,2748.5952651099906
+370,Ponto/ Estação Distante,0
+370,Condução Demora para Passar,0
+370,Viagem Demorada,0
+370,Condução Lotada,0
+370,Atividade Física,0
+370,Outros Motivos,269.2119947208611
+371,Pequena Distância,32672.193300175317
+371,Condução Cara,748.8153657162179
+371,Ponto/ Estação Distante,0
+371,Condução Demora para Passar,0
+371,Viagem Demorada,0
+371,Condução Lotada,0
+371,Atividade Física,0
+371,Outros Motivos,0
+372,Pequena Distância,31290.368157677935
+372,Condução Cara,0
+372,Ponto/ Estação Distante,0
+372,Condução Demora para Passar,0
+372,Viagem Demorada,0
+372,Condução Lotada,0
+372,Atividade Física,0
+372,Outros Motivos,0
+373,Pequena Distância,42077.64244581783
+373,Condução Cara,335.6250729316436
+373,Ponto/ Estação Distante,0
+373,Condução Demora para Passar,0
+373,Viagem Demorada,0
+373,Condução Lotada,0
+373,Atividade Física,671.2501458632872
+373,Outros Motivos,0
+374,Pequena Distância,0
+374,Condução Cara,427.53641298268496
+374,Ponto/ Estação Distante,0
+374,Condução Demora para Passar,0
+374,Viagem Demorada,0
+374,Condução Lotada,0
+374,Atividade Física,0
+374,Outros Motivos,0
+375,Pequena Distância,44156.15740957981
+375,Condução Cara,0
+375,Ponto/ Estação Distante,0
+375,Condução Demora para Passar,0
+375,Viagem Demorada,0
+375,Condução Lotada,0
+375,Atividade Física,681.8983314379464
+375,Outros Motivos,0
+376,Pequena Distância,41273.01245276339
+376,Condução Cara,299.9487824814517
+376,Ponto/ Estação Distante,0
+376,Condução Demora para Passar,0
+376,Viagem Demorada,681.8983314379464
+376,Condução Lotada,0
+376,Atividade Física,149.97439124072585
+376,Outros Motivos,0
+377,Pequena Distância,164381.83988957136
+377,Condução Cara,4538.865473987295
+377,Ponto/ Estação Distante,0
+377,Condução Demora para Passar,0
+377,Viagem Demorada,681.8983314379464
+377,Condução Lotada,0
+377,Atividade Física,831.8727226786722
+377,Outros Motivos,0
+378,Pequena Distância,48619.778153290965
+378,Condução Cara,259.77280429922473
+378,Ponto/ Estação Distante,0
+378,Condução Demora para Passar,0
+378,Viagem Demorada,0
+378,Condução Lotada,0
+378,Atividade Física,0
+378,Outros Motivos,0
+379,Pequena Distância,39755.00822017871
+379,Condução Cara,0
+379,Ponto/ Estação Distante,0
+379,Condução Demora para Passar,0
+379,Viagem Demorada,0
+379,Condução Lotada,0
+379,Atividade Física,0
+379,Outros Motivos,0
+380,Pequena Distância,59894.43933588783
+380,Condução Cara,1617.443210018604
+380,Ponto/ Estação Distante,0
+380,Condução Demora para Passar,0
+380,Viagem Demorada,0
+380,Condução Lotada,0
+380,Atividade Física,0
+380,Outros Motivos,0
+381,Pequena Distância,0
+381,Condução Cara,0
+381,Ponto/ Estação Distante,0
+381,Condução Demora para Passar,0
+381,Viagem Demorada,0
+381,Condução Lotada,0
+381,Atividade Física,0
+381,Outros Motivos,0
+382,Pequena Distância,60278.205419916456
+382,Condução Cara,6247.01429659079
+382,Ponto/ Estação Distante,0
+382,Condução Demora para Passar,0
+382,Viagem Demorada,0
+382,Condução Lotada,0
+382,Atividade Física,0
+382,Outros Motivos,0
+383,Pequena Distância,55145.013983000295
+383,Condução Cara,1101.837449242635
+383,Ponto/ Estação Distante,0
+383,Condução Demora para Passar,0
+383,Viagem Demorada,0
+383,Condução Lotada,0
+383,Atividade Física,0
+383,Outros Motivos,0
+384,Pequena Distância,24205.23481989686
+384,Condução Cara,331.61414276298257
+384,Ponto/ Estação Distante,0
+384,Condução Demora para Passar,0
+384,Viagem Demorada,0
+384,Condução Lotada,0
+384,Atividade Física,0
+384,Outros Motivos,0
+385,Pequena Distância,0
+385,Condução Cara,331.61414276298257
+385,Ponto/ Estação Distante,0
+385,Condução Demora para Passar,0
+385,Viagem Demorada,0
+385,Condução Lotada,0
+385,Atividade Física,0
+385,Outros Motivos,0
+386,Pequena Distância,4102.488343733843
+386,Condução Cara,143.44367091426122
+386,Ponto/ Estação Distante,0
+386,Condução Demora para Passar,0
+386,Viagem Demorada,0
+386,Condução Lotada,0
+386,Atividade Física,0
+386,Outros Motivos,0
+387,Pequena Distância,54436.49149424316
+387,Condução Cara,897.8564311927521
+387,Ponto/ Estação Distante,0
+387,Condução Demora para Passar,152.55052827778428
+387,Viagem Demorada,0
+387,Condução Lotada,0
+387,Atividade Física,0
+387,Outros Motivos,0
+388,Pequena Distância,3247.1437332650635
+388,Condução Cara,0
+388,Ponto/ Estação Distante,0
+388,Condução Demora para Passar,152.55052827778428
+388,Viagem Demorada,0
+388,Condução Lotada,0
+388,Atividade Física,0
+388,Outros Motivos,0
+389,Pequena Distância,32859.45584124311
+389,Condução Cara,0
+389,Ponto/ Estação Distante,0
+389,Condução Demora para Passar,0
+389,Viagem Demorada,0
+389,Condução Lotada,0
+389,Atividade Física,1273.933528831161
+389,Outros Motivos,1163.6516653604392
+390,Pequena Distância,1689.2254446709803
+390,Condução Cara,151.30341604843306
+390,Ponto/ Estação Distante,0
+390,Condução Demora para Passar,0
+390,Viagem Demorada,0
+390,Condução Lotada,0
+390,Atividade Física,0
+390,Outros Motivos,0
+391,Pequena Distância,32791.525131161674
+391,Condução Cara,2856.163158978637
+391,Ponto/ Estação Distante,0
+391,Condução Demora para Passar,0
+391,Viagem Demorada,426.92727571325685
+391,Condução Lotada,0
+391,Atividade Física,350.98545701229847
+391,Outros Motivos,454.9606384469294
+392,Pequena Distância,0
+392,Condução Cara,0
+392,Ponto/ Estação Distante,0
+392,Condução Demora para Passar,0
+392,Viagem Demorada,0
+392,Condução Lotada,0
+392,Atividade Física,0
+392,Outros Motivos,0
+393,Pequena Distância,56786.158328390025
+393,Condução Cara,2184.0666918293855
+393,Ponto/ Estação Distante,0
+393,Condução Demora para Passar,677.8548773408995
+393,Viagem Demorada,0
+393,Condução Lotada,0
+393,Atividade Física,1404.123642396134
+393,Outros Motivos,2923.5369675940383
+394,Pequena Distância,16993.703035135823
+394,Condução Cara,0
+394,Ponto/ Estação Distante,0
+394,Condução Demora para Passar,0
+394,Viagem Demorada,0
+394,Condução Lotada,0
+394,Atividade Física,0
+394,Outros Motivos,0
+395,Pequena Distância,55916.088350972765
+395,Condução Cara,0
+395,Ponto/ Estação Distante,915.2489482240733
+395,Condução Demora para Passar,1516.0151223201947
+395,Viagem Demorada,426.92727571325685
+395,Condução Lotada,0
+395,Atividade Física,882.9045180593636
+395,Outros Motivos,0
+396,Pequena Distância,79750.84141138331
+396,Condução Cara,3261.887284520999
+396,Ponto/ Estação Distante,0
+396,Condução Demora para Passar,1058.9935090981598
+396,Viagem Demorada,0
+396,Condução Lotada,0
+396,Atividade Física,1475.07019952105
+396,Outros Motivos,0
+397,Pequena Distância,46348.25035836796
+397,Condução Cara,737.535099760525
+397,Ponto/ Estação Distante,321.51478518142653
+397,Condução Demora para Passar,160.75739259071327
+397,Viagem Demorada,0
+397,Condução Lotada,0
+397,Atividade Física,0
+397,Outros Motivos,924.0373642134953
+398,Pequena Distância,68115.13403190926
+398,Condução Cara,384.30490280060826
+398,Ponto/ Estação Distante,183.25764956310456
+398,Condução Demora para Passar,0
+398,Viagem Demorada,384.30490280060826
+398,Condução Lotada,0
+398,Atividade Física,0
+398,Outros Motivos,3484.792602098522
+399,Pequena Distância,35062.69723628141
+399,Condução Cara,0
+399,Ponto/ Estação Distante,183.25764956310456
+399,Condução Demora para Passar,99.83233634269142
+399,Viagem Demorada,0
+399,Condução Lotada,0
+399,Atividade Física,0
+399,Outros Motivos,384.30490280060826
+400,Pequena Distância,72341.83008899595
+400,Condução Cara,4630.977307537636
+400,Ponto/ Estação Distante,0
+400,Condução Demora para Passar,0
+400,Viagem Demorada,0
+400,Condução Lotada,672.0523084751936
+400,Atividade Física,0
+400,Outros Motivos,481.67833411546036
+401,Pequena Distância,116603.66116157755
+401,Condução Cara,6256.929965568508
+401,Ponto/ Estação Distante,719.1568485339666
+401,Condução Demora para Passar,1344.1046169503873
+401,Viagem Demorada,0
+401,Condução Lotada,0
+401,Atividade Física,3898.946065920125
+401,Outros Motivos,1277.420724484869
+402,Pequena Distância,8951.105420656133
+402,Condução Cara,318.197322434711
+402,Ponto/ Estação Distante,0
+402,Condução Demora para Passar,582.4327886515297
+402,Viagem Demorada,0
+402,Condução Lotada,0
+402,Atividade Física,40.92273682464608
+402,Outros Motivos,1192.974887393478
+403,Pequena Distância,7588.115313609955
+403,Condução Cara,863.4341960897175
+403,Ponto/ Estação Distante,0
+403,Condução Demora para Passar,179.205305266922
+403,Viagem Demorada,0
+403,Condução Lotada,0
+403,Atividade Física,40.92273682464608
+403,Outros Motivos,0
+404,Pequena Distância,61221.723755981046
+404,Condução Cara,15316.458811458378
+404,Ponto/ Estação Distante,5288.161911036951
+404,Condução Demora para Passar,159.90734563325069
+404,Viagem Demorada,0
+404,Condução Lotada,0
+404,Atividade Física,2136.1914721144935
+404,Outros Motivos,578.3308904491632
+405,Pequena Distância,12632.541114165766
+405,Condução Cara,4730.600330242527
+405,Ponto/ Estação Distante,0
+405,Condução Demora para Passar,0
+405,Viagem Demorada,0
+405,Condução Lotada,447.71876406008835
+405,Atividade Física,591.4476004596701
+405,Outros Motivos,0
+406,Pequena Distância,12370.843386769106
+406,Condução Cara,2562.881879463871
+406,Ponto/ Estação Distante,0
+406,Condução Demora para Passar,159.90734563325069
+406,Viagem Demorada,0
+406,Condução Lotada,0
+406,Atividade Física,627.0714618659407
+406,Outros Motivos,965.6649187107286
+407,Pequena Distância,74624.3743761118
+407,Condução Cara,3224.600518607202
+407,Ponto/ Estação Distante,578.3308904491632
+407,Condução Demora para Passar,0
+407,Viagem Demorada,0
+407,Condução Lotada,0
+407,Atividade Física,0
+407,Outros Motivos,578.3308904491632
+408,Pequena Distância,14192.942471296807
+408,Condução Cara,12707.332834467423
+408,Ponto/ Estação Distante,0
+408,Condução Demora para Passar,553.805391752758
+408,Viagem Demorada,0
+408,Condução Lotada,0
+408,Atividade Física,1013.9826245996642
+408,Outros Motivos,1391.9111621012423
+409,Pequena Distância,9721.367879908721
+409,Condução Cara,0
+409,Ponto/ Estação Distante,0
+409,Condução Demora para Passar,598.9940180561485
+409,Viagem Demorada,0
+409,Condução Lotada,0
+409,Atividade Física,0
+409,Outros Motivos,0
+410,Pequena Distância,2617.756443823354
+410,Condução Cara,728.5115142303806
+410,Ponto/ Estação Distante,0
+410,Condução Demora para Passar,105.68935274158004
+410,Viagem Demorada,0
+410,Condução Lotada,0
+410,Atividade Física,83.98658250067544
+410,Outros Motivos,0
+411,Pequena Distância,6208.451511420673
+411,Condução Cara,284.5832294241427
+411,Ponto/ Estação Distante,161.95755454062177
+411,Condução Demora para Passar,0
+411,Viagem Demorada,0
+411,Condução Lotada,0
+411,Atividade Física,0
+411,Outros Motivos,0
+412,Pequena Distância,12983.86715275931
+412,Condução Cara,2934.073083990612
+412,Ponto/ Estação Distante,670.5767234661464
+412,Condução Demora para Passar,598.8889580489445
+412,Viagem Demorada,0
+412,Condução Lotada,0
+412,Atividade Física,805.8177819231692
+412,Outros Motivos,1112.990855839064
+413,Pequena Distância,14448.1521460461
+413,Condução Cara,0
+413,Ponto/ Estação Distante,0
+413,Condução Demora para Passar,0
+413,Viagem Demorada,0
+413,Condução Lotada,0
+413,Atividade Física,0
+413,Outros Motivos,0
+414,Pequena Distância,26741.029610876376
+414,Condução Cara,556.9716990896361
+414,Ponto/ Estação Distante,0
+414,Condução Demora para Passar,0
+414,Viagem Demorada,0
+414,Condução Lotada,0
+414,Atividade Física,178.48977332974226
+414,Outros Motivos,0
+415,Pequena Distância,18367.353650232144
+415,Condução Cara,0
+415,Ponto/ Estação Distante,0
+415,Condução Demora para Passar,0
+415,Viagem Demorada,0
+415,Condução Lotada,0
+415,Atividade Física,0
+415,Outros Motivos,106.24340765109503
+416,Pequena Distância,17467.888514836453
+416,Condução Cara,1526.6070037683237
+416,Ponto/ Estação Distante,0
+416,Condução Demora para Passar,583.6284283625097
+416,Viagem Demorada,420.3924690330298
+416,Condução Lotada,0
+416,Atividade Física,0
+416,Outros Motivos,0
+417,Pequena Distância,43270.61914636887
+417,Condução Cara,182.29358481783274
+417,Ponto/ Estação Distante,0
+417,Condução Demora para Passar,0
+417,Viagem Demorada,0
+417,Condução Lotada,0
+417,Atividade Física,111.56252501087823
+417,Outros Motivos,0
+418,Pequena Distância,27850.085003501605
+418,Condução Cara,927.6078596461443
+418,Ponto/ Estação Distante,36.4519708285248
+418,Condução Demora para Passar,0
+418,Viagem Demorada,0
+418,Condução Lotada,0
+418,Atividade Física,439.4715842881768
+418,Outros Motivos,701.220881196303
+419,Pequena Distância,32991.749244505976
+419,Condução Cara,0
+419,Ponto/ Estação Distante,0
+419,Condução Demora para Passar,387.99403201109095
+419,Viagem Demorada,0
+419,Condução Lotada,306.2713577979733
+419,Atividade Física,487.09295475374427
+419,Outros Motivos,701.220881196303
+420,Pequena Distância,3503.8305718130214
+420,Condução Cara,0
+420,Ponto/ Estação Distante,0
+420,Condução Demora para Passar,34.41556512793421
+420,Viagem Demorada,0
+420,Condução Lotada,0
+420,Atividade Física,0
+420,Outros Motivos,363.7363038444572
+421,Pequena Distância,20737.252296783845
+421,Condução Cara,353.42870905520624
+421,Ponto/ Estação Distante,258.53144782853246
+421,Condução Demora para Passar,0
+421,Viagem Demorada,0
+421,Condução Lotada,0
+421,Atividade Física,490.1718651408025
+421,Outros Motivos,0
+422,Pequena Distância,47599.18909295443
+422,Condução Cara,1233.976526381116
+422,Ponto/ Estação Distante,0
+422,Condução Demora para Passar,647.092243779982
+422,Viagem Demorada,0
+422,Condução Lotada,0
+422,Atividade Física,851.7394567079916
+422,Outros Motivos,856.2157343429184
+423,Pequena Distância,6428.0723490963455
+423,Condução Cara,0
+423,Ponto/ Estação Distante,185.8609908833187
+423,Condução Demora para Passar,0
+423,Viagem Demorada,0
+423,Condução Lotada,0
+423,Atividade Física,50.606952199184846
+423,Outros Motivos,0
+424,Pequena Distância,10563.53291564181
+424,Condução Cara,548.2224035928103
+424,Ponto/ Estação Distante,0
+424,Condução Demora para Passar,0
+424,Viagem Demorada,0
+424,Condução Lotada,0
+424,Atividade Física,0
+424,Outros Motivos,159.2122547049087
+425,Pequena Distância,15041.580327761385
+425,Condução Cara,0
+425,Ponto/ Estação Distante,36.4519708285248
+425,Condução Demora para Passar,0
+425,Viagem Demorada,0
+425,Condução Lotada,0
+425,Atividade Física,0
+425,Outros Motivos,0
+426,Pequena Distância,6709.42252591035
+426,Condução Cara,22.683606802500638
+426,Ponto/ Estação Distante,0
+426,Condução Demora para Passar,0
+426,Viagem Demorada,1446.9497788198214
+426,Condução Lotada,0
+426,Atividade Física,926.6815329341437
+426,Outros Motivos,0
+427,Pequena Distância,22932.83356239846
+427,Condução Cara,1058.599922733421
+427,Ponto/ Estação Distante,0
+427,Condução Demora para Passar,216.4929498002556
+427,Viagem Demorada,546.9490112925017
+427,Condução Lotada,0
+427,Atividade Física,208.46301972985268
+427,Outros Motivos,0
+428,Pequena Distância,26922.481610002436
+428,Condução Cara,0
+428,Ponto/ Estação Distante,0
+428,Condução Demora para Passar,0
+428,Viagem Demorada,0
+428,Condução Lotada,0
+428,Atividade Física,0
+428,Outros Motivos,0
+429,Pequena Distância,35334.09715183002
+429,Condução Cara,0
+429,Ponto/ Estação Distante,0
+429,Condução Demora para Passar,0
+429,Viagem Demorada,0
+429,Condução Lotada,0
+429,Atividade Física,0
+429,Outros Motivos,0
+430,Pequena Distância,18010.275843289888
+430,Condução Cara,1579.7234836811094
+430,Ponto/ Estação Distante,0
+430,Condução Demora para Passar,0
+430,Viagem Demorada,0
+430,Condução Lotada,0
+430,Atividade Física,0
+430,Outros Motivos,0
+431,Pequena Distância,38535.05344365458
+431,Condução Cara,11651.914402543676
+431,Ponto/ Estação Distante,0
+431,Condução Demora para Passar,0
+431,Viagem Demorada,1828.615506859368
+431,Condução Lotada,0
+431,Atividade Física,934.6859949429179
+431,Outros Motivos,0
+432,Pequena Distância,33541.113917194845
+432,Condução Cara,2271.9597256958486
+432,Ponto/ Estação Distante,0
+432,Condução Demora para Passar,0
+432,Viagem Demorada,1852.5357234487692
+432,Condução Lotada,0
+432,Atividade Física,697.0034796380097
+432,Outros Motivos,0
+433,Pequena Distância,40396.10651781292
+433,Condução Cara,510.3775191406107
+433,Ponto/ Estação Distante,0
+433,Condução Demora para Passar,0
+433,Viagem Demorada,0
+433,Condução Lotada,0
+433,Atividade Física,510.3775191406107
+433,Outros Motivos,0
+434,Pequena Distância,577.0989879340956
+434,Condução Cara,0
+434,Ponto/ Estação Distante,0
+434,Condução Demora para Passar,87.64452156991916
+434,Viagem Demorada,0
+434,Condução Lotada,0
+434,Atividade Física,0
+434,Outros Motivos,0
+435,Pequena Distância,12441.99939737831
+435,Condução Cara,1231.356348447276
+435,Ponto/ Estação Distante,0
+435,Condução Demora para Passar,1344.4739253191237
+435,Viagem Demorada,0
+435,Condução Lotada,0
+435,Atividade Física,0
+435,Outros Motivos,0
+436,Pequena Distância,84421.29573128866
+436,Condução Cara,2716.1702726835747
+436,Ponto/ Estação Distante,0
+436,Condução Demora para Passar,0
+436,Viagem Demorada,0
+436,Condução Lotada,0
+436,Atividade Física,983.2589878585771
+436,Outros Motivos,1153.5534600377478
+437,Pequena Distância,79015.8157537927
+437,Condução Cara,20783.022344870595
+437,Ponto/ Estação Distante,304.3529219744472
+437,Condução Demora para Passar,4692.363602667135
+437,Viagem Demorada,0
+437,Condução Lotada,0
+437,Atividade Física,2290.115888791116
+437,Outros Motivos,1440.081744868662
+438,Pequena Distância,43522.208318367295
+438,Condução Cara,3541.174728635762
+438,Ponto/ Estação Distante,0
+438,Condução Demora para Passar,2920.1941538383853
+438,Viagem Demorada,174.08290083773673
+438,Condução Lotada,0
+438,Atividade Física,1024.4380682818494
+438,Outros Motivos,0
+439,Pequena Distância,6715.770933749368
+439,Condução Cara,771.3368119034063
+439,Ponto/ Estação Distante,0
+439,Condução Demora para Passar,320.84638666686527
+439,Viagem Demorada,362.29969098956843
+439,Condução Lotada,0
+439,Atividade Física,0
+439,Outros Motivos,0
+440,Pequena Distância,32450.32365826858
+440,Condução Cara,1575.4907817737815
+440,Ponto/ Estação Distante,0
+440,Condução Demora para Passar,0
+440,Viagem Demorada,0
+440,Condução Lotada,0
+440,Atividade Física,2377.476494457555
+440,Outros Motivos,0
+441,Pequena Distância,6541.5393246152025
+441,Condução Cara,0
+441,Ponto/ Estação Distante,0
+441,Condução Demora para Passar,0
+441,Viagem Demorada,0
+441,Condução Lotada,0
+441,Atividade Física,0
+441,Outros Motivos,0
+442,Pequena Distância,3807.335098513252
+442,Condução Cara,0
+442,Ponto/ Estação Distante,0
+442,Condução Demora para Passar,0
+442,Viagem Demorada,0
+442,Condução Lotada,0
+442,Atividade Física,0
+442,Outros Motivos,0
+443,Pequena Distância,4720.857859282644
+443,Condução Cara,0
+443,Ponto/ Estação Distante,0
+443,Condução Demora para Passar,126.64752273347551
+443,Viagem Demorada,0
+443,Condução Lotada,0
+443,Atividade Física,382.9010863078343
+443,Outros Motivos,0
+444,Pequena Distância,24475.377841776186
+444,Condução Cara,0
+444,Ponto/ Estação Distante,0
+444,Condução Demora para Passar,0
+444,Viagem Demorada,0
+444,Condução Lotada,0
+444,Atividade Física,0
+444,Outros Motivos,0
+445,Pequena Distância,39976.69850798899
+445,Condução Cara,838.6598210119215
+445,Ponto/ Estação Distante,0
+445,Condução Demora para Passar,0
+445,Viagem Demorada,808.5246667227589
+445,Condução Lotada,0
+445,Atividade Física,2061.0657410506237
+445,Outros Motivos,0
+446,Pequena Distância,38623.705460861245
+446,Condução Cara,0
+446,Ponto/ Estação Distante,0
+446,Condução Demora para Passar,0
+446,Viagem Demorada,0
+446,Condução Lotada,0
+446,Atividade Física,0
+446,Outros Motivos,0
+447,Pequena Distância,24383.950171003624
+447,Condução Cara,0
+447,Ponto/ Estação Distante,0
+447,Condução Demora para Passar,387.99403201109095
+447,Viagem Demorada,0
+447,Condução Lotada,0
+447,Atividade Física,0
+447,Outros Motivos,0
+448,Pequena Distância,37091.17334782183
+448,Condução Cara,0
+448,Ponto/ Estação Distante,0
+448,Condução Demora para Passar,390.8585020798046
+448,Viagem Demorada,0
+448,Condução Lotada,0
+448,Atividade Física,1002.5168470307842
+448,Outros Motivos,0
+449,Pequena Distância,36189.59753668291
+449,Condução Cara,466.4070683031796
+449,Ponto/ Estação Distante,411.253069341563
+449,Condução Demora para Passar,2408.1187198448324
+449,Viagem Demorada,0
+449,Condução Lotada,390.8585020798046
+449,Atividade Física,2451.970234106546
+449,Outros Motivos,1183.8255478496117
+450,Pequena Distância,97523.86726042764
+450,Condução Cara,1248.1240724627887
+450,Ponto/ Estação Distante,0
+450,Condução Demora para Passar,3030.717285630645
+450,Viagem Demorada,0
+450,Condução Lotada,390.8585020798046
+450,Atividade Física,591.9127739248058
+450,Outros Motivos,0
+451,Pequena Distância,49298.37255939387
+451,Condução Cara,1711.0242034820712
+451,Ponto/ Estação Distante,705.5928190866674
+451,Condução Demora para Passar,0
+451,Viagem Demorada,0
+451,Condução Lotada,0
+451,Atividade Física,378.2039782274948
+451,Outros Motivos,0
+452,Pequena Distância,27255.9459367673
+452,Condução Cara,0
+452,Ponto/ Estação Distante,0
+452,Condução Demora para Passar,0
+452,Viagem Demorada,0
+452,Condução Lotada,0
+452,Atividade Física,0
+452,Outros Motivos,0
+453,Pequena Distância,10628.844718293847
+453,Condução Cara,0
+453,Ponto/ Estação Distante,0
+453,Condução Demora para Passar,0
+453,Viagem Demorada,0
+453,Condução Lotada,0
+453,Atividade Física,0
+453,Outros Motivos,0
+454,Pequena Distância,97134.48117203749
+454,Condução Cara,0
+454,Ponto/ Estação Distante,0
+454,Condução Demora para Passar,0
+454,Viagem Demorada,1265.8606802260383
+454,Condução Lotada,0
+454,Atividade Física,378.2039782274948
+454,Outros Motivos,0
+455,Pequena Distância,63028.688198560616
+455,Condução Cara,3830.250773353267
+455,Ponto/ Estação Distante,0
+455,Condução Demora para Passar,489.8365452203013
+455,Viagem Demorada,0
+455,Condução Lotada,0
+455,Atividade Física,1770.4294064965093
+455,Outros Motivos,0
+456,Pequena Distância,65405.297740115406
+456,Condução Cara,3179.48986435499
+456,Ponto/ Estação Distante,0
+456,Condução Demora para Passar,111.36965705405665
+456,Viagem Demorada,0
+456,Condução Lotada,0
+456,Atividade Física,0
+456,Outros Motivos,0
+457,Pequena Distância,89215.7169813436
+457,Condução Cara,2171.7051334204134
+457,Ponto/ Estação Distante,0
+457,Condução Demora para Passar,0
+457,Viagem Demorada,0
+457,Condução Lotada,0
+457,Atividade Física,566.0266418299498
+457,Outros Motivos,2840.1471106181148
+458,Pequena Distância,35537.72361089417
+458,Condução Cara,1274.486610645754
+458,Ponto/ Estação Distante,0
+458,Condução Demora para Passar,0
+458,Viagem Demorada,0
+458,Condução Lotada,0
+458,Atividade Física,0
+458,Outros Motivos,0
+459,Pequena Distância,36727.551956007424
+459,Condução Cara,338.9980036095891
+459,Ponto/ Estação Distante,0
+459,Condução Demora para Passar,0
+459,Viagem Demorada,0
+459,Condução Lotada,0
+459,Atividade Física,0
+459,Outros Motivos,2444.5252506753923
+460,Pequena Distância,34173.326282784925
+460,Condução Cara,1397.1826261857298
+460,Ponto/ Estação Distante,236.50768785263415
+460,Condução Demora para Passar,0
+460,Viagem Demorada,0
+460,Condução Lotada,0
+460,Atividade Física,492.81849409885467
+460,Outros Motivos,0
+461,Pequena Distância,26701.032448786438
+461,Condução Cara,461.2955179500861
+461,Ponto/ Estação Distante,0
+461,Condução Demora para Passar,0
+461,Viagem Demorada,0
+461,Condução Lotada,0
+461,Atividade Física,0
+461,Outros Motivos,860.5100145010365
+462,Pequena Distância,58809.3803443851
+462,Condução Cara,3025.469873597595
+462,Ponto/ Estação Distante,0
+462,Condução Demora para Passar,0
+462,Viagem Demorada,0
+462,Condução Lotada,0
+462,Atividade Física,1650.4894083772326
+462,Outros Motivos,0
+463,Pequena Distância,66325.47549598977
+463,Condução Cara,1474.87162390303
+463,Ponto/ Estação Distante,0
+463,Condução Demora para Passar,0
+463,Viagem Demorada,0
+463,Condução Lotada,0
+463,Atividade Física,487.4207061066657
+463,Outros Motivos,0
+464,Pequena Distância,51194.63031822968
+464,Condução Cara,1682.3163845134104
+464,Ponto/ Estação Distante,0
+464,Condução Demora para Passar,0
+464,Viagem Demorada,0
+464,Condução Lotada,0
+464,Atividade Física,485.2780148289855
+464,Outros Motivos,0
+465,Pequena Distância,69778.59180287839
+465,Condução Cara,0
+465,Ponto/ Estação Distante,0
+465,Condução Demora para Passar,0
+465,Viagem Demorada,0
+465,Condução Lotada,0
+465,Atividade Física,772.6352058468428
+465,Outros Motivos,0
+466,Pequena Distância,40222.821710365526
+466,Condução Cara,1572.6195701947818
+466,Ponto/ Estação Distante,3812.875228390424
+466,Condução Demora para Passar,1042.5702024137834
+466,Viagem Demorada,0
+466,Condução Lotada,0
+466,Atividade Física,664.4422921438271
+466,Outros Motivos,0
+467,Pequena Distância,9108.228440528008
+467,Condução Cara,129.38098523958308
+467,Ponto/ Estação Distante,0
+467,Condução Demora para Passar,0
+467,Viagem Demorada,0
+467,Condução Lotada,0
+467,Atividade Física,0
+467,Outros Motivos,0
+468,Pequena Distância,71237.68320505103
+468,Condução Cara,3529.8539635939865
+468,Ponto/ Estação Distante,2230.0614034330165
+468,Condução Demora para Passar,574.3812131802688
+468,Viagem Demorada,0
+468,Condução Lotada,0
+468,Atividade Física,287.1906065901344
+468,Outros Motivos,1908.7134484999747
+469,Pequena Distância,1757.759013235731
+469,Condução Cara,0
+469,Ponto/ Estação Distante,0
+469,Condução Demora para Passar,0
+469,Viagem Demorada,0
+469,Condução Lotada,0
+469,Atividade Física,0
+469,Outros Motivos,255.70548341276364
+470,Pequena Distância,2492.0806742375175
+470,Condução Cara,0
+470,Ponto/ Estação Distante,0
+470,Condução Demora para Passar,548.8145367127665
+470,Viagem Demorada,45.13702279500525
+470,Condução Lotada,0
+470,Atividade Física,0
+470,Outros Motivos,465.9700505435474
+471,Pequena Distância,8961.154098423325
+471,Condução Cara,0
+471,Ponto/ Estação Distante,0
+471,Condução Demora para Passar,0
+471,Viagem Demorada,0
+471,Condução Lotada,0
+471,Atividade Física,0
+471,Outros Motivos,0
+472,Pequena Distância,16576.381076265396
+472,Condução Cara,969.1164130035937
+472,Ponto/ Estação Distante,2183.0671082624986
+472,Condução Demora para Passar,0
+472,Viagem Demorada,0
+472,Condução Lotada,0
+472,Atividade Física,484.55820650179686
+472,Outros Motivos,0
+473,Pequena Distância,3601.206120087206
+473,Condução Cara,0
+473,Ponto/ Estação Distante,0
+473,Condução Demora para Passar,0
+473,Viagem Demorada,0
+473,Condução Lotada,0
+473,Atividade Física,0
+473,Outros Motivos,0
+474,Pequena Distância,820.6649826181338
+474,Condução Cara,0
+474,Ponto/ Estação Distante,176.02062089167475
+474,Condução Demora para Passar,0
+474,Viagem Demorada,0
+474,Condução Lotada,0
+474,Atividade Física,0
+474,Outros Motivos,0
+475,Pequena Distância,12745.990804556173
+475,Condução Cara,231.09182193624
+475,Ponto/ Estação Distante,0
+475,Condução Demora para Passar,962.2814132612793
+475,Viagem Demorada,0
+475,Condução Lotada,0
+475,Atividade Física,0
+475,Outros Motivos,933.3637693376027
+476,Pequena Distância,35998.11955730912
+476,Condução Cara,469.0806043770738
+476,Ponto/ Estação Distante,188.31787180144036
+476,Condução Demora para Passar,0
+476,Viagem Demorada,0
+476,Condução Lotada,0
+476,Atividade Física,949.8208937806788
+476,Outros Motivos,1439.5028775041849
+477,Pequena Distância,34696.78681116276
+477,Condução Cara,324.59011854730585
+477,Ponto/ Estação Distante,0
+477,Condução Demora para Passar,337.289935424345
+477,Viagem Demorada,0
+477,Condução Lotada,0
+477,Atividade Física,246.64695441616232
+477,Outros Motivos,0
+478,Pequena Distância,13401.170394635252
+478,Condução Cara,337.289935424345
+478,Ponto/ Estação Distante,0
+478,Condução Demora para Passar,0
+478,Viagem Demorada,0
+478,Condução Lotada,0
+478,Atividade Física,246.64695441616232
+478,Outros Motivos,0
+479,Pequena Distância,1876.6464553477022
+479,Condução Cara,1037.1745225912985
+479,Ponto/ Estação Distante,0
+479,Condução Demora para Passar,0
+479,Viagem Demorada,0
+479,Condução Lotada,0
+479,Atividade Física,311.93526988581925
+479,Outros Motivos,0
+480,Pequena Distância,19810.052336280314
+480,Condução Cara,0
+480,Ponto/ Estação Distante,0
+480,Condução Demora para Passar,0
+480,Viagem Demorada,0
+480,Condução Lotada,0
+480,Atividade Física,311.93526988581925
+480,Outros Motivos,0
+481,Pequena Distância,40618.51490789367
+481,Condução Cara,0
+481,Ponto/ Estação Distante,0
+481,Condução Demora para Passar,0
+481,Viagem Demorada,0
+481,Condução Lotada,0
+481,Atividade Física,52.3388221750484
+481,Outros Motivos,0
+482,Pequena Distância,13842.306310552387
+482,Condução Cara,310.6336073256127
+482,Ponto/ Estação Distante,0
+482,Condução Demora para Passar,308.2264443934767
+482,Viagem Demorada,0
+482,Condução Lotada,0
+482,Atividade Física,0
+482,Outros Motivos,273.8155099117548
+483,Pequena Distância,932.0676188822322
+483,Condução Cara,4.8143258642719235
+483,Ponto/ Estação Distante,0
+483,Condução Demora para Passar,0
+483,Viagem Demorada,0
+483,Condução Lotada,0
+483,Atividade Física,0
+483,Outros Motivos,0
+484,Pequena Distância,47723.40569182732
+484,Condução Cara,1747.8716389190265
+484,Ponto/ Estação Distante,443.2111812492099
+484,Condução Demora para Passar,0
+484,Viagem Demorada,0
+484,Condução Lotada,0
+484,Atividade Física,1876.9845740768824
+484,Outros Motivos,939.6852919802486
+485,Pequena Distância,68432.37606346299
+485,Condução Cara,0
+485,Ponto/ Estação Distante,6098.065540283289
+485,Condução Demora para Passar,0
+485,Viagem Demorada,0
+485,Condução Lotada,0
+485,Atividade Física,0
+485,Outros Motivos,720.3377570947731
+486,Pequena Distância,46899.52321592439
+486,Condução Cara,923.9655869487344
+486,Ponto/ Estação Distante,0
+486,Condução Demora para Passar,0
+486,Viagem Demorada,0
+486,Condução Lotada,0
+486,Atividade Física,0
+486,Outros Motivos,0
+487,Pequena Distância,11217.189153349213
+487,Condução Cara,0
+487,Ponto/ Estação Distante,0
+487,Condução Demora para Passar,0
+487,Viagem Demorada,0
+487,Condução Lotada,0
+487,Atividade Física,0
+487,Outros Motivos,0
+488,Pequena Distância,34052.32311104603
+488,Condução Cara,923.9655869487344
+488,Ponto/ Estação Distante,0
+488,Condução Demora para Passar,0
+488,Viagem Demorada,0
+488,Condução Lotada,0
+488,Atividade Física,469.8426459901243
+488,Outros Motivos,0
+489,Pequena Distância,8139.027042128021
+489,Condução Cara,569.2410771597469
+489,Ponto/ Estação Distante,0
+489,Condução Demora para Passar,31.42848182769648
+489,Viagem Demorada,0
+489,Condução Lotada,0
+489,Atividade Física,28.47608338437001
+489,Outros Motivos,0
+490,Pequena Distância,8557.412424808219
+490,Condução Cara,169.61037951772715
+490,Ponto/ Estação Distante,0
+490,Condução Demora para Passar,0
+490,Viagem Demorada,0
+490,Condução Lotada,0
+490,Atividade Física,85.42825015311003
+490,Outros Motivos,0
+491,Pequena Distância,13861.052369375708
+491,Condução Cara,635.4834534066164
+491,Ponto/ Estação Distante,0
+491,Condução Demora para Passar,0
+491,Viagem Demorada,0
+491,Condução Lotada,274.4956486801359
+491,Atividade Física,499.59128437398834
+491,Outros Motivos,398.476807539953
+492,Pequena Distância,45752.724528511455
+492,Condução Cara,1067.3086849295119
+492,Ponto/ Estação Distante,0
+492,Condução Demora para Passar,509.7778857225414
+492,Viagem Demorada,280.3549660492398
+492,Condução Lotada,0
+492,Atividade Física,958.3743990776455
+492,Outros Motivos,0
+493,Pequena Distância,12931.821583019791
+493,Condução Cara,0
+493,Ponto/ Estação Distante,0
+493,Condução Demora para Passar,0
+493,Viagem Demorada,0
+493,Condução Lotada,0
+493,Atividade Física,0
+493,Outros Motivos,0
+494,Pequena Distância,35177.89582581654
+494,Condução Cara,1499.0546858920993
+494,Ponto/ Estação Distante,0
+494,Condução Demora para Passar,0
+494,Viagem Demorada,0
+494,Condução Lotada,0
+494,Atividade Física,0
+494,Outros Motivos,398.476807539953
+495,Pequena Distância,48718.55397482855
+495,Condução Cara,963.8890881143644
+495,Ponto/ Estação Distante,0
+495,Condução Demora para Passar,0
+495,Viagem Demorada,275.10139387631165
+495,Condução Lotada,0
+495,Atividade Física,1267.1751374751498
+495,Outros Motivos,0
+496,Pequena Distância,24070.606249226556
+496,Condução Cara,985.1585669985093
+496,Ponto/ Estação Distante,0
+496,Condução Demora para Passar,1529.333657167624
+496,Viagem Demorada,0
+496,Condução Lotada,0
+496,Atividade Física,2278.8893468468746
+496,Outros Motivos,0
+497,Pequena Distância,7645.225570716107
+497,Condução Cara,132.1780507488015
+497,Ponto/ Estação Distante,495.3151536666226
+497,Condução Demora para Passar,21.810193339669937
+497,Viagem Demorada,0
+497,Condução Lotada,0
+497,Atividade Física,0
+497,Outros Motivos,0
+498,Pequena Distância,12162.71405610622
+498,Condução Cara,324.87862679831056
+498,Ponto/ Estação Distante,0
+498,Condução Demora para Passar,0
+498,Viagem Demorada,0
+498,Condução Lotada,0
+498,Atividade Física,0
+498,Outros Motivos,0
+499,Pequena Distância,64878.80566312799
+499,Condução Cara,1171.4523139777225
+499,Ponto/ Estação Distante,617.3578834976381
+499,Condução Demora para Passar,337.289935424345
+499,Viagem Demorada,0
+499,Condução Lotada,0
+499,Atividade Física,0
+499,Outros Motivos,115.32136865062664
+500,Pequena Distância,28965.951878157208
+500,Condução Cara,897.770215241585
+500,Ponto/ Estação Distante,1818.5597279146252
+500,Condução Demora para Passar,0
+500,Viagem Demorada,0
+500,Condução Lotada,597.525012487219
+500,Atividade Física,461.00110718643987
+500,Outros Motivos,0
+501,Pequena Distância,42594.68968740758
+501,Condução Cara,93.83908191973171
+501,Ponto/ Estação Distante,0
+501,Condução Demora para Passar,0
+501,Viagem Demorada,0
+501,Condução Lotada,0
+501,Atividade Física,0
+501,Outros Motivos,0
+502,Pequena Distância,10267.138725024204
+502,Condução Cara,973.5909820338356
+502,Ponto/ Estação Distante,0
+502,Condução Demora para Passar,166.91319073308873
+502,Viagem Demorada,0
+502,Condução Lotada,0
+502,Atividade Física,180.91936352163728
+502,Outros Motivos,84.54722801049203
+503,Pequena Distância,5345.799133061968
+503,Condução Cara,127.02432964543442
+503,Ponto/ Estação Distante,40.17531853173133
+503,Condução Demora para Passar,0
+503,Viagem Demorada,0
+503,Condução Lotada,0
+503,Atividade Física,0
+503,Outros Motivos,0
+504,Pequena Distância,62726.36341687477
+504,Condução Cara,5054.1254850581
+504,Ponto/ Estação Distante,0
+504,Condução Demora para Passar,0
+504,Viagem Demorada,0
+504,Condução Lotada,0
+504,Atividade Física,0
+504,Outros Motivos,1132.1671999071846
+505,Pequena Distância,1380.871889088488
+505,Condução Cara,213.89860236210689
+505,Ponto/ Estação Distante,0
+505,Condução Demora para Passar,0
+505,Viagem Demorada,0
+505,Condução Lotada,0
+505,Atividade Física,0
+505,Outros Motivos,0
+506,Pequena Distância,11769.320445044566
+506,Condução Cara,0
+506,Ponto/ Estação Distante,0
+506,Condução Demora para Passar,0
+506,Viagem Demorada,896.6134523612246
+506,Condução Lotada,0
+506,Atividade Física,0
+506,Outros Motivos,0
+507,Pequena Distância,7604.163388760424
+507,Condução Cara,713.4706735314021
+507,Ponto/ Estação Distante,0
+507,Condução Demora para Passar,0
+507,Viagem Demorada,0
+507,Condução Lotada,0
+507,Atividade Física,0
+507,Outros Motivos,0
+508,Pequena Distância,66887.06220771922
+508,Condução Cara,3472.933568666437
+508,Ponto/ Estação Distante,1807.1909065396371
+508,Condução Demora para Passar,993.055840916137
+508,Viagem Demorada,0
+508,Condução Lotada,0
+508,Atividade Física,0
+508,Outros Motivos,308.1624547165635
+509,Pequena Distância,1461.1138261911237
+509,Condução Cara,0
+509,Ponto/ Estação Distante,0
+509,Condução Demora para Passar,0
+509,Viagem Demorada,0
+509,Condução Lotada,0
+509,Atividade Física,0
+509,Outros Motivos,0
+510,Pequena Distância,0
+510,Condução Cara,0
+510,Ponto/ Estação Distante,0
+510,Condução Demora para Passar,0
+510,Viagem Demorada,0
+510,Condução Lotada,0
+510,Atividade Física,0
+510,Outros Motivos,0
+511,Pequena Distância,21469.371071827452
+511,Condução Cara,2005.2879812306319
+511,Ponto/ Estação Distante,0
+511,Condução Demora para Passar,2511.067569036657
+511,Viagem Demorada,0
+511,Condução Lotada,0
+511,Atividade Física,0
+511,Outros Motivos,1098.4979248614438
+512,Pequena Distância,33307.98770320656
+512,Condução Cara,4917.268413720132
+512,Ponto/ Estação Distante,0
+512,Condução Demora para Passar,0
+512,Viagem Demorada,0
+512,Condução Lotada,0
+512,Atividade Física,0
+512,Outros Motivos,421.86635091544093
+513,Pequena Distância,303.4157305613738
+513,Condução Cara,0
+513,Ponto/ Estação Distante,0
+513,Condução Demora para Passar,0
+513,Viagem Demorada,0
+513,Condução Lotada,0
+513,Atividade Física,0
+513,Outros Motivos,0
+514,Pequena Distância,54881.156786865715
+514,Condução Cara,705.4710536150117
+514,Ponto/ Estação Distante,1041.7523127227828
+514,Condução Demora para Passar,2566.0868490517105
+514,Viagem Demorada,0
+514,Condução Lotada,0
+514,Atividade Física,631.435455493022
+514,Outros Motivos,0
+515,Pequena Distância,47978.17150804058
+515,Condução Cara,3588.29786097939
+515,Ponto/ Estação Distante,0
+515,Condução Demora para Passar,1162.3117964371218
+515,Viagem Demorada,0
+515,Condução Lotada,0
+515,Atividade Física,0
+515,Outros Motivos,673.1636802124897
+516,Pequena Distância,51698.063129272574
+516,Condução Cara,1088.034805278207
+516,Ponto/ Estação Distante,0
+516,Condução Demora para Passar,0
+516,Viagem Demorada,0
+516,Condução Lotada,0
+516,Atividade Física,0
+516,Outros Motivos,0
+517,Pequena Distância,13300.333214923165
+517,Condução Cara,0
+517,Ponto/ Estação Distante,89.33084941724286
+517,Condução Demora para Passar,333.26719804618915
+517,Viagem Demorada,0
+517,Condução Lotada,0
+517,Atividade Física,0
+517,Outros Motivos,0

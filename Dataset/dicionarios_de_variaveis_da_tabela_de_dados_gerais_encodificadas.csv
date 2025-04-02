@@ -1,0 +1,181 @@
+VAR_NOME,VAR_CONTEUDO,COD_RESPOSTA,DESCRICAO_RESPOSTA
+F_DOM,Identifica Primeiro Registro do Domicílio,0,Demais Registros
+F_DOM,Identifica Primeiro Registro do Domicílio,1,Primeiro Registro do Domicilio
+CD_ENTRE,Código de Entrevista,1,Completa com Viagem
+CD_ENTRE,Código de Entrevista,2,Completa sem Viagem
+TIPO_DOM,Tipo de Domicílio,1,Particular
+TIPO_DOM,Tipo de Domicílio,2,Coletivo
+AGUA,Possui água encanada?,0,Nao
+AGUA,Possui água encanada?,1,Sim
+RUA_PAVI,A rua é pavimentada?,0,Nao
+RUA_PAVI,A rua é pavimentada?,1,Sim
+F_FAM,Identifica Primeiro Registro da Família,0,Demais Registros
+F_FAM,Identifica Primeiro Registro da Família,1,Primeiro Registro da Familia
+CONDMORA,Condição de Moradia,1,Alugada
+CONDMORA,Condição de Moradia,2,Propria
+CONDMORA,Condição de Moradia,3,Cedida
+CONDMORA,Condição de Moradia,4,Outros
+CONDMORA,Condição de Moradia,5,Nao Respondeu
+NAO_DCL_IT,Código de Declaração de Itens de Conforto,0,Nao Declarou Itens de Conforto
+NAO_DCL_IT,Código de Declaração de Itens de Conforto,1,Declarou Itens de Conforto
+CRITERIOBR,Critério de Classificação Econômica Brasil,1,A
+CRITERIOBR,Critério de Classificação Econômica Brasil,2,B1
+CRITERIOBR,Critério de Classificação Econômica Brasil,3,B2
+CRITERIOBR,Critério de Classificação Econômica Brasil,4,C1
+CRITERIOBR,Critério de Classificação Econômica Brasil,5,C2
+CRITERIOBR,Critério de Classificação Econômica Brasil,6,D - E
+CD_RENFA,Código de Renda Familiar,1,Renda Familiar Declarada e Maior que Zero
+CD_RENFA,Código de Renda Familiar,2,Renda Familiar Declarada como Zero
+CD_RENFA,Código de Renda Familiar,3,Renda Atribuida pelo Criterio Brasil
+CD_RENFA,Código de Renda Familiar,4,Renda Atribuida pela Media da Zona
+F_PESS,Identifica Primeiro Registro da Pessoa,0,Demais registros
+F_PESS,Identifica Primeiro Registro da Pessoa,1,Primeiro registro da pessoa
+SIT_FAM,Situação Familiar,1,Pessoa Responsavel
+SIT_FAM,Situação Familiar,2,Conjuge/Companheiro(a)
+SIT_FAM,Situação Familiar,3,Filho(a)/Enteado(a)
+SIT_FAM,Situação Familiar,4,Outro Parente
+SIT_FAM,Situação Familiar,5,Agregado
+SIT_FAM,Situação Familiar,6,Empregado Residente
+SIT_FAM,Situação Familiar,7,Parente do Empregado Residente
+SEXO,Gênero,1,Masculino
+SEXO,Gênero,2,Feminino
+ESTUDA,Estuda Atualmente?,1,Nao
+ESTUDA,Estuda Atualmente?,2,Creche/Pre-Escola
+ESTUDA,Estuda Atualmente?,3,1º Grau /Fundamental
+ESTUDA,Estuda Atualmente?,4,2º Grau/Medio
+ESTUDA,Estuda Atualmente?,5,Superior/Universitario
+ESTUDA,Estuda Atualmente?,6,Outros
+GRAU_INS,Grau de Instrução,1,Nao-Alfabetizado/Fundamental I Incompleto
+GRAU_INS,Grau de Instrução,2,Fundamental I Completo/Fundamental II Incompleto
+GRAU_INS,Grau de Instrução,3,Fundamental II Completo/Medio Incompleto
+GRAU_INS,Grau de Instrução,4,Medio Completo/Superior Incompleto
+GRAU_INS,Grau de Instrução,5,Superior Completo
+CD_ATIVI,Condição de Atividade,1,Tem trabalho regular
+CD_ATIVI,Condição de Atividade,2,Faz bico
+CD_ATIVI,Condição de Atividade,3,Em Licenca Medica
+CD_ATIVI,Condição de Atividade,4,Aposentado/Pensionista
+CD_ATIVI,Condição de Atividade,5,Sem Trabalho
+CD_ATIVI,Condição de Atividade,6,Nunca Trabalhou
+CD_ATIVI,Condição de Atividade,7,Dona de Casa
+CD_ATIVI,Condição de Atividade,8,Estudante
+CO_REN_I,Condição de Renda Individual,1,Tem Renda
+CO_REN_I,Condição de Renda Individual,2,Nao Tem Renda
+CO_REN_I,Condição de Renda Individual,3,Nao Respondeu
+TIPO_ESC,Tipo de Escola,1,Publica
+TIPO_ESC,Tipo de Escola,2,Particular
+TRAB1_RE,Primeiro Trabalho é igual a Residência ?,1,Sim
+TRAB1_RE,Primeiro Trabalho é igual a Residência ?,2,Nao
+TRAB1_RE,Primeiro Trabalho é igual a Residência ?,3,Sem endereco fixo
+TRABEXT1,Realiza Trabalho Externo-1º Trabalho,1,Sim
+TRABEXT1,Realiza Trabalho Externo-1º Trabalho,2,Nao
+OCUP1,Ocupação do 1º Trabalho,1,"Membros superiores do poder publico, dirigentes de organizacoes de interesse publico e de empresas e gerentes"
+OCUP1,Ocupação do 1º Trabalho,2,Profissionais das ciencias e das artes
+OCUP1,Ocupação do 1º Trabalho,3,Tecnicos de nivel medio
+OCUP1,Ocupação do 1º Trabalho,4,Trabalhadores de servicos administrativos
+OCUP1,Ocupação do 1º Trabalho,5,Trabalhadores dos servicos
+OCUP1,Ocupação do 1º Trabalho,6,Vendedores do comercio em lojas e mercados
+OCUP1,Ocupação do 1º Trabalho,7,"Trabalhadores agropecuarios, florestais e da pesca"
+OCUP1,Ocupação do 1º Trabalho,8,Trabalhadores da producao de bens e servicos industriais
+OCUP1,Ocupação do 1º Trabalho,9,Trabalhadores em servicos de reparacao e manutencao
+OCUP1,Ocupação do 1º Trabalho,10,"Membros das Forcas Armadas, Policiaise Bombeiros Militares"
+OCUP1,Ocupação do 1º Trabalho,11,Outras ocupacoes
+SETOR1,Setor de Atividade do 1º Trabalho,1,Agricola
+SETOR1,Setor de Atividade do 1º Trabalho,2,Construcao Civil
+SETOR1,Setor de Atividade do 1º Trabalho,3,Industria
+SETOR1,Setor de Atividade do 1º Trabalho,4,Comercio
+SETOR1,Setor de Atividade do 1º Trabalho,5,Servico de Transporte de Carga
+SETOR1,Setor de Atividade do 1º Trabalho,6,Servico de Transporte de Passageiros
+SETOR1,Setor de Atividade do 1º Trabalho,7,Servico Crediticio-financeiro
+SETOR1,Setor de Atividade do 1º Trabalho,8,Servico Pessoal
+SETOR1,Setor de Atividade do 1º Trabalho,9,Servico de Alimentacao
+SETOR1,Setor de Atividade do 1º Trabalho,10,Servico de Saude
+SETOR1,Setor de Atividade do 1º Trabalho,11,Servico de Educacao
+SETOR1,Setor de Atividade do 1º Trabalho,12,Servico Especializado
+SETOR1,Setor de Atividade do 1º Trabalho,13,Servico de Administracao Publica
+SETOR1,Setor de Atividade do 1º Trabalho,14,Outros Servicos
+VINC1,Vínculo Empregatício do 1º Trabalho,1,Assalariado com carteira
+VINC1,Vínculo Empregatício do 1º Trabalho,2,Assalariado sem carteira
+VINC1,Vínculo Empregatício do 1º Trabalho,3,Funcionario publico
+VINC1,Vínculo Empregatício do 1º Trabalho,4,Autonomo
+VINC1,Vínculo Empregatício do 1º Trabalho,5,Empregador
+VINC1,Vínculo Empregatício do 1º Trabalho,6,Profissional Liberal
+VINC1,Vínculo Empregatício do 1º Trabalho,7,Dono de negocio familiar
+VINC1,Vínculo Empregatício do 1º Trabalho,8,Trabalhor familiar
+TRAB2_RE,Segundo Trabalho é igual a Residência ?,1,Sim
+TRAB2_RE,Segundo Trabalho é igual a Residência ?,2,Nao
+TRAB2_RE,Segundo Trabalho é igual a Residência ?,3,Sem endereco fixo
+TRABEXT2,Realiza Trabalho Externo-2º Trabalho,1,Sim
+TRABEXT2,Realiza Trabalho Externo-2º Trabalho,2,Nao
+DIA_SEM,Dia da Semana,2,Segunda-feira
+DIA_SEM,Dia da Semana,3,Terca-feira
+DIA_SEM,Dia da Semana,4,Quarta-feira
+DIA_SEM,Dia da Semana,5,Quinta-feira
+DIA_SEM,Dia da Semana,6,Sexta-feira
+MOTIVO_O,Motivo na Origem,1,Trabalho Industria
+MOTIVO_O,Motivo na Origem,2,Trabalho Comercio
+MOTIVO_O,Motivo na Origem,3,Trabalho Servicos
+MOTIVO_O,Motivo na Origem,4,Escola/Educacao
+MOTIVO_O,Motivo na Origem,5,Compras
+MOTIVO_O,Motivo na Origem,6,Medico/Dentista/Saude
+MOTIVO_O,Motivo na Origem,7,Recreacao/Visitas/Lazer
+MOTIVO_O,Motivo na Origem,8,Residencia
+MOTIVO_O,Motivo na Origem,9,Procurar Emprego
+MOTIVO_O,Motivo na Origem,10,Assuntos Pessoais
+MOTIVO_O,Motivo na Origem,11,Refeicao
+SERVIR_O,Servir Passageiro na Origem,1,Sim
+SERVIR_O,Servir Passageiro na Origem,2,Nao
+SERVIR_D,Servir Passageiro no Destino,1,Sim
+SERVIR_D,Servir Passageiro no Destino,2,Nao
+MODO1,Modo 1,1,Metro
+MODO1,Modo 1,2,Trem
+MODO1,Modo 1,3,Monotrilho
+MODO1,Modo 1,4,Onibus/micro-onibus/perua do municipio de Sao Paulo
+MODO1,Modo 1,5,Onibus/micro-onibus/perua de outros municipios
+MODO1,Modo 1,6,Onibus/micro-onibus/perua metropolitano
+MODO1,Modo 1,7,Transporte Fretado
+MODO1,Modo 1,8,Transporte Escolar
+MODO1,Modo 1,9,Dirigindo Automovel
+MODO1,Modo 1,10,Passageiro de Automovel
+MODO1,Modo 1,11,Taxi Convencional
+MODO1,Modo 1,12,Taxi nao Convencional
+MODO1,Modo 1,13,Dirigindo Moto
+MODO1,Modo 1,14,Passageiro de Moto
+MODO1,Modo 1,15,Bicicleta
+MODO1,Modo 1,16,A Pe
+MODO1,Modo 1,17,Outros
+TIPOVG,Tipo de Viagem,1,Coletivo
+TIPOVG,Tipo de Viagem,2,Individual
+TIPOVG,Tipo de Viagem,3,A pe
+TIPOVG,Tipo de Viagem,4,Bicicleta
+PAG_VIAG,Quem Pagou a Viagem,1,Voce/Sua familia
+PAG_VIAG,Quem Pagou a Viagem,2,Empregador
+PAG_VIAG,Quem Pagou a Viagem,3,Isento
+PAG_VIAG,Quem Pagou a Viagem,4,Outros
+PAG_VIAG,Quem Pagou a Viagem,5,Nao respondeu
+TP_ESAUTO,Tipo de Estacionamento do Automóvel ou Moto,1,Nao estacionou
+TP_ESAUTO,Tipo de Estacionamento do Automóvel ou Moto,2,Zona azul
+TP_ESAUTO,Tipo de Estacionamento do Automóvel ou Moto,3,Patrocinado
+TP_ESAUTO,Tipo de Estacionamento do Automóvel ou Moto,4,Proprio
+TP_ESAUTO,Tipo de Estacionamento do Automóvel ou Moto,5,Meio-fio
+TP_ESAUTO,Tipo de Estacionamento do Automóvel ou Moto,6,Avulso
+TP_ESAUTO,Tipo de Estacionamento do Automóvel ou Moto,7,Mensal
+TP_ESAUTO,Tipo de Estacionamento do Automóvel ou Moto,8,E-facil
+TP_ESAUTO,Tipo de Estacionamento do Automóvel ou Moto,9,Nao respondeu
+PE_BICI,Por Que Viajou A Pé ou Bicicleta,1,Pequena distancia
+PE_BICI,Por Que Viajou A Pé ou Bicicleta,2,Conducao cara
+PE_BICI,Por Que Viajou A Pé ou Bicicleta,3,Ponto/Estacao distante
+PE_BICI,Por Que Viajou A Pé ou Bicicleta,4,Conducao demora para passar
+PE_BICI,Por Que Viajou A Pé ou Bicicleta,5,Viagem demorada
+PE_BICI,Por Que Viajou A Pé ou Bicicleta,6,Conducao lotada
+PE_BICI,Por Que Viajou A Pé ou Bicicleta,7,Atividade fisica
+PE_BICI,Por Que Viajou A Pé ou Bicicleta,8,Outros motivos
+VIA_BICI,"Se viajou de bicicleta, usou via segregada?",1,Sim
+VIA_BICI,"Se viajou de bicicleta, usou via segregada?",2,Nao
+TP_ESBICI,Estacionamento Bicicleta,1,Bicicletario gratuito
+TP_ESBICI,Estacionamento Bicicleta,2,Bicicletario pago
+TP_ESBICI,Estacionamento Bicicleta,3,Local privado
+TP_ESBICI,Estacionamento Bicicleta,4,Rua/Local publico
+TP_ESBICI,Estacionamento Bicicleta,5,Guardador de rua
+TP_ESBICI,Estacionamento Bicicleta,6,Estacao de bicicleta
+TP_ESBICI,Estacionamento Bicicleta,7,Paraciclo publico
+TP_ESBICI,Estacionamento Bicicleta,8,Outros
