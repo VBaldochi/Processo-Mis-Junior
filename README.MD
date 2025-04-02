@@ -8,7 +8,7 @@
 - Consulta SQL para listar tabelas disponíveis e carregar a tabela `dados_gerais` em um DataFrame do Pandas.  
 
 **Por quê:**  
-- O banco SQLite já continha dados estruturados da pesquisa Origem-Destino 2017, garantindo confiabilidade.  
+- O banco SQLite já continha dados estruturados da pesquisa [Origem-Destino 2017](https://www.kaggle.com/datasets/sillas/pesquisa-origem-destino-2017-metr-so-paulo?resource=download), garantindo confiabilidade.  
 - A extração via SQL permitiu selecionar apenas as tabelas relevantes, evitando sobrecarga de dados.  
 
 ---
